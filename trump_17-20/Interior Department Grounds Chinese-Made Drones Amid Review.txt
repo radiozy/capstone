@@ -1,0 +1,20 @@
+﻿
+The grounding is the latest precaution taken against Chinese drones being used in federal government work.
+WASHINGTON — The Interior Department announced on Wednesday that all drones in its fleet that were manufactured in China or contained Chinese-made parts would be grounded as part of a review of the department's drone program.
+The decision will not apply to drones "currently being utilized for emergency purposes, such as fighting wildfires, search and rescue, and dealing with natural disasters that may threaten life or property," the department said.
+In recent years, the department has enthusiastically embraced drones, publicizing the wide variety of ways it has deployed them. 
+In addition to being deployed for   emergency rescues and disaster monitoring, drones are used in more expansive, long-term projects such as geological surveys and wildlife population monitoring.
+According to a 2018 report about its use of drones, the department owned 531 drones as of last year, and conducted more than 10,000 flights across 42 states and territories. 
+The report did not specify what percentage of those drones were Chinese-made.
+At a daily news conference on Thursday, Geng Shuang, a spokesman for China's Foreign Ministry, criticized restrictions on Chinese companies as coming from a "Cold War mentality" and called on Washington to "provide a fair, equitable and nondiscriminatory environment for Chinese companies to conduct normal business activities in the United States."
+The decision to ground Chinese-made drones, even temporarily, adds to a growing chorus of concern about Chinese technology, and the potential risks of using it for sensitive government projects. 
+In part for national security purposes, the Trump administration has taken steps to block other Chinese technology companies from government contracts, most notably the telecommunications equipment maker Huawei.
+Worries that Chinese drones could be covertly siphoning data and relaying it back to Chinese intelligence agencies, either directly or by way of Chinese manufacturers, have circulated for years.
+In 2017, the United States Army discontinued the use of drones produced by the Chinese company DJI, the world's biggest manufacturer of drones, over the risk of vulnerabilities. 
+In May, the Department of Homeland Security warned companies that Chinese-made drones could potentially transmit sensitive footage or data to third parties. 
+And last month, a bipartisan group of lawmakers introduced legislation that would bar all federal agencies from operating drones manufactured or assembled in China.
+Because the Interior Department uses drones to survey a variety of critical infrastructure, including mines and dams, as well as to study rapid response situations and emergency routes, the information they collect has at least some potential for abuse.
+To date, scant public evidence exists that Chinese drones have been involved in large-scale cyberespionage, or have so-called back doors built in that would allow them to be exploited for surveillance. 
+DJI has argued that opposition to its products is motivated primarily by political hostility toward Chinese companies.
+In an effort to minimize concerns, DJI has also proposed assembling more of its drones in the United States, as well as offering a version of its devices, called the Government Edition, with certain safeguards that would protect any information captured, and prevent it from being transmitted wirelessly.
+Claire Fu contributed research from Beijing.

@@ -1,0 +1,125 @@
+﻿
+In recent years, China has made the most impressive, admirable advances in chess. 
+The women's world champion is their Xie Jun, although it must be kept in mind that she ranks well behind Judit Polgar of Hungary, who ranks among the top 30 players in the world, men as well as women.
+From Sept. 
+7 through Sept. 
+12, China contested the Riverside Weicheng Estate Cup with Russia in Shanghai. 
+But since Bobby Fischer's defection from the game in 1972, the Russians have recovered their dominance and this match confirmed it once again. 
+The final score was Men: Russia 21 1/2-China 14 1/2; Women: Russia 9-China 9; Juniors: Russia 11-China 7.
+The big Russian guns, Vladimir Kramnik and Garry Kasparov and Anatoly Karpov, did not participate, but the second-level Russians did their job well. 
+Aleksandr Khalifman, who held the World Chess Federation championship for a year, showed that the great stars were not missed.
+In the sixth round, he demonstrated the fine points of a popular remedy for the King's Indian Defense against China's Peng Xiaomin.
+The Bayonet Attack, 9 b4 in the Classical Variation King's Indian Defense, is an attempt to attack quickly on the queenside. 
+It permits Black to counter with . . . a5 to break up the solid line of white pawns, but White's point is that because of his superior control of terrain in that sector, he will sooner or later find breakthrough chances.
+In a Milov-Gofstein game, Israel 1997, after 9 . . . Nh5 10 Re1 Nf4 11 Bf1 a5 12 ba Ra5 13 Nd2 c5 14 a4 Ra6 15 Ra3 h6 16 Nb5 Kh8 17 g3 Nh5 (avoiding 17 . . . Nh3?
+18 Bh3 Bh3 19 g4! trapping the bishop) 18 Bb2 Bd7 19 Be2 Nf6 20 f4, Milov had strong pressure in the center as well as attacking chances on both the queenside and even the kingside.
+In the Main Line of the Classical Variation, White starts a regrouping with 9 Ne1, but in the Bayonet Attack, after 9 b4 Nh5 10 Re1 f5, White has the exciting option of whirling to an attack on the kingside with 11 Ng5!? to exploit the weakness of the e6 square. 
+Not much fun for Black.
+After 15 Nb5, Peng could not snatch the b4 pawn because on 15 . . . Qb4?, 16 Ba3 traps the black queen.
+After 23 Ne6, Khalifman established a thorn-in-the-flesh knight outpost. 
+Peng could not exchange with 23 . . . Be6 because after 24 de, the white king bishop comes into its own and the black d6 pawn becomes a glaring weakness.
+Khalifman could have obtained a clear advantage by 28 Qb7but his 28 Qd7! was devastating. 
+After 28 . . . Bf6 29 Rb7 Qa8 30 Nf4!, the black fortress was crumbled. 
+If 30 . . . ef, then 31 Qe6 Kg7 32 Re7 Be7 33 Qe7 Kh6 34 Bd4 g5 35 Qg7 Kh5 36 Qh7 Kg5 37 h4mate.
+After 32 Qe6, Peng saw that 32 . . . Kf8 33 Re7 Be7 34 Qc8 Kg7 35 Qd7 Kf8 36 Rc1 Qd3 37 Rc8 Kf7 38 Qe6 Kg7 39 Qe7 Kh6 40 Qh4 Kg7 41 Rc7 forces mate, so he gave up.
+GRAPHIC: Table: "KING'S INDIAN DEFENSE"
+White
+Black
+K'lifman
+Peng
+1
+Nf3
+Nf6
+2
+c4
+g6
+3
+Nc3
+Bg7
+4
+e4
+d6
+5
+d4
+0-0
+6
+Be2
+e5
+7
+0-0
+Nc6
+8
+d5
+Ne7
+9
+b4
+Nh5
+10
+Re1
+f5
+11
+Ng5
+Nf6
+12
+f3
+Ne8
+13
+c5
+a5
+14
+cd
+Qd6
+15
+Nb5
+Qb6
+16
+Kh1
+Nd6
+17
+ba
+Ra5
+18
+Nd6
+cd
+19
+Bd2
+Ra8
+20
+Rb1
+Qa7
+21
+Bc4
+Bd7
+22
+Be3
+Qb8
+23
+Ne6
+Rc8
+24
+Qd3
+f4
+25
+Bg1
+Ra4
+26
+Bb5
+Bb5
+27
+Qb5
+Ra2
+28
+Qd7
+Bf6
+29
+Rb7
+Qa8
+30
+Nf4
+Bh4
+31
+Nd3
+Qa3
+32
+Qe6
+Resigns

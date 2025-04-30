@@ -1,0 +1,40 @@
+﻿
+SEOUL, South Korea — For two years, from a cramped office in central Seoul, activists and volunteers from five countries have been doing something never tried before: creating interactive maps of places where North Korea is thought to have executed and buried prisoners.
+Over the years, defectors from the isolated country have testified to widespread human rights violations there, including what United Nations investigators have determined were extrajudicial executions of political prisoners and others. 
+But there has never been a coordinated attempt to locate where those killings took place because the country remains off limits to outside rights investigators.
+On Wednesday, activists affiliated with the Transitional Justice Working Group, a human rights group based in Seoul, announced their initial findings, identifying more than 300 sites where executions are thought to have occurred and 47 sites believed to have hosted cremations and burials, places where as many as 15 people may have been executed and their bodies dumped together or left "like trash."
+"It is not unreasonable to assume that mass grave sites in existence today will still be there years from now," said Sarah A. Son, the group's research director. 
+"As we have seen in many other post-conflict settings around the world, people will want to know what happened to family members, and an accurate historical record will need to be created as part of the process of recovery, particularly on a scale such as that in North Korea."
+Armed with Google Earth satellite imagery, the group has interviewed 375 North Korean defectors, asking them to help locate sites so that international rights officials can one day visit them to investigate, exhume bodies, secure forensic evidence and possibly bring charges against perpetrators. 
+With the maps, the group said it aimed to provide "a sense of the scale of the human rights violations, their locations, and their victims and their approximate numbers."
+"We don't know when there will be a trial or other steps to hold perpetrators of the human rights abuses accountable, but that time will come, and we want to be as ready as possible," said Dan Bielefeld, a web developer and human rights activist from Milwaukee. 
+"Our location-based map of suspected sites is a start down that road."
+The activists said they were inspired by the United Nations' commission of inquiry, which in 2014 reported prison camps, systematic torture, summary executions and other widespread rights violations in North Korea.
+The report led United Nations member states to adopt   a resolution asking the Security Council to refer the North Korean leadership to the   International Criminal Court in The Hague, for prosecution of possible crimes against humanity.
+The North vehemently denied the findings, and its allies China and Russia have stalled any attempt to bring the North before the tribunal.
+The activists' group, whose mapping project was financed by the National Endowment for Democracy, based in Washington, did not include the interactive maps in its report for fear North Korea would tamper with the sites. 
+But it allowed a reporter to examine them on the condition that the locations of the sites would not be revealed.
+More than 200 locations where killings are suspected, marked with blue squares, were clustered in Hamgyongbukdo, a northeastern province of North Korea. 
+Most of the defectors interviewed hailed from that province. 
+(A vast majority of 30,000 North Korean defectors living in South Korea come from the provinces bordering China.)
+When Mr. Bielefeld zoomed in on one town, 53 blue squares appeared within 2.5 miles of a hillside site where burials are suspected. 
+When he clicked on a square, a brief summary popped up: a public execution by firing squad on charges the victim stole parts of mining equipment. 
+The victim was shot by three officers from the Ministry of People's Security.
+Each square was linked to digital testimonials, including audio files, from defectors. 
+Some testimonials gave detailed firsthand accounts with the name and profession of the victim, while others relied on secondhand information.
+In one testimonial, a defector cited a neighbor who saw security officers hacking a victim to death in a garage. 
+The neighbor later confirmed from a relative working as a security officer that such extrajudicial killings were common in the garage. 
+Mr. Bielefeld put a blue square on the building on his program based on the open-source OpenStreetMap.
+The group said North Koreans were executed for such crimes as smuggling mushrooms to China, stealing copper from factories, distributing South Korean dramas, human trafficking and "a slip of the tongue," usually a reference to criticism of the government.
+It said public executions took place most often between 1994 and 2000, during which North Korea struggled to control its people, who were suffering in a nationwide famine.
+"They hanged people in crowded places like markets and left the bodies there for hours to instill fear among the people," said Oh Se-hyek, a North Korean defector who conducted the interviews for the mapping project.
+Mr. Oh said the biggest challenge for him was to persuade other defectors to testify for the mapping project, even when he promised not to reveal their personal information. 
+Even after resettling in South Korea, defectors feared that the North Korean authorities would trace their whereabouts and retaliate against their relatives back in the North.
+Some of the executions on the digital maps dated from the 1960s, but some were as recent as 2015. 
+As many as 15 people were executed at the same time, usually by firing squad.
+Lee Young-hwan, executive director of the Transitional Justice Working Group, recalled the shock he felt when he was a college student doing volunteer work with North Korean defectors in 1999. 
+During a painting class, a 7-year-old boy from the North depicted a scene he saw in his old homeland: uniformed North Korean soldiers executing people by shooting.
+Encouraged by the 2014 United Nations report, Mr. Lee began putting together the international team to use satellite imagery and open-source mapping technology to record North Korean human rights violations, just as security analysts use such technology to monitor the North's military and nuclear sites.
+"As we interview more defectors down the road, we expect to locate more killing and burial sites across the North," Mr. Lee said. 
+"Our work is still at an early stage. 
+This is a collaborative work, and we expect more technical and other volunteers to join us."

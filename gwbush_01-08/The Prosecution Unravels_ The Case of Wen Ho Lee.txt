@@ -1,0 +1,307 @@
+﻿
+In a secure warren of the Los Alamos weapons laboratory, investigators mined the office of Wen Ho Lee. 
+Books, reports, notes written in Chinese -- everything was handled with latex gloves to preserve the evidence. 
+Just days before, laboratory officials had fired the computer scientist for security violations, and investigators suspected he was a spy, but the search was yielding little. 
+Then agents discovered the list.
+It was on his desk, a record of computer files containing highly sensitive weapons-design information. 
+With the help of a Los Alamos physicist, investigators determined that Dr. Lee had downloaded the secret files from the laboratory's classified computer system and transferred them to computer tapes. 
+Some of the tapes were missing. 
+The potential compromise of America's nuclear weapons secrets was staggering.
+"It's unimaginable," the physicist, John Romero, remembers thinking.
+For three years, agents had suspected Dr. Lee of giving China information on America's most sophisticated nuclear warhead, the W-88. 
+But their meandering espionage investigation had been short on resources and long on missed opportunities. 
+The discovery of the download, in late March 1999, was the first hard evidence of any crime -- the key, perhaps, to the maddening enigma of Wen Ho Lee. 
+Now, with the case out in the open and hotly debated, and Dr. Lee's huge security breach raising the stakes of the investigation, the government, in the words of one F.B.I. official, "sent in the cavalry."
+Agents conducted 1,000 interviews over nine months, scouring the globe for evidence that Dr. Lee had leaked his secrets. 
+The Federal Bureau of Investigation carried out its largest computer forensic investigation ever. 
+Investigators traced years of Dr. Lee's telephone calls. 
+Prosecutors pressed him to explain himself, and when he did not, they brought a 59-count indictment and convinced a federal judge that he was so dangerous he had to be jailed without bail. 
+He spent nine months in such restrictive conditions that he was shackled during recreation.
+In the field and then in the courtroom, the prosecution of Wen Ho Lee was a final attempt to understand a man whose deepening suspiciousness had taunted the government for nearly 20 years. 
+When they failed to uncover espionage, prosecutors constructed an unusual and risky strategy, seeking to put him in prison for life on charges they had no direct evidence to support. 
+It was a leap, and in the end, it fell short.
+Last September, the judge freed Dr. Lee, declaring that his jailing had "embarrassed our entire nation and each of us who is a citizen of it."
+The Justice Department wound up with a public relations disaster and a guilty plea to the crime it had evidence of from the start -- a single felony count of mishandling national security information.
+Dr. Lee, 61, had always left investigators feeling that he was hiding something. 
+He had a history of deceiving the authorities about security matters and clandestine contact with foreign scientists. 
+Now, agents discovered that he had tried to delete his downloaded files as they closed in on him. 
+After he was kicked out of the bomb-design area of Los Alamos for security violations, he found ways to sneak back in. 
+Investigators also began seeing signs that he might be exploring a relationship with a military research institute in his native Taiwan.
+Whatever the evidence of deception, though, the prosecution's most powerful charges unraveled as defense lawyers homed in on gaps in the case. 
+Without proof that Dr. Lee was a spy, prosecutors charged him with intent to injure the United States and help a foreign country. 
+But they were never sure why he had taken the secrets, or which country he might have planned to help with them.
+They initially suspected he was a spy for China. 
+Then they toyed with China's nemesis, the regime on Taiwan. 
+Finally, in court last summer, they presented a menu of surprising possibilities that included Australia and Switzerland. 
+And they said they believed his motive for downloading the information was to enhance his job prospects. 
+To the judge who had ordered him jailed, and to Dr. Lee's increasingly vocal supporters, the government's cold, hard case was melting away.
+Another blow came from John L. Richter, an esteemed weapons designer who had played a crucial role in beginning the espionage investigation that ensnared Dr. Lee. Testifying in court, Dr. Richter played down the threat of Dr. Lee's crime. 
+Although he later backed away from that assessment, Dr. Richter said he had spoken out in court because he believed Dr. Lee "had suffered enough" and should be set free.
+In one sense, prosecutors got what they wanted -- the felony plea and an agreement from Dr. Lee to tell all under oath. 
+But, to this day, they remain taunted by what they do not know. 
+The debriefings over the last few months and further investigation have left them with a blur of questions. 
+Unsatisfied with some of his explanations, investigators are still exploring his dealings with Taiwanese and Chinese scientists.
+As for the downloading itself, frustrated investigators are left with nothing but Dr. Lee's innocent explanation: He downloaded the information to protect his work and tossed the tapes that are missing in a trash bin behind his office at Los Alamos. 
+They have never been found.
+At the F.B.I., a top official voiced the bureau's latest conclusion: "I don't think anyone fully understands Wen Ho Lee."
+KEEPING WATCH
+Each step of the F.B.I. investigation seemed to fuel old suspicions and cast new doubt.
+Day and night throughout 1999, agents sat in cars outside Wen Ho Lee's red ranch house on Barcelona Avenue near Los Alamos, N.M., where suburban development abuts striking mesas. 
+They trailed him everywhere, and he could hardly have appeared more harmless and cordial. 
+He told his neighbor, Jean Marshall, that the agents especially liked it when he went fishing because it gave them a chance to get out of their hot cars. 
+Once, when he had to travel out of town, he changed his schedule to accommodate his watchers.
+But as investigators pieced together Dr. Lee's past, their already dim view of him darkened.
+Their computer investigation showed that in early 1999, just as agents were pressing him for evidence of espionage, Dr. Lee had been busily trying to delete the downloaded files. 
+On Feb. 
+10, for example, after failing an F.B.I. polygraph, Dr. Lee deleted 310 files, F.B.I. documents show.
+Investigators also discovered that he had continued to sneak into the bomb-design area, X Division, after his access was canceled. 
+In January of 1999, soon after losing his access, he was let in by an unwitting security officer. 
+Other times he simply walked in behind division employees, lawyers knowledgeable about the case said. 
+(In his recent debriefing, Dr. Lee told investigators that he had slipped in through an open door just hours after he was barred from X Division, the lawyers said.)
+"Each day we found more information that cast doubt on him," said David V. Kitchen, then head of the F.B.I.'s Albuquerque office. 
+In January, Mr. Kitchen had recommended closing the espionage investigation of Dr. Lee, because he appeared cooperative and had innocent explanations for everything. 
+Since the discovery of the download, everything had begun to look less innocent.
+In August 1998, agents ran a sting operation to see if Dr. Lee would bite at the chance to meet with an agent posing as a Chinese intelligence agent. 
+Dr. Lee's reaction appeared ambiguous to investigators.
+When the agent called, Dr. Lee said there was a laboratory policy against meeting foreign representatives without approval. 
+However, according to a secret F.B.I. report recently obtained by The New York Times, "Lee indicated that it is all right to talk on the phone since everything Lee has done was in the open."
+Dr. Lee first agreed to meet the agent, then called back to say he could not. 
+When the agent called back the next day, Dr. Lee agreed to take his beeper number.
+"He doesn't take the bait," said one former government official, "but he seems to be feeling him out."
+He also seemed to be feeling Taiwan out. 
+In March and April of 1998, according to court testimony, Dr. Lee had spent six weeks in Taiwan as a consultant to the Chung Shan Institute, a government defense complex where American officials say Taiwan has done nuclear weapons research. 
+Dr. Lee's trip was taken with the approval of laboratory officials.
+Investigators discovered that while on that trip, Dr. Lee called the Los Alamos computer help desk to find out if he could access his classified computer. 
+He was told he could not, but investigators later found that he had downloaded an unclassified computer code from Los Alamos to his computer in Taiwan.
+Those dealings with Taiwan echoed the F.B.I.'s first contact with Dr. Lee in the early 1980's. 
+Dr. Lee had been picked up on a wiretap, offering to help a fellow scientist who was under investigation for spying. 
+In interviews at the time, Dr. Lee admitted to agents that he had improperly passed unclassified but restricted scientific information to Taiwanese officials.
+If the investigation of the download was fueling the same old suspicions about Dr. Lee, investigators were getting the same old result.
+Agents determined that 9 of 15 computer tapes Dr. Lee had made were missing, but their exhaustive search -- they even visited every private storage facility in New Mexico -- left them unable to refute Dr. Lee's explanation that he had destroyed them. 
+They spent months searching the Los Alamos computer system, even shutting it down entirely for three weeks, but found no evidence that anyone had gotten into Dr. Lee's computer files. 
+They did discover that Dr. Lee had given his password to his children so they could connect to the Internet and play computer games through his Los Alamos computer while they were at college.
+And they had no evidence to counter Dr. Lee's only public explanation -- in a "60 Minutes" interview in August 1999 -- that he had downloaded and copied the information so he would have backup files for his work.
+Investigators began to see hints of another motive. 
+F.B.I. agents traveled to Taiwan and found that in addition to lecturing and consulting there in 1998, he also met with a company to explore job opportunities, federal investigators testified in court.
+Agents discovered more evidence of Dr. Lee's job hunting when they searched his house in April 1999 -- seven letters to scientific institutes and universities around the world inquiring about job prospects. 
+Dr. Lee wrote them in 1993 and 1994, after he had learned he was on a list of employees to be laid off in the event of a budget crunch.
+The downloading that Dr. Lee eventually was charged with occurred during that same period, even though investigators discovered that he had actually begun transferring some material as early as 1988, well before his job was threatened.
+Perhaps, investigators thought, the download was an insurance policy. 
+Perhaps, entering his late 50's and contemplating retirement at 60, he figured that the secrets of Los Alamos would make him more marketable.
+"We may not be able to show he was a spy," said one F.B.I. official, "but we can show he was not just a wayward scientist."
+SECRETS AND SCIENCE
+The government had no evidence of espionage. 
+So it fashioned an unusual prosecution strategy based on the idea that Dr. Lee must have intended to injure the United States.
+In April 1999, federal prosecutors from Albuquerque went up the mountain to Los Alamos, where scientists gave them what one lawyer called the " 'Oh, my God' speech."
+Having assessed Dr. Lee's security breach, the scientists told prosecutors, "There was nothing more valuable that anyone could take."
+Computer forensic investigators re-created Dr. Lee's deleted files and determined that Dr. Lee had moved 806 megabytes of information (the equivalent of papers stacked 134 feet high, they said) that contained the tools for computer-simulated weapons testing, a valuable commodity in an age of nuclear test bans.
+The files included computer codes, which he had helped write, that used the information from decades of actual weapons tests to simulate the detonation of bombs. 
+He also downloaded files containing sketches and dimensions of weapons and files giving physical properties of bombs.
+Experts would later testify that while the files alone would not allow someone to replicate a weapon, in knowledgeable hands they could advance a nuclear weapons program. 
+And officials had another fear, one they were prohibited for security reasons from voicing publicly: Dr. Lee's files contained information about currently deployed weapons, which could help an enemy defend against them.
+The task of translating the science into a criminal case fell to Robert J. Gorence, the first assistant to John Kelly, the United States attorney for New Mexico.
+At 41, Mr. Gorence had wide experience as a prosecutor -- drug cases on Indian reservations, complicated savings and loan trials, the pursuit of the runaway spy Edward Lee Howard. 
+Intense and aggressive, Mr. Gorence threw himself into the Lee case, spending weeks at Los Alamos with other investigators, interviewing scientists and reading physics texts. 
+Steeped in the details, he could rattle off such obscure facts as the amount of time it takes for an atom bomb to "go critical."
+(Fifty millionths of a second.)
+At one point, Mr. Gorence went to Kirtland Air Force base in Albuquerque, where the government stores films of nuclear weapons tests in a secure vault, chilled to preserve the pictures. 
+Impressed by the films' awful drama, he told colleagues he wanted to show them to a jury to demonstrate the power of the secrets Dr. Lee had compromised.
+Even so, evidence of a crime beyond the security breach itself was limited. 
+As Mr. Kitchen, the former F.B.I. official, put it, "Short of espionage, what do we have?"
+Mr. Gorence consulted the Atomic Energy Act, which he had read a few years earlier in preparation for the threat of protests at Los Alamos on the 50th anniversary of the Japan bombings. 
+He focused on the only two provisions in American law that allow life sentences for mishandling secrets even without proof of espionage, seemingly a perfect fit for Wen Ho Lee.
+No one had ever been prosecuted under those statutes, according to court testimony, and proving the charges, one prosecutor acknowledged, was "hardly a slam dunk."
+But federal officials all the way up to the attorney general, Janet Reno, signed on to the charges, which accused Dr. Lee of acting with "intent to injure the United States, and with the intent to secure an advantage to a foreign nation."
+Prosecutors had no hard evidence that he planned to give away the secrets, but they reasoned that the simple absence of an innocent explanation showed his criminal intent. 
+They emphasized the deliberate nature of the download -- they estimated it had taken him 40 hours over 70 days. 
+And they argued that his long experience at Los Alamos and secretive manner showed he knew what he was doing was wrong. 
+In fact, after the download was discovered, he at first denied making the tapes, according to Congressional testimony.
+They argued further that his actions injured the United States by denying it exclusive possession of the secrets, and they began lining up Pentagon officers to testify about the potential effect on American military strategy. 
+Proving that Dr. Lee had aided another nation was more difficult, but prosecutors argued that they did not have to prove he had a specific country in mind when downloading the material, only that he eventually intended to help one.
+The strength of the prosecution's case, one Justice Department official said, lay in the sheer "depth and scope" of the material. 
+But that was also a major potential pitfall.
+Many cases involving classified information are not brought to trial for fear of divulging secrets. 
+In the Lee case, top government officials, including the attorney general, the director of central intelligence and the national security adviser, met at the White House on a Saturday in December 1999 to discuss the risk of prosecution. 
+They decided the case had to go forward, lest Dr. Lee's tapes be passed to a foreign country, since efforts to strike a deal had failed. 
+One letter from Mr. Kelly, the United States attorney, to defense lawyers ended in blunt frustration: "In short, we want you to tell us why he made the tapes!"
+If they ended up having to go to trial, the officials decided, they would try to thread a needle on the secrets issue, allowing only summaries of the data on Dr. Lee's files to be used.
+Still, as Mr. Kelly conceded in an interview, "no one wanted to go to trial."
+And bringing powerful charges, another government lawyer said, was partly a strategy to get information from Dr. Lee, and perhaps force a plea.
+The indictment, handed up Dec. 
+10, made no mention of the W-88 or of spying. 
+But in bail hearings, prosecutors presented a dark image of Dr. Lee by sweeping together all they knew about him -- from his earliest suspicious contacts with foreign scientists to his attempts to delete his downloaded files.
+At the first bail hearing, Stephen M. Younger, the associate director for nuclear weapons at Los Alamos, said the information on the missing tapes could "in the wrong hands, change the global strategic balance."
+A magistrate denied bail and two weeks later, after Dr. Lee appealed, prosecutors raised the ante before Judge James A. Parker of Federal District Court. 
+"This court, I believe, faces a you-bet-your-country decision," Paul Robinson, president of the Sandia National Laboratories, told the judge.
+The judge indicated he was leaning toward a restrictive form of house arrest, but in a secret hearing the prosecution warned of dire circumstances.
+Dr. Lee could be "snatched and taken out of the country" by a hostile element looking for the missing tapes, Mr. Kelly said, according to a transcript of the hearing.
+Robert Messemer, the F.B.I. agent brought in as the lead investigator because of his background in espionage cases and proficiency in Chinese, was more pointed.
+"We anticipate a marked increase in hostile intelligence service activities both here in New Mexico and throughout the United States in an effort to locate those tapes," he said. 
+"Our surveillance personnel do not carry firearms, and they will be placed in harm's way if you require us to maintain this impossible task of protecting Dr. Lee."
+SOLITARY CONFINEMENT
+Jailed for nine months, Dr. Lee found release in music, literature and science.
+Wen Ho Lee was held in solitary confinement for nine months at the Santa Fe County Detention Facility. 
+He was kept in his cell 23 hours a day. 
+A small light burned constantly so guards could watch him at all hours. 
+He was allowed to see his family just one hour a week, and they had to speak English -- not Mandarin, which they speak at home -- so the F.B.I. could listen. 
+And like other prisoners in solitary confinement, he was shackled whenever he left his cell, even while exercising or meeting with his lawyers.
+Early last January, when Dr. Lee's lawyers demanded that his conditions be eased, prosecutors responded that Ms. Reno had personally approved them.
+"These special administrative measures were requested for one reason and one reason only: to restrict Dr. Lee's ability to pass information through intermediaries that could have the devastating consequence of disseminating the nuclear secrets he had stolen from Los Alamos," Ms. Reno later told a Senate hearing.
+Eventually, the government loosened its restrictions. 
+Officials arranged for a Mandarin-speaking agent so Dr. Lee could talk to his family in his native language. 
+They gave him a radio and removed his chains during exercise.
+But if the government hoped Dr. Lee would crack, he displayed hardly a fissure.
+Dr. Lee is a meticulous man, obsessively neat and ordered. 
+In a recent picture-taking session at his home, Dr. Lee led a visitor to a small room that his daughter, Alberta, called "his room."
+It was impeccably clean and sparsely furnished -- a bed, a desk with a few books, an amplifier, turntable and speakers and Dr. Lee's collection of classical and opera records, stacked neatly on shelves. 
+His daughter said he would stay there for hours, listening to music. 
+In the garage, Dr. Lee's used but clean gardening tools were laid neatly on a shelf. 
+Later, cooking dinner, he moved with methodical precision, chopping, arranging food in piles and cleaning the cooking area before sitting down to eat with guests.
+In prison, he re-created his world. 
+He listened to classical music on the radio. 
+He read novels. 
+He wrote large parts of a mathematics textbook. 
+A friend, Cecilia Chang, recalls him saying that while physically he was in prison for nine months, "spiritually, I lived with my music and my literature and my science."
+The government's case had created a storm, but, once again, the man at the center seemed curiously unchanged. 
+When a jail monitor visited him, a federal official later told Congress, Dr. Lee said that, other than his freedom, his only wish was for "additional fruit at the evening meal."
+FIGHTING BACK
+The defense knew it had to fight two battles: one in court, the other in the public arena.
+The defense lawyers were not as serene as their client. 
+Their man was in prison. 
+The public seemed convinced he was a spy for China. 
+And the government was throwing heavy resources at the case.
+The lead lawyer was Mark Holscher, then 36, a white-collar criminal specialist at the Los Angeles law firm of O'Melveny & Myers. 
+A former federal prosecutor, he had made his reputation, in part, prosecuting Heidi Fleiss, known as the Hollywood Madam. 
+Mr. Holscher agreed to take the Lee case pro bono after being found by Dr. Lee's daughter.
+The second lawyer, John D. Cline, had handled the classified material issues for Oliver North's defense in the Iran-Contra prosecution. 
+As time wore on, and donations to the defense increased, more lawyers were added.
+They saw two battles, Mr. Holscher said, "one in the court and the other in the public at large."
+They fought on both fronts.
+The government provided the defense with a secure room on the top floor of the imposing federal courthouse in Albuquerque where they could prepare their case and meet with their client under the eye of a security camera.
+The first crack in the prosecution appeared as they sifted through testimony from the December bail hearing. 
+A Los Alamos computer expert had testified that the downloaded files were classified under a category called PARD, "protect as restricted data" -- a rule for handling computer-generated material that includes some secrets in a sea of more ordinary information.
+Defense lawyers recognized that meant that the files themselves were not classified "top secret" or "secret."
+It was a perfect opportunity to strike at the heart of the government's claim that the files represented the nation's "crown jewels."
+Prosecutors acknowledge that they had not been fully aware of the PARD issue. 
+While there was still little question Dr. Lee had downloaded important secrets, they knew the defense would press the issue with a jury.
+The defense found its next opening by asking prosecutors one simple question: Which country did they expect to argue Dr. Lee was intending to aid?
+Defense attorneys expected the answer to reveal the murky center of the government's most powerful allegations, but even they were surprised by the results.
+Mr. Gorence resisted answering, arguing that the government was under no obligation to say. 
+But by the spring of 1999, Mr. Gorence was no longer the lead prosecutor on the case. 
+Mr. Kelly had left his post to run for Congress. 
+Officials in Washington not only declined to appoint Mr. Gorence as United States attorney but also, without any public explanation, brought in a new prosecutor.
+He was George A. Stamboulidis, a federal prosecutor on Long Island who had long experience with organized crime and other complex cases. 
+Fresh on the Lee case, he made his first substantive move.
+Under orders from Judge Parker, Mr. Stamboulidis answered the defense's question. 
+He filed a document listing Australia, France, Germany, Hong Kong, Singapore, Switzerland and Taiwan -- the countries on the job search letters found in Dr. Lee's house. 
+Mr. Stamboulidis also threw in China.
+Defense lawyers had believed that the government's suspicions of Dr. Lee as a spy for China had waned. 
+Indeed, under Mr. Gorence, the government was building a case that Dr. Lee might have been aiding Taiwan. 
+But Australia and Switzerland?
+"These are not countries which anyone other than the prosecutors have identified as presenting any kind of nuclear threat to the United States," Mr. Holscher said, snickering.
+Judge Parker had a more sober, but equally damaging, view. 
+Writing later in a decision releasing Dr. Lee, he said, "Enhancing one's resume is less sinister than the treacherous motive the government, at least by implication, ascribed to Dr. Lee at the end of last year."
+Defense lawyers began another assault in July, announcing in a secret hearing that they intended to bring a nuclear bomb to court. 
+Not a real bomb, but something just as audacious -- an actual bomb blueprint.
+One of the government's constant refrains had been that Dr. Lee had stolen "electronic blueprints" for nuclear weapons. 
+Therefore, the defense argued, it had the right to rebut that by introducing a real blueprint. 
+The defense knew the government would resist, and hoped that might persuade the judge to drop the charges on fair-trial grounds.
+This was a preview of the defense's strategy on secrets. 
+Using the classified material, Mr. Cline said at the closed hearing, would be necessary for proving four central defense arguments: that most of the downloaded material was already in the public domain; that some of the computer codes contained flaws that made them less useful; that the codes were related to Dr. Lee's work; and that they were difficult to use without user manuals, which were not on the tapes.
+The case ended before Judge Parker could decide whether to allow the use of the bomb blueprints or other secrets at a trial. 
+But based on early rulings that some secrets might be relevant to the defense, Ms. Reno testified later, prosecutors expected to be forced to cross "an exposure threshold we had already determined posed an unacceptable risk."
+QUESTIONS OF FAIRNESS
+Accusations of racial profiling and overzealous prosecution helped turn the case in Dr. Lee's favor.
+As much as anything, what ultimately undid the prosecution were questions of fairness. 
+The image of the diminutive Wen Ho Lee -- still untried, not even charged with espionage -- chained in a cocoon of silence, transformed him in the public eye from villain to victim.
+Asian-American groups, energized by the case, charged that Dr. Lee was a victim of racial profiling, unfairly singled out for prosecution. 
+Scientific and civil rights groups joined in. 
+The clearest, loudest voice belonged to Alberta Lee, a 26-year-old technical writer who gave speech after speech hammering away at a message defense lawyers were arguing in court.
+A defense motion claiming selective prosecution contrasted Dr. Lee's treatment with that of John M. Deutch, the former director of central intelligence, whom the Justice Department initially declined to prosecute for keeping national security secrets on his home computer. 
+(The department eventually opened an investigation, but Mr. Deutch was among those pardoned by Bill Clinton on his last day as president.)
+Defense lawyers made sure their legal papers got to reporters. 
+One document that particularly resonated was a declaration from Robert Vrooman, former head of counterintelligence at Los Alamos, stating that a major reason investigators initially suspected Dr. Lee had spied for China was because he was ethnic Chinese.
+Indeed, Dr. Lee's race was one strand of investigators' suspicion. 
+In an affidavit seeking permission to search Dr. Lee's house in April 1999, an F.B.I. agent stated that Chinese "intelligence operations virtually always target overseas ethnic Chinese with access to intelligence information."
+But Mr. Vrooman knew there was more to investigators' suspicions. 
+Mr. Vrooman himself had raised concerns about Dr. Lee's contacts with Chinese scientists in the late 1980's and had identified Dr. Lee to Energy Department investigators as a potential suspect in the W-88 case. 
+Beyond that, Mr. Vrooman was one of three laboratory officials reprimanded for the handling of the Lee case, and his critics said that gave him a motive to criticize the investigation.
+Even so, supporters of Dr. Lee saw Mr. Vrooman's declaration as further evidence of overzealous prosecution. 
+Their view was bolstered at a new bail hearing in August, ordered by Judge Parker.
+In testimony, Mr. Messemer, the lead F.B.I. agent, acknowledged having misstated important evidence against Dr. Lee. For example, Mr. Messemer had testified in December 1999 that Dr. Lee had lied by asking a colleague to borrow his computer to download a resume. 
+In fact, Dr. Lee was downloading nuclear secrets, and that testimony seemed to show Dr. Lee's deception -- an element in proving the intent charges.
+But defense lawyers discovered that the colleague, in interviews with the F.B.I., had never said Dr. Lee told him he was downloading a resume. 
+Mr. Messemer told the judge he had made "an honest error," and never intended "to mislead you or anyone in this court or any court."
+Next he acknowledged that after further investigation, there was no evidence that the job-search letters found in Dr. Lee's house had been sent. 
+That undercut the prosecution's image of Dr. Lee feverishly job-hunting.
+If Dr. Lee needed one more nudge to turn the case in his favor, it was delivered by John L. Richter. A plain-talking Texan and veteran bomb designer, Dr. Richter was making his second pivotal appearance in the Lee case.
+In 1995, he was the first to suggest that the Chinese might have significant information about the W-88 warhead. 
+Even though he eventually backed off that opinion, it helped start the investigation that led to the discovery of Dr. Lee's download and his jailing.
+Now, asked about the danger of Dr. Lee's tapes falling into enemy hands, Dr. Richter responded: "I think that keeping him locked up the way he is is much more injurious to the reputation of the United States. 
+And that is one reason that I am here."
+Without having reviewed the downloaded information, he minimized its importance, saying "99 percent of it was unclassified in the open literature."
+In a subsequent interview and Congressional testimony, Dr. Richter said his "99 percent" statement referred only to the basic physics underlying the computer codes. 
+But he said other elements of the files did hold important secrets.
+Dr. Richter had seen the testimony of laboratory officials that helped jail Dr. Lee as hyperbole. 
+Having played a role in starting the Lee affair, he now thought it was time to end it.
+"If I had any influence in getting him out," he said recently, "I figured that's a payback."
+APOLOGY FROM THE BENCH
+After pleading guilty to one charge, Dr. Lee was free. 
+The judge said he had been 'induced' to jail Dr. Lee.
+On Aug. 
+24, 2000, Judge Parker issued a brief order saying he had decided to release Dr. Lee under stringent conditions.
+Just days before, Mr. Stamboulidis had warned that the risk of freeing Dr. Lee was "of a caliber where hundreds of millions of people could be killed."
+But after the judge's order, prosecutors began trying to cut a plea deal. 
+By early September, they had one.
+Dr. Lee agreed to plead guilty to one felony count of illegally gathering and retaining national security data. 
+He did not admit to intending to harm the United States or aid a foreign country. 
+He agreed to a sentence of time served, with no probation, and to undergo 60 hours of debriefing, under oath, by the government.
+Dr. Lee had one last surprise before entering the guilty plea. 
+Asked for the first time by the government, he acknowledged having made copies of the tapes. 
+It made prosecutors suspicious all over again, but they went ahead.
+On Wednesday, Sept. 
+13, Dr. Lee stood in court and admitted his guilt. 
+But the drama of the day was Judge Parker's soliloquy.
+"What I believe remains unanswered," he said, "is the question, What was the government's motive in insisting on your being jailed pretrial under extraordinarily onerous conditions of confinement until today, when the executive branch agrees that you may be set free essentially unrestricted?
+This makes no sense to me.
+"A corollary question, I guess, is, Why were you charged with the many Atomic Energy Act counts for which the penalty is life imprisonment, all of which the executive branch has now moved to dismiss and which I just dismissed?"
+The judge blamed Clinton administration decision makers, saying, "I was induced" to jail Dr. Lee before his trial. 
+But it had become clear that "it was not necessary."
+He ended, "I sincerely apologize to you, Dr. Lee, for the unfair manner you were held in custody by the executive branch."
+EPILOGUE
+Even now, the case is not quite over. 
+Agents continue to look at some of Dr. Lee's activities, and the W-88 mystery remains unsolved.
+The government's debriefing of Dr. Lee ended late last year. 
+He acknowledged making as many as a dozen trips to Taiwan over the last two decades -- more than officials previously knew about -- although it remains unclear how many were for purely personal reasons.
+According to people knowledgeable about the case, investigators are looking at aspects of two of those trips, taken in 1998 with full knowledge of laboratory officials. 
+One was his six-week visit to the Chung Shan military institute, where he received a consulting fee of about $5,000; the second was paid for by a private company in Taiwan. 
+Investigators are also interested in small family accounts in Taiwanese and Canadian banks.
+And they are continuing to examine Dr. Lee's relationships with Chinese scientists, including a dinner he held for one scientist where officials say they have information that a computer code might have been discussed.
+Mr. Holscher, Dr. Lee's lawyer, called any suggestion of wrongdoing false, adding, "even more disappointing is that anonymous government officials risk violating federal criminal law by talking about the investigation."
+Under the plea agreement, prosecutors have the option of submitting Dr. Lee to another lie detector test.
+As for the missing computer tapes, they were not found in a thorough search of the Los Alamos landfill.
+Dr. Lee is getting a curtain call. 
+He recently agreed to tell his story. 
+This time it will not be under oath. 
+He has a contract for a book and mini-series.
+Notra Trulock, who began the W-88 investigation as the intelligence director at the Energy Department, is now the spokesman for the Free Congress Foundation, a conservative research group in Washington. 
+He has a contract for a book that he is thinking of calling "Kindred Spirit: The Inside Story of the Chinese Espionage Scandal."
+After Dr. Lee's release, President Bill Clinton rebuked his own Justice Department, saying, "I always had reservations about the claims that were made denying him bail."
+He added, "The whole thing was quite troubling to me."
+The W-88 investigation itself is stalled. 
+Just as the downloading case was gathering steam in the summer of 1999, the F.B.I. was coming to grips with the flaws of its initial inquiry.
+After interviewing scientists who had conducted an analysis for the Energy Department in 1995, F.B.I. officials determined that many of them had disagreed with the conclusion that China, using stolen secrets, had built a weapon like the W-88.
+At the same time, a White House panel pointed out that the stolen information about the W-88 could have come not just from Los Alamos but from numerous energy and defense installations as well as private contractors. 
+And intelligence experts say they have no evidence that China has actually deployed any long-range weapons that incorporate the lost secrets, though they believe a new generation of weapons may do so by 2015.
+In September 1999, Attorney General Janet Reno and Louis J. Freeh, the F.B.I. director, ordered federal agents to broaden their spy investigation. 
+But the new trail proved so cold and so wide open that investigators made little headway. 
+"You're looking at potentially thousands of points of compromise," a senior federal official said, "so it becomes an undoable problem."
+Neil J. Gallagher, the bureau's national security chief, said in a recent interview that if the bureau had known in the beginning what it learned, it would not have been so quick to focus on Wen Ho Lee. 
+He said he would have labeled the investigation the "potential" compromise of the W-88.
+The chief suspect, he said, "would have been unknown."
+Under Suspicion
+After Wen Ho Lee was freed from jail last September, a furor erupted over how the government had handled the case and how the press, especially The New York Times, had covered it. 
+Several weeks later, The Times published an unusual statement assessing its coverage. 
+It found many strengths, but also some weaknesses. 
+In the statement, the paper promised a thorough re-examination of the case. 
+After more than four months of reporting, the result is this two-part series that began yesterday.

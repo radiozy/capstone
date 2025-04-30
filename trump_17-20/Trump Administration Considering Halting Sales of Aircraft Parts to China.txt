@@ -1,0 +1,35 @@
+﻿
+The review is part of a broader effort to restrict the flow of sensitive technology to China.
+The Trump administration is considering halting to China the sale of an aircraft engine produced in part by General Electric, two people familiar with the discussions said, part of a broader effort to limit the flow of technology there that could one day give Beijing an economic and security edge.
+Top Trump administration officials will discuss whether to prevent the sale at a cabinet meeting on Feb. 
+28, these people said. 
+That meeting will encompass other restrictions on China, including whether to proceed with a rule change that would further curtail the ability of Huawei, the Chinese telecom giant, to have access to American technology.
+The aircraft license review was first reported by The Wall Street Journal.
+The Trump administration has been increasingly wary of China's economic and military ambitions, including a strategy to fuse its defense and commercial economies known as civil-military fusion.
+Chinese industrial plans like Made In China 2025 have promoted dual-use technologies like aviation, automation and information technology to benefit both the Chinese economy and its military abilities.
+China's effort to develop airplanes on par with international competitors like Boeing, Airbus and Bombardier have long fallen short.
+Instead, CFM, the jet-engine joint venture of General Electric and Safran of France, has been providing engines to China for years as part of that country's effort to build up its jetliner industry.
+The United States licenses for the joint venture to ship engines to China date to 2014. 
+The most recent license was issued in March 2019. 
+The licenses are for engines used in test-flight programs by the Chinese aircraft maker Comac. 
+Each license is for a few engines, a model called the LEAP 1C.
+The Commerce Department had been reviewing the joint venture's license, but the decision on whether to continue allowing the technology to be sold to China has now been kicked up to cabinet members.
+The plane that would use the CFM engines is scheduled to go into passenger service in 2021.
+China, aviation experts say, has been able to make most of the individual components for advanced jet aircraft. 
+But the bigger challenge is integrating complicated technologies into complex mechanical and digital systems for engines and avionics.
+That integration, they say, is more difficult to build or reverse engineer, and copy.
+But officials in the Trump administration and elsewhere fear that China might eventually develop the ability to reverse engineer G.E.'s technology.
+Concerns have risen among officials in the National Security Council, the Defense Department and the State Department about whether the United States should be supporting China's efforts to develop indigenous aircraft.
+Stopping such licenses, however, would be a big financial hit to companies like G.E.
+Officials also plan to discuss at the Feb. 
+28 policy meeting whether to expand the scope of their restrictions on Huawei.
+The administration placed the company on a blacklist last May that prevented products made in America from being shipped to the country. 
+But many of Huawei's suppliers are global companies, and companies like Micron and Qualcomm instead switched to selling the Chinese company products from their overseas operations.
+The rule change would clamp down on shipments of products made overseas with American components, so that only foreign-made products with less than 10 percent of American parts could be shipped to the company, down from 25 percent of specific types of restricted content before.
+Some officials in the Defense Department had pushed back against those changes, arguing that they could undermine American technological development by cutting down on a vast source of revenue that the tech industry depends on to fund its research and development. 
+The American military buys much of the technology that goes into military devices from the private sector.
+But recently, other Pentagon officials including Mark T. Esper, the defense secretary, and John C. Rood, the under secretary of defense for policy, spoke up to overrule those objections, with the support of some officials in the Commerce Department.
+On Friday, Senator Rick Scott, Republican of Florida, introduced legislation that would accomplish the same change.
+"We know Huawei is supported and controlled by the communist regime in Beijing, which continues to violate human rights and steal our data, technology and intellectual property," he said. 
+"Companies in the United States should not be allowed to sell to Huawei, and my legislation will further restrict their ability."
+Maggie Haberman contributed reporting.

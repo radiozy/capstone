@@ -1,0 +1,39 @@
+﻿
+IF you've ever wondered why the names of so many computer products use nonstandard capitalization or punctuation, like WordStar, Compute! and dBASE, now we have an answer. 
+It's a conspiracy to improve our typing skills.
+At least that's what occurred to me in a moment of whimsy while using IntelliType, a thorough and often entertaining series of typing lessons for owners of Amiga computers. 
+The program is described as ''the first typing tutorial for adults.''
+IntelliType guides the learner through 30 lessons of warm-ups, drills, tests and analyses. 
+Each lesson takes about 45 minutes, and at the end of the course you should be well on the way to becoming an accomplished touch typist.
+An initial diagnostic test establishes your current level of ability. 
+After that, the program may suggest that you start with a more advanced lesson. 
+I chalked up a score of 47 words a minute with 97 percent accuracy, and so was moved ahead to about the middle of the course. 
+After working through a lesson or two, I was told that I needed more work on capital letters, and I was drilled by having to type passages of words full of capital letters.
+Especially valuable are the three bar charts that sum up your strengths and weaknesses at the end of each lesson. 
+The first analyzes your accuracy, the second your speed (in both cases, for each key), the third your susceptibility to common typing errors like transposing, skipping or adding letters.
+So why is this program specifically for adults?
+Well, starting with the fourth lesson, much of your practice consists of retyping passages from the story of Ted and Laura, a couple whose amorous adventures are more silly than salacious, though salacious enough, and whose dialogue contains an improbably high percentage of hard-to-type words. 
+There are also spies and car chases.
+IntelliType is a product of Electronic Arts, 1820 Gateway Drive, San Mateo, Calif. 
+94404, and costs $49.95 for the Amiga. 
+If it is not available at your dealer, you can order it directly from the company at (800) 245-4525.
+In this age of computer ubiquity, efficient typing is a valuable skill, and the computer is the perfect machine on which to learn. 
+But what do microprocessors and hard disks have to do with a 5,000-year-old system of writing?
+Chinease, a new program from China Books and Periodicals, is a series of lessons that uses I.B.M. 
+PC-style machines to teach the meaning, pronunciation, history and proper way of drawing 80 Chinese characters. 
+As the characters are shown on the screen, the learner is shown how to draw them onto paper.
+Many people would enjoy learning a smattering of the calligraphy for esthetic reasons alone. 
+In addition, Chinese-Americans might find Chinease a pleasant way of keeping themselves, or their children, in touch with their heritage.
+I ran a demonstration disk that gives a sample of the lessons. 
+The program uses simple animation attractively, and the Chinese characters are quite beautiful.
+The demonstration disk is $5. 
+The full course comes on three disks, and costs $67.50. 
+Either may be ordered from China Books and Periodicals, 2929 24th Street, San Francisco, Calif. 
+94110. The phone number is (415) 282-2994.
+''Ahoy!'' magazine has been around about four years for those Commodore 64 and 128 enthusiasts who have more than a casual interest in their computers. 
+Now it has a spinoff, ''Ahoy!'s AmigaUser,'' for owners of Amiga computers.
+''AmigaUser'' is a quarterly, at $2.95 an issue, with more than a passing resemblance to its parent publication, which is published eight times a year. 
+In the first issue, there is a list of the two dozen ''best'' Amiga games, two pages of computer-generated art contributed by readers, reviews, technical columns and features on graphics, sound and communications, complete with programs you can type in at your own keyboard.
+Generally, the magazine assumes that the reader commands a fair amount of computer knowledge, somewhere between advanced beginner and intermediate. 
+For anyone who matches that description, it is well worth taking a look.
+''Ahoy!'s AmigaUser'' is published by Ion International of New York.

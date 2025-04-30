@@ -1,0 +1,44 @@
+﻿
+For Internet companies doing business in China, a piece of a booming market has not come without compromises.
+A series of episodes showing that the companies were bending to the restrictive demands of Beijing -- filtering words like ''democracy'' or ''human rights'' from Chinese versions of a blog product, or censoring certain concepts from their China-based search engines -- has leaked out from users inside China.
+And as questions were raised after each new revelation, companies like Yahoo, Google, Microsoft and Cisco Systems invariably offered a variation on a common chorus.
+''Just like any other global company,'' as Mary Osako, a Yahoo spokeswoman, put it in September, ''Yahoo must ensure that its local country sites operate within the laws, regulations and customs of the country in which they are based.''
+Now the companies are being pressed in Washington for fuller answers about their business practices in China and the implications for human rights. 
+That pressure will escalate today when the House Subcommittee on Africa, Global Human Rights and International Operations questions officials of the four technology companies, along with other witnesses critical of their activities.
+The subcommittee's chairman, Representative Christopher H. Smith, Republican of New Jersey, plans to introduce legislation by week's end that would restrict an Internet company's ability to censor or filter basic political or religious terms -- even if that puts the company at odds with local laws in the countries where it now operates.
+Although some advocates have argued that the companies may actually be violating existing trade laws, most experts concede that does not appear to be the case.
+Mr. Smith's legislation, called the Global Online Freedom Act, however, would render much of what the Internet companies are currently doing in China illegal.
+Among the act's provisions is the establishment of an Office of Global Internet Freedom, which would establish standards for Internet companies operating abroad. 
+In addition to prohibiting companies from filtering out certain political or religious terms, it would require them to disclose to users any sort of filtering they undertake.
+Separately, the State Department announced the formation of a new Global Internet Freedom Task Force yesterday, charged with examining efforts by foreign governments ''to restrict access to political content and the impact of such censorship efforts on U.S. companies.''
+Recent statements issued by Microsoft and Yahoo suggest that it is really the government's role to promote human rights abroad.
+Still, the Internet titans are finding it harder to avoid some tough questions and a new note of contrition is likely to be heard.
+''We always reserve the right to get better,'' said Michael J. Callahan, Yahoo's general counsel, in a phone call last weekend. 
+Mr. Callahan is scheduled to testify before the House panel today.
+Of the companies, whose activities in the Chinese market differ, Yahoo may face the toughest grilling.
+The company, which has been providing Web services in China since 1999, has been criticized for filtering the results of its China-based search engine. 
+But its bigger problems began last fall when human rights advocates revealed that in 2004, a Chinese division of the company had turned over to Chinese authorities information on a journalist, Shi Tao, using an anonymous Yahoo e-mail account. 
+Mr. Shi, who had sent a government missive on Tiananmen Square anniversary rites to foreign colleagues, was sentenced to 10 years in prison.
+Last week, Reporters Without Borders, a group based in Paris, revealed that a Chinese division of Yahoo had provided information to authorities that contributed to the conviction in 2003 of Li Zhi, a former civil servant who had criticized local officials online. 
+Mr. Li is serving eight years in prison.
+The recent absorption of Yahoo's Chinese operations into Alibaba, a Chinese e-commerce company in which Yahoo now holds a 40 percent stake, also worries some critics. 
+They fear that the move allows Yahoo to reap the benefits of China's booming market while escaping responsibility for what happens there.
+For its part, Cisco, which has won annual contracts from China Telecom since 2000 to provide the hardware for the country's growing Internet backbone, has been criticized for selling its routers and equipment, which the Chinese government has in turn manipulated to monitor and censor communications.
+Microsoft hit snags almost immediately after beginning its MSN China portal last spring, when users discovered that the accompanying MSN Spaces service, which provides tools for building personal Web sites and blogs, forbade blog titles containing what were deemed inappropriate concepts, like ''human rights.''
+Then last year, the company came under fire for shutting a Beijing blogger's MSN Web site at the request of the Chinese authorities.
+It was amid the fallout from that incident that Google stepped gingerly into the China fray three weeks ago. 
+The company tried a different tack, announcing that search results would be filtered according to Chinese government specifications.
+That sort of transparency was a welcome change, said Jonathan Zittrain, a professor of Internet governance at Oxford University and a co-founder of the Berkman Center for Internet and Society at Harvard Law School. 
+But the larger questions that have led the companies to Capitol Hill remain.
+''I think this is a very ripe time to take on some of the hardest questions,'' Mr. Zittrain said. 
+''It's not a crazy position to say that these companies should not be there at all, but that's not my view, and I think there are ways to begin drawing lines so that there are ways that the companies can make the world better by being there.''
+Just what those lines might look like is difficult to say.
+The Commerce Department, under the Export Administration Act, does restrict the sale of ''crime control'' equipment to repressive regimes, but Internet technologies have not been considered under that rubric. 
+The activist Harry Wu, who spent 19 years in Chinese labor camps before coming to the United States and who is scheduled to testify at the hearings, plans to ask why not.
+''We never wanted to do any business with Soviet 'evil empire,' '' Mr. Wu said. 
+''We embargo Cuba, we don't trade with North Korea, but with China it's O.K. 
+I just always argue, why is it?
+Why do we single out China?''
+Microsoft and Yahoo issued a joint statement two weeks ago acknowledging a responsibility to identify ''appropriate practices in each market'' where they operate, but they also urged the State Department and other agencies to pursue ''government-to-government engagement.''
+Mr. Smith, the subcommittee chairman, says he thinks more than engagement is necessary. 
+''The bottom line is no one is being compelled to sell to China,'' Mr. Smith said.

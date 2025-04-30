@@ -1,0 +1,28 @@
+Increasing topics:
+- india, indian, border
+- virus, coronavirus, dr
+
+Decreasing topics:
+- province, floods, relief
+- billion, company, trade
+- classes, cooking, street
+- catholics, church, vatican
+
+Consistent topics:
+- immigrants, immigration, ships
+- khmer, cambodia, rouge
+- train, wheels, miles
+- oil, stocks, markets
+- venture, honda, car
+- emissions, pollution, energy
+- dr, museum, art
+
+Fluctuating topics:
+- like, food, restaurant
+- lama, dalai, tibetans
+- stocks, like, kong
+- enterprises, companies, market
+- nba, won, league
+- team, games, olympic
+- korea, mr, north
+

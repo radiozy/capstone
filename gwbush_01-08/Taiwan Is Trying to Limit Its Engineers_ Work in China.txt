@@ -1,0 +1,34 @@
+﻿
+Worried about losing its technological edge over China, the government here intends to require some Taiwan engineers to get permission before accepting jobs in China.
+Taiwan's plans are a fairly aggressive response to an issue confronting many governments now: how to preserve a competitive advantage when international investment is pouring into China to make use of a low-cost, increasingly skilled and seemingly limitless work force.
+But while government officials here are still working out the final details of the plan, the initiative has already angered computer companies here and in the United States and stirred controversy in Taiwan's national legislature.
+At issue is whether the new rules will unfairly limit the personal freedom of engineers, and whether the regulations will be so onerous that they will discourage high-technology companies from locating or investing here.
+Especially troublesome is the government's plan to prevent some engineers from the private sector from taking jobs at all on the mainland, on the suspicion that they might then pass on technological secrets.
+"It's like thinking someone is going to commit a crime before they do so -- it's taking away democratic freedoms," said Frank Huang, the chairman of the Taipei Computer Association, an influential trade group. 
+He is also the chairman of Power Chip, Taiwan's third-largest manufacturer of computer chips.
+But Ing-Wen Tsai, the chairwoman of the Mainland Affairs Council, the powerful government ministry that oversees relations with China, said that prompt action was needed to protect Taiwan's technological edge. 
+Taiwan faces a uniquely difficult task in preventing people from absconding with proprietary technological secrets from the government or businesses, she contended.
+Most countries, including the United States, pursue people who misuse trade secrets by suing them or pressing criminal charges and arrange for suspects to be extradited from other countries when necessary. 
+But it is almost impossible for Taiwan to retrieve people from China because Taiwan and China have no diplomatic relations, never mind an extradition treaty. 
+Taiwan's courts also move very slowly, even in comparison with American courts, and they are reluctant to hear cases when the defendant is not present.
+"We don't want to introduce unnecessary restrictions on personnel flows, especially of talented people, but we have to be careful these personnel flows do not endanger our national security," Ms. Tsai said in an interview.
+In the next week or two, the government will unveil its new system of requiring some engineers who want to seek employment elsewhere to get advance permission, Ms. Tsai said. 
+The rules will apply to engineers who want to move anywhere abroad, but the main point of concern is the competitive threat from China.
+Ms. Tsai said that the advance-approval rule will apply only to people with extensive knowledge of important secrets involving military technology, government-financed research or certain "core technologies" in the private sector.
+That last category is the most controversial, because the rules could impede both Taiwanese and multinational companies from transferring employees from here to fast-growing research centers in China.
+Taiwan is not known for military research -- it buys most of its hardware from the United States. 
+But it is a leader in designing and manufacturing lightweight computer-based technologies like notebook computers, though production of many computer products is now shifting to China.
+Ms. Tsai said that only a short list of core technologies would be covered, but she did not identify them.
+Foreign companies are joining domestic companies in opposing any approval system that covers private-sector employees. 
+"If multinationals think they cannot send their product experts from Taiwan to China, multinationals will simply bypass Taiwan," said Richard L. Henson, president of the American Chamber of Commerce in Taipei.
+The rules will be different for a much larger category of engineers, those who have access to corporate technology secrets that are not deemed "core technologies."
+Employers will be asked to let the government know if such an engineer prepares to quit and move to China in violation of an employment contract, Ms. Tsai said. 
+The government could then keep the engineer from leaving Taiwan.
+It is common for high-technology workers in Taiwan to sign employment contracts with clauses that bar their working for competitors for a period of years afterward. 
+But it is hard to enforce the clauses against employees who move to China.
+Mr. Huang of Power Chip said computer makers in Taiwan favored tougher measures against people who broke contracts and actually absconded with trade secrets.
+The United States imposes some limits on overseas employment of people with knowledge of highly important military technology while relying on civil and criminal penalties against engineers who move overseas and illegally share trade secrets.
+There has been considerable hostility in Taiwan's national legislature to introducing a new approval process, partly because Taiwan's once-authoritarian government used to intrude into citizens' private lives with many such requirements; at one time, the state even demanded a say over whom some military personnel could marry.
+Ms. Tsai said that the government could issue its new rules under existing law on relations with China, without seeking legislative approval.
+But Tan Sun Chen, a co-chairman of the legislature's Science and Technology Committee and a senior member of the ruling Democratic Progressive Party, said the issue of engineers going to China was much too politically contentious to handle with an executive order. 
+The legislature will not allow itself to be bypassed, he said, adding, "I don't think the Congress would abide by that -- this is really heated."

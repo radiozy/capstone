@@ -1,0 +1,40 @@
+﻿
+Aggressive Crickets
+What makes the elephant charge his tusk,
+In the misty mist or the dusky dusk?
+What makes the muskrat guard his musk?
+Courage!
+For the Cowardly Lion, who posed those questions in "The Wizard of Oz," aggressive behavior was a function of just one thing, which he sorely lacked. 
+Scientists, however, know that it is not that simple, and indeed, what makes animals aggressive is not fully understood.
+Now German and American researchers, writing in Nature, have provided new insight into aggression, at least among one species. 
+What puts the fight in crickets?
+Not courage, the researchers say, but flight.
+Cricket fighting was a royal sport in ancient China and has persisted in some Chinese cities and in Chinese communities elsewhere. 
+Gamblers bet on whether their insect will prevail in a fight that involves fencing with antennas, locking mandibles and wrestling. 
+The losing cricket retreats, usually losing its will to fight.
+But, as the gamblers know, a defeated cricket can regain its aggressiveness if it is shaken in cupped hands and thrown into the air a few times.
+The scientists studied this effect, showing that it was not dependent on how long the insects were in the air, and not transitory -- aggressiveness remained restored for hours. 
+Other stressful activity, like being tumbled in a rotating tube or walking in a wind, had no effect.
+The researchers suggest that the specific motor pattern of flying produces some kind of command in the nervous system that resets aggression in the brain.
+ 
+Tiniest Chemical Sensor
+Nanotubes, those cylindrical molecules of carbon atoms, are steadily becoming much more than just a laboratory curiosity, as researchers develop potential applications for them.
+One of the latest possible uses for nanotubes is as tiny chemical sensors. 
+Researchers at Stanford report in the journal Science that they have used nanotubes to detect minute amounts of gases quickly and at room temperature.
+The researchers used a single-walled nanotube, one in which just a single layer of carbon atoms forms the cylinder walls. 
+These nanotubes are on the order of a billionth of a meter wide, and about three-millionths of a meter long. 
+The structure of the molecule is such that it acts like a semiconductor if a charge is placed across it. 
+This quality is what makes it useful as a sensor.
+The researchers found that the electrical resistance of the nanotubes increased or decreased greatly when exposed to small amounts of nitrogen dioxide or ammonia. 
+Nitrogen dioxide is found in car exhaust, among other sources, and gaseous ammonia is toxic, so tiny devices capable of detecting these gases would serve a real need.
+The nanotubes were more sensitive than existing sensors. 
+They also operated at room temperature. 
+Most sensors currently used require heating to at least 400 degrees Fahrenheit.
+ 
+The Mighty Nanotube
+Before sensors or other devices based on nanotubes can be produced commercially, more has to be learned about the basic properties of these molecules. 
+Scientists at Washington University in St. Louis have taken a step in that direction, determining for the first time the force needed to break one by stretching.
+The study, reported in Science, used multiwalled nanotubes consisting of 10 to 40 single-walled tubes nested inside each other. 
+The stretching occurs inside a scanning electron microscope, and the electron beam is used to fuse the ends of the nanotube to tiny cantilever tips that do the stretching.
+The scientists said the force needed to break the nanotube was many times greater than would be required to break a similar-sized structure of steel, if it were possible to create one. 
+Next up for the researcher: to break a single-walled tube.

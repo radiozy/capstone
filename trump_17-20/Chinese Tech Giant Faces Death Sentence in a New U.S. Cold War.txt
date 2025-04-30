@@ -1,0 +1,74 @@
+﻿
+SHENZHEN, China -- Not Apple. 
+Not Huawei. 
+The first casualty of the high-tech cold war between the United States and China might be the biggest electronics maker you've never heard of.
+The Chinese firm ZTE said on Wednesday it had ceased ''major operating activities'' after the Trump administration banned the company last month from using components made in the United States. 
+With manufacturing halted at the ZTE plant in Shenzhen, factory workers have been getting called in for training sessions every other day or so -- a snooze, they say. 
+The rest of the time, they loaf around in nearby dorms.
+Trading in the company's shares has been suspended for weeks. 
+Staff members have been instructed, in new guidelines reviewed by The New York Times, to reassure anxious clients, while being sure to avoid discussing with them the American technology from which the firm is cut off for the next seven years.
+One of China's most internationally successful technology suppliers, with about $17 billion in annual revenue, ZTE is facing a death sentence. 
+The Commerce Department has blocked its access to American-made components until 2025, saying the company failed to punish employees who violated trade controls against Iran and North Korea.
+American microchips power ZTE's wireless stations. 
+American optical components go into its optical fiber networks. 
+Google's Android operating system runs its smartphones. 
+As the Trump administration threatens a trade war to stymie China's plans for promoting advanced industries, the firm's travails are proving an apt demonstration, for China's leaders, of exactly why the country needs to be more self-sufficient in technology.
+President Xi Jinping recently issued a rousing call to action, according to the state news agency Xinhua.
+''By tightening our belts and gritting our teeth, we built 'two bombs and one satellite,''' Mr. Xi said, referring to a Mao-era weapons development program. 
+''This was because we made best use of the socialist system -- we concentrated our efforts to get great things done. 
+The next step is to do the same with science and technology. 
+We must cast away false hopes and rely on ourselves.''
+ZTE's moment of crisis, if it leads to the company's collapse, could also show how the tech cold war might ripple around the world.
+The company has 75,000 employees and does business in more than 160 countries. 
+It is the No. 4 smartphone vendor in the United States. 
+And its telecommunications gear supports the digital backbone of a great swath of the developing world.
+The wireless carrier MTN, which serves 220 million people in 22 nations in Africa and the Middle East, said last week that it was assessing contingency plans, ''given our exposure to ZTE in our networks.''
+The chief executive of the Norwegian carrier Telenor, which has large operations in Asia, said the company was ''following the situation closely.''
+Several employees described the situation inside ZTE on condition of anonymity, fearing reprisals from their employer. 
+A company spokeswoman declined to comment.
+The United States has for years deemed ZTE and Huawei, its much larger rival in network gear, to be national security threats. 
+Large American mobile carriers already shun the companies' telecom equipment. 
+The White House is mulling an executive order that would make it harder for government agencies to buy from them.
+In response to the sanctions issued last month, ZTE said it had worked to improve its compliance practices. 
+It has requested a stay on the export ban and has sent additional information to the Commerce Department in support of its argument.
+Zhongxing Telecommunications Equipment's corporate predecessor was established in 1985, as a joint venture between a state-owned aerospace factory and two other firms. 
+Within a few years, the company was producing equipment for phone operators in the Chinese countryside, before expanding into cities and then overseas.
+''Zhongxing'' means ''China Prospers.''
+The company's controlling shareholder is Shenzhen Zhongxingxin Telecommunications Equipment, which is nearly half-owned by two Chinese state entities. 
+Several members of the firm's board also have leadership roles at Zhongxingxin. 
+ZTE says Zhongxingxin does not interfere in its business decisions. 
+Unlike China's state-controlled enterprises, which are often run by Communist Party officials who jump from company to company, most of the top executives at ZTE are veterans with technical backgrounds.
+The electronics maker released its first smartphone for the American market in 2011. 
+Within two years, it was a top-five vendor in the United States, largely targeting people who wanted a phone but not a long contract with a cell carrier. 
+Even in China, the company has not had great success selling smartphones.
+''It's extraordinarily impressive, what they've done in the U.S.,'' said Avi Greengart, a consumer tech analyst with the research firm GlobalData. 
+''So many Asian companies either said they would come to the U.S. and then had to pull back -- like Xiaomi, like Huawei. 
+Or they invested in the U.S. and weren't able to make it work.''
+ZTE's secret, Mr. Greengart said, was a light touch. 
+The company's American managers have had significant leeway in tailoring their products to the local market. 
+''That's not the way many of its competitors work,'' he said.
+The company was, for instance, quick to spot that Americans were gravitating toward larger phones. 
+It offered inexpensive devices with big screens -- if not those with the highest resolution -- and fingerprint readers at a time when such features were considered premium.
+To build its brand, ZTE has sponsored several National Basketball Association teams. 
+In February, the company and the Cleveland Cavaliers celebrated Chinese New Year at a game against the Brooklyn Nets. 
+The Quicken Loans Arena in Cleveland was decorated with Chinese lanterns. 
+An acrobat rode around the court on a unicycle at halftime.
+In Africa, ZTE and Huawei have helped connect many of the continent's fast-growing economies, often with the help of generous export financing from Chinese state banks. 
+ZTE has laid thousands of miles of fiber optic cable in Ethiopia and it recently signed an agreement with MTN of South Africa to test fifth-generation wireless, or 5G.
+Some of the company's deals with cash-stricken governments have attracted accusations of corruption and overbilling. 
+On the whole, though, ZTE is known in Africa for high quality and good service, said Dobek Pater, a telecom expert at the research firm Africa Analysis.
+''The initial perception -- of Chinese companies coming in and being very secretive and not wanting to have much to do with the locals -- has changed over the past decade,'' he said.
+In Iran, it was secrecy of another kind that got ZTE into trouble.
+According to the United States government, the company used an elaborate system to sell American-made goods there, and then lied and deleted emails when the Commerce Department began to investigate. 
+It even made plans to resume shipments to Iran while the investigation was ongoing, according to the Commerce Department.
+''At home, they might have been doing some things not according to standards, and then, when it came time to internationalize, they might not have done so entirely properly,'' said Gu Wenjun, chief analyst at ICwise, a semiconductor market research firm in Shanghai.
+''For other companies thinking about how to follow the rules and manage internal risks, I think this is going to serve as a wakeup call,'' Mr. Gu said.
+At the very least, the sanctions against ZTE appear to be supercharging Beijing's determination to upgrade China's microchip makers, which have struggled to keep up with global industry leaders despite state support.
+Chris Lane, a telecom analyst in Hong Kong with Sanford C. Bernstein, believes that China now has the resolve to whip its semiconductor industry into world-leading shape, even if it takes a decade to do so.
+''They're going to pour billions of dollars into preventing this from ever happening again,'' he said. 
+''In the long run, strategically, this might be worse for the U.S. than the current situation.''
+Late last Friday, ZTE management sent an email to staff members updating them on the company's efforts to reconcile with Washington.
+''Even the longest road has an end,'' the email concluded. 
+''Even the longest night ends in day. 
+Let us stay resolute and confident, and, full of hope, greet the coming dawn!''
+Follow Raymond Zhong on Twitter: @zhonggg.

@@ -1,0 +1,18 @@
+﻿
+The Food and Drug Administration refused entry to 82 candy shipments from Denmark in the last year, not 520, as The Times reported in an article in Business Day on July 12.
+The article, which described the F.D.A.'s rejection of shipments to the United States of food and other products for violations of sanitary, safety or labeling standards, detailed problems with shipments from India, Mexico, Denmark and the Dominican Republic. 
+It was based on an analysis by The Times of inspection records in an online F.D.A. database.
+Because of flaws in its analysis method, The Times miscalculated the number of shipments refused from those countries from July 2006 through June of this year.
+In doing the analysis, The Times incorrectly tallied the number of violations cited by the F.D.A., and reported that figure as the number of refused shipments. 
+Because more than one violation may be involved in each refused shipment, that approach resulted in an overcount, exaggerating the export problems.
+For instance, candy from Denmark was refused 82 times by the F.D.A., and among those refusals, there were 520 individual violations. 
+A large majority of the violations cited were for mislabeling.
+When the data was re-analyzed, it showed that the number of candy shipments rejected from Denmark had not been higher than the number of seafood shipments rejected from China, as the article stated. 
+The number of shipments rejected from China was also misstated; it was 331, not 391.
+Further, the re-analysis found that the F.D.A. had refused 1,782 shipments of all products from India, not 2,620. 
+The number from Mexico was 1,560, not 1,876; the number from China was 1,901, not 2,723; and the number from the Dominican Republic was 862, not 887.
+A chart that accompanied the July 12 article, showing the number of food shipments rejected from selected countries and the most frequently cited violations, contained inaccurate numbers because it was based on the same initial analysis. 
+A corrected chart accompanies this article.
+The methodology problem was discovered in a review of the article after officials from the Danish Embassy in Washington challenged The Times's findings. 
+The Times was not successful in reaching a Danish official authorized to comment on the F.D.A. statistics before the article's publication.
+Officials from other embassies and from the F.D.A. who were contacted while the article was being reported raised no questions about the statistical analysis.

@@ -1,0 +1,31 @@
+﻿
+Hackers are breaking into American companies for credit card numbers, passwords, trade secrets and - it turns out - for phony video game scores.
+For the past five years, hackers inside China have been breaking into American video game makers' systems, collecting proprietary source code in an ambitious effort to crack the games for free use and to develop tools to cheat them, according to research by the counter threat unit at Dell SecureWorks, a security firm that was acquired by Dell in 2011.
+In several cases, researchers say, amateur Chinese hackers have proven themselves even more stealthy and sophisticated than their military counterparts. 
+So adept are they at covering their tracks that, in some cases, they have been able to maintain a foothold in infiltrated systems for more than two years unnoticed.
+The new research offers a reminder that despite the continued focus on hackers at the National Security Agency and military units in Shanghai, some of the most prolific and sophisticated attacks are still the work of individual hackers.
+Dell SecureWorks would not name the victims, citing nondisclosure agreements the company has with clients, but its report may help shed light on a string of attacks against video game makers.
+In the past year alone, Nintendo reported that it had been a victim of an attack in which hackers managed to gain unauthorized access to a Nintendo members reward site 23,000 times, after some 15 million attempts.
+Ubisoft, based in Montreal, announced that its networks had also been hacked. 
+Japanese game maker Konami said hackers had tried to gain access to its systems some   4 million times and were successful in 35,000 cases. 
+Crytek, the game developer, also reported a breach.
+In March, a British security company discovered that an Electronic Arts server had been hacked. 
+And just last May, Bohemia Interactive, a Czech game developer, confirmed that it too had been hacked after the source code for its   DayZ game appeared on a game-hacking forum.
+Dell SecureWorks' researchers said that in many of the cases they had witnessed, hackers conducted extensive reconnaissance on their victim organizations before attacking them. 
+They used public information to track down employees with administrative privileges, then used so-called brute force means in which they deployed computers to test millions of combinations of user names and passwords to break into their accounts.
+From there, they used their foothold to install malicious tools, including remote access tools, backdoors and keystroke loggers, onto the computers of employees who had access to video game source code.
+At first, researchers said it was unclear whether hackers were stealing source code to copy games and sell their own versions. 
+But they were able to trace the attacks back to two hacker aliases in China who are active in China's video game cracking community. 
+The researchers now believe the hackers are after the source code to crack the games for free use, or find backdoors that would allow them to outscore their competitors.
+Researchers traced several tools back to the online alias "Laurentiu Moon," a Chinese hacker who maintains accounts on hacking websites: one focused on mobile phone hacking and another   focused on cracking legitimate software.
+Laurentiu Moon has been a member of China Cracking Group since 2009 and the   AntiGameProtect since last December. 
+Both are dedicated to video game cracking.
+Other tools were traced to another member of the China Cracking Group, with the alias "Sincoder."
+Based on the individual's Weibo microblogging profile and a   Twitter account, it appears this person is based in Shenzhen, China.
+Efforts to reach these individuals through their online accounts were unsuccessful.
+In some cases, researchers said, the tools and techniques these two individuals developed were more sophisticated than many of the so-called spear phishing attacks deployed by China's People's Liberation Army hacking units, like the Shanghai-based Unit 61398 and aerospace hacking Unit 61486.
+Rather than fire off emails to victims hoping for a click, these game hackers used sophisticated brute force tactics to break in. 
+Researchers found in one case that they successfully compromised a Chinese technology company's digital certificate - a signing mechanism used by companies to guarantee to a customer's web browser that their site is authentic - to gain access.
+Surprisingly, given the number of gamers constantly trying to crack makers' systems, the industry has done little to share cyber threat information. 
+A spokesman for the Entertainment Software Association, the gaming industry's chief lobbying group, said he was unaware of any joint efforts to curb game hacking.
+In most cases, game makers said it is up to the individual companies to protect themselves. Dell's Counter Threat report, which lists hackers aliases and tools and details their techniques, might offer a start.

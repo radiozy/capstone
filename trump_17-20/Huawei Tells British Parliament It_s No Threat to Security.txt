@@ -1,0 +1,35 @@
+﻿
+LONDON -- A Huawei executive defended the company's security practices in the face of tough questioning from members of the British Parliament on Monday, as the Chinese technology giant seeks to contain an American-led effort to ban it around the world.
+John Suffolk, Huawei's global cybersecurity and privacy officer, appeared at a hearing in the House of Commons about the safety of Britain's telecommunications infrastructure. 
+British leaders are facing pressure from the Trump administration to follow America's lead in banning Huawei, the world's largest maker of telecommunications equipment.
+The United States has argued that Huawei is beholden to the Chinese government, poses a grave national security threat and should not be allowed to help build the high-speed, next-generation networks known as 5G that will debut in the coming years.
+At the hearing, Mr. Suffolk said Huawei was independent and would never undermine the safety of its equipment to satisfy demands from Beijing. 
+''There are no laws in China that obligate us to work with the Chinese government,'' he said during questioning. 
+''There is no requirement.''
+Britain is weighing whether to allow Huawei to play a role in its new 5G networks. 
+The company's equipment is already being used in the country, but American authorities have raised new questions about the gear and the risks it poses to national security. 
+The United States has threatened to restrict the intelligence it shares with countries that allow Huawei in its 5G networks.
+Huawei has become a central piece of the trade dispute between the United States and China. 
+After the American government recently blacklisted Huawei and threatened the company's access to American technology, Beijing has moved to retaliate against American companies. 
+Over the past week, Chinese authorities summoned major international tech companies to warn that they could face consequences if they cooperated with the Trump administration's ban on sales of key American technology to Chinese companies.
+''In this country at the moment there is a big debate: Should we be following what the Americans are trying to argue we should do, excluding Huawei, or should we include them and manage the risk?''
+Norman Lamb, the chairman of the Science and Technology Committee, said during the hearing on Monday.
+British authorities have for years subjected Huawei products and code to review at a security facility about 80 miles outside London. 
+While British intelligence officials have said the risk of Huawei can be mitigated, a government report issued in March highlighted ''significant'' security problems with the company's equipment. 
+The report didn't link any of the flaws to the Chinese government.
+Mr. Suffolk said Huawei was committed to transparency and to fixing the problems highlighted by the March report. 
+One challenge has been introducing product updates that don't compromise the reliability of its network in other nations using older equipment, he said.
+''We stand naked in front of the world,'' he said. 
+''It may not be a pretty sight all of the time, but we would prefer to do that.''
+Representatives from Britain's largest wireless networks said any security threats from Huawei could be alleviated.
+''Our view is the risk can be managed,'' Scott Petty, the chief technology officer at Vodafone, said at the hearing. 
+He said the company used Huawei only in less critical parts of its network.
+British lawmakers asked Mr. Suffolk if China could inject backdoor access into Huawei's network without the company's knowledge. 
+Mr. Suffolk, without directly answering, noted that the United States had used those tactics to intercept global communications. 
+''That's what governments do,'' he said.
+The hearing became tense when members of Parliament asked Mr. Suffolk if Huawei made moral considerations before selling equipment to oppressive governments with a history of human rights abuse. 
+Mr. Lamb noted an Australian research report that said Huawei provided equipment that Chinese authorities use to monitor the Uighurs, a Muslim minority in China's northwestern region.
+''I don't think it's for us to make such judgments,'' Mr. Suffolk said. 
+''The question is whether it's legal in the country where we operate.''
+''You're a moral vacuum,'' a member of Parliament responded angrily.
+''I don't think so, no,'' Mr. Suffolk replied.

@@ -1,0 +1,49 @@
+﻿
+The recent emergence of the People's Republic of China on the bridge scene inevitably raised the delicate question: Would the players of Taiwan meet their mainland cousins over the table?
+The answer appears to be that they will do so next month in a tournament beginning in Hong Kong on Aug. 
+27. There will be teams from Beijing, Shanghai and Canton, and two teams from Taiwan that include several players who have done well in world championships. 
+This will be the first face-to-face encounter between the two Chinas in any sport or recreation. 
+Perhaps head-to-head would be a better term, since the players will be at 90-degree angles.
+Teams from China and Taiwan will meet at bridge tournament starting in Hong Kong on August 27; diagram of US-Chinese bridge game from March 1981
+The People's Republic has shown great eagerness to test its newly developed bridge skills against world-class players. 
+A group headed by Jimmy Ortiz Patino, president of the World Bridge Federation, and including world champions Christian Mari and Michel Perron of France visited China in May, playing in Beijing, Shanghai and Hangzhou.
+In March, a large American contingent organized by Precision star Kathie Wei played in Shanghai in the first Chinese international tournament. 
+The diagrammed deal, played in a match between one of the American teams and one of the Japanese teams, gave opportunities to both declarers in six diamonds. 
+It was furnished by Zhou Qi of Shanghai, an enthusiast who not only studies the game deeply but also directs Shanghai tournaments with great efficiency.
+At one table, as shown, the slam was reached without interference. 
+The two-diamond opening bid by the Tokyo South, Kanazawa Masaji, showed a powerful distributional hand with at least eight playing tricks.
+The opening lead by Judi Radin of New York was the club jack, and this was covered with the queen, king and ace. 
+Not having X-ray vision, South led the diamond jack to the king in dummy and found himself facing a sure trump loser. 
+He threw his club loser on the spade ace and ruffed a spade.
+South now cashed the diamond ace and played another trump, leaving West on lead in this position:
+ 
+NORTH S 9 4 H K 10 9 D - C 9 3
+WEST EAST S - S Q 10 H J 8 3 H Q 7 5 D - D - C 10 8 6 4 C 5 2
+ 
+SOUTH S - H A 6 2 D 10 9 7 5 C -
+Mrs. Radin was now endplayed. 
+She could not afford to lead a club, and tried the heart jack, the best chance. 
+She hoped to convince the declarer that she was making a cunning falsecard from a queen-jack holding, but South played with the percentages by winning in dummy and finessing against East's queen. 
+West was about twice as likely to have begun with one honor as with two. 
+It might seem that South was lucky to find that West had no more spades. 
+But if West had held a third spade, it would not have helped to lead it in the diagrammed position. 
+South would have run out all his trumps, executing a double squeeze. 
+Each defender would have to protect a black suit, and the heart six would score the last trick in the closed hand. 
+In the replay, the Japanese East player crowded the auction by opening three spades. 
+When South's overcall in diamonds was raised, he continued to slam, a sequence that was certainly appropriate here, although it sounds like a double-cross. 
+West now led the spade king, and the South player, former world champion Michael Lawrence, was able to adopt a slightly different procedure. 
+He won in dummy with the ace, throwing a heart rather than a club from his hand. 
+A small diamond was led to the ace, leaving the king as an entry to dummy. 
+When East discarded, there was still work to be done. 
+The ace and king of hearts were played, and a heart ruff established a trick in the suit and permitted a club discard later to make the slam. 
+If West had produced an honor on the second round of hearts, Lawrence would have had to think hard about the location of the other honor.
+ 
+NORTH S A 9 4 3 H K 10 9 4 D K 8 C Q 9 3
+WEST EAST(D) S K J S Q 10 8 7 6 5 2 H J 8 3 H Q 7 5 D Q 6 3 D - C J 10 8 6 4 C K 5 2
+ 
+SOUTH S - H A 6 2 D A J 10 9 7 5 4 2 C A 7
+Both sides were vulnerable. 
+The bidding: East South West North Pass 2 D Pass 2 S Pass 3 D Pass 4 D Pass 4 H Pass 5 H Pass 6 D Pass Pass Pass
+West led the club jack.
+ADD TO BRIDGE COLUMN
+In the bridge column that appeared last Sunday the final bid shown in the diagram should have been six spades, not four spades, and West should have been shown with the club queen, not the king.

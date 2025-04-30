@@ -1,0 +1,54 @@
+﻿
+With American corporations under increasing pressure to cut costs and build global supply networks, two senior I.B.M. officials told their corporate colleagues around the world in a recorded conference call that I.B.M. needed to accelerate its efforts to move white-collar, often high-paying, jobs overseas even though that might create a backlash among politicians and its own employees.
+During the call, I.B.M's top employee relations executives said that three million service jobs were expected to shift to foreign workers by 2015 and that I.B.M. should move some of its jobs now done in the United States, including software design jobs, to India and other countries.
+"Our competitors are doing it and we have to do it," Tom Lynch, I.B.M.'s director for global employee relations, said in the call. 
+A recording was provided to The New York Times recently by the Washington Alliance of Technology Workers, a Seattle-based group seeking to unionize high-technology workers. 
+The group said it had received the recording -- which was made by I.B.M. and later placed in digital form on an internal company Web site -- from an I.B.M. employee upset about the plans.
+I.B.M.'s internal discussion about moving jobs overseas provides a revealing look at how companies are grappling with a growing trend that many economists call off-shoring. 
+In decades past, millions of American manufacturing jobs moved overseas, but in recent years the movement has also shifted to the service sector, with everything from low-end call center jobs to high-paying computer chip design jobs migrating to China, India, the Philippines, Russia and other countries.
+Executives at I.B.M. and many other companies argue that creating more jobs in lower cost locations overseas keeps their industries competitive, holds costs down for American consumers, helps to develop poorer nations while supporting overall employment in the United States by improving productivity and the nation's global reach.
+"It's not about one shore or another shore," an I.B.M. spokeswoman, Kendra R. Collins, said. 
+"It's about investing around the world, including the United States, to build capability and deliver value as defined by our customers."
+But in recent weeks many politicians in Washington, including some in the Bush administration, have begun voicing concerns about the issue during a period when the economy is still weak and the information-technology, or I.T., sector remains mired in a long slump.
+At a Congressional hearing on June 18, Bruce P. Mehlman, the Commerce Department's assistant secretary for technology policy, said, "Many observers are pessimistic about the impact of offshore I.T. service work at a time when American I.T. workers are having more difficulty finding employment, creating personal hardships and increasing demands on our safety nets."
+Forrester Research, a high-technology consulting group, estimates that the number of service sector jobs newly located overseas, many of them tied to the information technology industry, will climb to 3.3 million in 2015 from about 400,000 this year. 
+This shift of 3 million jobs represents about 2 percent of all American jobs.
+"It's a very important, fundamental transition in the I.T. service industry that's taking place today," said Debashish Sinha, principal analyst for information technology services and sourcing at Gartner Inc., a consulting firm. 
+"It is a megatrend in the I.T. services industry."
+Forrester also estimated that 450,000 computer industry jobs could be transferred abroad in the next 12 years, representing 8 percent of the nation's computer jobs.
+For example, Oracle, a big maker of specialized business software, plans to increase its jobs in India to 6,000 from 3,200, while Microsoft plans to double the size of its software development operation in India to 500 by late this year. 
+Accenture, a leading consulting firm, has 4,400 workers in India, China, Russia and the Philippines.
+Critics worry that such moves will end up doing more harm to the American economy than good.
+"Once those jobs leave the country, they will never come back," said Phil Friedman, chief executive of Computer Generated Solutions, a 1,200-employee computer software company. 
+"If we continue losing these jobs, our schools will stop producing the computer engineers and programmers we need for the future."
+In the hourlong I.B.M. conference call, which took place in March, the company's executives were particularly worried that the trend could spur unionization efforts.
+"Governments are going to find that they're fairly limited as to what they can do, so unionizing becomes an attractive option," Mr. Lynch said on the recording. 
+"You can see some of the fairly appealing arguments they're making as to why employees need to do some things like organizing to help fight this."
+The I.B.M. executives also warned that when workers from China come to the United States to learn to do technology jobs now being done here, some American employees might grow enraged about being forced to train the foreign workers who might ultimately take away their jobs.
+"One of our challenges that we deal with every day is trying to balance what the business needs to do versus impact on people," Mr. Lynch said. 
+"This is one of these areas where this challenge hits us squarely between the eyes."
+Mr. Lynch warned that with the American economy in an "anemic" state, the difficulties and backlash from relocating jobs could be greater than in the past.
+"The economy is certainly less robust than it was a decade ago," Mr. Lynch said, "and to move jobs in that environment is going to create more challenges for the reabsorption of the people who are displaced."
+The I.B.M. executives said openly that they expected government officials to be angry about this trend.
+"It's hard for me to imagine any country just sitting back and letting jobs go offshore without raising some level of concern and investigation," Mr. Lynch said.
+Those concerns were pointedly raised on June 18, when the House Small Business Committee held a hearing on "The Globalization of White-Collar Jobs: Can America Lose These Jobs and Still Prosper?"
+"Increased global trade was supposed to lead to better jobs and higher standards of living," said Donald A. Manzullo, an Illinois Republican who is the committee chairman. 
+"The assumption was that while lower-skilled jobs would be done elsewhere, it would allow Americans to focus on higher-skilled, higher-paying opportunities. 
+But what do you tell the Ph.D., or professional engineer, or architect, or accountant, or computer scientist to do next?
+Where do you tell them to go?"
+The technology workers' alliance is highlighting I.B.M.'s outsourcing plans to help rally I.B.M. workers to the union banner.
+"It's a bad thing because high-tech companies like I.B.M., Microsoft, Oracle and Sun, are making the decision to create jobs overseas strictly based on labor costs and cutting positions," said Marcus Courtney, president of the group, an affiliate of the Communications Workers of America. 
+"It can create huge downward wage pressures on the American work force."
+Mr. Mehlman, the Commerce Department official, said companies were moving more service jobs overseas because trade barriers were falling, because India, Russia and many other countries have technology expertise, and because high-speed digital connections and other new technologies made it far easier to communicate from afar.
+Another important reason for moving jobs abroad is lower wages.
+"You can get crackerjack Java programmers in India right out of college for $5,000 a year versus $60,000 here," said Stephanie Moore, vice president for outsourcing at Forrester Research. 
+"The technology is such, why be in New York City when you can be 9,000 miles away with far less expense?"
+Company executives say this strategy is a vital way to build a global company and to serve customers around the world.
+General Electric has thousands of workers in India in call center, research and development efforts and in information technology. 
+Peter Stack, a G.E. spokesman, said, "The outsourcing presence in India definitely gives us a competitive advantage in the businesses that use it. 
+Those businesses are some of our growth businesses, and I would say that they're businesses where our overall employment is increasing and our jobs in the United States."
+David Samson, an Oracle spokesman said the expansion of operations in India was "additive" and was not resulting in any jobs losses in the United States.
+"Our aim here is not cost-driven," he said. 
+"It's to build a 24/7 follow-the-sun model for development and support. 
+When a software engineer goes to bed at night in the U.S., his or her colleague in India picks up development when they get into work. 
+They're able to continually develop products."

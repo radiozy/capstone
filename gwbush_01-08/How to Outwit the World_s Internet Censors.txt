@@ -1,0 +1,20 @@
+﻿
+When Google announced last week that it would censor its new search service in China, the company became, to many, the latest component in that country's sophisticated system of information control.
+With strategies ranging from automated keyword filtering and Web site blocking to Internet traffic surveillance, the Chinese government is unmatched in its ability to censor and monitor its citizens online.
+Of course, no system is perfect.
+The OpenNet Initiative (www.opennet.net), an international human rights project linking researchers from the University of Toronto, Harvard Law School and Cambridge University, tracks Internet censorship and the techniques used to evade it. 
+To surf the Web in China and elsewhere without censorship and in marginal safety, said John Palfrey, a Harvard law professor and a member of the initiative, the primary tool is an old standby: the proxy server.
+A proxy server is simply a generic computer through which people who want to be anonymous drive Web traffic before it reaches their own machines. 
+This helps dissociate a computer address from the Web sites its user has visited.
+It's not perfect. 
+You never know, for instance, how trustworthy any proxy really is, and servers go up and down unpredictably. 
+But people regularly use proxy servers for all kind of reasons -- from the political to the pornographic.
+Every day in China, Mr. Palfrey said, an underground economy of proxy server addresses comes alive -- usually connecting to servers made available by volunteers around the globe. 
+These addresses are passed along and traded, using elaborately coded language, on electronic bulletin board systems or chat channels.
+Elsewhere on the Web, the Electronic Frontier Foundation (www.eff.org) helps maintain Tor, a communications network that helps make Internet communications anonymous, and it appears to be accessible from within China. 
+Peacefire.org offers a program called The Circumventor that lets anyone turn a Windows-based machine into a proxy, allowing others to use it to circumvent local Internet restrictions.
+Even two small commercial companies, Dynamic Internet Technology and UltraReach Internet, offer software or Web services that try to poke holes in China's ''great firewall.''
+Of course, these precious few leaks are most likely little consolation for the dozens of Chinese citizens languishing in prison for saying or doing the wrong thing online. 
+And they are all the more reason that human rights workers keep discussions of circumvention tactics short -- and vague.
+''I don't ever want to make it any harder for people,'' Mr. Palfrey said. 
+TOM ZELLER Jr.

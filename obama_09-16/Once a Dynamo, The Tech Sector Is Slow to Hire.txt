@@ -1,0 +1,52 @@
+﻿
+For years the technology sector has been considered the most dynamic, promising and globally envied industry in the United States. 
+It escaped the recession relatively unscathed, and profits this year have been soaring.
+But as the nation struggles to put people back to work, even high-tech companies have been slow to hire, a sign of just how difficult it will be to address persistently high joblessness. 
+While the labor report released last week showing August figures provided mildly positive news on private-sector hiring, the unemployment rate was 9.6 percent.
+The disappointing hiring trend raises questions about whether the tech industry can help power a recovery and sustain American job growth in the next decade and beyond. 
+Its tentativeness has prompted economists to ask ''If high tech isn't hiring, who will?''
+''We are talking about people with very particular, advanced skills out there who are at this point just not needed anymore,'' says Bart van Ark, chief economist at the Conference Board, a business and economic research organization. 
+''Even in this sector, there is tremendous insecurity.''
+Government labor reports released this year, including the most recent one, present a tableau of shrinking opportunities in high-skill fields.
+Job growth in fields like computer systems design and Internet publishing has been slow in the last year. 
+Employment in areas like data processing and software publishing has actually fallen. 
+Additionally, computer scientists, systems analysts and computer programmers all had unemployment rates of around 6 percent in the second quarter of this year.
+While that might sound like a blessing compared with the rampant joblessness in manufacturing, it is still significantly higher than the unemployment rates in other white-collar professions.
+The chief hurdles to more robust technology hiring appear to be increasing automation and the addition of highly skilled labor overseas. 
+The result is a mismatch of skill levels here at home: not enough workers with the cutting-edge skills coveted by tech firms, and too many people with abilities that can be duplicated offshore at lower cost.
+That's a familiar situation to many out-of-work software engineers, whose skills start depreciating almost as soon as they are laid off, given the dynamism of the industry.
+''I'm sending out lots and lots and lots of applications, to everywhere within a 50-mile radius,'' says Rosamaria Carbonell Mann, 49, a software engineer who was terminated in June when her employer closed its branch in Corvallis, Ore., and sent the work to China.
+Corvallis was once a hotbed for tech start-ups. 
+But Ms. Mann said that with layoffs from other tech companies in the area, including Hewlett-Packard, the city now has a glut of people like herself: unemployed engineers with multiple degrees. 
+''I apply for everything I can find, but there are just not that many jobs out there,'' she said.
+Nevertheless, many high-tech companies large and small say they are struggling to find highly skilled engineering talent in the United States.
+''We are firing up our college recruiting program, enduring all manner of humiliation to try to fill these jobs,'' said Glenn Kelman, chief executive of Redfin, an online brokerage agency for buying and selling homes that is based in Seattle and San Francisco. 
+''I do think we're still chasing them, not the other way around.''
+He added, ''If there's the one enclave that has been completely unaffected by recession, it would be Stanford computer science students.''
+Meanwhile, an earlier generation of engineers is scouring for jobs, and having to compete with a more globalized pool of talent. 
+There are no definitive statistics on how many jobs are being moved overseas. 
+But economists who follow highly skilled employment say that some of the most prominent companies that laid off workers during the recession, like I.B.M., are expanding their work forces abroad.
+''Certainly a lot of these I.T. services firms plus the core software firms like Oracle are globalizing their work, or, as they put it, 'rebalancing' their work forces,'' says Ronil Hira, an assistant professor of public policy at the Rochester Institute of Technology.
+In the past, the American jobs most susceptible to being shipped abroad were lower-skilled positions. 
+But now emerging economies have been harvesting their long-term investments in math and science education and attracting high-tech firms -- and not just textile factories or call centers -- to their shores.
+These higher skills have become commodities, said Catherine L. Mann, a global finance professor at the Brandeis University International Business School who studies the outsourcing of jobs. 
+The programming language ''C++ is now an international language,'' she said. 
+''If that's all you know, then you're competing with people in India or China who will do the work for less.''
+In addition to lower wages, developing countries offer significant consumer growth, giving businesses a reason to make more products closer to the buyer, and hire locally.
+And increasingly, these new, lower-cost research centers, while perhaps initially intended to adapt products for local use, are becoming sources of innovation themselves.
+''There's been this assumption that there's a global hierarchy of work, that all the high-end service work, knowledge work, R.&D. work would stay in U.S., and that all the lower-end work would be transferred to emerging markets,'' said Hal Salzman, a public policy professor at Rutgers and a senior faculty fellow at Heldrich Center for Workforce Development.
+''That hierarchy has been upset, to say the least,'' he said. 
+''More and more of the innovation is coming out of the emerging markets, as part of this bottom-up push.''
+The narrative is familiar to Ms. Mann, the unemployed software engineer. 
+She said her employer, International Gaming Technology, initially told her office that it was opening a branch in China to work with the company's casino clients in Macau and Australia.
+She said she was told that the new branch would be tailoring products to local needs and doing some back-office work. 
+But a year later it absorbed all the operations once performed by the Corvallis staff. 
+International Gaming Technology, based in Reno, Nev., did not respond to repeated requests for comment.
+This is the second time, Ms. Mann said, that an employer has sent her job abroad since she received her master's in computer science more than two decades ago; the last time was in 2001. 
+This week she starts a yearlong program to upgrade her programming skills, paid for by a federal program that assists workers who have been displaced by international trade.
+The experience of Ms. Mann and others like her suggests that the technology industry may not be the savior of the American job market and a magic bullet for a moribund economy -- even though the Obama administration has called for a revival of math and science training and emphasized the need for American companies to take the lead in fields like clean energy.
+Instead, some economists and policy makers are looking to health care to lead an employment surge. 
+They point to the field's growing demand for new services, the need for physical proximity for many patient procedures, and a bureaucracy that entails layer upon layer of jobs.
+Because these jobs seem more secure, Ms. Mann said she briefly considered making a move into health care. 
+''That's something that can't be outsourced as far as I can tell, but it's not for me,'' she said. 
+''I don't do well looking at people's blood.''

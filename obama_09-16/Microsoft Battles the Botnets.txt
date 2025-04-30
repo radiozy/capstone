@@ -1,0 +1,53 @@
+﻿
+WASHINGTON -- A customer in Shenzhen, China, took a brand new laptop out of its box and turned it on for the first time. 
+But as the screen lit up, the computer began taking on a life of its own. 
+The machine, directed by a virus hidden in its hard drive, started searching the Internet for another computer.
+The laptop, supposedly in pristine, direct-from-the-factory condition, had instantly become part of an illegal global network capable of attacking Web sites, looting bank accounts and stealing personal data.
+For years, online investigators have warned consumers about the dangers of opening or downloading files sent by e-mail from unknown or suspicious sources. 
+Now, they say, malicious software and computer code could be lurking on computers before the bubble wrap even comes off.
+The shopper in this case was part of a team of Microsoft researchers in China investigating the sale of counterfeit software. 
+They suddenly had been introduced to malware called Nitol. 
+The incident was described in court documents unsealed Thursday in a U.S. court in Virginia. 
+The records describe a new front in a legal campaign against cybercrime being waged by Microsoft, the maker of the Windows operating system, which is the biggest target for viruses.
+The documents are part of a computer fraud lawsuit filed by Microsoft against a Web domain registered to a Chinese businessman named Peng Yong. 
+The company says that domain is a focal point for illicit Internet activity. 
+It is home base for Nitol and more than 500 other types of malware, making it the largest single repository of infected software that Microsoft executives have ever encountered.
+Mr. Peng, the owner of an Internet services company, said he was not aware of the Microsoft lawsuit and denied the allegations, saying his company did not tolerate improper conduct on the domain, 3322.org. 
+Three other unidentified individuals accused by Microsoft of establishing and operating the Nitol network are also named in the suit.
+What emerges most vividly from the court records and interviews with Microsoft officials is a disturbing picture of how vulnerable Internet users have become, in part because of weaknesses in computer supply chains. 
+To increase their profit margins, some computer manufacturers and retailers may use counterfeit copies of popular software products to build machines more cheaply. 
+Plugging the holes is nearly impossible, especially in less regulated markets like China, and that creates opportunities for cybercriminals.
+''They're really changing the ways they try to attack you,'' said Richard Boscovich, a former U.S. government prosecutor and a senior attorney in Microsoft's digital crimes unit.
+And distance does not confer safety. 
+Nitol, for example, is an aggressive virus found on computers in China, the United States, Russia, Australia and Germany. 
+Microsoft has even identified servers in the Cayman Islands controlling Nitol- infected machines. 
+All these compromised computers become part of a botnet -- a collection of compromised computers -- which is one of the most invasive and persistent tools of cybercrime.
+Nitol, meanwhile, appears poised to strike. 
+Infection rates have peaked, according to Patrick Stratton, a senior manager in Microsoft's digital crimes unit who filed a document in the court case explaining Nitol and its connection to the 3322.org domain.
+For Microsoft, pursuing cybercriminals is a smart business. 
+Its Windows operating system runs most of the computers connected to the Internet. 
+Victims of malware are likely to believe their problems stem from Windows instead of a virus they are unaware of, and that damages the company's brand and reputation.
+But more than Microsoft's image is at stake when counterfeit products are tainted by rapidly spreading malware, Mr. Boscovich said. 
+''It's more than simply a traditional intellectual property issue,'' he said. 
+''It's now become a security issue.''
+The investigation by Microsoft's digital crimes unit began in August 2011 as a study into the sale and distribution of counterfeit versions of Windows. 
+Microsoft employees in China bought 20 new computers from retailers and took them back to a home with an Internet connection.
+They found forged versions of Windows on all the machines and malware preinstalled on four. 
+The one with Nitol, however, was the most alarming because the malware was active.
+''As soon as we powered on this particular computer, of its own accord without any instruction from us, it began reaching out across the Internet, attempting to contact a computer unfamiliar to us,'' Mr. Stratton said in the document filed with the court.
+Mr. Stratton and his colleagues also found Nitol to be highly contagious. 
+They inserted a thumb drive into the computer and the virus immediately copied itself onto it. 
+When the drive was inserted into a separate machine, Nitol quickly copied itself onto it.
+Microsoft examined thousands of samples of Nitol, which has several variants, and all of them connected to command-and-control servers associated with the 3322.org domain, according to the court records.
+''In short, 3322.org is a major hub of illegal Internet activity, used by criminals every minute of every day to pump malware and instructions to the computers of innocent people worldwide,'' Microsoft said in its lawsuit.
+Mr. Peng, the registered owner of 3322.org, said he had ''zero tolerance'' for the misuse of domain names and worked with Chinese law enforcement whenever there were complaints. 
+Still, he said, his huge customer base made policing difficult.
+''Our policy unequivocally opposes the use of any of our domain names for malicious purposes,'' Mr. Peng said in a private chat via Sina Weibo, a service like Twitter that is popular in China. 
+''We currently have 2.85 million domain names and cannot exclude that individual users might be using domain names for malicious purposes.''
+But past warnings by other online security firms have been ignored by Mr. Peng, Mr. Boscovich said. 
+The 3322.org domain accounted for more than 17 percent of malicious Web transactions worldwide in 2009, according to Zscaler, a computer security firm in San Jose, California. 
+In 2008, the Russian security company Kaspersky Lab reported that 40 percent of all malware programs linked, at one point or another, to 3322.org.
+Judge Gerald Bruce Lee of U.S. 
+District Court, who is presiding in the case, granted a request from Microsoft to begin steering Internet traffic that has been infected by Nitol and other malware away from 3322.org to a special site called a sinkhole. 
+From there, Microsoft can alert affected computer users to update their anti-virus protection and remove Nitol from their machines.
+Since Judge Lee issued the order, more than 37 million malware connections have been blocked from 3322.org, according to Microsoft.

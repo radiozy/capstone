@@ -1,0 +1,67 @@
+﻿
+The White House's hard-line approach threatens to speed up the development of two technology worlds, further isolating one-fifth of internet users.
+China has spent nearly two decades building a digital wall between itself and the rest of the world, a one-way barrier designed to keep out foreign companies like Facebook and Google while allowing Chinese rivals to leave home and expand across the world.
+Now President Trump is sealing up that wall from the other side.
+Google said on Monday that it would limit the software services it provides to Huawei, the telecommunications giant, after a White House order last week   restricted the Chinese company's access to American technology. 
+Google's software powers Huawei's smartphones, and its apps come preloaded on the devices Huawei sells around the world. 
+Depending on how the White House's order is carried out, that could come to a stop.
+For Huawei, the big impact will be abroad, since Chinese customers already have limited access to Google's services. 
+Google's move will have its biggest effect in places like Europe, where it has emerged as a big smartphone seller. 
+Other companies will inevitably follow. 
+In effect, the move puts pressure on Huawei's international expansion dreams.
+If China and the United States have begun a technological Cold War, then the Huawei order can best be seen as the beginnings of a digital Iron Curtain. 
+In this potential vision of the future of technology, China will continue to keep out much of the world. 
+The United States and many other countries, goes this thinking, will in turn block Chinese technology.
+The tougher American stance is closing off many of the ways that the United States and China exchanged ideas and did business despite the strict Chinese censorship regime. 
+Those closed doors could have profound effects not only on the business of technology, but also on how the world will use and understand the devices and services of the future.
+Already, China's censorship and tight control of its citizens' digital lives have effectively isolated one-fifth of the world's internet-using population, giving rise to a generation that doesn't know what it means to Google something or to subscribe to a YouTube channel.
+The aggressive new stance by the United States will only speed up that process, opening a potential window to a day when Chinese people can use only Chinese phones and gadgets powered by homegrown chips and software. 
+All this is happening with a speed that has shocked many in China.
+"The move by the Trump administration is much more comprehensive than many Chinese expected," said Nicole Peng, an analyst at technology research firm Canalys. 
+"It also came much earlier. 
+Many people only realize now that it's for real."
+It is far from clear whether the Trump administration's moves will truly isolate Huawei from the rest of the world. 
+The White House has struggled to persuade other countries to stop buying Huawei's telecommunications equipment,   citing potential espionage concerns. 
+(Huawei denies that it spies for the Chinese government.) Huawei has already developed its own chips and other capabilities, and has said that it has stockpiled equipment for a day when it would lose access to American know-how and equipment.
+The attack on Huawei is also taking place against the backdrop of a worsening trade war, making it one piece on a larger game board. 
+Just as it did last year, when the White House   relented on a similar order that crippled   Huawei's rival ZTE, the United States   could lift its pressure on Huawei to ease tensions between Washington and Beijing.
+China has ways it could retaliate. 
+On Monday, China's state media reported that Xi Jinping, China's top leader, visited a site that mines and processes rare earths, which are essential minerals for a number of manufacturers in low-carbon technologies. 
+His visit was a none-too-subtle reminder that China has a commanding presence in rare earths and could shut off global supplies — something it   has done once before.
+The digital Iron Curtain has been long in the making. 
+From its earliest days dealing with the internet, the Chinese government has squelched content it didn't like. 
+Today, the Chinese internet at first glance doesn't look much like the one the rest of the world uses. 
+It has different platforms, ideals and business strategies, all tended carefully by censors.
+But the wall was mostly one-sided. 
+American chips and software power Chinese servers and mainframes. 
+China has been a big revenue driver for Apple, Oracle, Intel, Qualcomm and other big names in tech. 
+Much of this was by necessity, since China couldn't make all this stuff itself, but it still gave American companies a role in the direction of the Chinese digital future.
+The ties go deeper. 
+Many of the founders of China's most successful technology companies were educated in the United States. 
+American investors helped them get established, and some of those Chinese companies turned around and invested in American companies. 
+Academics from the two countries regularly teamed up and swapped notes.
+Now the United States, concerned about securing intellectual property, is working to block some of those channels. 
+It has tightened limits on Chinese investment in American companies. 
+Some Chinese students who focused on science and technology have had problems getting visas to the United States. 
+Some Chinese scholars have had their American visas revoked over spying fears.
+With the Huawei limits, the Trump administration cited safety. 
+The Commerce Department announced last week that it had placed Huawei and its dozens of affiliates on a list of firms deemed a risk to national security. 
+The listing will prevent Huawei from buying American parts and technologies without seeking United States government approval.
+The executive order, issued after trade talks with China collapsed this month, could ripple through all parts of Huawei's business. 
+It has said American suppliers account for nearly one-fifth of its procurement spending. 
+Even small parts could be crucial. 
+Nobody wants to buy a high-end Huawei router that is only 95 percent complete.
+But in international expansion, companies like Google give Huawei a common platform for customers outside China. 
+Its phones come loaded with Google Play, the app and media store, as well as popular apps like Gmail and YouTube. 
+Its license to use Android gives Huawei access to security updates and new features.
+Without Google's cooperation, Huawei would have to come up with its own version of Android or use its own homegrown operating system. 
+Many customers in places like Europe would rather not deal with that fuss. 
+China has been trying to build its own operating systems over the past three decades but has not had much success.
+In China, many people see the American moves as a naked ploy to stop a rising Chinese competitor. 
+The United States can't beat Huawei's innovation and moxie, goes this thinking, so it will use the power of government to keep a Chinese rival down.
+Others in China point to the country's own barriers against competitors as a strategy that was going to provoke retaliation sooner or later. 
+At some point, the United States was bound to use reciprocity in dealing with a closed Chinese internet market. 
+One popular blog post explained that reciprocity has been translated into "mutual benefit" in Chinese, which explains why many in China didn't understand that the idea could be used in retaliation.
+Another popular blog post drives the point even more clearly.
+"You've been opposing the U.S. for many years," said the headline. 
+"You should be long prepared that the U.S. will oppose you one day."

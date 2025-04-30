@@ -1,0 +1,61 @@
+﻿
+SAN FRANCISCO -- Nasty legal battles are nothing new in the tech industry. 
+But Apple's conflict with the wireless chip maker Qualcomm, headed for a crucial court showdown this coming week, has a special intensity.
+The two companies, once partners of a sort, now disagree about nearly everything -- including which one deserves the most credit for shaping the evolution of smartphones.
+Their formidable legal teams are at war on three continents, in a struggle that could affect the division of billions of dollars of smartphone profits and, perhaps, even how much consumers pay for their phones.
+Now, the action moves to a federal courtroom in San Diego, where jury selection is set to begin on Monday for a trial on an Apple lawsuit and Qualcomm's counterclaims. 
+The chief executives of both companies are likely to take the stand.
+The stakes are reflected in the eye-popping damage claims. 
+Four Asia-based contract manufacturers that assemble iPhones and iPads, whose suits have been merged with Apple's, argue that they collectively overpaid Qualcomm roughly $9 billion in royalties over the years -- a figure that could be tripled under antitrust laws to $27 billion.
+Apple says Qualcomm should also repay $3.1 billion associated with patents whose rights Apple says are exhausted. 
+It has already won a preliminary ruling that Qualcomm should pay nearly $1 billion in withheld rebates.
+Qualcomm, in return, estimates that Apple's partners -- Foxconn, Pegatron, Wistron and Compal Electronics -- owe more than $7.5 billion in unpaid royalties. 
+And it contends that Apple, which reimburses the manufacturers' royalty payments, should be liable for a doubled penalty that would take the total to $15 billion or more.
+Qualcomm's business practices have also attracted harsh scrutiny from regulators in multiple countries, including China and South Korea. 
+A high-profile Federal Trade Commission antitrust suit is awaiting a judge's verdict after a trial in San Jose, Calif.
+The world-spanning legal struggle between Apple and Qualcomm touches on two crucial issues for the tech industry: What is the proper balance between patent rights and competition?
+And what is the proper role of the government in regulating tech giants?
+''It's a great deal more than just a legal case,'' said Michael Wolf, who has tracked the issues for his management consulting firm Activate.
+The fight is an existential one for Qualcomm, at least as it has operated for most of its nearly 34 years in business. 
+The company, based in San Diego, pioneered a type of cellular communications in the 1990s that later became a mainstay of mobile devices. 
+That innovation allowed Qualcomm to charge patent royalties on nearly every smartphone sold, which generates the bulk of its profits.
+Qualcomm has historically charged about 5 percent of the wholesale price of a mobile phone. 
+Because of Qualcomm's various patents, companies building phones that would connect to cellular networks must pay that fee for every phone -- even if the phone does not actually use Qualcomm chips.
+Phone makers have little leverage to negotiate for lower rates, the F.T.C. argued in its suit, which was filed in January 2017, that leans partly on Apple's contentions.
+Because Qualcomm holds monopoly positions in two varieties of wireless chips, the F.T.C. argued, handset makers feared that Qualcomm could cut off shipments if they balked at paying royalties. 
+Qualcomm insists it never used that tactic. 
+Rival chip makers, denied patent licenses from Qualcomm, have fled the market while suppliers like Intel are struggling, the F.T.C. said.
+Apple, which sued Qualcomm shortly after the F.T.C.'s action, particularly objects to basing royalties on a phone's total price. 
+It says that formula means that Qualcomm earns more money as handset makers add innovations like displays, touch sensors and data storage unrelated to wireless technology.
+Qualcomm insists its business model has benefited consumers by helping to fund new innovations like the latest 5G wireless technology. 
+It has responded with counterclaims that Apple and its manufacturing partners violated licensing contracts. 
+Qualcomm has added a string of other court actions, including patent infringement suits against Apple in the United States, China and Germany.
+Qualcomm has so far persuaded courts in some countries, including China, to ban sales of some iPhones there, though Apple has dodged shipment disruptions, in part, by tweaking some of its software.
+The fight has also migrated to Washington. 
+A little over a year ago, Qualcomm was spared a hostile takeover bid by Broadcom after the Trump administration blocked the deal on national security grounds. 
+Qualcomm has raised the possibility that any court-ordered changes to its practices would threaten investments in wireless technologies that are critical to the American military and intelligence gathering. 
+The chip maker also hired the opposition research firm Definers Public Affairs, which has distributed anti-Apple research to reporters.
+Many Qualcomm customers, partners and rivals are involved in the trial that starts on Monday. 
+Tim Cook, Apple's chief executive; Philip Schiller, the company's senior vice president of worldwide marketing; Qualcomm's chief executive, Steven Mollenkopf, and its co-founder Irwin Jacobs could all be called to testify.
+One of the thorniest topics is whether Qualcomm's royalty rates hurt consumers by raising smartphone prices. 
+The F.T.C. contends they do, though it didn't quantify the impact. 
+Pricing is also at the heart of a separate private case against Qualcomm brought on behalf of smartphone purchasers, which seeks $5 billion in aggregate damages.
+Qualcomm insists its royalties have negligible effect in the mobile market, because competition is sharply reducing prices on many phones and new features have simultaneously pushed flagship models above $1,000. 
+It is appealing a judge's ruling granting class-action status in the consumer case.
+''It's much easier to show harm in a shrinking market,'' said David Reichenberg, an antitrust attorney at Cozen O'Connor who specializes in tech cases. 
+''It's not easy here.''
+The 11-day trial in January in the F.T.C. case featured testimony by several Apple executives and numerous internal emails from the companies.
+Apple, which shied away from Qualcomm chips for the first iPhones, was facing the prospect in 2006 of paying $12 to $20 in royalties per handset, Jeff Williams, Apple's chief operating officer, testified at the trial. 
+It wound up accepting a Qualcomm rebate that reduced the rate to $7.50 per device, as long as Apple agreed not to adopt a rival wireless technology, called WiMax, being promoted by Intel, he said.
+Apple began using Qualcomm chips for iPhones starting in 2011, after tense negotiations, Mr. Williams said. 
+Apple managed to keep the $7.50 royalty rate as part of deals reached in 2011 and 2013, but the smartphone maker faced big financial penalties if it started using other chip suppliers.
+''We were staring at an increase of over a billion dollars a year on licensing,'' Mr. Williams testified in connection with the 2013 deal. 
+''We had a gun to our head.''
+Another Apple executive, Tony Blevins, testified that it began searching seriously for alternative suppliers in 2013. 
+But Intel didn't manage to win a share of Apple chip purchases until 2016.
+After legal hostilities began with Qualcomm the next year, Apple stopped paying patent royalties and Qualcomm stopped supplying chips for Apple's newest iPhones -- forcing Apple to ask Intel for a surprise increase in production, Mr. Williams said.
+Qualcomm has insisted that its royalty rates, rebates and exclusivity provisions are standard industry practices and had no effect on restricting competition.
+Companies like Nvidia, Texas Instruments, Broadcom and Marvell have stopped selling wireless modem chips. 
+But Qualcomm noted that Intel and MediaTek are major suppliers to phone makers, while Samsung and Huawei provide chips for their own phones.
+''The F.T.C. failed to show harm to competition,'' Robert Van Nest, Qualcomm's lead trial attorney, said in closing arguments at the trial. 
+''The evidence is simply overwhelming that Qualcomm earned its position and success through superior innovation and better products.''

@@ -1,0 +1,31 @@
+﻿
+HONG KONG — After Intel and Foxconn said they would build advanced factories in America, it might have seemed as if the United States were gaining high-end manufacturing momentum.
+But on Friday, the California-based chip maker GlobalFoundries announced a $10 billion project in China, showing how the center of gravity continues to shift across the Pacific.
+The new advanced semiconductor factory, in the central Chinese city of Chengdu, is only the most recent in an array of investments, often by major multinationals, into China with the support of the Chinese government. 
+The projects have become markedly more sophisticated, making more modern microchips, memory chips or flat-panel displays.
+The reason for the shift is in part the Chinese government. 
+In 2013 Beijing announced a major initiative to expand the country's ability to produce microchips, which act as the brains of everything from guided missiles to smartphones. 
+Also driving the companies, according to analysts, are new guidelines urging Chinese electronics makers to buy chips made in China.
+Since China has begun focusing on semiconductors, the provenance of advanced chips has become an increasingly fraught political issue. 
+The United States government has blocked several Chinese deals for American and European chip companies during the past two years, and a commission created by former President Barack Obama said China's chip policies posed a risk to American companies.
+The election of President Trump has further increased pressure on companies, several of which have announced plans to build facilities in America. 
+In Intel's case, it was a recommitment to an earlier plan the company had announced.
+Leading China's charge have been both the central and provincial governments, which have been spending billions of dollars on investments and subsidies. 
+The government has said China will spend about $100 billion to bring chip factories and research facilities to China.
+"Almost all of the large semiconductor enterprises in the United States have received investment offers from Chinese state actors," according to a report from the Mercator Institute for China Studies, a think tank based in Germany. 
+The report added that China's newest industrial policy, Made in China 2025, had named semiconductors as a crucial area to improve.
+Although analysts remain unsure of how quickly China might be able to close a huge gap with companies from Japan, South Korea, Taiwan and the United States, the funds have been slowly attracting new plants. 
+A semiconductor industry group said in a recent report that it was tracking the production of more than 20 semiconductor manufacturing plants in China.
+"Such spending momentum will drive China to the top-tier bracket for fab equipment and is paving the way to establish China's position on the global semiconductor stage," according to a recent report by SEMI, a global microelectronics industry association, referring to tools used to fabricate chips.
+The GlobalFoundries project is being built in cooperation with the Chengdu municipal government. 
+GlobalFoundries declined to specify the amount of the investment, but several documents on government websites put the total project around $10 billion.
+Jason Gorss, a GlobalFoundries spokesman, declined to provide financial details but said in an email that "industry analysts estimate that the total cost of an advanced semiconductor fab is on the order of $10B and this fab will be in that range." It is not clear how much investment is being provided by the company and how much by the Chengdu government.
+Although the semiconductors produced at the plant will be a generation behind the most cutting-edge chip technology, they are based on a special design that is likely to make them useful in sensors for mobile devices, cars and other gadgets that are increasingly being connected to computer networks.
+GlobalFoundries is based in Santa Clara, Calif., and owned by Abu Dhabi, one of the United Arab Emirates. 
+The company has semiconductor plants across the world, including two former IBM plants in the United States that it uses to make chips for the American military.
+Although Intel and Foxconn have said they have plans to build in America, the factories being built in China greatly outnumber them.
+In late 2015, a leading chip maker, Taiwan Semiconductor Manufacturing, said it would build a production facility in China despite longtime concerns from Taiwan's government about insulating the industry from Chinese competition and potential intellectual property theft. 
+Late last year, another major chip maker from Taiwan, United Microelectronics, said it would build a factory on the east coast of China.
+Other companies have taken different approaches. 
+The American chip maker AMD has licensed technology to a Chinese joint venture, also in Chengdu. 
+IBM has licensed chip technology to a separate local partner.

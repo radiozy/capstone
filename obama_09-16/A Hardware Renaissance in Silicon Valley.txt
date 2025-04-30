@@ -1,0 +1,63 @@
+﻿
+In recent years, Silicon Valley seems to have forgotten about silicon. 
+It's been about dot-coms, Web advertising, social networking and apps for smartphones.
+But there are signs here that hardware is becoming the new software.
+It is an expansion of a trend that began a few years ago with the Flip videophone, a sleeper hit, and has recently accelerated with Nest, the smart thermostat; Lytro, a camera that refocuses a photo after it is taken; and the Pebble smartwatch, a wristwatch that can interact with a smartphone.
+Although the hardware is not manufactured in Silicon Valley, it is being conceived, designed, prototyped and financed here, usually by small start-ups.
+What has changed?
+Each of those steps is speeding up, which cuts the costs and lowers the risks of developing new things.
+It's not that software is any less important in Silicon Valley. 
+One reason for the rise of hardware is that it is now so tightly integrated with software. 
+Apple has taught a generation of product designers that an electronic device isn't much without specially designed software that makes it a joy to use.
+Instead, any designer now has the ability to quickly experiment with new product designs using low-cost 3-D printers. 
+These printers can churn out objects to make prototypes quickly -- a fork, wall hooks, mugs, a luggage clasp -- by printing thousands of layers of wafer-thin slices of plastics, ceramics or other materials. 
+Products can be made quickly in contract assembly plants overseas, usually in China.
+All of this has given designers and engineers a fast-forward button advancing this technological flip-flop.
+''Something that once took three months to make now takes less than a month,'' explained Andre Yousefi, co-founder of Lime Lab, a product development firm based in San Francisco that works with start-ups to create hardware products. 
+''With 3-D printers, you can now create almost disposable prototypes,'' he said. 
+''You queue it up at night, pick it up in the morning and can throw it away by 11 a.m.''
+The rapidly falling cost of building computer-based gadgets has touched off a wave of innovation that is starting to eclipse the software-driven world that came to dominate the Valley in the dot-com boom of the late 1990s.
+''If we look hard over the last 10 or 15 years, people don't realize how different the world is now compared to 1996,'' said Sean O'Sullivan, a venture capitalist who splits his time between the United States, Ireland and China. 
+''Products like the iPhone have driven down the cost of components. 
+You can now easily make connected devices that transform lives in the way we have only been able to do with software before.''
+To prove his point, Mr. O'Sullivan recently took teams from nine small start-up companies to Shenzhen, China, for 111 days in which each group developed and began manufacturing new products. 
+He calls his investment firm, based in San Francisco, Haxlr8r (pronounced hak-CEL-erator), and in June the first group of fast-to-market hardware products was unveiled. 
+The companies included Shaka, which makes a simple device for measuring wind for sailboard and kite surfers, and Kindara, maker of an iPhone accessory to help women determine when they are ovulating. 
+(The system automatically generates a text message to the husband at the appropriate time.) There is also Bilibot, a project to build an inexpensive open-source robot.
+THE shift away from the Valley's obsession with dot-com services and Web-based social networks is a return to the region's roots. 
+The Valley began as a center for electronics hardware design in the late 1930s, when Bill Hewlett and David Packard built an audio oscillator that Walt Disney used in the production of the movie ''Fantasia.''
+At the start of the 1970s, the label Silicon Valley was coined because of the proliferation of semiconductor companies. 
+In the mid-1970s, a group of computer hardware hobbyists started the Homebrew Computer Club here, which gave rise to several dozen start-ups, including Apple Computer.
+Today some of the most successful hardware start-ups in Silicon Valley have been formed from the diaspora of former Apple employees who want to try their hand at companies that pair hardware and software -- which is an integral part of Apple's DNA.
+Tony Fadell, a former Apple executive who led the design teams on the iPod and iPhone, recently started a company called Nest, which makes a beautifully designed smart thermometer for the home. 
+It is one of the hit home electronics products of the year. 
+Hugo Fiennes, the Apple hardware manager for the first four iPhones, started a company called Electric Imp, which plans to connect everyday objects, like wall outlets and household appliances, to the Internet.
+And Andy Rubin, who now heads Google's Android phone business, worked as an Apple engineer before leaving to help create a series of start-ups, the most recent of which was acquired by Google in 2005. 
+The Android software, tightly integrated into smartphones, has come to rival that of Apple's iPhone.
+Hosain Rahman, C.E.O. of Jawbone, a hardware start-up that makes slick Bluetooth speaker systems and headsets, said Apple's influence on design set a standard for who could enter the hardware start-up world. 
+''The bar for great hardware experiences has been set so high by our friends in Cupertino,'' he said, referring to Apple's home. 
+''They've raised the overall goodness of hardware.''
+''You can come up with a new concept or idea and you can really efficiently figure out if it's a viable product,'' Mr. Rahman said. 
+''Now you can test a lot of ideas for a lot less capital and intensity.''
+But, he warned, ''the scaling and supply chain, marketing and distribution is still quite hard.''
+Yet even distribution has been simplified by technology. 
+Online marketplaces like Etsy, Amazon and Google's Marketplace allow people to set up shop on any street corner of the Web and begin hawking their latest hardware ideas.
+Because of the excitement around hardware, start-ups in New York and Silicon Valley are now vying for venture capital investments. 
+Electric Imp recently closed an $8 million financing round from big-name venture firms. 
+LittleBits, a New York company, just signed a deal for $3.65 million in financing to start mass-producing its tiny tech toys. 
+Mr. Yousefi's company, Lime Lab, was acquired this year by PCH International, headquartered in Cork, Ireland. 
+PCH is a manufacturer that works with start-ups and technology companies in Silicon Valley to build hardware products that just a decade ago would have cost millions of dollars and years to realize.
+Liam Casey, founder and chief executive of PCH International, said the ease of making hardware prototypes had contributed to the rise of a new genre of financing with Kickstarter, a Web site that has raised impressive sums for a number of hardware start-ups. 
+Entrepreneurs pitch their idea on the site and ask for donations -- often promising the product, or at least a promotional T-shirt, for the cash.
+''The money has always been the barrier for hardware,'' Mr. Casey said, ''and by showing the amount of interest from consumers, start-ups can now create a space that makes V.C.'s feel comfortable investing in their hardware project.''
+Ouya, an open-source game console for the television built using Google Android, just raised more than $8 million through Kickstarter. 
+Pebble, the smartwatch that connects to iPhone and Android smartphones, raised more than $10 million after asking for just $100,000.
+THE collapsing cost of hardware can be seen in its revival of a hobbyist ethos in the so-called Maker subculture. 
+That ethos is thriving on the easy availability of low-cost computers and sensors.
+One of the best examples of that movement is a full-blown $25 computer system the size of a credit card. 
+Designed by a small team led by Eben Upton, a chip designer at Broadcom, the computer is known as Raspberry Pi, and the Valley's hobbyists and start-up fans have seized on it as a breakthrough in innovation. 
+So far, 100,000 computers have been sold, and the Raspberry Pi Foundation is making 4,000 daily -- enough to reach almost 1.5 million dreamers in a year.
+When Raspberry Pi is almost as cheap as a raspberry pie, the impact on future hardware development will be profound. 
+''People are using this as a catalyst to get new designs to the market more quickly,'' said Kevin Yapp, chief of marketing and strategy for Element 14, an international online community for engineers backing the project.
+Stewart Brand said that information like software ''wants to be free,'' said Mr. O'Sullivan, the venture capitalist. 
+''Now hardware is almost as cheap as software.''

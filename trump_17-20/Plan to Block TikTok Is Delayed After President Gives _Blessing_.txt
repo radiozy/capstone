@@ -1,0 +1,63 @@
+﻿
+The approval delays President Trump's threat to block a popular Chinese-owned social media app, while the American software giant, Walmart and others try to complete a deal to take control.
+WASHINGTON -- President Trump said on Saturday that he had approved a deal between the Chinese-owned social media app TikTok and major American companies, an agreement that will delay the U.S. government's threat to block the popular app in the United States over national security concerns.
+The deal, which must still gain formal U.S. approval, would create a new U.S.-based company, TikTok Global, in which Oracle, an American software maker, and Walmart would own 20 percent, placing more equity in the service into the hands of American companies and investors.
+While the structure falls short of an all-out sale of TikTok, it is still a concession by ByteDance, TikTok's Chinese owner -- one that has apparently satisfied the administration's concerns about China's ability to harness data from users of the app. 
+The Commerce Department, which planned to bar TikTok from U.S. app stores as of midnight Sunday, said that it would delay that plan for one week.
+The deal capped weeks of drama over the fate of TikTok that underscored how much relations between the United States and China have deteriorated, with their race for technological superiority and their mutual suspicions extending to a social media platform known for silly video clips and a trendsetting, mostly young user base of 100 million people in the United States.
+Mr. Trump has increasingly taken aim at Chinese technology, including TikTok and WeChat, saying companies and apps with ties to China pose a threat to American national security and threatening to ban them from the United States. 
+The situation intensified in early August, when Mr. Trump issued an executive order essentially mandating that ByteDance strike a deal to sell TikTok's U.S. operations by Sept. 
+20, or cease some commercial operations. 
+A second executive order set a later deadline for ByteDance to fully divest from the product.
+That decree prompted top officials, including Treasury Secretary Steven Mnuchin, to inject the U.S. government into private-sector discussions about a deal to transfer some control of TikTok to an American company.
+The orders pushed ByteDance to hasten discussions that had already been underway with potential bidders about TikTok's ownership structure. 
+Microsoft, Walmart and Oracle were among those that entered talks about acquiring TikTok's U.S. business.
+''Threatening TikTok has been the most prominent step so far in a U.S. trajectory toward technology decoupling'' with China, said Paul Gallant, an analyst at Cowen and Company. 
+''I think it puts everybody in the U.S. tech sector on notice that they need to scrutinize even their seemingly innocuous connections to China.''
+Mr. Trump had previously said he would not be satisfied with a deal where ByteDance retained a majority stake in the company.
+Under the agreement, ByteDance and its investors, which include the U.S.-based General Atlantic, Coatue Management and Sequoia Capital, would transfer some of their equity control into TikTok Global.
+Still, exactly who would control the new entity remained unclear. 
+Two people familiar with the matter said ByteDance would hold an 80 percent stake in TikTok Global. 
+But because ByteDance is partly owned by non-Chinese investors, those investors would become indirect owners of TikTok Global, bumping up the U.S.-ownership stake and allowing the Trump administration to claim that the majority of the company is owned by Americans.
+TikTok Global's ownership would be made up of 53 percent American investors, a person familiar with the matter said, including the 20 percent stake held by Oracle and Walmart and existing American investments in ByteDance. 
+A group of additional ByteDance investors -- most of them based in Europe -- would control 11 percent of the service, one of the people familiar with the discussions said. 
+Chinese investors, primarily the ByteDance founder Zhang Yiming and its employees, would hold the rest, or about 36 percent.
+''I have given the deal my blessing,'' Mr. Trump told reporters outside the White House on Saturday. 
+''If they get it done that's great, if they don't that's fine too.''
+In a statement, Monica Crowley, a spokeswoman for the Treasury Department, said that the president had reviewed the deal, but that the administration's formal approval was still pending.
+''Approval of the transaction is subject to a closing with Oracle and Walmart and necessary documentation and conditions to be approved by Cfius'' she said, referring to the Committee on Foreign Investment in the United States, the national security panel overseen by Mr. Mnuchin that is reviewing the transaction.
+Prominent senators of both parties have argued that a full sale of TikTok was necessary to ensure American security. 
+But in his remarks outside the White House Saturday, the president suggested that the deal would fully address his administration's national security concerns, saying that the ''security will be 100 percent'' and that the new companies would use a separate cloud from its Chinese parent.
+He also incorrectly claimed that the new company would ''have nothing to do with China.''
+Chinese investors will retain a substantial portion of the new company's stake.
+''It'll be a brand-new company,'' Mr. Trump said. 
+''It will have nothing to do with any outside land, any outside country.''
+The deal appears to come with strings attached. 
+Mr. Trump had previously argued that the United States Treasury should receive a ''very big proportion'' of the sale price of any deal, but later acknowledged that there was no mechanism for the government to do that.
+On Saturday, Mr. Trump said that deal would involve ''about a $5 billion contribution toward education,'' without specifying who precisely would be making the investment, or what the investment would be used for.
+''We're going to be setting up a very large fund for the education of American youths, and that will be great, that's their contribution that I've been asking for,'' he said.
+The details of the arrangement would depend on whether TikTok followed through with its plan to go public on American markets in about a year, a person with knowledge of the deal said.
+ByteDance, in a statement in Chinese on its Toutiao news aggregator app, said Sunday that it had been unaware of the $5 billion contribution it would supposedly be making.
+''We are also hearing for the first time about the $5 billion education fund from the news,'' the statement said. 
+''The company has always been committed to investing in the educational sector.''
+The deal constitutes a victory for Oracle, which is a close corporate ally of the president and his administration. 
+Its top executives worked on Mr. Trump's transition team, have supported his policy initiatives and have donated more than $150,000 to his re-election campaign.
+Its founder, Larry Ellison, and Walmart's chief executive, Doug McMillon, twice spoke with Mr. Trump about the deal on Friday, said a person familiar with the matter.
+In a statement, Safra Catz, Oracle's chief executive, said the company was ''100 percent confident in our ability to deliver a highly secure environment to TikTok and ensure data privacy to TikTok's American users and users throughout the world.''
+Walmart said in a statement that it was ''excited about our potential investment in and commercial agreements'' with TikTok Global. 
+It said Mr. McMillon would serve on the company's board.
+Lawmakers critical of China's influence over technology have expressed skepticism about any deal. 
+A group of Republican senators, led by Marco Rubio of Florida, said in a letter on Wednesday that a ''trusted partnership deal'' was ''insufficient in achieving the goals of protecting Americans and U.S. interests.''
+Senator Mark Warner, Democrat of Virginia, said in a speech this past week that scrutiny of technology companies must be done ''honestly.''
+And he said that the ''haphazard actions on TikTok fail that test and will only invite retaliation against American companies.''
+It remains to be seen if China will try to block a transaction involving one of its most successful tech exports.
+The race toward a deal was complicated last month after Beijing introduced new restrictions that appeared to essentially ban the sale of TikTok's valuable video recommendation algorithm without a license, making an outright acquisition of TikTok by an American company harder to pull off.
+In addition to targeting TikTok, the administration said on Friday that it would force companies like Apple and Google to remove WeChat, a popular messaging platform owned by Tencent Holdings, from their app stores starting Sunday night. 
+It will also prohibit companies from providing hosting or content delivery services to the app, potentially slowing it down substantially or disabling it outright.
+While Beijing has long banned American social media services, this is the first time that Washington has threatened to respond in kind. 
+The United States has for decades embraced an open, largely unregulated vision of the internet. 
+But in recent years, concerns about national security and geopolitics have led officials to bar Chinese technology from the networks, and now smartphones, used by Americans.
+On Saturday, a federal judge heard arguments from lawyers representing WeChat users in the United States who have sued to block the ban. 
+She indicated she would decide whether to issue an injunction before the ban goes into effect.
+Ana Swanson and David McCabe reported from Washington, and Erin Griffith from San Francisco. 
+Lauren Hirsch contributed reporting from New York, and Raymond Zhong from Taipei, Taiwan.

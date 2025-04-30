@@ -1,0 +1,81 @@
+﻿
+An engineer landed one of the state's biggest coronavirus-related contracts after FEMA volunteers forwarded his name.
+The offer to the Federal Emergency Management Agency sounded promising: A Silicon Valley engineer said that he could deliver thousands of ventilators from manufacturers across China to help hospitals treat coronavirus patients.
+The engineer was asked for more details. 
+Within 12 hours, he responded with a 28-page digital catalog of medical supplies at his disposal, including protective masks and goggles.
+But there were also a series of caveats: Interested buyers had to sign a contract within four hours of receiving a quote and pay the entirety of the order upfront. 
+''Nonnegotiable,'' the catalog said. 
+And the engineer, Yaron Oren-Pines, had no apparent background in procuring medical equipment.
+Federal officials passed on the vendor's information to senior officials in New York and, within days, the state struck a deal to buy 1,450 ventilators from Mr. Oren-Pines for $86 million, one of the largest contracts for medical supplies since the outbreak.
+The deal, however, began to unravel as quickly as it had come together.
+In a matter of days, a bank had frozen funds that the state had wired to Mr. Oren-Pines because it found a transaction from his account suspicious. 
+State officials were then warned by Mr. Oren-Pines and his business partners of possible shipping complications and were told that the ventilators might have to be routed through Israel, where they said they had connections.
+Before long, Mr. Oren-Pines and his partners began accusing the state of breach of contract. 
+State officials later tried to send inspectors to confirm the stockpile in China; that effort was unsuccessful, and the contract was terminated.
+Gov. Andrew M. Cuomo's office said that the contract was canceled because the state's hospitalization rate fell far short of projections, and New York's need for ventilators lessened, diminishing the urgency to proceed with a contract mired in complications.
+But interviews with state and federal officials, as well as emails obtained by The New York Times, underscore how the challenges of a pandemic may have clouded a decision that placed millions of taxpayer dollars at risk.
+The voided contract illustrated the desperate measures New York took at the height of the pandemic to procure precious medical equipment, as officials scrambled to find as many of the 40,000 ventilators that the state believed it needed to stave off a catastrophe. 
+As the state scoured the globe for supplies, it eschewed competitive bidding protocols to expedite acquisitions and resorted to vendors that had never done business with the state.
+Without a coordinated federal approach to distributing medical equipment based on need, states were left to fend for themselves, bidding against one another amid a global shortage.
+Federal officials, in fact, also referred Mr. Oren-Pines to New Jersey. 
+But officials in that state said they were troubled by a series of warning signs, and declined to procure equipment from Mr. Oren-Pines, according to a person familiar with the matter.
+New Jersey officials saw Mr. Oren-Pines's insistence for upfront payment as problematic, and they balked at the price of the ventilators and how long it would take for them to be delivered, according to the person.
+But in New York, officials decided to take a chance.
+Mr. Oren-Pines's offer to help was originally fielded by a team of inexperienced young volunteers recruited at FEMA by President Trump's son-in-law, Jared Kushner. 
+New York officials said they were told by an official assigned to the Department of Health and Human Services that the federal government had vetted Mr. Oren-Pines, and that a consulting firm had conducted a video inspection of the ventilators in China.
+A spokeswoman for FEMA said the agency did not recommend Mr. Oren-Pines to New York and noted, ''While the volunteers played an important role, they were not FEMA employees.''
+A Trump administration official involved in the White House coronavirus task force defended the vetting process of leads that were funneled through FEMA, but said that states should still be doing their own due diligence.
+New York officials said Mr. Oren-Pines provided certificates for the ventilators and passed a background check conducted by the state.
+''While New York was struggling to purchase ventilators to meet the demand of the federal government's projection models, the Department of Health and Human Services referred us directly to Oren-Pines, confirming they were vetted and approved by the federal government themselves,'' said Richard Azzopardi, a senior aide to the governor. 
+''The idea that the federal government is now effectively saying states cannot trust the federal government's own recommendations is bizarre.''
+A spokeswoman for the Department of Health and Human Services said it was ''reviewing this matter and has nothing further to add at this time.''
+Mr. Oren-Pines rejected several requests for interviews, saying in a text message that a confidentiality agreement prohibited him from talking to reporters. 
+''Keep on following your leads and sources and hopefully one day the truth will come out and my name will be cleared,'' he wrote.
+A graduate of the University of Maryland who studied electrical engineering, Mr. Oren-Pines, 50, has experience in mobile communications technology and has worked in a number of technology-related roles, including as a consultant for Google, according to his LinkedIn profile.
+He is also a co-founder of a networking company called Legasus Networks; its other co-founders, Douglas Lee and Thao Tran, said the firm had nothing to do with ventilators. 
+Mr. Tran said Mr. Oren-Pines was the type of person who would jump at an opportunity if he spotted one.
+''His personality is he will go take a chance and do any kind of business outside his field,'' he said.
+It is unclear when Mr. Oren-Pines reached out to the federal government offering to provide medical equipment. 
+But his offer was received by Kushner-appointed FEMA volunteers who were drawn from venture capital and private equity firms, and had little to no experience with government procurement procedures.
+On March 24, one of the volunteers, an associate at a private equity firm in New York City, thanked Mr. Oren-Pines for reaching out and asked him to fill out a form detailing the stock and price of the supplies he had access to, according to emails.
+Mr. Oren-Pines quickly emailed back the form along with the 28-page catalog.
+The volunteers passed on the lead to two federal officials -- both of whom worked for the Department of Health and Human Services -- who then sent it to Mr. Cuomo's aides by March 27.
+But Mr. Oren-Pines and his associates appeared to become impatient with the pace of the process and simultaneously took to Twitter in search of other prospective buyers.
+On March 27, after Mr. Trump used Twitter to urge General Motors and Ford to expedite ventilator production, Mr. Oren-Pines addressed a tweet to the president: ''We can supply ICU Ventilators, invasive and non-invasive. 
+Have someone call me URGENT.''
+The tweet by Mr. Oren-Pines was reported last week in a BuzzFeed News article that suggested that the Twitter post to the president may have been connected to the New York State contract. 
+Mr. Oren-Pines, however, had been in touch with federal officials days before he posted his sales pitch on Twitter.
+One of Mr. Oren-Pines's two partners, Segev Binyamin, also used Twitter to try to get the attention of the Israeli defense minister, writing: ''I own a Chinese company that is capable of shipping 1,400 machines to Israel.''
+In an email to a New York official on March 28, Mr. Oren-Pines urged the state to expedite the process because he said he had access to the ventilators for ''a limited time.''
+He said he had been vetted by FEMA.
+On March 30, New York formalized the $86 million contract for 1,450 ventilators, or about $59,000 per ventilator, and agreed to pay Mr. Oren-Pines $69 million upfront. 
+It was a steep price: At the time, Mr. Cuomo said officials had witnessed ventilator prices surge to $45,000, up from $25,000.
+The contract did not go through the typical procedures that require the state comptroller to independently review contracts before issuing a payment. 
+Earlier that month, Mr. Cuomo had issued an emergency order exempting emergency contracts from going through such procedures.
+In early April, Wells Fargo, Mr. Oren-Pines's bank, froze his funds after it flagged a transaction as suspicious, state officials said. 
+Mr. Oren-Pines, however, had been able to transfer $10 million before the funds were frozen.
+After the freeze, and as the state's need for ventilators began to subside, New York officials sought to arrange their own inspection of the ventilators in China. 
+They were unsuccessful.
+On April 9, Guy Peleg, another of Mr. Oren-Pines's business partners, sent an email to Judith Mogul, a special counsel to Mr. Cuomo, accusing New York officials of acting unlawfully, breaching the contract and freezing their bank account. 
+He said they had retained lawyers and were unlikely to deliver the ventilators by the agreed-upon date, April 29.
+Regardless, Mr. Peleg said, Chinese regulations were complicating ventilator shipments to the United States, so he proposed funneling the machines through Tel Aviv.
+''Our participation in this venture is crucial in order for these precious ventilators to leave Chinese soil and land in Israeli territory, and then sent to the U.S.,'' he wrote. 
+''As you can see we have established a very expert and tight outfit here to serve your demands. 
+No other constellation can achieve our goal to supply these vents to the U.S.''
+Ms. Mogul replied that it was Wells Fargo, not New York, that imposed the freeze and informed the men that the state would terminate the contract unless they could begin to secure ventilators with the $10 million they had on hand.
+''In light of the changing facts, we are not willing to place additional funds of the state at risk with no certainty when or whether we will receive the specified goods,'' she wrote.
+New York eventually terminated the contract. 
+Mr. Azzopardi said the state had recovered $59 million, with the remaining $10 million being negotiated among the parties.
+Mark Werksman, a lawyer for Mr. Oren-Pines, said his client and his partners hoped to arrive at an amicable resolution with the state.
+''They worked tirelessly to begin delivery of the promised ventilators and they would have fulfilled the terms of the contract if the state hadn't abruptly canceled it before they were able to deliver the first set of 150 ventilators,'' he said. 
+''Yaron acted swiftly and in good faith to provide vital medical equipment to the state in its hour of need.''
+Last weekend, Mr. Oren-Pines emailed New York officials describing the personal and financial fallout from the botched ventilator deal, pleading with them to issue a statement to clear his name.
+In a reference to the BuzzFeed News story, he said he was being victimized by a ''fictional/fake story'' about his connection to the White House, and that he and his family were now receiving threats and anti-Semitic messages.
+A spokesman for BuzzFeed News did not address Mr. Oren-Pines's criticism, but said that the outlet was ''proud to have been first to report that New York State gave a $69 million contract to an unqualified vendor who failed to deliver.''
+In the email to New York officials, Mr. Oren-Pines said, ''What has happened to me personally over the past few days is worse than death itself.''
+He said the sudden cancellation of the order had left him and his partners ''with tens of millions of dollars in liabilities and contracts.''
+''In Israel, I am called a traitor and accused of a Sting operation against NYS,'' he wrote. 
+''I have done Nothing wrong!
+All I wanted was to help New York State and in the process got thrown under a bus.''
+Nick Corasaniti and Zolan Kanno-Youngs contributed reporting. 
+Susan C. Beachy contributed research.

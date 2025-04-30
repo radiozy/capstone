@@ -1,0 +1,56 @@
+﻿
+HONG KONG -- China churns out many of the world's electronic devices: smartphones, computers, complicated networking equipment.
+Now the country is redoubling its efforts to design and produce the brains behind most of those electronics, the chip.
+China is playing catch-up with global rivals. 
+Last year, the country imported $232 billion of semiconductor products, eclipsing even the amount spent on petroleum.
+To narrow the gap, Beijing is starting programs to increase investment by the state and to gain expertise from foreign chip companies. 
+Experts say the chip industry is one focus of Chinese espionage efforts.
+There's also new bureaucratic determination. 
+Vice Premier Ma Kai is leading a task force charged with making the country's chip industry a world leader by 2030. 
+The task force brings together four ministries and is estimated to have $170 billion in government support to spend over five to 10 years, according to a report in June by McKinsey & Company.
+''There is a clear sense of urgency nowadays about semiconductors and chips in particular,'' said Daniel H. Rosen, founding partner of the Rhodium Group, an economic research and advisory firm. 
+''There is a sense that since China is overwhelmingly still dependent on imports -- especially for higher-end chips that go into everything made in the country -- there is a national security vulnerability.''
+Disclosures by the former National Security Agency contractor Edward J. Snowden about United States government surveillance have only deepened such concerns. 
+The situation has led to a broader awareness among Chinese government officials of potential security issues with foreign-sourced tech components like chips.
+The fallout from the disclosures is most likely to blame, in part, for a recent antitrust investigation into Qualcomm, analysts and industry executives say. 
+The case is expected to result in a fine and to force the company to lower the licensing fees it charges Chinese companies to use its technology, according to analysts and lawyers following the case.
+In recent months, multinational companies have faced growing pressure in China, where investigators have begun antitrust and price-fixing investigations aimed at food manufacturers, automakers and technology companies. 
+While Qualcomm's troubles fit the trend, they also show how China's inquiries align with broader economic and strategic initiatives.
+''The Chinese government has credibility to pick on Qualcomm because of investigations into the company in other countries,'' said Scott Kennedy, director of the Research Center for Chinese Politics and Business at Indiana University. 
+''But it also definitely fits their industrial policy goals if they can squeeze in lower licensing fees or other technology-sharing arrangements.''
+As it takes aim at foreign players, China is striving to develop its chip industry. 
+Over the past 15 years, the government has granted subsidies, funding and even extraordinary rights to promising chip makers.
+To attract international talent, the founder of one chip maker, the Semiconductor Manufacturing International Corporation, added amenities like a bilingual school to entice the highly skilled engineers he needed to put together complex assembly lines. 
+The founder, a Christian, even built a church -- of particular appeal to Christian Taiwanese, who are accustomed to companies sponsoring Bible study and similar activities -- even though Beijing remains highly suspicious of the spread of Christianity.
+With help from government subsidies, SMIC has become a major chip producer since its founding in 2000, though it still lacks the scale and technology to compete at the level of companies like Intel, Samsung and the Taiwan Semiconductor Manufacturing Corporation. 
+Other companies founded with government funding in the early 2000s sell chip designs for cheap smartphones but remain small compared with Qualcomm.
+The Chinese government has been suspected of being involved in schemes to acquire chip technology with military applications. 
+In 2012, the Federal Bureau of Investigation indicted two Chinese men, charging them with illegally trying to buy reprogrammable chips from an American company, Lattice Semiconductor, that could be used at high temperatures on spacecraft like rockets. 
+The men are presumed to be in China and have not been arrested.
+In two separate cases in 2011, Chinese citizens were prosecuted for trying to procure radiation-hardened chips for use in satellites. 
+In one case two defendants pleaded guilty to conspiring to violate the Arms Export Control Act and to smuggle goods unlawfully from the United States. 
+In the second case, one defendant pleaded guilty to violating that same act by selling chips to China. 
+Analysts say attempts by Chinese companies to acquire confidential American technology are usually state-directed if not state-led.
+Speaking about one of the 2011 cases, Neil H. MacBride, who was United States attorney for the Eastern District of Virginia at the time, said the conviction served as a deterrent to anyone seeking to procure information for China.
+''The line between traditional espionage, export violations and economic espionage has become increasingly blurred as the sensitive information sought by the P.R.C. commonly has ramifications both economically and in terms of national security,'' he said, referring to the People's Republic of China, in a release after the case.
+Tech security analysts say chip technology has also been a focus of hacking efforts aimed at foreign companies.
+For example, the security firm CrowdStrike said one sophisticated group it calls Deep Panda has compromised five American and Taiwanese chip companies this year. 
+The group, which has also gone after other targets like the pro-democratic Hong Kong Civic Party recently, is notable for particularly stealthy attacks that allow it to snoop on its victims' data undetected. 
+CrowdStrike says Deep Panda is connected to the Chinese government.
+''They seem to be elite,'' said Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike. 
+''They're one of the best groups in terms of tradecraft and sophistication.''
+CrowdStrike's claims could not be independently verified.
+Analysts have indicated that the government, along with some Chinese companies, may be playing foreign rivals off one another to extract technology and other advantages.
+In September, Intel, which has fallen behind Qualcomm in the booming market for chips that go into mobile phones, agreed to invest $1.5 billion in Tsinghua Unigroup. 
+Last year, Tsinghua Unigroup emerged from relative obscurity to spend almost $2.7 billion on two Chinese chip-design companies, Spreadtrum Communications and RDA Microelectronics. 
+Analysts point to the deals as a sign that China is seeking to turn the company into a national champion.
+Tsinghua Unigroup is well positioned in that regard. 
+The company is a subsidiary of Tsinghua Holdings, a highly connected company that once counted the son of a former Chinese president, Hu Jintao, as its party secretary -- the position responsible for communicating and cooperating with the Chinese Communist Party. 
+It also controls companies spun off from one of China's top colleges, Tsinghua University.
+As part of its agreement, Intel received a 20 percent stake in Spreadtrum. 
+They will work together to create chips with wireless features. 
+The investment could open up the giant Chinese mobile market for Intel, while Spreadtrum could gain valuable technical skill from Intel's engineers.
+That is bad news for Qualcomm. 
+The situation could push Qualcomm to cooperate more with other Chinese companies to ensure that it does not face further difficulties with the government. 
+Mr. Kennedy said the pattern of hitting one foreign company, like Qualcomm, while cooperating with a rival one, like Intel, matches a model that has been used in the past in China to extract new technologies and support for local companies from foreign multinationals.
+''The Chinese have a full panoply of tools and tactics, and divide and conquer is one of them,'' Mr. Kennedy said.

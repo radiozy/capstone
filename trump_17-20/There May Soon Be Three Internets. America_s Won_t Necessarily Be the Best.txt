@@ -1,0 +1,47 @@
+﻿
+In September, Eric Schmidt, the former Google chief executive and Alphabet chairman, said that in the next 10 to 15 years, the internet would most likely be split in two — one internet led by China and one internet led by the United States.
+Mr. Schmidt, speaking at a private event hosted by a venture capital firm, did not seem to seriously entertain the possibility that the internet would remain global. 
+He's correct to rule out that possibility — if anything, the flaw in Mr. Schmidt's thinking is that he too quickly dismisses the European internet that is coalescing around the European Union's ever-heightening regulation of technology platforms. 
+All signs point to a future with three internets.
+The received wisdom was once that a unified, unbounded web promoted democracy through the free flow of information. 
+Things don't seem quite so simple anymore. 
+China's tight control of the internet within its borders continues to tamp down talk of democracy, and an increasingly sophisticated system of digital surveillance plays a major role in human rights abuses, such as the   persecution of the Uighurs. 
+We've also seen the dark side to connecting people to one another — as illustrated by how misinformation on social media played a significant role in the   violence in Myanmar.
+There's a world of difference between the European Union's General Data Protection Regulation, known commonly as G.D.P.R., and China's technologically enforced censorship regime, often dubbed "the Great Firewall." But all three spheres — Europe, America and China — are generating sets of rules, regulations and norms that are beginning to rub up against one another. 
+What's more, the actual physical location of data has increasingly become separated by region, with data confined to data centers inside the borders of countries with data localization laws.
+The information superhighway cracks apart more easily when so much of it depends on privately owned infrastructure. 
+An error at Amazon Web Services created losses of service across theweb in 2017; a storm disrupting a data center in Northern Virginia created similar failures   in 2012. 
+These were unintentional blackouts; the corporate custodians of the internet have it within their power to do far more. 
+Of course, nobody wants to turn off the internet completely — that wouldn't make anyone money. 
+But when a single company with huge market share chooses to comply with a law — or more worryingly, a   mere suggestion from the authorities — a large chunk of the internet ends up falling in line.
+The power of a handful of platforms and services combined with the dismal state of international cooperation across the world pushes us closer and closer to a splintered internet. 
+Meanwhile, American companies that once implicitly pushed democratic values abroad are more reticent to take a stand.
+In 2010, Google shut down its operations in China after it was revealed that the Chinese government had been hacking the Gmail accounts of dissidents and surveilling them through the search engine. 
+"At some point you have to stand back and challenge this and say, this goes beyond the line of what we're comfortable with, and adopt that for moral reasons," said Sergey Brin, a Google co-founder, in an interview with Der Spiegel at the time.
+But eight years later, Google is working on a search engine for China known as Dragonfly. 
+Its launch will be conditional on the approval of Chinese officials and will therefore comply with stringent censorship requirements. 
+An internal   memo written by one of the engineers on the project described surveillance capabilities built into the engine — namely by requiring users to log in and then tracking their browsing histories. 
+This data will be accessible by an unnamed Chinese partner, presumably the government.
+Google says all features are speculative and no decision has been made on whether to launch Dragonfly, but a leaked transcript of a meeting inside Google later acquired by The Intercept, a news site, contradicts that line. 
+In the transcript, Google's head of search, Ben Gomes, is quoted as saying that it hoped to launch within six to nine months, although the unstable American-China relationship makes it difficult to predict when or even whether the Chinese government will give the go-ahead. 
+"There is a huge binary difference between being launched and not launched," said Mr. Gomes. "And so we want to be careful that we don't miss that window if it ever comes."
+Internet censorship and surveillance were once hallmarks of oppressive governments — with Egypt,   Iran and China being prime examples. 
+It's since become clear that secretive digital surveillance isn't just the domain of anti-democratic forces. 
+The Snowden revelations in 2013 knocked the United States off its high horse, and may have pushed the technology industry into an increasingly agnostic outlook on human rights. 
+Its relationship with the government isn't improving, either, when the industry is being hammered by the Trump administration's continuing   trade wars. 
+(This month, Vice President Mike Pence condemned Dragonfly as part of a   longer, confrontational speech accusing China of "economic aggression.")
+As governments push toward a splintered internet, American corporations do little to counteract Balkanization and instead do whatever is necessary to expand their operations. 
+If the future of the internet is a tripartite cold war, Silicon Valley wants to be making money in all three of those worlds.
+Part of the rationalization is that whether or not American companies get in on the action, a homegrown company will readily enact the kind of censorship and surveillance that its government requires. 
+(Indeed, if Google launches in China, it has an uphill battle to fight against Baidu, the entrenched, government-endorsed Chinese search engine.)
+What this future will bring for Europe and the United States is not clear. 
+Mr. Gomes's leaked speech from inside Google sounded almost dystopian at times. 
+"This is a world none of us have ever lived in before," Mr. Gomes told employees. 
+"All I am saying, we have built a set of hacks, and we have kept them." He seemed to hint at scenarios the tech sector had never imagined before. 
+The world may be a very different place since the election of Donald Trump, but it's still hard to imagine that what's deployed in China will ever be deployed at home. 
+Yet even the best possible version of the disaggregated web has serious — though still uncertain — implications for a global future: What sorts of ideas and speech will become bounded by borders?
+What will an increasingly disconnected world do to the spread of innovation and to scientific progress?
+What will consumer protections around privacy and security look like as the internets diverge?
+And would the partitioning of the internet precipitate a slowing, or even a reversal, of globalization?
+A chillier relationship with Europe and increasing hostilities with China spur on the trend toward Balkanization — and vice versa, creating a feedback loop. 
+If things continue along this path, the next decade may see the internet relegated to little more than just another front on the new cold war.

@@ -1,0 +1,34 @@
+﻿
+WASHINGTON -- A newly disclosed National Security Agency document illustrates the striking acceleration of the use of cyberweapons by the United States and Iran against each other, both for spying and sabotage, even as Secretary of State John Kerry and his Iranian counterpart met in Geneva to try to break a stalemate in the talks over Iran's disputed nuclear program.
+The document, which was written in April 2013 for Gen. Keith B. Alexander, then the director of the National Security Agency, described how Iranian officials had discovered new evidence the year before that the United States was preparing computer surveillance or cyberattacks on their networks.
+It detailed how the United States and Britain had worked together to contain the damage from ''Iran's discovery of computer network exploitation tools'' -- the building blocks of cyberweapons. 
+That was more than two years after the Stuxnet worm attack by the United States and Israel severely damaged the computer networks at Tehran's nuclear enrichment plant.
+The document, which was first reported this month by The Intercept, an online publication that grew out of the disclosures by Edward J. Snowden, the former N.S.A. contractor, did not describe the targets. 
+But for the first time, the surveillance agency acknowledged that its attacks on Iran's nuclear infrastructure, a George W. Bush administration program, kicked off the cycle of retaliation and escalation that has come to mark the computer competition between the United States and Iran.
+The document suggested that even while the high-stakes nuclear negotiations played out in Europe, day-to-day hostilities between the United States and Iran had moved decisively into cyberspace.
+''The potential cost of using nuclear weapons was so high that no one felt they could afford to use them,'' said David J. Rothkopf, the author of ''National Insecurity,'' a new study of strategic decisions made by several American administrations. 
+But the cost of using cyberweapons is seemingly so low, Mr. Rothkopf said, that ''we seem to feel we can't afford not to use them'' and that ''many may feel they can't afford ever to stop.''
+The N.S.A.'s new director, Adm. Michael S. Rogers, has declared that his first task is to deter attacks by making it costly for countries like Russia, China and Iran to wage cyberwar. 
+But a former senior intelligence official who looked at the two-page document prepared for General Alexander after it was published 10 days ago said it provided ''more evidence of how far behind we are in figuring out how to deter attacks, and how to retaliate when we figured out who was behind them.''
+The document declares that American intercepts of voice or computer communications showed that three waves of attacks against American banks that began in August 2012 were launched by Iran ''in retaliation to Western activities against Iran's nuclear sector,'' and added that ''senior officials in the Iranian government are aware of these attacks.''
+The main targets were the websites of Bank of America and JPMorgan Chase. 
+By 2015 standards, those were relatively unsophisticated ''denial of service'' strikes that flooded the banks with data, so overloading them it was impossible for a time for customers to access their accounts. 
+American officials -- with the exception of then-Senator Joseph I. Lieberman of Connecticut, who was the chairman of the Senate Homeland Security committee -- never publicly identified Iran as the culprit, though it was widely reported as the prime suspect.
+More recently, the Obama administration, in an effort to deter attacks, has grown less reticent about naming countries that the administration believes are responsible for such attacks. 
+In May, five members of the Chinese People's Liberation Army were indicted on a charge of stealing intellectual property from American companies. 
+And in December, President Obama said he had evidence that North Korea's leadership was behind an attack on Sony Pictures Entertainment, though he did not provide details. 
+The New York Times later reported that the N.S.A. had gathered the evidence from implants that it had placed in North Korean computers beginning in 2010.
+But just as American officials woke up to North Korea's abilities last year, the newly disclosed document makes clear that by early 2012, American officials were increasingly alarmed by the successes of Iran's new ''cybercorps.''
+The background briefing for General Alexander, who is now running his own cyberdefense firm, said flatly that Iran was responsible for the ''destructive cyberattack against Saudi Aramco in August 2012, during which data was destroyed on tens of thousands of computers,'' an attack that appeared to pave the way for a technically similar strike on Sony last year. 
+The N.S.A. document suggests that the attack on Saudi Aramco was in response to ''a similar cyberattack'' against Iran's oil industry earlier that year; it did not indicate who launched that attack.
+The document refers to a major program at the N.S.A. to prepare for traditional or cyberwar ''contingencies'' with Iran, including a ''planned battle rhythm'' that would allow it to feed data to the White House and the military's commands. 
+That is fairly standard planning, but the document underscored that the plans depended on ''both our access and Iran's capabilities,'' meaning that there is a constant reassessment of how deeply the N.S.A. and its military partner, United States Cyber Command, have penetrated Iranian systems.
+The core of the document urges General Alexander to tell his counterpart at the Government Communications Headquarters that the two organizations have ''worked multiple high-priority surges'' against Tehran. 
+GCHQ, as it is known, is the British intelligence agency that is famous for breaking Germany's Enigma codes, recently portrayed in the movie ''The Imitation Game.''
+But it hints at discord. 
+GCHQ wanted to set up ''a trilateral arrangement to prosecute the Iranian target,'' the memo said. 
+But the United States ''has been opposed to such a blanket arrangement,'' the document said, and hints that both the N.S.A. and GCHQ ''have agreed to continue to share information gleaned from the respective bilateral relationships'' with Israel's Unit 8200, also known as the Israeli Sigint National Unit. 
+''Sigint'' stands for ''signals intelligence.''
+The relationship between the N.S.A. and its Israeli counterpart has always been testy. 
+Both American and Israeli intelligence agencies spy on each other, even while working together. 
+The joint development of Olympic Games was their proudest moment of collaboration, but it was also marked by disagreements about how, and how vigorously, to press cyberattacks on Iran.

@@ -1,0 +1,55 @@
+﻿
+DAN DWYER, a sophomore at the Massachusetts Institute of Technology, knew that spending last summer hooking up a high school in Beijing to its first Internet connection was not going to be easy. 
+But his biggest obstacle was not tussling with the Chinese bureaucracy or outmaneuvering Government restrictions on Internet access. 
+It was the telephone.
+When he tried to call the high school's computer director at home one evening, "the person who answered the phone said, 'You'll have to call right back,' " Mr. Dwyer said. 
+"It was one phone line that was shared by two families living in adjacent apartments."
+Sharing the wonders of the Internet with the rest of the world is a noble pursuit, but bringing thousands of dollars' worth of equipment and all that cutting-edge knowledge to a country where phones are still party lines, computers are scarce and few have even heard of the World Wide Web might seem laughable.
+Not to the students who volunteer for the China Educational Technology Initiative (web.mit.edu/mit-ceti/www), an M.I.T. program that sends college students overseas to teach high school students about the Internet. 
+Two years ago, two graduate students, Jake Seid and Ron Cao, not only persuaded M.I.T. to let them go, basically unsupervised, to set up the first Web site at a high school in China, but they also later persuaded the school to talk big-name companies into sponsoring them. 
+Last summer, the program sent 13 students.
+This summer, 24 new interns have traveled to 9 high schools. 
+They go in teams of two or three, including at least one student who speaks either Cantonese or Mandarin and at least one who speaks the more exotic languages of Java and HTML. 
+Together they set up a server and teach the students to create Web sites.
+Mr. Seid and Mr. Cao (pronounced sow) came up with the idea as an alternative to the typical graduate-student project.
+"Why is it important that two M.I.T. students write a report on telecommunications that nobody is going to read?" said Mr. Seid (pronounced sayd). 
+"It really made us think, what do we want to accomplish?"
+And where?
+News articles they read in 1996 described China as extremely cautious in its exploration of the Internet. 
+Those who did have Internet accounts had to register with the police, and those who applied for accounts had to sign an agreement to abide by Chinese law and not endanger state security. 
+The M.I.T. students soon learned, however, that they could set up sites on the Chinese Educational Research Network, which connects all the universities.
+True, some schools are hesitant to encourage access to sites outside China, not because of censorship but because most are charged for every such site they call up.
+"Two years ago there were a lot of questions about who should be hooked up to the Internet," Mr. Seid said. 
+"I think they took a chance on us."
+Some of the student-built Web sites are written in both English and Chinese. 
+The Fudan High School site (highschool.fudan .edu.cn) has pictures of the school, names of award-winning students, even a photo of Cao Tianren, the headmaster. 
+Another school's site offers a practice test for the college entrance exam.
+"It's more than just connecting the wires or getting a computer into the school," said Robert Yung, Sun Microsystems' director for technology in Asia and a project mentor. 
+"This is about how do we teach, how do we show people how to use the technology?"
+So far, Sun Microsystems and other companies have donated more than $250,000 worth of hardware and software. 
+Each team has to figure out a strategy for its project, from getting the hardware shipped to figuring out how to teach Java programming to 40 ninth graders in six weeks, a commitment that impressed Mr. Yung, who discussed the teams in a recent interview.
+"I'm amazed at their energy level," he said. 
+"It was finals week at M.I.T. this week, and I still get E-mail from them at 3 in the morning. 
+I look at them and say, 'Why don't I take care of this problem?
+You go and study.'
+"
+The months before the trip are filled with incessant E-mails, faxes and phone calls. 
+(The translators have the worst of it, they agree, because they have to deal with the 12-hour time difference.) Another first -- setting up a wireless Internet connection to a Chinese high school -- took days.
+The five-floor high school building did not have telephone wires, so the volunteers used antennae to connect it to a university, and its dedicated line, about a half-mile away.
+"We never even saw the buildings -- it was all through E-mail," said Roger Hu, who went to Shanghai as a freshman. 
+"We needed to see what buildings were in the way, if they would interfere with the line of sight. 
+They would go up and on the roof and say, 'Oh, yeah, I can see the building from there.'
+"
+The students' Chinese hosts were eager to help. 
+Some of the schools updated their computers or bought new ones. 
+So many people were interested in their progress that last summer the American students held a conference about the Web in education that drew chief executives, school principals and Chinese Government officials.
+The China Education Technology Initiative inspired another M.I.T. student, Ameet Ranadive, to start a similar program in India last year. 
+The population there is approaching one billion, but only 100,000 have Internet access. 
+Mr. Ranadive, who will be a graduate student in the fall, said he planned to have the Indian students start pen-pal relationships with the Chinese students using E-mail.
+"If you start with small steps like that, at least it's promoting connections with the two sides," he said.
+The interns have concerns about nuclear testing in India, human rights violations in China and civil war in Africa, where yet another M.I.T. student is looking to start a similar program. 
+But they keep their corner of cyberspace apolitical.
+"What I heard about China was all very negative things," Mr. Seid said. 
+"You'd hear about issues like Taiwan, you hear about the Dalai Lama and Tibet, you hear about Tiananmen. 
+Then you hear about the people. 
+It's a very different perspective than what you hear about the Government."

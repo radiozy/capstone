@@ -1,0 +1,82 @@
+﻿
+I have a few simple questions,'' the congressman said, scowling at the four witnesses before him. 
+''Can you say, in plain English, that you are ashamed of what you and the other companies have done?''
+The witnesses -- sacrificial lambs, really -- were representing four of the glory names in high technology: Cisco Systems, Microsoft, Yahoo and Google. 
+They were appearing last Wednesday before a House subcommittee investigating their role in helping the Chinese government suppress free speech on the Internet, censor political content and even turn over data about suspected dissidents. 
+The congressman, Tom Lantos, the ranking Democrat on the House International Relations Committee and the only Holocaust survivor in Congress, had earlier been comparing the companies' activities in China to the odious work certain companies once did to aid the Nazis.
+''Are you ashamed?'' he thundered again in his thick Hungarian accent. 
+Was Cisco ashamed of selling networking equipment to the Chinese police?
+Was Microsoft ashamed of taking down a blog because the government disapproved of its content?
+Was Yahoo ashamed of turning over data that led to the arrest and imprisonment of Shi Tao, a journalist who had used an anonymous Yahoo e-mail account to leak a government memo to the foreign media?
+Was Google -- yes, ''don't be evil'' Google -- ashamed of setting up a Chinese search engine that filtered out Web sites that the government wanted blocked, sites that used such forbidden words as ''democracy?''
+Every time the companies tried to mouth the party line -- that the Chinese people were better off for them being there than not; that under the terms of their license, they had no choice but to comply with Chinese law; that banned information had a way of leaking through the filters -- Mr. Lantos cut them off. 
+''Yes or no. 
+Are you proud of it or ashamed of it?'' he asked. 
+There was, of course, no good answer to the question, so the four witnesses were left stumbling and stuttering their way through the humiliation.
+Then, his time elapsed, Representative Lantos ceded the floor. 
+I was watching the hearing on a Webcast, and as the cameras pulled back, I saw Mr. Lantos get up from his seat and leave the room. 
+And why not?
+Mission accomplished.
+WHAT, though, was the mission?
+If the point of the hearing was simply to get the attention of the companies involved, it worked. 
+They know they are on the hot seat, and that these issues -- how to protect the privacy of users and the free flow of information in the face of a powerful government that has no patience for either -- aren't going away. 
+They also know they won't be able to spin their way out of trouble. 
+Mr. Lantos's insistent, repeated question reminded me of the famous question Representative Henry A. Waxman asked a decade ago of the nation's tobacco executives, one by one: Did they believe cigarettes were addictive?
+The tobacco industry never lived down the denials.
+But if the purpose of the hearing was to shine some light on a potential solution, it was next to useless. 
+The companies' chief lament -- that they lacked the leverage to stand up to the Chinese government, and needed the United States to stand with them -- fell largely on deaf ears. 
+(The State Department did announce it was setting up a task force, but the history of government task forces does not elicit high expectations.)
+There were calls for the establishment of ''best practices'' covering privacy and free speech, but few suggestions as to what such practices might entail. 
+Several legislators implied that the only moral course for the companies was to leave China, which is hardly a solution. 
+Christopher Smith, the New Jersey Republican who presided over the hearing, introduced a bill on Thursday that would prevent companies from, among other things, cooperating with censorship. 
+But its chances of passage are slim to none.
+Indeed, even companies that should be receiving credit for taking a few steps in the right direction instead got a slap in the face. 
+In entering the Chinese market, for instance, Google decided not to set up either a blogging or an e-mail service, because it didn't want to be in the position Yahoo found itself in: forced to turn over data identifying a dissident. 
+And its new Chinese search engine tells a user whenever a search result yields censored information -- a step most free speech advocates have been calling for. 
+Yet James A. Leach, Republican of Iowa, accused Google of serving as ''a functionary of the Chinese government.''
+He added, ''If we want to learn how to censor, we'll go to you.''
+(Just as an aside, don't you think they're starting to regret their self-righteous motto over there at Google?
+At the hearing, the words ''Don't be evil'' were hurled back at the company at least a half-dozen times. 
+Get used to it, fellas.)
+Putting aside all the money to be made in China -- which of course is their prime motive for being there -- the companies make two fundamental arguments. 
+First, they say, no matter how hard China tries to block information, it can't block everything; clever hackers will find ways around government filters and censors. 
+Thus American technology, even with the restrictions, is helping make China a freer place. 
+And second, they say, they have to abide by the laws of the countries they operate in, even if those laws sometimes violate Western standards.
+These are not particularly strong arguments, however. 
+Yes, there is a school of thought that says the Internet is, by its very nature, a tool for freedom. 
+But Jack Goldsmith, a Harvard Law School professor who has just co-authored a book entitled ''Who Controls the Internet?'', says he believes that this is wildly overstated. 
+''China is subsidizing bandwidth, and making it very easy for people to use the Internet,'' he said. 
+But, he added, ''the government is using the Internet as a tool for nationalistic propaganda. 
+China is not perfect at keeping stuff out, but they don't have to be. 
+The vast majority of people aren't going to try to avoid the censorship.''
+China, said Orville Schell, the dean of the journalism school at the University of California, Berkeley, and a recognized China expert, ''is the great petri dish experiment as to whether the Internet can be brought to heel.''
+As for the second argument, listen to Jeffrey A. Sonnenfeld, the senior associate dean at the Yale School of Management. 
+'' 'When in Rome' is not a justifiable term for doing business,'' he said. 
+There are core Western values that American companies need to uphold no matter what local law dictates. 
+The best parallel, he suggested, was the eventual refusal of many American companies to work with the apartheid regime in South Africa.
+Starting in the mid-1970's, a number of American companies doing business in South Africa began adhering to voluntary antidiscrimination guidelines called the Sullivan Principles, named after their creator, Leon Sullivan, a minister and a member of the General Motors board. 
+Then, a decade later, many of them pulled out of the country altogether, after Congress imposed economic sanctions on South Africa. 
+The principle became more important than the money.
+Mr. Schell argues that technology companies should have seen these problems coming in China. 
+Activist groups tried to talk to them, he told me, but in their race to dive into the huge Chinese market, the companies weren't much interested in listening. 
+''There was this overweening pride,'' he said. 
+''They couldn't imagine themselves getting bogged down in China. 
+They should have listened to the people telling them that they needed to have some minimalstandards of practices.''
+Now, he added, people in China are calling Google ''the eunuch. 
+It is a neutered search engine.''
+Belatedly, the companies have begun talking to the activist community, and to each other as well, as they try to figure out whether -- and how -- they can put together standards along the lines of the Sullivan Principles for free speech and privacy. 
+Mr. Schell says he believes that the companies have more leverage than they think with China, especially if they act in concert. 
+''If they all said, 'We don't turn over data,' China would have a bit of a dilemma,'' he said. 
+For all their tough talk, China's leaders don't want to be in the position of throwing such high-profile companies as Microsoft and Google out of the country.
+Still, the technology industry can't do it without help. 
+When I asked Representative Smith whether he thought the Sullivan Principles offered a good road map for technology companies doing business in China, he demurred. 
+The Sullivan Principles were helpful, he said, ''but what changed South Africa more than anything were the sanctions.''
+And thus the great irony of Wednesday's hearing. 
+Congress could certainly pass a law forbidding technology companies from doing business in China just as it once prohibited trade with South Africa, and still bans commerce with countries like Cuba and Burma. 
+But it won't. 
+China is too important. 
+Ever since the Nixon administration, the government has consistently believed that engaging with China was better than not, precisely the argument now being made by the technology industry. 
+Even Mr. Lantos talked about the importance of working with China on a variety of issues.
+After which he excoriated the four witnesses for, well, engaging with China. 
+Caught between a rock and a hard place, American companies need Congress to help them push back in the name of free speech and privacy, just as they once needed Congress to help them push back against apartheid. 
+If all they are going to get instead is angry rhetoric, then you have to wonder: who really should be ashamed?

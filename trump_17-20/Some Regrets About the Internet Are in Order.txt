@@ -1,0 +1,83 @@
+﻿
+''Hey, everyone!'' the world's eighth-richest man said, with a bit too much brio, as he waved to the crowd at Gaston Hall in Washington. 
+''It's really great to be at Georgetown with all of you today.''
+But then the smile fell away from Mark Zuckerberg's face, and there was an awkward pause as he licked his lips and looked at the crowd. 
+With his next lines -- an acknowledgment of the death, earlier that day, of the longtime House of Representatives member Elijah Cummings -- he settled into a more sober mood, which he sustained for the remainder of his speech. 
+It was clear that Zuckerberg, the chief executive of Facebook, knew the message he had come to deliver, bearing the awkward title ''Standing for Voice and Free Expression,'' would not be an especially popular one on a college campus in deep-blue Washington, and that indeed he himself might not be an especially popular man.
+Over the course of just five or so years, and accelerating significantly in November 2016 with the election of Donald Trump, there had been a sea change in how Americans, especially liberal Americans, regarded Facebook. 
+If, during the Obama era, there was a nagging suspicion among critics of Silicon Valley that Zuckerberg's company and its fellow internet giants had become too large -- their market power too great, their sway over the political and cultural discourse too absolute -- the election left millions of people convinced that those suspicions were absolutely correct. 
+Now there were calls among prominent Democratic politicians for tough regulation, even for ''breaking up'' the company. 
+One of the most vocal among them, Senator Elizabeth Warren of Massachusetts, had recently surged to a near-lead in the presidential primary race; in leaked audio from a Facebook town hall, Zuckerberg lamented her ascent and vowed, in the event she were elected president, to ''go to the mat'' and fight.
+All of it -- the fierce criticism in the media, the political maneuvering among Democrats, the leak from his own staff -- had fostered a sense of a company under siege, and it was easy to hear this Georgetown speech in October as a simple and defiant response, a middle finger raised to the haters. 
+To those eager to regulate speech on his platform or hold Facebook legally accountable for misinformation, Zuckerberg offered reminders of the First Amendment and the American tradition of free expression more broadly. 
+He pointed out how that tradition benefited movements the audience seemed likely to support (#BlackLivesMatter, #MeToo) and contrasted Facebook's approach with that of Chinese-owned services like TikTok, the new sensation among teenagers in the United States and elsewhere, which has been accused of censoring mentions of anti-China protests in Hong Kong.
+Afterward, observers analyzing the speech were unimpressed, seeing it as at best a reiteration of Facebook's perennial self-serving arguments and at worst a vacuous word salad. 
+(Zuckerberg ''doubles down on free speech,'' as Wired put it, while Recode sniffed that he offered ''a lot of nothing.'') By the following week, the appearance at Gaston Hall had been filed away as just one more maneuver in Zuckerberg's continuing charm offensive toward the political class, his sole goal being to maintain the status quo.
+But whether Zuckerberg intended it or not, his speech showed glimmers of something else. 
+There were hints of a more profound sense of threat and dislocation -- perhaps, even, a signal of Zuckerberg's understanding, conscious or not, that the status quo might no longer be sustainable.
+Despite all his efforts at optimism, Zuckerberg acknowledged some basic problems with Facebook that had become impossible to ignore. 
+Having built a machine to connect the world and let everyone have a say -- thereby giving rise to a new social reality in which, as he put it at Georgetown, ''people no longer have to rely on traditional gatekeepers in politics or media to make their voices heard'' -- Facebook now had to concede that there was no foolproof way to stop those voices from saying things that were unfactual or malevolent, or to stop their friends and followers from believing them. 
+In part, this was because of a genuine Catch-22 involving scale: Phenomenal size had allowed Facebook and its fellow American tech giants to become the center of online life, but now they could not correct the most toxic problems of online spaces without wielding even more unsettling levels of power. 
+''While I certainly worry about an erosion of truth,'' Zuckerberg said, ''I don't think most people want to live in a world where you can only post things that tech companies judge to be 100 percent true.''
+Also revealing was his take on his Chinese competitors, which went well beyond just criticizing them on free-expression grounds. 
+''China is building its own internet focused on very different values, and it's now exporting their vision of the internet to other countries,'' he said, informing his American audience that its sense of an internet dominated utterly by Facebook was by now a parochial notion. 
+''A decade ago, almost all of the major internet platforms were American,'' he said. 
+''Today, six of the top 10 are Chinese.''
+This remark was directed at his antitrust-minded critics, but it was also a reminder that however bad Facebook might be for democracy, the alternatives might be worse.
+For a decade, the story of Facebook's growth seemed like a positive (for Facebook) feedback loop: More users meant more conversation, which meant more relevance, which meant more users. 
+The service became a kind of social power grid, a platform that you simply couldn't not be on. 
+It became fashionable among tech writers to claim that Facebook was subsuming the entire internet, if it hadn't done so already.
+Optimism about Facebook's impact on the world was an important part of the cycle. 
+Everything about its sunny rhetoric, its design (clean and spare), its policies (real names, no pseudonyms), was finely calibrated to make people embrace it as the safe and upbeat alternative to the seedy world of the open web. 
+When Facebook became a publicly held company in 2012, its I.P.O. prospectus included a long letter from Zuckerberg about Facebook's values, in which he declared that the company was ''built to accomplish a social mission'' and that connecting the world would ultimately bring about ''better solutions to some of the biggest problems of our time.''
+It wasn't hard to glimpse, lurking behind the strained smiles and flag-draping of the Georgetown speech, the death throes of that Facebook dream. 
+The chief executive was forced to admit that his platform, far from solving social problems, had given rise to some thorny ones of its own. 
+In his bracing rhetoric about the rise of the Chinese internet, you could even see the contours of Zuckerberg's nightmare -- of the virtuous cycle becoming a vicious one, with the gravitational pull of Facebook reversing, spinning its billions of users and their monetizable conversations out of his platform and inexorably toward China, toward despotism, toward dystopia: a TikTok of a boot stamping on a human face, forever.
+In this special Tech & Design Issue of The New York Times Magazine, we ponder the internet's future at a time when that future has never felt more unsettled. 
+It isn't just about Facebook and the other American tech giants, which no longer enjoy the rapid growth that characterized their early days. 
+The rise of the Chinese internet has threatened a geopolitical power shift, as a different government and national economy looks poised to become the center of the online world. 
+Even governments that don't ''censor'' the internet have begun to talk about regulating it in unprecedented ways -- as with the European Union's G.D.P.R. law, which already has given a huge swath of the developed world a subtly different set of online rules.
+But perhaps the deepest shift has been a shift in attitudes: the breaking of a spell that seemed to protect Silicon Valley from distrust. 
+After years in which questions about online privacy hardly penetrated the consumer consciousness, Americans have awakened to a feeling of deep suspicion about how companies are harvesting and using their data. 
+An NBC News/Wall Street Journal poll earlier this year found that American adults, by double-digit margins, believed that social media does more to spread falsehoods than truths and more to divide the country than to unite it. 
+Even the tech giants' own employees have now become uneasy about the implications of their work, leading to some unusual labor movements among their highly compensated white-collar ranks.
+If all this disappointment seems so acute, it's only in contrast to the unrealistic hopes that the internet grew up on, long before Mark Zuckerberg showed up. 
+From the earliest days of Arpanet, the internet has been seen as embodying an ambitious, even utopian set of values. 
+It's supposed to be open and global (such that anyone can plug in, anywhere) and also equal (in that every node should be able to get the same things). 
+Even as the internet quickly morphed from a (mostly) public-funded (mostly) academic project into a (mostly) corporate-funded profit center, the power of those core values persisted. 
+It persisted because those values have proved to be extremely profitable, at least for those who understand how to profit from them. 
+People like Marc Andreessen, who took what he learned developing a web browser at the University of Illinois at Urbana-Champaign and helped found a company, Netscape, that went public and eventually was sold to America Online for $4.2 billion; and Mark Zuckerberg, whose company allows all those ''voices'' to get attention free but makes a mint by selling them, and their personal data, to advertisers.
+In retrospect, Zuckerberg's letter in that 2012 Facebook prospectus was the high-water mark of internet boosterism, and it in fact encompassed most of the dreams that had attached themselves to the internet over the previous decades. 
+References to Gutenberg's printing press?
+Check. Denouncing of ''monolithic, top-down'' mind-sets, coming from the chief executive of a huge corporation?
+Check. A sense that effecting broad-based social change and becoming fabulously rich are goals that go hand in hand?
+For sure: ''I've developed a deep appreciation for how building a strong company with a strong economic engine and strong growth can be the best way to align many people to solve important problems.''
+Intimations that tech will topple authoritarian rulers around the world?
+It's in there: ''Over time, we expect governments will become more responsive to issues and concerns raised directly by all their people rather than through intermediaries controlled by a select few.''
+As the technology critic Evgeny Morozov noted in his trenchant 2013 book, ''To Save Everything, Click Here,'' the distance between the quotidian reality of the internet and the utopian set of notions we projected onto it had become so vast that quotation marks ought to separate the idealized version from the real thing. 
+''The internet'' was going to empower the masses, overthrow hierarchies, build a virtual world that was far superior to the terrestrial one that bound us. 
+But the actual internet was never capable of any of that, and once it fell into the hands of plutocrats and dictators, all the gauzy rhetoric around it only served their interests.
+By the same token, though, we might make the same observation about ''the internet'' that many people fear they're bound up in today: Our dark new fantasies about it -- with the puppet strings that stretch from the Kremlin to Palo Alto, making Grandpa dance to QAnon's fiddle -- are often just as ridiculous as the sunny visions they replaced. 
+In this issue, we've tried to see the internet and its likely future as best we can, from as many angles as we can, in the hope that -- after decades of imagining it as a utopia, and then years of seeing it as a dystopia -- we might finally begin to see it for what it is, which is a set of powerful technologies in the midst of some serious flux.
+So The internet didn't turn out the way we hoped. 
+Now what?
+Arguably the most bracing reality about the internet today is that, after years of pretending that ''the internet'' means the same thing to all people everywhere, that fiction has finally become impossible to sustain. 
+For the upper end of the income spectrum, a new suite of pay services promises to clean up the worst aspects of online life (Page 28), even as the basic infrastructure of broadband and mobile remains highly unequal depending on where you live, both in America and around the world (Pages 31, 34). 
+And while Facebook and its fellow tech giants continue to loom over the American economy, through a business model that involves exploiting user data (Page 41), their individual dreams of imperial expansion have brought them, collectively, to an awkward stalemate (Page 38).
+At the same time, it's crucial for Americans to realize, as Zuckerberg now seems to, that the internet is no longer as American as it once was. 
+Government censorship and other interventions are only entrenching an online reality in which different nations are seeing very different internets (Page 46), even different sets of facts. 
+In China, a parallel and growing mobile-based internet doesn't just portend a more censored online future; it's offering up whole new ways to structure and order online life (Page 60), with possible consequences that are scary in some ways and egalitarian in others.
+Perhaps the most profound force at work upon the internet right now is the simple passage of time. 
+Everyone raised in a pre-internet era continues to age and disappear, while new generations grow up not merely as ''digital natives'' but as lifelong witnesses to the internet's best and worst effects. 
+In the naïve dreams of earlier days, many people joined Zuckerberg in imagining that connecting the world could bring about new social virtues at no social cost. 
+But it's now clear that interconnection by its very nature also brings about confounding new social situations, whether it's the problem of disinformation seeded and spread by organized propagandists (Page 58) or the mind-bendingly obsessive culture of online fandom (Page 74). 
+For teenagers today (Page 84), the internet is both a stage onto which to step boldly and a minefield through which to step gingerly -- a double bind that has given rise to whole new habits of living online, in which self-expression and self-protection are inextricably linked.
+The passage of time, it's clear, has been weighing even on Zuckerberg -- a fact evident in what was, without a doubt, the most eye-opening moment in his Georgetown speech. 
+''Building this institution is important to me personally,'' he said, late in his oration, ''because I'm not always going to be here, and I want to ensure that these values of voice and free expression are enshrined deeply into how this company is governed.''
+Not always going to be here?
+This 35-year-old, multibillionaire chief executive, with an ownership vice-grip that essentially guarantees he can remain atop Facebook for as long as he chooses, was raising the specter of his retirement, or perhaps even his death.
+Those concerns are surely premature, but neither would it be surprising if the impermanence of human existence were on Zuckerberg's mind right now. 
+Facebook and its chief executive might both hold on for decades, but the vision of the internet they represented -- sunny, American, all-devouring -- is already dead and gone. 
+What, exactly, is arising to take its place?
+It's complicated. 
+Read on.

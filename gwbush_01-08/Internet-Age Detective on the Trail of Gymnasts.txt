@@ -1,0 +1,68 @@
+﻿
+Mike Walker does not care much about gymnastics, and he did not pay much attention to the Olympics.
+But when he heard stories about electronic records reportedly bearing the disputed ages of Chinese gymnasts vanishing from the Internet, he saw an opportunity to test his computer hacking skills.
+''I didn't get excited until I read about documents being available and then blocked,'' said Walker, a 32-year-old computer security specialist who lives near Washington. 
+''That set all kinds of alarm bells in my head in terms of going and finding records. 
+It is something I like doing.''
+After about three days of on-and-off cyber-sleuthing last week, Walker found copies of a spreadsheet that had previously been posted on a Chinese government Web site. 
+It listed the age of the Chinese gold-medal gymnast He Kexin as 14, not 16, as it says on her passport.
+Walker promptly started a blog, and his first post was titled ''Hack the Olympics!''
+It included copies of his find and details of how he uncovered the information. 
+The attention his post garnered -- it received a total of 1,500 comments on his blog and on the technology news site Slashdot -- helped revive the debate over whether He, who won an individual gold medal on the uneven bars, and other Chinese gymnasts were old enough to participate in the Olympics. 
+Since 1997, rules have required that a gymnast turn 16 in the year of the Olympics to compete in those Games.
+Chinese officials have insisted that all the country's gymnasts were the appropriate age. 
+On Sunday, they blamed a paperwork error for the conflicting records of He's age. 
+The International Olympic Committee has asked the international gymnastics federation to investigate.
+Giselle Davies, a spokeswoman for the I.O.C., said in a phone interview Thursday that the federation had not yet completed its inquiry. 
+She would not go into details about the documents involved in the analysis.
+Federation officials said last week that they had asked the Chinese Gymnastics Federation for passports, birth papers, national identity cards and family residence permits for five of the six members of the Chinese women's team. 
+Four Olympic medals, including the team gold in women's gymnastics, are at stake.
+''I don't think there's any update just yet because they got documents that were in Chinese and they were seeking to verify them,'' Davies said of the international federation's investigation of the Chinese women's team. 
+''We don't have a specific time limit or timeline set for it.''
+Phone calls to the federation's headquarters in Switzerland went unanswered Thursday.
+Walker said he believed that the documents he found belied the latest claims of Chinese government officials. 
+And for the last 10 days, he said he had been playing a sort of cat-and-mouse game with people he believes are trying to erase digital tracks that may point to further evidence that some Chinese gymnasts were under age.
+On Sunday, Walker posted a link to another file that suggested that the Chinese gymnast Jiang Yuyuan was also under age. 
+Suspecting that the file would disappear, he titled the post ''Ready, Set, Censor!'' and challenged readers to be ''faster than the delete button.''
+By Wednesday, the file had disappeared, but not before Walker and others made copies on sites that included the Internet Archive, a San Francisco-based nonprofit, which takes periodic snapshots of the Internet and stores them.
+Walker is not the only blogger to have found documents raising questions about the ages of China's Olympic gymnasts. 
+Others in the United States and China have uncovered news articles and government documents suggesting that He, Yuyuan and another gymnast, Yang Yilin, did not meet the minimum age requirements. 
+The New York Times first found and reported on July 27 about the existence of online documents suggesting that He and Yuyuan were under age.
+But Walker's painstaking documentation of his cyber-sleuthing efforts have thrust him into the spotlight, especially in the United States. 
+He has appeared on Fox News and been interviewed by other television networks and major American and foreign newspapers. 
+Other hackers, some in China, have continued to send him tips on where to dig for further evidence that the gymnasts may be under age.
+Somewhat sheepishly, Walker, whose blogging name, Stryde Hax, is a playful reference to his last name and his hacker chops, said he did not mean to steal the spotlight from others. 
+''It was not my intention to rebreak a story,'' he said.
+The efforts of people like Walker are the latest sign that a new generation of individuals see ''information gathering as a participatory contact sport,'' said Jonathan Zittrain, a law professor at the Harvard Law School and a co-founder of its Berkman Center for Internet and Society. 
+''I think that is a positive sign.''
+Despite the work of the Internet Archive, the lack of a complete and authoritative Web archive makes it possible for digital information to disappear forever, Zittrain said. 
+At the same time, he added, the debate about the age of the gymnasts shows that it is increasingly difficult to erase files, especially those that begin in relative obscurity and quickly end up in the public eye, like the various spreadsheets containing the registration of Chinese athletes with sports agencies.
+Walker and others owe their discoveries in large part to Internet search engines like Google and Baidu. 
+Search engines visit, or crawl, sites across the Internet periodically to build an index that users can search. 
+Most search engines also keep a copy, or cache, of the pages they index. 
+Because some Web sites are crawled infrequently, say every few weeks, a file may remain in cached form long after it has been removed from the Web site where it originally appeared.
+That is what happened with the documents that Walker and others found. 
+But it took some digging. 
+After much trial and error, Walker conducted a search on Google for spreadsheets on Chinese Web sites that contained He's name and the year 1994. 
+Walker got one result, a registry of athletes from the General Administration of Sport of China. 
+When he clicked on the link, the file was no longer on the site. 
+Walker was able to view the cached version, but He's name was not listed.
+That raised suspicions for Walker and other bloggers that Google could have modified the cached file, perhaps at the request of Chinese authorities. 
+Google denied it. 
+The company said that it caches only the first few hundred kilobytes of a spreadsheet. 
+The file in question was large, and He's name did not appear in the portion that Google had cached. 
+(Walker said he was satisfied with that explanation.)
+Walker had better luck with Baidu, a Chinese search engine, whose cached copy of the athletes registry included the entire spreadsheet. 
+It listed He's birthday as Jan. 
+1, 1994, which would make her 14. 
+The cached page has since vanished from Baidu, probably because Baidu has crawled the site again and updated its cache accordingly.
+By Walker's account, bloggers have uncovered at least four other official documents that show He's age as 14.
+Not everyone believes the evidence. 
+Comments on Walker's blog point to other information suggesting the Chinese Olympic gymnasts are all 16 or older. 
+And many in China are contemptuous of the claims that the gymnasts could be under age.
+Zittrain said it may be difficult to resolve the matter definitively. 
+For documents that were born in digital form, like those hackers and bloggers found online, ''it may be harder to know what is authoritative especially if it has changed,'' he said.
+For Walker, the experience has shed new light into the challenge of concealing information in the digital age.
+''If you look at an adversarial relationship between people trying to control the distribution of information and people trying to seek the information, both sides have new tools,'' he said. 
+One side ''can modify and remove information, leaving almost no trace. 
+But the people who are seeking the information have global reach, anonymity and infinite distribution.''

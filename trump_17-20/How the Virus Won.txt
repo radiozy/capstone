@@ -1,0 +1,79 @@
+﻿
+It started small.
+A man near Seattle had a persistent cough. 
+A woman in Chicago had a fever and shortness of breath. 
+By mid-February, there were only 15 known coronavirus cases in the United States, all with direct links to China.
+''The 15 within a couple of days is going to be down to close to zero,'' President Trump said. 
+The patients were isolated. 
+Their contacts were monitored. 
+Travel from China was restricted.
+The China travel ban was a partial success: Only a handful of infected travelers from China are estimated to have made it into the country undetected before restrictions were imposed on Feb. 
+2. But it wasn't enough. 
+Only a small part of the picture was visible.
+A vast wave of infected travelers -- roughly 1,000, one model suggests -- came in February from other countries in Asia, Europe and the rest of the world, each a dangerous spark that could set off a wider outbreak.
+Many of those infections died out. 
+But by mid-February, a few caught fire and became outbreaks, spreading invisibly. 
+Some 2,000 hidden infections were already spreading through major U.S. cities.
+The country was unaware of its own epidemic. 
+Many tests released by the Centers for Disease Control and Prevention didn't work, leaving only enough to test people who had visited China or had contact with a handful of known cases. 
+Over the next two weeks, the number of cases from the invisible outbreaks doubled, then doubled three more times.
+We traced the hidden spread of the epidemic to explain how the United States failed to stop it. 
+At every crucial moment, American officials were weeks or months behind the reality of the outbreak. 
+Those delays most likely cost tens of thousands of lives.
+Then it exploded, unseen.
+Top federal health experts concluded by late February that the virus was likely to spread widely within the United States. 
+Government officials knew that they would need to urge the public to embrace social distancing measures, like avoiding crowds and staying home.
+But Mr. Trump wanted to avoid disrupting the economy. 
+So some of his health advisers, at Mr. Trump's urging, told Americans at the end of February to continue to travel domestically and go on with their normal lives.
+And they did. 
+Millions moved around the country, cellphone data shows. 
+Some unknowingly carried the virus with them.
+By the time Mr. Trump blocked travel from Europe on March 13, the restrictions were essentially pointless. 
+The outbreak had already been spreading widely in most states for weeks.
+The delays killed thousands.
+Faced with an outbreak that had grown beyond their ability to test or trace, American officials had no option but to ask the public to stay home.
+On March 16, weeks after health officials privately concluded that a more active response would be needed, Mr. Trump asked Americans to limit travel, avoid groups and stay home from work and school if they felt sick. 
+One by one, states issued stay-at-home orders and closed businesses.
+The outbreak slowed in places where the measures were undertaken relatively quickly. 
+But in New York City, political leaders waited crucial days to close schools and impose a stay-at-home order as the virus spun out of control.
+More than 22,000 deaths in the New York City area could have been avoided if the country had started social distancing just one week earlier, Columbia University researchers estimate.
+About 36,000 deaths nationwide could have been avoided by early May had social distancing begun earlier, the estimates say.
+Even now, America remains in the dark. 
+Most infected people are never tested. 
+There is little capacity to trace and isolate the contacts of those who do test positive. 
+After the lockdowns expired, new cases spiked once again.
+In recent weeks, new outbreaks have flared across the South and the West. 
+These are only the cases we know about. 
+No one can see where the virus will go next.
+Notes:
+Our understanding of the early outbreak in the United States draws on case reports, travel patterns, genetic sequencing and disease modeling that simulates the course of the outbreak based on how it spread and what is known about the virus. 
+All models are estimates, and it is impossible to know for certain the origin of each infection or the number of infections that were not confirmed by testing.
+There are no comprehensive, official counts of cases, deaths or tests throughout the United States. 
+Known cases are from a New York Times database based on information from federal, state and local officials. 
+Cases are shown by core-based statistical areas, or by county for cases outside of those areas. 
+The first 15 cases are labeled by statistical area. 
+Those labels may not match the names of the exact cities in which cases were seen.
+The travel patterns we show represent movement between core-based statistical areas, based on aggregated, anonymous cellphone location data collected by Cuebiq, a data intelligence firm that tracks the locations of more than 15 million cellphones in the United States. 
+The data captures trips, not unique travelers, and it includes commutes between statistical areas as well as longer-distance travel. 
+Some minor and short routes are not shown. 
+Reductions in movement because of social distancing are based on measurements by Cuebiq of the median range that people in each area travel each day. 
+The effects of social distancing are from Lauren Gardner, et al., ''Social Distancing Is Effective at Mitigating Covid-19 Transmission in the United States.''
+Estimates of the number of undetected infections in 11 American cities are from modeling by Northeastern University, courtesy of Alessandro Vespignani, as are the estimates of the number of undetected infected travelers who came into the United States from other countries. 
+See Matteo Chinazzi and Jessica T. Davis, et al., ''The Effect of Travel Restrictions on the Spread of the 2019 Novel Coronavirus (Covid-19) Outbreak,'' Science.
+Estimates of the number of contagious people who left New York and Seattle are from modeling by Sen Pei and Jeffrey Shaman at Columbia University. 
+Estimates of the number of deaths that could have been avoided with earlier social distancing are from Dr. Pei, et al., ''Differential Effects of Intervention Timing on Covid-19 Spread in the United States,''medRxiv.org.
+Genetic samples of the virus are from Nextstrain. 
+We show the samples grouped by names that were assigned before May 1, 2020. 
+The connection of American outbreaks to travel from New York City is based on a Times analysis of travel patterns and analysis of genetic mutations by Trevor Bedford, associate professor, Fred Hutchinson Cancer Research Center and the University of Washington. 
+Our understanding of the genetic connection between New York and New Orleans comes from Karthik Gangavarapu, a computational scientist at Scripps Research, and Dr. Bedford.
+Conclusions from federal health officials in February about the likely spread of the virus are from Times reporting. 
+Mr. Trump said that cases would be close to zero within days at a Feb. 
+26 news conference. 
+Health advisers urged Americans to go on with their normal lives in a Feb. 
+29 news conference. 
+Mayor Bill de Blasio encouraged New Yorkers to do the same in a tweet on March 2. 
+Mr. Trump recommended that Americans avoid travel at a news conference on March 16.
+Additional sources:
+Xianding Deng, Charles Chiu et al., ''A Genomic Survey of SARS-CoV-2 Reveals Multiple Introductions Into Northern California,'' Science
+Matthew Maurano, Adriana Heguy et al., ''Sequencing Identifies Multiple, Early Introductions of SARS-CoV2 to New York City Region,'' medRxiv.org
+Ana S. Gonzalez-Reiche, Harm van Bakel et al., ''Introductions and Early Spread of SARS-CoV-2 in the New York City Area,'' ScienceEric Lipton contributed reporting.

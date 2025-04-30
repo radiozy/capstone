@@ -1,0 +1,19 @@
+﻿
+As the first Internet Governance Forum begins today near Athens, a conflict is emerging over the use of non-Western characters and languages in Internet addresses.
+Vinton Cerf, known as a father of the Internet, said yesterday that he feared that the network's addressing system would break down if ''political gambits'' by international groups interfered with plans to expand the languages used in domain names.
+Mr. Cerf is chairman of Icann, the United States nonprofit group that has been the target of global criticism over Internet governance issues. 
+The conflict shows that the high-level global debate over United States influence and control of the Internet is still unresolved, he said.
+He and other Icann officials say that what they see as a careful and considered approach is being construed by others as stalling or an attempt to undermine the use of foreign, non-English characters.
+''In meetings we've held, there has been a very visible, and understandable, impatience,'' he said. 
+''Language is clearly bound up in national and cultural pride. 
+They are seeing domain names as language-based, when in fact they are really just symbols that help us find places on the Internet.''
+He did not name the International Telecommunication Union, a United Nations agency, or the Chinese government as sources of the friction. 
+But he noted that both had been vocal about how Icann, the Internet Corporation for Assigned Names and Numbers, had dealt with using non-Latin characters in domain names.
+''My concern is the potential for suddenly choosing another path after Icann has already put in six years of work on this,'' said Mr. Cerf. ''Either they will fail, or they will break the Internet.''
+Officials of the I.T.U., which is made up of 191 member governments and coordinates global radio-frequency issues, could not be reached on Sunday night.
+Members of the Chinese delegation to the Internet Governance Forum also could not be reached. 
+The forum is being sponsored by the United Nations.
+At present, 37 characters can be used for Internet addresses; Icann is gradually adopting a plan that would expand that set to tens of thousands of characters from all of the world's languages. 
+Already, several Asian character sets have been approved, but Icann has not yet signed off on a system for using international symbols for the part of the Internet address that represents the top-level domain, such as .com or .net or .jp.
+The Internet Engineering Task Force as well as an independent group of private-sector experts are involved in the process. 
+''It is turning out to be quite difficult to integrate this very large character set in a way that is safe and stable and will work with many applications for many decades to come -- to future-proof it,'' Mr. Cerf said.

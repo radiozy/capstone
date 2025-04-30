@@ -1,0 +1,61 @@
+﻿
+MOSCOW -- Few people looking to buy a trendy, state-of-the-art smartphone anywhere in the world today would even think about a Russian model, but the makers of the YotaPhone aspire to change that.
+The start-up's quest to break into the cutthroat global market for cellphones even got a boost from President Vladimir V. Putin, who has lately renewed a push to make innovation the next big thing for Russia's bedraggled economy.
+During his ''pivot to China'' trip to sign a fistful of economic cooperation agreements last fall, Mr. Putin presented two of the dual-screen phones to his Chinese counterpart, Xi Jinping.
+''Is there cooperation on this phone too?''
+President Xi asked, eyeing the two screens curiously, and Mr. Putin responded hastily, ''There will be.''
+The very idea of an ''innovative Russian consumer gadget'' tends to provoke mostly gag lines, reminiscent of the old Cold War joke about how Russian Playboy featured a naked woman lying across a tractor, then the centerfold featured just the tractor.
+Even after throwing off the yoke of Soviet central planning, Russia failed to translate its wealth of scientific and engineering talent into competitive, marketable products. 
+If anything its efforts declined after the Soviet Union collapsed in 1991, when the Kremlin stopped demanding that the military industry match the United States and many scientists left for the West.
+Mr. Putin first began preaching innovation a decade ago, but the goal foundered amid the boom in commodity exports. 
+Now, many Russian political leaders wax nostalgic for the Soviet era, when the country produced all its own industrial goods, however dubious their quality.
+Dmitri A. Medvedev, the substitute president between Mr. Putin's two times in office, championed a grand, $4 billion project to cultivate a Russian Silicon Valley in the suburban Moscow village of Skolkovo. 
+Starting in 2009, a graduate technological research university and a state-backed innovation foundation were established under the tutelage of the Massachusetts Institute of Technology.
+It never blossomed, and Mr. Putin has shown scant interest in Skolkovo. 
+Last year, however, he resurrected innovation as a key objective after the crisis in Ukraine prompted Western economic sanctions, in particular limiting the import of some advanced technology.
+Mr. Putin has said repeatedly that the current tensions will benefit Russia by weaning it from Western goods and technology. 
+But that is not as simple and straightforward as it sounds, as the brief history of the YotaPhone illustrates.
+The phone's creator, Vladislav Martynov, 45, had been working abroad for a decade, including a stint as a global troubleshooter for Microsoft, when a friend lured him back to Moscow in 2008 with the idea of building a better smartphone.
+While inspired by gifted Russian software developers, Mr. Martynov subscribed to a main tenet of globalization: that few products emerge from one country alone.
+''Today, there is no nationality when you create a globally competitive product in the high-tech sector,'' he said. 
+The YotaPhone project's roughly 100 employees include software engineers in Russia, Finnish hardware designers and multinational engineers who established the production line in Singapore. 
+His main marketing focus this year is China, along with Latin America. 
+(Carrier control over the American cellphone market makes it among the toughest to enter, he said.)
+The YotaPhone prototype introduced in 2012 wowed international tech conferences with its novel two-screen design, with one face acting like a standard smartphone and the other like an e-reader.
+The second screen supports various functions without draining the battery, such as keeping a boarding pass handy or tracking every ripple in the dollar-ruble exchange rate -- a local fixation.
+In late April, Mr. Martynov presided over a packed news conference to introduce a white version of the YotaPhone 2, hoping through that simple stroke to create the kind of cachet -- and sales -- that has so far proved elusive, even in Russia.
+The loudest burst of sustained applause greeted Mr. Martynov's introduction of an inaugural line of colorful rubber bumpers. 
+Previously, dropping a YotaPhone often meant breaking it.
+That underscored a critical problem hindering a range of new Russian products: developers tend to work in isolation. 
+Mr. Martynov appealed for developers to create applications for the second screen. 
+There are now roughly 40, he said, a drop in the ocean compared with the iPhones favored by the Russian elite.
+''You have to create an entire ecosystem for all the simple stuff,'' said Alexander Galitsky, 60, a computer scientist who went from developing Soviet spy satellites to pioneering Russia's nascent venture capital industry.
+Many experts trace the problems with innovation to the Soviet Union. 
+The attitude that change starts with an order from the top has not quite gone away.
+In addition, though much of Russian manufacturing died after the Soviet collapse, the government does not subscribe to globalization. 
+When Mr. Medvedev, now the prime minister, was handed an early YotaPhone, he asked when production would start in Russia.
+''If we fail to become part of the global technology chain, we are lost,'' Mr. Galitsky said.
+He and others believe that Russia should exploit its strengths in developing state-of-the-art software to become a design hub in the international supply chain, with the manufacturing done in China or elsewhere. 
+Instead, given the current economic climate, not to mention the crackdown on Internet freedom, countless young Russians with I.T. dreams are decamping for the United States or other places with better prospects.
+Young technology buffs in Moscow gave the latest YotaPhone mixed reviews. 
+They called the white version expensive at about $800, not much less than an iPhone 6, and not cutting-edge given its older Android operating system. 
+They were skeptical that the dual screen was more than a gimmick.
+Mr. Martynov defended the cost and the technology, emphasizing the effort that went into creating the second screen, extending the battery life and making the whole thing easy to use.
+Perhaps the phone's main attraction for the young techies was that it was developed in Russia. 
+''Maybe it is a kind of first step for Russian devices,'' said Valeriy Istishev, who runs Droider.ru, a Russian website about gadgets. 
+''It is good, but not the best. 
+It cannot be the best at the beginning.''
+Tensions with the West are a key factor in the innovation equation.
+While recent tensions have prompted Russians to think harder about making their own products, they have also made the task more difficult by cutting off access to some technologies and investment capital.
+Russian high-tech companies engaged in computer security and telecommunications also found themselves facing a problem they thought they had conquered: the old spy vs. spy stereotypes that resurfaced with the Ukraine crisis.
+''People are suspicious about the origins, so many Russian companies hide and pretend not to be Russian,'' said Mr. Galitsky. ''It is better to be an Estonian engineer, or a Czech engineer, but definitely not a Russian engineer.''
+Finding investors locally is not easy, either. 
+Private venture capitalism is still largely deemed too risky, and failure is considered an unacceptable outcome for anything funded by the government.
+Anatoly B. Chubais, the godfather of privatization in Russia (and still vilified for it), who now runs a government-supported technology incubator called Rusnano, commissioned a study to determine whether the Russian mentality somehow thwarted innovation. 
+The study concluded that Russians are perfectly capable, he said, but the topic remains hotly debated.
+''In general, Russians are very skeptical about themselves and their ability to create something good,'' said Mr. Martynov of YotaPhone.
+Some are determined to try, particularly to end the failure to transform groundbreaking research into usable products.
+The Russian Quantum Center, established in 2010 at Skolkovo, aimed to close the gap between science and business by recruiting leading physicists and their graduate students, about 100 over all, to conduct research that could be commercialized.
+Four of the center's projects, all involving highly complex research in quantum physics, are in progress, financed largely by state money. 
+They include creating unbreakable cryptography for banks and government agencies; photonics to improve the sensors inside products like the Apple Watch; and various uses for magnetic fields including cardiovascular imaging.
+''The innovation ecosystem is being shaped, and I see positive dynamics, but as of now we are still very far behind,'' said Ruslan Yunusov, the head of the center.

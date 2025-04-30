@@ -1,0 +1,78 @@
+﻿
+How two apps created new kinds of commerce in China, and what a cashless future might look like.
+This article is part of the On Tech newsletter. 
+You can sign up here to receive it weekdays.
+It's hard for those of us who live outside of China to grasp how paying for everything has gone digital in the country.
+Most businesses there, from the fanciest hotels to roadside fruit stands, display a QR code — a type of bar code — that people scan with a smartphone camera to pay with China's dominant digital payment apps, Alipay and WeChat. 
+Paying by app is so much the norm that taxi drivers might curse at you for handing them cash.
+My colleague Ray Zhong, who used to live in Beijing and wrote about Alipay's parent company selling stock to the public for the first time, spoke with me about how China's digital payment apps created new kinds of commerce, and whether China offers a glimpse at a cashless future for the rest of us.
+Shira: How did Alipay and WeChat get so popular in China?
+Ray: Credit cards were never prevalent in China. 
+The country skipped over a generation of finance and went straight to smartphone-based digital payments.
+And the apps are simple for businesses. 
+If a business can get a printout of a QR code, it can get paid by app. 
+They don't need special machines like businesses do to accept credit cards or many mobile payments like Apple Pay, which are essentially digital wallets of bank cards, while Alipay and WeChat are more pure digital payments.
+What's useful about these payment apps?
+China has a stodgy, state-dominated banking system. 
+These apps have allowed small businesses to connect to modern financial infrastructure easily.
+I know paying with a credit card isn't tremendously difficult, but making it a fraction easier to buy stuff has enabled different kinds of commerce. 
+You probably wouldn't buy something on Instagram for 50 cents with your credit card, but people in China buy digital books one chapter at a time.
+What are the downsides?
+Imagine if powerful tech companies like Google knew everything you've purchased in your entire life. 
+That's one.
+There are also concerns that Alipay and WeChat are so dominant that no one can compete with them.
+How did China's government respond to these two apps creating a financial system outside its explicit control?
+The government has been attentive. 
+It put a cap on fees that Alipay and WeChat can charge merchants. 
+And where the apps make their real money — in making loans and selling investments — the government wants to make sure borrowers aren't being gouged and investment funds aren't taking on excessive risks.
+These apps initially portrayed themselves as alternatives to the conventional, government-backed banking system. 
+But in response to the government's scrutiny, Alipay and WeChat deliberately now say they are partners to banks, not competitors. 
+Several government-owned funds and institutions are investors in Ant Group, Alipay's owner.
+(Our newsletter cousins at DealBook have more information on the initial public stock offering of Ant Group.)
+Is China a preview of digital payments taking hold in the rest of the world?
+Alipay and WeChat developed for China's specific needs. 
+I'm not convinced similar QR-code-based digital payment systems will catch on elsewhere. 
+Maybe in India.
+Alipay and WeChat are hardly perfect. 
+I think Apple Pay is much easier to use, for in-person checkout at least. 
+But the Chinese apps have the edge for online payments. 
+No typing a 16-digit credit card number into a tiny field on your computer.
+When you lived in China, did you use payment apps?
+Yes, for everything: my rent, phone bills, food, gym classes, train tickets, rides on Didi — the Chinese equivalent of Uber.
+What do you miss about the payment apps?
+Cash and making change are super-annoying. 
+And I hate coins. 
+Actually, does anyone like coins?
+If you don't already get this newsletter in your inbox, please sign up here.
+Good information matters
+There are two ways to counter bad information: Tackle the misinformation, or blare the correct information so people don't encounter or believe the bogus stuff.
+The fights we're watching unfold at the big internet companies have mostly focused on the first. 
+There's constant drama about what Facebook, Twitter, YouTube and other big internet properties are doing about the spread of conspiracy theories and misleading information about the coronavirus and possible voter fraud, including from President Trump.
+Misinformation has a way of getting ingrained in people's brains — particularly if we see it often enough or it comes from people we trust. 
+But repeated good information can be powerful and stick in our minds, too.
+That's why Twitter on Monday said it would start putting messages in a prominent spot at the top of Americans' feeds to highlight credible information that can head off commonly circulated misleading information about the election.
+My colleague Mike Isaac wrote that among the communications are messages stating that voting results may not come immediately on Election Day, and that voting by mail is safe and reliable. 
+(Twitter also continues to apply warning labels to the president's misleading information about voting, including as recently as Monday night.)
+The Election Integrity Partnership, a coalition of researchers who focus on election interference, has also emphasized the power of underscoring what is going right with voting.
+In its guide to the public and journalists, the coalition recommended highlighting positive experiences people have in voting and emphasizing that the vast majority of ballot casting and counting will go smoothly. 
+Focusing on isolated problems in elections can be used as false evidence to support bogus claims of voter fraud, the researchers said.
+Look, the next few days and weeks around Election Day are going to be noisy and confusing, and we're going to be bombarded with misleading information. 
+There's no easy fix, but the researchers are telling us that wallowing in credible information and focusing on what's going right can arm our brains against the toxicity.
+It's your turn: What do you want to know about how tech companies are handling election-related information and results?
+My Times colleagues and I will try to tackle a selection of your questions in the coming days. 
+Email us at ontech@nytimes.com and put VOTE in the subject line.
+Before we go ...
+•Bogus information hyped by powerful people has a big impact: In the latest episode of the "Stressed Election" video series from The New York Times, my colleagues trace how partisans in Kentucky capitalized on a made-up tweet about voter fraud to spread doubts about the outcome of the 2019 governor's race. 
+(Nick Corasaniti of our politics team has more here.)
+•Uhhh ... there were 700 people at an Airbnb party during a pandemic?!
+Airbnb has forever struggled with "party houses" — rented homes where people throw ragers that sometimes spark violence or annoy the neighbors. 
+Sources told my colleague Erin Griffith that Airbnb has long overlooked the problem to avoid turning away business.
+•This is a direct result of how Facebook designs its computer systems: Research led by two information technology professors found that the more time people spend on Facebook, the more polarized their online news consumption becomes. 
+And the polarizing effect is far more pronounced for conservatives than for liberals, the professors wrote in The Washington Post.
+Hugs to this
+Look and listen to this orphaned baby buffalo whose deep guttural noises sound like she's saying "hello." Or maybe it's just me?!
+(Thanks to the Brass Ring Daily newsletter for bringing little Cheza to my attention.)
+We want to hear from you. 
+Tell us what you think of this newsletter and what else you'd like us to explore. 
+You can reach us at ontech@nytimes.com.
+If you don't already get this newsletter in your inbox, please sign up here.

@@ -1,0 +1,40 @@
+﻿
+The company, whose flagship Alipay app has helped drive the boom in mobile payments in China, is preparing to list shares in Hong Kong and Shanghai.
+Ant Group, the payment- and finance-focused sister company of the Chinese e-commerce titan Alibaba, filed paperwork on Tuesday to list shares in Hong Kong and Shanghai, the first steps toward what could be a blockbuster initial public offering.
+Online finance has exploded in China in recent years, and Ant's flagship service, Alipay, has been a key driver. 
+Relatively few people in China had credit cards when e-retail and other internet services began taking off in the country. 
+That has helped app-based payments become far more ubiquitous in China than they are in the West.
+In China, $67 trillion in transactions were conducted on mobile devices in 2018, according to estimates by the research firm Bernstein. 
+Many of those took place through Alipay and WeChat, a rival digital wallet and messaging app owned by another Chinese internet giant, Tencent.
+Once people were using Alipay to stash their cash and pay for online purchases, Ant could begin offering them other kinds of services through the app, including personal loans and insurance policies. 
+Alipay says it has 900 million users in China.
+''That super-app approach -- where you create an ecosystem that's enabled by payments, and then you layer on the other products and services both financial and nonfinancial -- is something that no other company around the world has successfully done,'' said Zennon Kapron, the director of Kapronasia, a research firm focused on the financial technology industry.
+Ant's share sale is likely to be big. 
+The company raised funding two years ago at a valuation of $150 billion, which made it one of the most richly valued private businesses in the world.
+The company's filings on Tuesday did not indicate how much it hoped to raise through the share sales. 
+Investors did, however, get their first detailed look at key company financials.
+Ant said it generated $17 billion in revenue last year, a jump of more than 40 percent from 2018. 
+More than half of its 2019 revenue came from financial services such as lending, wealth management and insurance that were offered through Alipay. 
+The fees it earned from processing payments and serving merchants accounted for almost all of the rest.
+The company said that transactions worth $16 trillion took place on Alipay last year, a one-fifth increase from the year before. 
+It also noted that the platform had enabled $290 billion in credit to individuals and small businesses, as well as $500 billion in investments.
+Unlike some other fast-growing tech companies that have listed shares in recent years, Ant is not losing money. 
+It said its profit last year was around $2.5 billion.
+Ant's offering signals confidence in Hong Kong's status as a financial hub at a time of upheaval. 
+The central authorities in Beijing have used a new national security law to clamp down on antigovernment protests in Hong Kong, a Chinese territory, and in the process have cast doubt on its status as freethinking and laissez-faire. 
+The city has also been strained by waves of coronavirus infections.
+Ant's choice of Chinese exchanges over American ones is meant to capitalize on the interest of local investors, for whom Alipay is a household name. 
+Alibaba held a giant share sale in New York in 2014 and a second listing in Hong Kong last year.
+But it also reflects the uneasy state of affairs for Chinese technology companies in the United States. 
+President Trump has vowed to restrict apps including WeChat and TikTok in the name of safeguarding Americans from data gathering by the Chinese Communist Party.
+Last week, Alibaba's chief executive, Daniel Zhang, referred to the situation between Chinese companies and the Trump administration as ''fluid.''
+''We are closely monitoring the latest shift in U.S. government policies,'' Mr. Zhang said during a conference call with analysts.
+Alibaba created Alipay in 2004 as a tool for building trust between buyers and sellers on its online bazaars. 
+At the time, internet retail was nascent in China. 
+By holding payments in escrow, Alipay helped assure customers that they would not lose money if merchants turned out to be scammers.
+Over time, Alipay evolved into an all-purpose payment tool, and Alibaba spun it out as a separate entity, which was rebranded as Ant Financial in 2014. 
+The two companies had a profit-sharing deal until Alibaba acquired a one-third stake in Ant last year.
+Recently, the company has begun dropping the ''financial'' from its English name, saying it wants to emphasize its technology.
+Ant has sought to broaden its global reach by teaming up with payment companies in India, Southeast Asia and Britain. 
+But its ambitions in one giant market have been thwarted by politics. 
+In 2018, it broke off talks to buy the American money transfer company MoneyGram after the deal failed to win the blessing of a Washington committee that scrutinizes investment transactions for national security risks.

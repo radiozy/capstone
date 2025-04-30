@@ -1,0 +1,24 @@
+﻿
+Amid swelling pro-democracy demonstrations in Hong Kong, protesters are turning to FireChat, a new app that allows them to send messages without a cellular or Internet connection.
+Set off against a fresh wave of censorship by Beijing to ensure that potentially destabilizing images of the protests do not enter the mainland, the app is a testament to how technology constantly challenges tried forms of blocking information online.
+Introduced in March, FireChat makes use of a cellphone's radio and Bluetooth communications to create a network between phones close to one another - up to about 80 yards - without connecting to the Internet. 
+If a cellular signal or wireless network is available, the app uses that.
+In 24 hours starting on Sunday afternoon, the app, which allows users to host public chat rooms, added 100,000 users in Hong Kong, and usage in the city peaked on Sunday night at 33,000 simultaneous users, according to Open Garden, the San Francisco company that distributes the app.
+The surge in users can be traced in part to rumors that spread over the weekend that the Hong Kong government might shut down the Internet locally, according to protesters, though it appeared unlikely that officials would make such a move.
+Kyle Hui, 19, a student at the Hong Kong University of Science and Technology, said the app was proving useful because large crowds had overwhelmed the mobile infrastructure in parts of the city, rendering cell signals spotty.
+''Protesters use it to, for example, announce what supplies are needed - goggles, surgical masks - or to announce protest tactics,'' Mr. Hui said.
+The Hong Kong protesters are not the first to make use of the technology. 
+In March, just 10 days after FireChat was released, students participating in the so-called Sunflower Movement in Taiwan - protesting a trade deal with China - downloaded the app en masse out of concern that the Internet would be cut, said Christophe Daligault, an executive of Open Garden.
+The company also saw a jump in users in May, after the Iranian government blocked access to the photo-sharing app Instagram and the messaging service WhatsApp.
+''When people find themselves in the situation where they think access to the Internet is going to be removed, they all download the app in big numbers,'' Mr. Daligault said by telephone.
+Beijing has occasionally blocked the Internet during times of unrest, as it did in the far-western region of Xinjiang during ethnic riots in 2009.
+In response to the Hong Kong protests, Beijing has heavily censored social media on the mainland, scrubbing references to the demonstrations from Sina Weibo, a popular microblogging service. 
+Instagram has also been largely inaccessible in mainland China since Saturday, according to users and several Internet watchdogs, leading commentators to speculate that the government shut access to the app to stanch the flow of images of the protests. 
+Instagram did not respond to a request for comment about the apparent blockages. 
+Facebook, which owns Instagram, has been blocked in China since the Xinjiang riots.
+For now, FireChat has only a modest presence in mainland China, in part because potential users need Internet access to download the app and its site has been blocked, according to Open Garden. 
+If the company were to take a new approach - for instance, work out a way for users to download and sign up offline - that could expose new vulnerabilities in China's network of filters, known generally as the Great Firewall.
+Even so, FireChat faces some of the same problems confronting all social media, such as the uncontrolled spread of rumors and overwhelming streams of data, said Mr. Hui, the student.
+''Sometimes I get more than a thousand messages in just an hour, so I simply can't keep up,'' he said.
+''People keep posting the same message to grab others' attention,'' he added. 
+''And I'm skeptical of many of the rumors that spread on the app, like saying that the People's Liberation Army is sending in tanks and armored vehicles.''

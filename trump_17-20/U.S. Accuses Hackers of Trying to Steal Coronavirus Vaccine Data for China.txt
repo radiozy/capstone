@@ -1,0 +1,54 @@
+﻿
+Two suspects in China targeted companies working on vaccines as part of a broader cybertheft campaign to enrich themselves and aid the Chinese government, officials said.
+WASHINGTON — The Justice Department accused a pair of Chinese hackers on Tuesday of targeting vaccine development on behalf of the country's intelligence service as part of a broader yearslong campaign of global cybertheft aimed at industries such as defense contractors, high-end manufacturing and solar energy companies.
+Justice Department officials labeled the suspects, Li Xiaoyu and Dong Jiazhi, as a blended threat who sometimes worked on behalf of China's spy services and sometimes to enrich themselves. 
+The officials said that an indictment secured against them this month and unsealed on Tuesday was the first to target such a threat.
+United States government officials said that the suspects had previously stolen information about other Chinese intelligence targets like human rights activists and, at the behest of the Ministry of State Security spy service, shifted focus this year to trying to acquire coronavirus vaccine research.
+The indictment comes as the Trump administration has stepped up its criticism of Beijing, both for its theft of secrets and its failure to contain the spread of the coronavirus, and is a significant escalation of that campaign to denounce Beijing. 
+The Justice Department said that China's covert activity could potentially set back vaccine research efforts.
+The accusations also came days after the United States and allied countries accused Russia of trying to steal information on vaccine development.
+The indictment also suggests that China did far less to curb its spying than it had vowed to as part of a nonaggression pact signed with the United States in late 2015 that was aimed at curbing China's efforts to steal American technological know-how.
+The agreement was thought to have slowed China's hacking for about 18 months, reducing the industrial espionage work done by the Chinese military. 
+But Mr. Li and Mr. Dong, guided by the Chinese intelligence agency, tried to steal secrets in 2016 and 2017, even as the agreement was purportedly being honored.
+Asked for comment on the accusations, a press officer for the Chinese Embassy pointed on Tuesday to earlier comments by a foreign ministry spokeswoman, Hua Chunying, who said that the government opposed all forms of cyberattacks and threats.
+The suspects are unlikely to be brought to trial because China does not have an extradition treaty with the United States. 
+The charges were the latest in a continuing effort by the Justice Department to secure indictments against private groups and intelligence officials involved in hacking campaigns as a deterrent and to raise awareness of the threat that such groups pose.
+On Tuesday, David L. Bowdich, the F.B.I. deputy director, called the hacks part of a campaign of economic coercion akin to "what we expect from an organized criminal syndicate."
+The suspects targeted hundreds of computer networks around the world and caused unnamed companies to lose hundreds of millions of dollars of intellectual property, according to the indictment. 
+For example, they stole research on radio and laser technology from a California defense firm and engineering drawings for a gas turbine from a company working in the United States and Japan, court papers showed.
+Justice Department and F.B.I. officials said the hackers were pursuing information and research about the coronavirus vaccine from American biotech firms but described it as an attempt to steal the data. 
+The indictment, which was filed in the Eastern District of Washington, did not say that the hackers successfully stole information or research on the vaccine.
+The pair did try to hack a Massachusetts biotech firm researching a vaccine as early as Jan. 
+27, according to the indictment. 
+On Feb. 
+1, the pair tried to find vulnerabilities on the networks of a California biotech firm that had announced it was researching coronavirus antiviral drugs. 
+Then, in May, Mr. Li investigated a California diagnostic firm developing virus testing kits.
+While the indictment named only the two suspects, unlike the larger group of Russian hackers accused of seeking vaccine data, the Justice Department portrayed their work as far-reaching and long-running, going back to at least 2009.
+American officials first detected the suspects five years ago, when they stole a gigabyte of information including personnel and administrator accounts from the Hanford Site, an Energy Department facility in Washington State where plutonium was produced during World War II, according to the indictment.
+In some cases, the suspects tried to extort money from companies, according to the indictment. 
+In 2017, Mr. Li threatened to publish the source code of a Massachusetts software company if it did not give him $15,000 in cryptocurrency.
+Like the Russian group, the Chinese hackers operated with the assistance of their country's intelligence agencies. 
+Their interests were broad, covering manufacturing firms, defense contractors, government agencies, game developers and medical device makers; they recently grew to include information about coronavirus vaccine development and other virus-related data.
+The suspects also tried to steal other information on Chinese activists for the Ministry of State Security, Beijing's civilian spy agency, said John C. Demers, the assistant attorney general for national security. 
+The suspects handed over account information and passwords belonging to a Hong Kong community organizer, a former Tiananmen Square protester and a pastor of a Christian church in China.
+"You can see by the variety of the hacks that they did how they were being directed by the government," Mr. Demers said at a news conference at the Justice Department. 
+"Extorting someone for cryptocurrency is not something that the government is usually interested in, nor are criminal hackers usually interested in human rights activists and clergymen."
+The hackers broke into computer networks by researching personal identifying information about employees and customers, which helped them gain unauthorized access, according to law enforcement officials. 
+Once inside, they stole information from pharmaceutical companies about drugs under development and source code from software companies, the indictment said.
+Although the Chinese intelligence service in some cases provided them with hacking tools, much of their work was done using more common methods to breach publicly known software vulnerabilities.
+The hackers also worked to cover their tracks, sometimes in ways that could damage the data they were stealing, like by changing the file names of information they downloaded, according to court papers. 
+To further avoid detection, the two hackers worked inside computers' "recycle bins," where files are hidden by default and harder for system administrators to see.
+Mr. Demers said an attempted breach could slow down research because it must be secured, but researchers also must make sure their data has not been corrupted or altered by the intruders. 
+The government officials did not say they had evidence that such manipulation had occurred, however.
+"Once someone is in your system, they cannot only take the data, they can manipulate the data," Mr. Demers said. 
+"So what you have to focus on is making sure through backup or other systems that nothing has changed about your data."
+The indictment contained 11 criminal charges against Mr. Li and Mr. Dong, including conspiracies to commit computer fraud and theft as well as multiple counts of aggravated identity theft.
+Trump administration officials, both in public speeches and classified briefings to Congress, have stepped up warnings in recent weeks about Chinese intelligence services and their campaign to steal information and influence American politics.
+Lawmakers have been wrestling with how to better deter China, Russia and other nations from trying to hack into pharmaceutical companies, technology firms and other organizations.
+"We need a comprehensive strategy to deter the serial theft of strategic U.S. secrets," Senator Chris Van Hollen, Democrat of Maryland, said in an interview. 
+"It is not enough to have these one-off indictments. 
+We need to make it clear upfront that there will be a very high price to pay for foreign actors that attempt to steal important trade secrets, whether it relates to the coronavirus or semiconductors or 5G networks."
+Mr. Van Hollen and Senator Ben Sasse, Republican of Nebraska and a member of the Senate Intelligence Committee, have pushed a bill that would impose sanctions on foreigners and foreign companies that try to steal American intellectual property. 
+The two are hoping the measure could be considered as part of congressional debate this week over a defense policy bill, though there is no guarantee of a vote on the proposal.
+"This indictment reveals yet again that Chairman Xi leads an army of hackers that steal and attempt to steal — every single day, in almost every country and industry," Mr. Sasse said, referring to President Xi Jinping of China.
+David E. Sanger contributed reporting.

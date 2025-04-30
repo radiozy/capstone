@@ -1,0 +1,16 @@
+﻿
+GOVERNMENT officials have warned for some time that pro-Iraqi hackers might take aim at computers in the United States as international tensions rise. 
+But now officials are also trying to discourage Americans who might be tempted to mount attacks on the computers and Web sites of Saddam Hussein's supporters.
+The National Infrastructure Protection Center at the Federal Bureau of Investigation issued an advisory last week warning that hacking activity on both sides was likely to increase as the United States put more pressure on Iraq. 
+It noted that all hacking is illegal and said the United States government "does not condone so-called 'patriotic hacking' on its behalf."
+Bill Murray, a spokesman for the center, said it had yet to see any such activity.
+But he said the advisory grew out of the center's experience with a hacker war that broke out in April 2001, when China held the crew of a United States surveillance plane after it collided with a Chinese fighter jet. 
+With nationalistic feelings running high, hackers in the United States defaced and commandeered Web sites in China, and Chinese hackers retaliated.
+Mr. Murray said that in the current situation the center was less concerned about hackers going after computers in Iraq itself than it was about attacks on sites for mosques and pro-Muslim organizations. 
+Investigating small-scale vigilante attacks like these can be "a real distraction for those of us who are dealing with more important things," Mr. Murray said.
+The center also warned that hackers might be fooled into running code that looked like an anti-Iraqi hacking tool but actually attacked interests of the United States. 
+"In this and other ways, 'patriotic hackers' risk becoming tools of their enemy," the advisory said.
+That turn of events sounds unlikely because such an attack would be technically difficult to pull off, said Marcus Ranum, a security expert and the founder of Network Flight Recorder, a maker of hacking-detection systems.
+"There's really no need to do an indirect attack like that," he said.
+Mr. Ranum said there was some merit in the government's effort to discourage hackers. 
+But he said the advisory could actually inspire some hackers, who are often "very arrogant and very immature individuals who see a warning as a challenge."

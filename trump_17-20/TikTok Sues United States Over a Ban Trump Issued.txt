@@ -1,0 +1,41 @@
+﻿
+The suit escalates a bitter back-and-forth between the popular video app and American officials.
+SAN FRANCISCO -- TikTok sued the U.S. government on Monday, accusing the Trump administration of depriving it of due process when President Trump used his emergency economic powers to issue an executive order that will block the app from operating in the country.
+The suit, which was filed in the Federal District Court for the Central District of California, is TikTok's most direct challenge to the White House and escalates an increasingly bitter back-and-forth between the popular video app and American officials.
+Mr. Trump has repeatedly said TikTok, which is owned by the Chinese internet company ByteDance, poses a national security threat because of its Chinese ties. 
+On Aug. 
+6, he issued twin executive orders banning transactions with TikTok and the Chinese social media app WeChat within 45 days. 
+A week later, he issued a separate executive order giving ByteDance 90 days to divest from its American assets and any data that TikTok had gathered in the United States.
+''We do not take suing the government lightly; however, we feel we have no choice but to take action to protect our rights, and the rights of our community and employees,'' the company said in its suit. 
+''Our more than 1,500 employees across the U.S. pour their hearts into building this platform every day,'' the company said, noting that it planned to hire more than 10,000 more workers across eight states in the coming years.
+Relations between the United States and China have soured in recent months over rifts in geopolitics, technology and trade. 
+The campaign has been partly provoked by China's more assertive posture, but also Mr. Trump's desire to convince voters that he is tough on China.
+As part of that, Mr. Trump's advisers have zeroed in on technology companies that they say are beholden to the Chinese government through security laws, including ByteDance, the Chinese telecom equipment maker Huawei and the internet company Tencent, the owner of WeChat.
+Mr. Trump's first executive order against TikTok draws its legal authority from the International Emergency Economic Powers Act, which allows the president to regulate economic transactions in a national emergency. 
+Past administrations have used it to punish foreign governments, as well as drug kingpins and hackers, but have never used it against a global technology company.
+Jason M. Waite, a partner at the law firm Alston & Bird, said courts would probably be reluctant to challenge the president on national security grounds. 
+But if a court does decide to rule against Mr. Trump, that could end up curtailing the powers of the presidency.
+''I do think the U.S. should be concerned about having to defend I.E.E.P.A. actions and the impact that could have on the authority of a future president,'' Mr. Waite said.
+TikTok said in a blog post explaining the grounds for its lawsuit that the Trump administration ''failed to follow due process and act in good faith, neither providing evidence that TikTok was an actual threat, nor justification for its punitive actions.''
+The company also claimed that the purported national security threat identified by the Committee on Foreign Investment in the United States was based on ''outdated news articles'' and did not address the documentation provided by TikTok demonstrating the security of user data.
+One of the Trump administration's chief concerns has been the storage of American user data on foreign servers. 
+But in its complaint, TikTok said it had taken ''extraordinary measures to protect the privacy and security of TikTok's U.S. user data,'' which included storing American users' data outside China on servers in the United States and Singapore. 
+The company said it had also erected ''software barriers'' that stored U.S. user data separately from the data kept on other products and companies owned by ByteDance.
+The company also said many of its top personnel -- including its chief executive, general counsel and global chief security officer -- were all in the United States and were not subject to Chinese law. 
+And further, content moderation across the TikTok app is led by a team based in the United States, operating independently from China.
+The Justice Department declined to comment on the suit.
+The president's move to ban WeChat, a social media app used widely by people of Chinese descent in the United States, is also facing legal challenges. 
+On Friday, a nonprofit group calling itself the WeChat Users Alliance filed a separate suit in a federal court in San Francisco arguing that the president's attempt to ban WeChat violated various constitutional protections, including the First Amendment, and seeking an injunction against the move.
+The executive orders against TikTok have led ByteDance to explore a sale of the popular video app, which is used by millions of teenagers and influencers. 
+The company is in talks with multiple American firms, including Microsoft and Oracle, for a sale of at least parts of its business. 
+TikTok is continuing to negotiate a potential sale while it fights the U.S. government in court.
+Such a deal would require the company to move American user accounts over to the acquirer's servers, a stipulation required by the White House. 
+Microsoft is largely seen as the front-runner in the negotiations.
+Another Chinese tech company that the Trump administration has targeted as part of its clampdown is Huawei, the giant maker of smartphones and telecommunications equipment. 
+Huawei has also tried to use the American legal system to push back, though not always successfully.
+Last year, the company sued the U.S. government over a spending law that prohibited federal agencies and contractors from using Huawei equipment, saying its constitutional rights had been violated. 
+A federal judge in Texas ruled in the government's favor this year.
+Huawei also sued the Federal Communications Commission late last year after the agency barred American mobile carriers from using government subsidies to buy the company's gear. 
+That case is still being heard.
+Mike Isaac reported from San Francisco, and Ana Swanson from Washington. 
+Raymond Zhong contributed reporting from Taipei, Taiwan.

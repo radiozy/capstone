@@ -1,0 +1,76 @@
+﻿
+Investors love a good story.
+They lined up hundreds deep at the Waldorf-Astoria hotel in New York earlier this month to hear Alibaba's executive chairman, Jack Ma, promote the Chinese Internet retailer's initial public offering.
+''It was a zoo,'' said Vincent Rivers, senior portfolio manager for the London-based investment firm J. O. Hambro Capital Management. 
+''There must have been 400 people waiting in line. 
+Everybody was there. 
+It was like a social event.''
+The shy, somewhat awkward Mr. Ma opened by saying that he'd first come to the United States 15 years ago looking for about $2 million in capital. 
+''Now,'' he said, ''I'm asking for slightly more.''
+The line drew a knowing laugh from the crowd -- Alibaba was asking for nearly $22 billion, the biggest I.P.O. ever in the United States -- but Mr. Ma should probably keep his day job. 
+What the crowd really wanted to hear about was Alibaba's growth, and Mr. Ma didn't disappoint them.
+A few vivid charts and statistics told the story. 
+Alibaba is already the world's largest Internet commerce company, with 231 million active buyers using its site, 11.3 billion annual orders and $296 billion in annual merchandise sales, a measure Alibaba uses instead of revenue.
+To put this in perspective, Amazon has less than $82 billion in revenue. 
+EBay has just over $17 billion.
+But what excites Alibaba's potential investors isn't only its size, but its prospects for getting bigger. 
+China currently has 302 million Internet shoppers. 
+That's less than half the country's 618 million Internet users. 
+And Internet penetration in China is less than half the country's population of about 1.35 billion. 
+Competition from brick-and-mortar retailers in China is far less than in the United States, which should also drive increases in Internet shopping.
+''The potential is absolutely massive,'' Mr. Rivers said. 
+''The real question isn't whether they'll have more users. 
+It's how much will they spend.''
+Chinese Internet shoppers spend far less per person than in the United States. 
+''If you look long term and they can close that gap, you can get to some huge numbers,'' he said.
+Alibaba also has enviably high profit margins of more than 40 percent, which even by Internet standards, let alone retail, is extraordinary. 
+Amazon has struggled for decades to eke out a slender profit. 
+EBay has an operating margin of 20 percent and Google 23 percent.
+Alibaba is the dominant e-commerce company in China by far, which, along with the high margins, suggests that it's the kind of natural monopoly beloved by investors. 
+Alibaba itself attributes this to the so-called network effect. 
+''The interactions between buyers and sellers create network effects in that more merchants attract more consumers, and more consumers attract more merchants,'' the company asserts in its prospectus.
+And Alibaba keeps profits large by dispensing with the high-cost, low-margin businesses that have dogged Internet retailers in the United States. 
+Alibaba is simply a platform for connecting buyers and sellers. 
+''We do not engage in direct sales, compete with our merchants or hold inventory,'' the prospectus notes.
+I was on the floor of the New York Stock Exchange on Friday morning, where the excitement of newly minted billions was palpable. 
+The Alibaba trading station occupied the center of the floor, where it was surrounded by a throng of ''V.I.P. guests'' squeezed behind velvet ropes. 
+The street outside was packed, the balconies were crowded with onlookers and cheers went up every time the indicated opening price was adjusted upward. 
+Mr. Ma watched as some of his customers rang the opening bell, and later dropped in on the on-floor set of CNBC.
+Alibaba was priced on Thursday night at $68 a share. 
+And on Friday, pent-up demand drove the opening price to $92.70. 
+The stock immediately rose from there and ended the day at $93.89.
+Perhaps some stocks should reflect what I'll call an ''excitement premium,'' which in Alibaba's case is surely significant. 
+That's fine until the excitement wears off. 
+For a more sobering view, I turned to Bruce Greenwald, co-author of ''Competition Demystified'' and ''Value Investing,'' and a finance professor at Columbia Business School. 
+Value investors like Professor Greenwald, by nature, tend to be skeptical of stories, especially when those stories are as rosy as Alibaba's. 
+Still, Professor Greenwald said he agreed with much of the Alibaba thesis. 
+''There's no doubt they benefit from a network effect and they have growth potential,'' he said.
+But value investors tend to prefer numbers to words, and Alibaba's numbers, impressive as they are, may give some investors pause.
+At $68 a share, Alibaba's market capitalization is about $168 billion. 
+It's hard to find a United States company that's directly comparable, but Professor Greenwald said eBay comes the closest. 
+Like Alibaba, it has an auction site that benefits from a powerful network effect, it offers a vast e-commerce site and it has a pay system, PayPal. 
+(While Alibaba spun off its payment system, Alipay, Alibaba will get a share of the proceeds from any sale or public offering of Alipay.) EBay's market capitalization is about $65 billion.
+Of course, eBay doesn't dominate e-commerce in the United States to the degree that Alibaba does in China. 
+But is it reasonable to assume such dominance will persist as the Chinese market matures?
+No one company dominates e-commerce in the United States or in Europe, and none are as large as old-economy Walmart. 
+China may now be underserved by national brick-and-mortar chains, but that could change. 
+Professor Greenwald said he believed that Alibaba deserved a premium to eBay -- perhaps twice eBay's market capitalization. 
+''But three times?
+That's really pushing it,'' he said.
+Then, there's the most common valuation metric, the price-to-earnings ratio. 
+At $68 a share, Alibaba's is just over 40. 
+EBay had a loss in its most recent quarter, so it has no P/E ratio. 
+But over eBay's life as a publicly traded company, its P/E ratio has averaged a little over 26.
+No Chinese Internet company is quite like Alibaba, so comparisons with Chinese stocks are difficult. 
+But Baidu, China's version of Google, which also benefits from network effects and the growth in Chinese Internet use, has a market capitalization of about $80 billion, and a P/E ratio of 45. 
+Tencent Holdings, which is classified as social media rather than e-commerce, although it has elements of both, is even further afield. 
+Its market capitalization of $147 billion is also smaller than Alibaba's, although its P/E ratio is a steep 51.
+Alibaba's valuation may not be outrageous, but to Professor Greenwald, these comparisons are ''pretty scary.''
+He added, ''There's a lot of hype in Alibaba, and that's what you're seeing in the price.''
+That doesn't change the Alibaba story, and sometimes a story is enough. 
+Amazon is the leading example, a company that barely earns a profit and drives value investors crazy. 
+Its market capitalization is $150 billion, nearly as big as Alibaba's, and its P/E ratio is over 500. 
+Investors buy the Amazon story, which is that Internet commerce dominance is just over the horizon, along with huge profits.
+After Alibaba's presentation in New York, ''I'd say the mood was excitement,'' Mr. Rivers said. 
+''There really wasn't much new, but there was significant buzz that this is a great growth opportunity.''
+Investors, Mr. Rivers added, ''want to be able to say they'd been there.''

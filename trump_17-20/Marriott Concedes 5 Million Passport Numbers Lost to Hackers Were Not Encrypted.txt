@@ -1,0 +1,34 @@
+﻿
+WASHINGTON — Marriott International said on Friday that the biggest hacking of personal information in history was not quite as big as first feared, but for the first time conceded that its Starwood hotel unit did not encrypt the passport numbers for roughly five million guests. 
+Those passport numbers were lost in an attack that many outside experts believe was carried out by Chinese intelligence agencies.
+When the attack was first reported by Marriott at the end of November, it said that information on upward of 500 million guests may have been stolen, all from the reservations database of Starwood, a major hotel chain Marriot had acquired. 
+But at the time, the company said that the figure was a worst-case scenario because it included millions of duplicate records.
+On Friday the firm said that teams of forensic and data analysts had identified "approximately 383 million records as the upper limit" for the total number of guest reservations records lost, though the company still says it has no idea who carried out the attack, and it suggested the figure would decline over time as more duplicate records are identified. 
+The revised figure is still the largest loss in history, greater than the attack on Equifax, the consumer credit-reporting agency, which lost the driver's license and Social Security numbers of roughly 145.5 million Americans in 2017, leading to the ouster of its chief executive and a huge loss of confidence in the firm.
+What made the Starwood attack different was the presence of passport numbers, which could make it far easier for an intelligence service to track people who cross borders. 
+That is particularly important in this case: In December, The New York Times reported that the attack was part of a Chinese intelligence gathering effort that, reaching back to 2014, also hacked American health insurers and the Office of Personnel Management, which keeps security clearance files on millions of Americans.
+Taken together, the attack appeared to be part of a broader effort by China's Ministry of State Security to compile a huge database of Americans and others with sensitive government or industry positions — including where they worked, the names of their colleagues, foreign contacts and friends, and where they travel.
+"Big data is the new wave for counterintelligence," James A. Lewis, a cybersecurity expert who runs the technology policy program at the Center for Strategic and International Studies in Washington, said last month.
+One top official of the Chinese Ministry of State Security was arrested in Belgium late last year and extradited to the United States on charges of playing a central role in the hacking of American defense-related firms, and others were identified in a Justice Department indictment in December. 
+But those cases were unrelated to the Marriott attack, which the F.B.I. is still investigating.
+China has denied any knowledge of the Marriott attack. 
+In December, Geng Shuang, a spokesman for its Ministry of Foreign Affairs, said, "China firmly opposes all forms of cyberattack and cracks down on it in accordance with the law."
+"If offered evidence, the relevant Chinese departments will carry out investigations according to the law," the spokesman added.
+The Marriott investigation has revealed a new vulnerability in hotel systems: What happens to passport data when a customer makes a reservation or checks into a hotel, usually abroad, and hands over a passport to the desk clerk. 
+Marriott said for the first time that 5.25 million passport numbers were kept in the Starwood system in plain, unencrypted data files — meaning they were easily read by anyone inside the reservation system. 
+An additional 20.3 million passport numbers were kept in encrypted files, which would require a master encryption key to read. 
+It is unclear how many of those involved American passports, and how many come from other countries.
+"There is no evidence that the unauthorized third party accessed the master encryption key needed to decrypt the encrypted passport numbers," Marriott said in a statement.
+It was not immediately clear why some numbers were encrypted and others were not — other than that hotels in each country, and sometimes each property, had different protocols for handling the passport information. 
+Intelligence experts note that American intelligence agencies often seek the passport numbers of foreigners they are tracking outside the United States, which may explain why the United States government has not insisted on stronger encryption of passport data worldwide.
+Asked how Marriott was handling the information now that it has merged Starwood's data into the Marriott reservations system — a merger that was just completed at the end of 2018 — Connie Kim, a company spokeswoman, said: "We are looking into our ability to move to universal encryption of passport numbers and will be working with our systems vendors to better understand their capabilities, as well as reviewing applicable national and local regulations."
+The State Department issued a statement last month telling passport holders not to panic, because the number alone would not enable someone to create a fake passport. 
+Marriott has said it would pay for a new passport for anyone whose passport information, hacked from their systems, was found to be involved in a fraud. 
+But that was something of a corporate sleight of hand, since it provided no coverage for guests who wanted a new passport simply because their data had been taken by foreign spies.
+So far the company has ducked addressing that issue by saying it has no evidence about who the attackers were, and the United States has not formally accused China in the case. 
+But private cyberintelligence groups that have looked at the breach have seen strong parallels with the other, Chinese-related attacks underway at the time. 
+The company's president and chief executive, Arne Sorenson, has not answered questions about the hacking in public, and Marriott said he was traveling and declined a request from The Times to talk about hacking.
+The company also said that about 8.6 million credit and debit cards were "involved" in the incident, but those are all encrypted — and all but 354,000 cards had expired by September 2018, when the hacking, which went on for years, was discovered.
+So far, there are no known cases in which stolen passport or credit card information was found in fraudulent transactions. 
+But to cyberattack investigators, that is just another sign that the hacking was conducted by intelligence agencies, not criminals. 
+The agencies would want to use the data for their own purposes — building databases and tracking government or industrial surveillance targets — rather than exploiting the data for economic profit.

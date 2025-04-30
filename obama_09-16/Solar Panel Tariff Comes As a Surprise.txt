@@ -1,0 +1,51 @@
+﻿
+Companies that import solar panels to the United States are facing up to $70 million in unexpected tariffs.
+The bill comes at a time when the industry is already struggling and could hurt both foreign solar panel makers and foreign and American distributors.
+It could also further strain trade relations between the United States and China.
+The issue began with a short letter to United States customs officials last December from the small American subsidiary of a Spanish energy company. 
+The subsidiary, GES USA, wanted to know what the tariff would be to import certain solar panels from China.
+On Jan. 
+9, the customs agency wrote back that the panels had become too sophisticated to qualify for duty-free import. 
+Instead -- because the panels contain a basic electronic device for safety and energy efficiency -- they would be treated as electric generators, subject to a duty of 2.5 percent.
+Such low duties are standard on many imports, and are much less punishing than the punitive tariffs aimed at restricting the trade of a certain good, like the 35 percent tariff on Chinese tires announced three weeks ago.
+But the duties come at a particularly difficult time for the global solar power industry. 
+Many panel manufacturers are losing money because of fierce competition from ever-expanding production in China and a worldwide downturn that has driven down prices. 
+Raising prices now to cover past tariffs will be hard because the market is glutted with panels; prices have fallen a fifth since early this year.
+The decision is legally binding on most solar panels imported into the United States. 
+But virtually no one in the industry became aware of it until the last few weeks, Meanwhile, unpaid duties piled up, along with penalties that are likely to double the cost.
+The United States exported almost as much solar panel equipment as it imported in the first seven months of this year -- $605 million in imports and $555 million in exports, according to Commerce Department data.
+The Solar Energy Industries Association, a coalition of domestic and foreign companies whose board chairman is an executive from Suntech, China's biggest solar panel maker, argues that American tariffs on solar panels could lead other countries to impose tariffs on American exports.
+The customs decision is dividing the industry between importers and companies that produce solar equipment in the United States. 
+And with China accounting for a rising share of American imports, the tariff could become a sticking point in bilateral trade relations already troubled by the dispute over tires, autos and chicken parts.
+Some Chinese solar panel manufacturers are already planning to move final assembly of solar modules to plants in the United States, a step that could allow them to avoid the duty someday, said Rhone Resch, the chief executive and president of the industry association.
+The duty generally applies to solar panels that provide power to a residential, commercial or industrial electrical system; small solar panels imported with built-in light bulbs are already counted as electric lights and are subject to a tariff of 3.9 percent.
+Lawyers are critical of the industry for not spotting the problem sooner.
+''It is somewhat unusual for an industry to take as long as eight months to become aware of a customs ruling that affects it,'' said Mel Schwechter, a partner at Dewey & Leboeuf in Washington and a former president of the Customs and International Trade Bar Association.
+Customs decisions, even for a single importer, are made public on the agency's Web site and on commercial Web sites, said Mr. Schwechter, who is not advising any of the participants in the dispute.
+Mr. Resch said the growing industry lacked the resources to constantly track tax and regulatory decisions.
+Duties will be doubled if customs officials determine that companies have been negligent in not paying them earlier.
+Importers might also be liable for duties on all solar panels brought into the United States in the five years before the ruling if customs officials decide that the companies were guilty of ''material misstatement or omission'' for failing to notice sooner that solar panels had evolved to the point that they no longer met duty-free rules.
+The association plans to challenge the classification of the panels as generators in court, Mr. Resch said.
+But before starting what could be lengthy litigation, the safest strategy for each importer, according to trade lawyers, is to pay immediately the duties and accrued penalties for shipments received since January, and to start paying the duty going forward.
+''We're taking this very seriously -- it has a large financial impact in the United States and it has global ramifications,'' Mr. Resch said.
+Top officials at Customs and Border Protection, the agency that succeeded the Customs Service, could overrule the technical specialists who determined that the sophisticated panels should be treated like electric generators. 
+Such a move would extend duty-free treatment to the latest solar panels. 
+But that would mainly benefit Chinese producers, whose share of the market has surged in the last two years.
+It would also reduce the incentive for companies to manufacture panels in the United States -- a politically touchy decision at a time when American cities have been vying for panel factories even as the industry is shifting production to China.
+Importers, a mixture of foreign and American manufacturers and distributors, are liable for duties and penalties, not consumers who bought imported panels in recent years.
+Imports account for almost half of the solar panels sold in the United States.
+Customs issued its ruling on Jan. 
+9, less than two weeks before President Obama took office. 
+The ruling said that a panel from Trina Solar of China was really a generator because it was equipped with a diode that allows electric current to pass around areas of the panel that are shaded. 
+The diodes have become standard on solar panels, and are effectively required to meet American safety standards.
+Javier Muniz, the chief executive of GES USA, said through a spokeswoman that GES solicited the customs opinion last winter for a project that did not end up being built. 
+GES did not tell other companies about the ruling, he added.
+Even Trina Solar, the Chinese panel maker, became aware of the decision only ''in recent weeks,'' a Trina spokesman said. 
+Industry leaders have stayed very quiet about the customs decision in the last few weeks while holding emergency meetings to decide on a legal strategy.
+Unlike many large overseas manufacturers, Trina still exports directly from China to independent distributors in the United States. 
+Trina does not have a American subsidiary to import the panels and handle the customs paperwork.
+''Trina Solar is currently classified as an exporter and is not liable for the duty arising from these regulations,'' said Terry Wang, the company's chief financial officer.
+Suntech said that it was aware of the customs decision and was looking into it.
+Mr. Resch estimated that the duty would cost the industry $70 million this year, and there would be more tariffs in the years to come.
+That calculation assumes the industry will be found negligent for not paying the duty on panels imported since January and will be assessed the doubled duty. 
+It assumes the industry will not be found liable for shipments in the preceding five years.

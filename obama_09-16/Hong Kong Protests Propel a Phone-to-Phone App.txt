@@ -1,0 +1,41 @@
+﻿
+Micha Benoliel came to Hong Kong for a convenient layover between a technology conference in India and strategic partnership meetings in China. 
+He stayed for the political unrest.
+Mr. Benoliel, a 42-year-old French-born entrepreneur, is the chief executive of Open Garden, a Silicon Valley start-up whose innovative, barely six-month-old app, FireChat, has become the rage in Hong Kong during the pro-democracy protests around the city.
+The idea behind FireChat is to enable smartphones to speak directly to each other -- whether or not there is a working cellular or Wi-Fi connection -- through the small Bluetooth or Wi-Fi radios in the phones themselves. 
+To the tech-savvy democracy protesters in Hong Kong, FireChat has offered the potential to stay connected and organized even if the authorities shut down cellphone service.
+Thus far, cellphone service in Hong Kong has been untouched, but FireChat has come in handy nonetheless: The center of the city -- where thousands of protesters are concentrated -- has stressed and strained cellphone service. 
+According to Open Garden, during the week of protests there have been millions of chats in Hong Kong through FireChat, and the app has been downloaded several hundred thousand times.
+''This application is mainly a tool for communication, it is not our intent to support revolution,'' Mr. Benoliel said in Skype chat from Hong Kong, adding, however, ''We are very grateful to the people in Hong Kong for what they enabled us to do with this application.''
+Started three years ago, Open Garden has focused on the software challenges of mesh networking -- that is, to create an improvised network among nearby devices without being ''on the grid.''
+The devices themselves become arrayed in a mesh, each talking to the other and passing along messages -- a web, without the World Wide Web. 
+''The more people use it, the better it gets,'' the company says in its marketing materials.
+The FireChat technology helps overcome some basic challenges with cellphone-to-cellphone connections. 
+While phones come equipped with the transmitters and receptors that are key to tying them together in a network, there are many programming issues in having, for example, an Apple phone connect with an Android phone.
+The Hong Kong protests provided the perfect conditions for a mobile mesh service like FireChat, said developers who have worked on mesh projects, often for nonprofit groups. 
+For one, the protests are temporary and moving -- typically, the phone and Internet service would grow to meet demand if there were a permanent group of users. 
+But in the case of the Hong Kong protests, there would not have been time.
+Another roving group of smartphone users who have found FireChat helpful, according to Christophe Daligault, the chief marketing officer of Open Garden, were at Burning Man, the trippy, off-the-grid festival in the deserts of Nevada that is attended by many people from Silicon Valley. 
+FireChat was spontaneously used to give people a heads-up about a particularly muddy stretch of terrain. 
+''One hundred 'burners' were helping each other,'' Mr. Daligault said.
+There are a number of potential commercial uses, Mr. Benoliel said. 
+For example, Open Garden's software could be quite valuable to the makers of mobile phone games, who fear the loss of Internet or cellphone connectivity, even briefly, because of the loss of ''monetization events,'' like display ads, he said.
+With spotty service in parts of China and India, game makers there could embed the mesh software that helps run FireChat in the mobile phone games, allowing a player who loses a connection to either switch to play with someone nearby -- within the 200 or so feet of the mesh's range -- or piggyback on the connection of someone with better service.
+Another commercial use of the FireChat technology is assisting with what is known as the Internet of Things, a catchall term to describe how people connect with products, and how products connect with each other. 
+If a device needs to ping a central server to work well over the Internet, it can take advantage of the mesh to find a working mobile or Wi-Fi connection. 
+For example, a deal last month between Open Garden and TrackR, a company that helps users locate lost items, allows TrackR users to piggyback on the phones of people nearby to inform the users of their item's location.
+FireChat is an entirely open system -- conversations can be read by anyone. 
+While some take place in ''chat rooms'' that users create to focus on a topic, anyone can join. 
+That may be fine for Burning Man, but in Hong Kong, protesters have to be cautious in what they say, since it could be monitored. 
+FireChat recently added a verified user system so the Hong Kong protest organizers could try to quash rumors being spread with official statements.
+The use of FireChat has also flourished during the protests because the organizers -- including the 17-year-old leader Joshua Wong -- told people to download the app while there was a good Internet connection. 
+If mobile and Internet connections were taken down by the authorities, it would obviously be too late.
+This is a basic, existential riddle for FireChat -- how to get people to install an app intended for people to use when there is no Internet service if, indeed, there is no Internet service?
+And if there is great Internet service, you might well wonder why you would ever need FireChat -- dating apps like Grindr and Tinder, which tell you about people nearby you might want to meet, work through ''the cloud'' to locate the proximity of their users.
+Mr. Benoliel detailed a couple of ways that FireChat could overcome that problem, particularly in India and China. 
+First, he said it was customary for people to copy programs from phone to phone, so the app could spread quickly if there was demand. 
+Also, there are shops that install apps when they sell a phone, and FireChat could become one of those apps. 
+Another solution, of course, would be to become part of other apps that are already well-distributed in these countries.
+But in terms of getting the word out, Hong Kong has surely helped. 
+''It's amazing,'' he said. 
+''We are really lucky to see such an adoption in a short period of time.''

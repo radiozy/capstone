@@ -1,0 +1,44 @@
+﻿
+The order is a setback in the president's efforts to block a Chinese social media app that he has labeled a national security threat. 
+The ban had been set to go into effect on Sunday night.
+WASHINGTON -- A federal judge has issued an injunction against President Trump's executive order effectively banning the Chinese social media app WeChat from operating in the United States after midnight on Sunday, presenting at least a temporary setback in the president's efforts to block an app that he has labeled a national security threat.
+The ruling, which came Sunday morning, will temporarily halt Mr. Trump's efforts to bar WeChat, which is owned by the Chinese company Tencent Holdings, from carrying out commercial transactions in the United States. 
+The Trump administration has said the app offers China a conduit to collect data on Americans and to censor the news and information shared by WeChat's more than a billion monthly active users.
+In her decision, Judge Laurel Beeler of the United States District Court for the Northern District of California said that she had chosen to grant the motion because the plaintiffs had raised serious questions about whether the order would harm First Amendment rights. 
+She also said that it placed significant hardship on the plaintiffs, who had argued that it would shut down the primary means of communication for the Chinese community.
+The U.S. government could now appeal to the Ninth Circuit court to seek to overturn the stay. 
+A Justice Department spokeswoman said Sunday that the department is reviewing the order.
+The motion for a preliminary injunction was filed Aug. 
+27 by the U.S. 
+WeChat Users Alliance, a nonprofit group whose trustees include several prominent Chinese-American lawyers. 
+The group says it has no connection to Tencent Holdings or any of its affiliates.
+The alliance has argued that Mr. Trump's attempt to ban WeChat violates several constitutional provisions, including the right to free speech, due process and equal protection against arbitrary discrimination.
+In a statement, the group called the ruling ''an important and hard-fought victory'' against an order that was ''a serious violation of the Constitutional rights of WeChat users in the U.S.''
+WeChat has been downloaded nearly 22 million times in the United States since 2014, or about 7 percent of its downloads outside China.
+The injunction is the latest twist in an increasingly aggressive confrontation between the United States and China over which country will dominate the global technology landscape. 
+The Trump administration has taken aim at Chinese tech and telecom companies, including WeChat, TikTok and Huawei, claiming they are beholden to the Chinese government and pose a national security threat. 
+In part, the administration has pointed to a 2017 Chinese law that requires Chinese companies to support, provide assistance and cooperate in China's national intelligence work, wherever they operate.
+While the United States has long argued for an open global internet, Mr. Trump's bans against foreign services like WeChat and TikTok have begun to reverse that trend. 
+His moves echo earlier actions by China, which has long banned American services like Twitter and Facebook that it cannot censor directly.
+But while Chinese officials can dictate which companies are allowed to operate in that country, U.S. law prevents Mr. Trump from having the same kind of iron fist to quash foreign business.
+''What this shows is that in the American system, there are still limits to how much the executive branch can unilaterally influence and control private sector businesses,'' said Geoffrey Gertz, a fellow at the Brookings Institution, calling it a ''key difference from China.''
+''Although the Trump administration is clearly trying to push these limits, it is still constrained,'' Mr. Gertz said. 
+''Businesses have channels for pushing back, such as through the court system, that aren't necessarily available in other places like China.''
+Thomas R. Burke, a lawyer representing the plaintiffs, said they were ''grateful'' for the decision.
+''Never before has a president sought to ban an entire social media platform -- used by a minority community to communicate -- with such discriminatory animus and haste,'' he said.
+In their arguments, the plaintiffs also pointed to the president's anti-Chinese statements around the time he issued the WeChat order -- including referring to the coronavirus pandemic as the ''China flu,'' and saying that China would own the United States if he was not re-elected -- arguing that such comments were aimed at bolstering his re-election campaign.
+The U.S. government, in arguing its side, described China's tech industry as a threat to national security, citing reports that identified Tencent and WeChat as a growing risk and a source of censorship and Chinese government propaganda. 
+At a hearing before Judge Beeler on Saturday, a lawyer from the Justice Department said that the order was well tailored to address the threat ''posed by WeChat and not penalize people who speak only for the purpose of providing their personal or business information.''
+The legal battle followed a surprise executive order on Aug. 
+6 signed by Mr. Trump that would bar any commercial transactions with WeChat or the Chinese-owned social media app TikTok by any person or involving any property within the jurisdiction of the United States. 
+The administration threatened fines of up to $1 million and up to 20 years in prison for violations of the order.
+In rules issued on Friday, the Commerce Department said it would bar both WeChat and TikTok from American app stores beginning Sunday and would prohibit certain transactions between WeChat and American companies. 
+The administration had given TikTok a reprieve on tougher measures until Nov. 
+12.
+But on Saturday, the president approved an investment in TikTok by American software maker Oracle and Walmart that he said would resolve his national security concerns, and the Commerce Department said it would delay its penalties on TikTok by at least one week.
+Given the judge's ruling on Sunday, neither of the apps will be banned as of midnight Sunday.
+Tencent declined to comment. 
+The Commerce Department did not provide an immediate response.
+In a declaration filed in August in support of the lawsuit, Erwin Chemerinsky, the dean of the University of California, Berkeley School of Law, compared the executive order to a ''complete ban of a newspaper, a TV channel, or a website used by the tens of millions of U.S. citizens.''
+''Never has the government tried to shut down entirely a public forum used by millions of Americans,'' Mr. Chemerinsky wrote, calling it an ''unprecedented'' restriction on speech that was motivated by ''anti-Chinese animus.''
+''The chilling effect on the exercise of free speech caused by the Executive Order is profound and constitutionally unsupportable,'' he added.

@@ -1,0 +1,44 @@
+﻿
+The large group of American players, including many internationally known stars, competing in China's first international tournament that began last week are due for some surprises. 
+The Shanghai Bridge Association will no doubt be gracious hosts but will inevitably suffer from organizational inexperience and a lack of equipment. 
+For the following information I am indebted to Dr. Steven Fox of the Beijing Children's Hospital, Peking.
+When the game of bridge became not only legal but officially encouraged in China two years ago, the result was an explosion of team play with hundreds taking part in each major city. 
+Foreigners are barred, however, and there are no women players.
+Bridge column discusses style of play used by Chinese bridge players as China hosts its first international tournament
+There are no pair games, perhaps because the necessary organization and scoring are relatively sophisticated. 
+One Chinese player offered a different explanation: ''No international competitions are matchpoint events, so why bother?''
+This half-truth suggests that China will not be represented in the world pair championship in Biarritz, France, next year, and we may have to wait until 1984 to discover how well they can do in a world championship.
+Since manufactured boards were not available, the first competitions were organized with an expedient used by many before: four small envelopes, one for each hand, in a large envelope. 
+Now there are boards made of wood, with rubber bands holding the cards in place. 
+In Shanghai there will be ''written bidding,'' a concept that will be new to the Americans.
+This will take care of the language problem in bidding, but it will not help when explanations are needed. 
+Chinese players do not 'alert' and consider it ungentlemanly to ask for explanations, so there is likely to be confusion and difficulty.
+For the last six months the Peking Evening News has published a weekly bridge column. 
+One of these included the venerable trick deal shown in the diagram, showing that a declarer may be able to make a small slam with a 2-2 trump fit if the defense slips on opening lead.
+Exactly how South comes to play six hearts was not explained by the Peking journalist, but the auction shown in the diagram has some logic up to a point. 
+South makes a waiting bid of three hearts at his third turn and then launches into Blackwood.
+At the six-level he must decide whether or not to bid a grand slam in no-trump. 
+He decides in the negative, since North could bid it himself with solid diamonds. 
+But his negative takes the form of a pass, and he finds himself, to his horror, in a foolish contract of six hearts.
+Thirteen tricks are available, as it happens, in no-trump, spades or diamonds, and six clubs is safe. 
+But six hearts hinges on the opening lead.
+Any expert worthy of his salt would lead a trump from the West hand; but West, perhaps confused by the auction and dazed by his trump length, produces the diamond queen. 
+South happily takes eight winners in the side suits ending in his hand in this position
+ 
+NORTH S - H K 7 D 8 7 6 C -
+WEST EAST S - S - H 6 5 4 3 2 H Q J 9 8 D - D - C - C J
+ 
+SOUTH S 2 H A 10 D - C 7 6
+A club is led from the closed hand and dummy's seven overruffs West. 
+On a diamond lead East does his best by playing a heart honor and is overruffed. 
+A black card is ruffed with the heart king, and the heart ten in the closed hand scores en passant to bring home the slam.
+ 
+NORTH S 5 4 3 H K 7 D A K 8 7 6 5 4 C 2
+WEST EAST S J 9 8 S 10 7 6 H 6 5 4 3 2 H Q J 9 8 D Q J D 10 9 C 5 4 3 C J 10 9 8
+ 
+SOUTH(D) S A K Q 2 H A 10 D 3 2 C A K Q 7 6
+Both sides were vulnerable. 
+The bidding: South West North East 1 C Pass 2 D Pass 2 S Pass 3 D Pass 3 H Pass 4 D Pass 4 N.T. 
+Pass 5 D Pass 5 N.T. 
+Pass 6 H Pass Pass Pass
+West led the diamond queen.

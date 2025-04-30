@@ -1,0 +1,29 @@
+﻿
+Research in Motion said on Thursday that after much delay it would introduce its BlackBerry wireless e-mail service in China. 
+But the announcement of its joint venture with China Mobile, which came with few details, quickly prompted questions about how the Canadian company's product would fit into the Chinese government's program of communications surveillance and censorship.
+When selling the BlackBerry service to government agencies and corporations in North America and Europe, R.I.M. promotes its sophisticated encryption technology that it says makes it impossible even for wireless service providers or the company itself to snoop into the contents of messages as they pass between its devices and e-mail servers. 
+Once they arrive at the server and are decoded, however, they may be vulnerable to Chinese government surveillance efforts.
+Jonathan Zittrain, a professor of Internet governance and regulation at Oxford University and a co-founder of the Berkman Center for Internet and Society at Harvard Law School, said the centralized nature of BlackBerry service, compared with e-mail between PC's, could appeal to any government interested in controlling information.
+''I think this is actually very helpful to Chinese government officials in their efforts to exercise some control over digital communications, because the BlackBerry is a digital device bundled with a single service and a gateway that is R.I.M.,'' Professor Zittrain said. 
+''With BlackBerry you have a single point of control.''
+While Professor Zittrain and others doubt that R.I.M. will ever hand over its encryption secrets to Chinese authorities or China Mobile, he said he believed that the government might use other routes. 
+The closed BlackBerry system, for example, makes it relatively easy to store messages passing through the system once they have been decoded by R.I.M.'s server software. 
+Similarly, mail servers with R.I.M. software could readily build databases about who is exchanging messages through the system.
+Another traditional BlackBerry selling point, the ability to update or change the hand-held units remotely, could also be useful for Chinese authorities, Professor Zittrain added.
+''The way this device is made means that however it operates on Tuesday, if the company comes under government pressure on Wednesday, by Thursday it can become a different tool,'' he said.
+It appears that China's current attempts at censoring e-mail are relatively crude. 
+Ronald J. Deibert, a University of Toronto political scientist who is also a member of the OpenNet Initiative, a joint venture between his university, Cambridge and Oxford Universities and the Harvard Law School, said the group's tests had found that China was generally limited to blocking messages with subject lines containing words the government found unacceptable or subversive. 
+Scanning entire messages, he said, was probably beyond its current technical abilities.
+R.I.M. declined to make anyone available for an interview. 
+In a brief e-mail message, Mark Guibert, the company's vice president for corporate marketing, said: ''R.I.M. was not required to make any concessions. 
+China Mobile is an excellent long-term strategic partner and they have required nothing more than extensive in-market collaboration for business development, just like all of our other carrier partners around the world.''
+R.I.M. and China Mobile began trying to introduce the BlackBerry to China in 2004. 
+Last year The Globe and Mail newspaper in Toronto quoted an unnamed official from the province of Ontario, where R.I.M. is based, saying that Chinese concerns about monitoring messages had delayed the effort.
+In its announcement on Thursday, R.I.M. said that China Mobile would roll out its BlackBerry service gradually. 
+At first it will give the devices only to multinational companies operating in China. 
+Many of those companies now purchase BlackBerry service and devices from providers outside of China and then accumulate roaming charges in the country.
+In an interview with Reuters, James L. Balsillie, R.I.M.'s chairman and co-chief executive, said he hoped to have permission to begin selling BlackBerry devices in China by the fall.
+R.I.M. already faces at least one competitor in China. 
+China Unicom, which is state-owned like China Mobile, is selling a similar low-cost e-mail service for cellphones, under the name RedBerry.
+R.I.M. also said on Thursday that a federal appeals court in the United States upheld an earlier ruling that it was not violating a patent for devices using thumb wheels that is held by InPro II Licensing, which is based in Luxembourg. 
+That company also lost another action against R.I.M. in Britain involving a different patent.

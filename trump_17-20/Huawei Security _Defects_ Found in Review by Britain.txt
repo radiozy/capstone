@@ -1,0 +1,42 @@
+﻿
+LONDON -- A British review of Huawei found ''significant'' security problems with the Chinese company's telecommunications equipment, a conclusion that supports a United States effort to ban it from next-generation wireless networks.
+The British report, released on Thursday, said there were ''underlying defects'' in Huawei's software engineering and security processes that governments or independent hackers could exploit, posing risks to national security. 
+While the report did not call for an outright ban of Huawei equipment, it was endorsed by the country's top cybersecurity agency.
+The conclusions buttress the Trump administration's push to convince its allies that Huawei, the world's largest maker of telecommunications equipment, creates grave risks to national security. 
+The White House has accused Huawei of being an arm of the Chinese government that can be used for spying or to sabotage communications networks, a charge that Huawei has vehemently denied.
+But the American push has run into hurdles. 
+Many countries, including Britain, have resisted the effort to ban Huawei, arguing that the risk can be mitigated. 
+It is a critical time for wireless carriers as they prepare to spend billions of dollars to introduce next-generation wireless networks, known as 5G, which governments see as essential infrastructure for a rapidly digitizing global economy.
+The British report highlights broader challenges facing many countries. 
+While Huawei products may pose cybersecurity risks, the company is a key provider of the equipment needed to build 5G networks. 
+If countries issue an outright ban, they could face costly delays in adopting the technology that not only will increase the download speeds of mobile phones but is expected to create breakthroughs in manufacturing, transportation and health care. 
+And Huawei is already a central part of many countries' telecommunications networks, making a ban logistically difficult.
+Governments are looking to continue using Huawei's equipment while limiting its risks. 
+Germany, India and the United Arab Emirates, among others, have signaled they are unlikely to follow the Americans' lead on a ban of Huawei's 5G equipment.
+In a statement, Huawei said the British report ''details some concerns about Huawei's software engineering capabilities. 
+We understand these concerns and take them very seriously.''
+This week, the European Union issued recommendations on securing 5G networks that didn't call for a Huawei ban. 
+The British government is expected to issue new telecommunications regulations this year.
+One main concern raised by the United States and others pushing for a ban is Huawei's ties to the Chinese government, which maintains tight control over the national economy. 
+A law adopted by China in 2017 has been interpreted as requiring companies to provide assistance to Beijing on national security matters.
+Garrett Marquis, a spokesman for the National Security Council, said the United States commended Britain ''for taking a hard look at its telecommunications vendors in order to ensure the maximum security of its networks.''
+He added, ''We share many of the concerns listed in the Oversight Board's report.''
+The British authorities are trying to differentiate Huawei's security flaws from a broader effort by Beijing to infiltrate its networks. 
+The report on Thursday described a company with poor engineering practices and problems stemming from those engineering flaws, more than one operating at the orders of Chinese authorities.
+In the report, British officials determined that Huawei could not replicate much of the software it built, meaning that the authorities could not be sure what code was being introduced into the country's wireless networks. 
+They added that Huawei had poor oversight of suppliers that provided components for its products.
+''There remains no end-to-end integrity,'' the report said.
+A senior American government official, speaking on condition of anonymity to discuss sensitive internal deliberations about Huawei, said the British finding of pervasive sloppy engineering underscored concerns about the security risks and hidden costs of using cheaper Huawei equipment in 5G networks.
+The environment at Huawei could allow for the intentional introduction of an exploitable flaw that would be lost in the background noise of poor practices, the official said. 
+The official added that the intelligence community did not expect to find overt, smoking-gun ''back doors'' in Huawei code clearly meant to permit illicit access to network data. 
+Instead, it expects ''bug doors'' -- flaws that can be explained away as a mere mistake if they come to light, but that can be exploited for the same purposes by China or by other sophisticated actors who discover them.
+Since 2010, Britain has had an oversight board, now led by the National Cyber Security Center, tasked with overseeing Huawei's operations. 
+The company's products and code are reviewed at a security lab about 70 miles outside London. 
+In November, after British officials raised questions with Huawei about its practices, the company pledged to spend $2 billion over the next five years to improve its software and security processes.
+The approach is seen as a potential model for other countries looking to add more safeguards over Huawei. 
+Germany has opened a security lab in Bonn where Huawei's equipment and code can be reviewed. 
+The company has also opened a facility in Brussels to appease the concerns of European Union officials.
+British officials have remained confident the Huawei risk can be managed. 
+Ciaran Martin, the head of the National Cyber Security Center, said this year that an outright ban wasn't necessary because the country had strong oversight and kept Huawei equipment outside the most sensitive areas of the country's networks.
+Yet Thursday's report remained sharply critical of Huawei. 
+''No material progress has been made,'' the report concluded.

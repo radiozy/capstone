@@ -1,0 +1,6 @@
+﻿
+The American Telephone and Telegraph Company said yesterday that it had won a $70.3 million contract to design and install a huge undersea communications cable linking Japan and China. 
+The project is scheduled for completion by December 1993. 
+The 800-mile fiber-optic cable, which will carry information as pulses of light, will run from Miyazaki, Japan, to Shanghai. 
+It will consist of one active and one backup pair of fiber-optic lines operating at 560 million bits of information a second -- the equivalent of about 40,000 simultaneous phone conversations. 
+Last December, A.T.& T. signed related contracts for the system with the Directorate General Telecommunications of China and the Kokusai Denshin Denwa Company of Japan.

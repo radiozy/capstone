@@ -1,0 +1,15 @@
+﻿
+BEIJING -- IBM announced an agreement on Monday with the city of Beijing to use advanced weather forecasting and cloud computing technologies to help tackle the Chinese capital's persistent smog.
+After a series of pollution scares and scandals, China's central government has promised to reverse some of the damage done to the nation's sky, rivers and soil by more than three decades of growth. 
+But China first has to improve data collection and monitoring and forecasting capabilities before it can work on cutting smog and pollution.
+The city of Beijing already uses an alert system based on data from 35 monitoring stations, allowing it to shut schools and factories and cut traffic three days in advance of heavy pollution, but residents say that not enough is being done.
+''Predicting is helpful because it helps prevent exposure, but it is not enough if it is only about knowing which days to put on masks or stay indoors,'' said Ma Jun, director of the Institute of Public and Environmental Affairs, a nongovernment group that works to improve emissions data transparency.
+Under the agreement with IBM, Beijing's city government will be one of the partners in the company's China-focused, 10-year Green Horizon initiative, which aims to draw on IBM's forecasting expertise and the collection of real-time emissions data to predict smog buildup.
+''It is about how we can help cities improve management based on 'big data,' and better predict'' pollution so the government can take action on pollution, said Xiaowei Shen, director of IBM Research in China, speaking at IBM's lab in Beijing's high-tech district of Zhongguancun.
+With China's pledge to reduce the share of coal in its energy mix, IBM's cloud-based analytic systems could also be tailored to make better use of renewable energy, Mr. Shen said.
+At the Zhangbei wind and solar power demonstration project run by the State Grid Corporation in northern Hebei Province, for instance, a supply-and-demand management system from IBM has helped reduce wasted power to 20 percent from 30 percent.
+Better data about the makeup of Beijing's pollution could also lead to more effective action, said Wang Tao, resident scholar at the energy and climate program at the Carnegie-Tsinghua Center for Global Policy.
+''They can find out if stopping cars' running is more effective or stopping pollution from heavy industries,'' Mr. Wang said.
+IBM representatives said that the Green Horizon initiative could generate commercial opportunities in pollution control and renewable energy in China.
+IBM's sales in China have slumped since last year, hurt by a backlash against United States-based multinationals after revelations that the United States has spied on foreigners and other governments.
+This is a more complete version of the story than the one that appeared in print.

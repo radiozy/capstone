@@ -1,0 +1,39 @@
+﻿
+Updated, 10:30 p.m. |
+SAN FRANCISCO -- The story behind what may have been the biggest Internet failure in history involves an unlikely cast of characters, including a little-known company in a drab building in Wyoming and the world's most elite army of Internet censors a continent away in China.
+On Tuesday, most of China's 500 million Internet users were unable to load websites for up to eight hours. 
+Nearly every Chinese user and Internet company, including major services like Baidu and Sina.com, was affected.
+Technology experts say China's own Great Firewall -- the country's vast collection of censors and snooping technology used to control Internet traffic in and out of China -- was most likely to blame, mistakenly redirecting the country's traffic to several sites normally blocked inside China, some connected to a company based in the Wyoming building.
+The Chinese authorities put a premium on control. 
+Using the Great Firewall, they police the Internet to smother any hint of antigovernment sentiment, sometimes jailing dissidents and journalists; they blacklist major websites like Facebook and Twitter; and they block access to media outlets like The New York Times and Bloomberg News for unfavorable coverage of the country's leaders.
+But the strange story of Tuesday's downtime shows that sometimes their efforts can backfire.
+The China Internet Network Information Center, a state-run agency that deals with Internet affairs, said it had traced the problem to the country's domain name system. 
+One of China's biggest antivirus software vendors, Qihoo 360 Technology, said the problems affected about three-quarters of the country's domain-name system servers.
+''I have never seen a bigger outage,'' said Heiko Specht, an Internet analyst at Compuware, a technology company based in Detroit. 
+''Half of the world's Internet users trying to access the Internet couldn't.''
+Those domain-name servers, which act like an Internet switchboard, routed traffic from some of China's most popular sites to an Internet address that, according to records, is registered to Sophidea, a company based, at least on paper, in that Wyoming building, in Cheyenne. 
+It is unclear where the company or its servers are physically based, however.
+With so much Internet traffic flooding Sophidea's Internet address, Mr. Specht said he believed it would have taken less than a millisecond for the company's servers to crash.
+Until last year, Sophidea was based in a 1,700-square-foot brick house on a residential block of Cheyenne. 
+The house, and its former tenant, a business called Wyoming Corporate Services, was the subject of a lengthy Reuters article in 2011 that found that about 2,000 business entities had been registered to the home. 
+Among them were a company controlled by a jailed former Ukraine prime minister, the owner of a company charged with helping online poker operators evade online gambling bans, and one entity that was banned from government contract work after selling counterfeit truck parts to the Pentagon.
+Wyoming Corporate Services, which helps clients anywhere in the world create companies on paper and is designated to receive lawsuits on their behalf, moved its headquarters 10 blocks from its former base last year. 
+Gerald Pitts, the Wyoming Corporate Services president, said in an interview on Wednesday that his company acted as the registered agent for 8,000 businesses, including Sophidea, though he did not know what the company did.
+Technology experts say Sophidea appears to be a service that reroutes Internet traffic from one website to another to mask a person's whereabouts, to make it easier to send spam for example -- or to evade a firewall, like the ones that Chinese censors erect.
+Sophidea's managers are not publicly listed. 
+Wyoming is light on business regulation. 
+The state requires only that companies file a short annual report disclosing assets that are physically located in Wyoming and the name of one person submitting the report. 
+According to Wyoming state records, Sophidea's director is Mark Chen, with no associated contact information.
+Mr. Pitts, of Wyoming Corporate Services, said he could not provide any further information for the company without a legal order.
+But for less than a millisecond on Tuesday, the company's operators may have been surprised to find that a huge portion of the world's Internet traffic was firing at their servers and that their Internet address was the subject of much speculation within the Chinese media. 
+Several Chinese newspapers named Sophidea's Internet address as the ''No. 
+1 suspect'' in a cyberattack.
+By late Tuesday, some technologists surmised that the disruption might have been caused by Chinese Internet censors who tried to block traffic to Sophidea's websites because they could be used to evade the Great Firewall and mistakenly redirected traffic to the Internet address.
+That theory was buttressed by the fact that a separate wave of Chinese Internet traffic Tuesday was simultaneously redirected to Internet addresses owned by Dynamic Internet Technology, a company that helps people evade China's Great Firewall, and is typically blocked in China.
+According to D.I.T.'s website, its clients include Epoch Times, a newspaper affiliated with the Falun Gong movement; Voice of America; Radio Free Asia; and Human Rights in China, an activist group based in New York.
+Bill Xia, a Falun Gong adherent who founded D.I.T. after emigrating to the United States, said in an email that the problem could have been caused by a ''misconfiguration'' in the state's firewall, which controls traffic across multiple Internet service providers in China. 
+''Only the Great Firewall has this capability ready,'' he said.
+Greatfire.org, an independent site that monitors censorship in China, echoed that theory in a blog post.
+One thing is certain, said Mr. Specht of Compuware: Chinese Internet users' and companies' trust in the Internet has been shaken. 
+''Already Chinese Internet users do not have too much trust in the Internet,'' he said.
+Amy Qin contributed reporting from Beijing.

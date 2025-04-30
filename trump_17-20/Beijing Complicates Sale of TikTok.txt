@@ -1,0 +1,43 @@
+﻿
+In an 11th-hour twist, Beijing raised a potential hurdle for a sale of TikTok, further roiling the race to buy the Chinese-owned app.
+As the sale of TikTok enters its final stages, Beijing is saying it wants the last word.
+In a bureaucratic two-step, China on Friday updated its export control rules to cover a variety of technologies it deemed sensitive, including technology that sounded much like TikTok's personalized recommendation engine. 
+Then on Saturday, the country's official Xinhua news agency published commentary by a professor who said the new rule would mean that the video app's parent, the Chinese internet giant ByteDance, might need a license to sell its technology to an American suitor.
+Beijing's last-minute assertion of authority is an unexpected wrinkle for a deal as two groups race to buy TikTok's U.S. operations before the Trump administration bans the app. 
+Taken together, the rule change and the commentary in official media signaled China's intention to dictate terms over a potential deal, though experts said it remained unclear whether the Chinese government would go as far as to sink it.
+The moves from Beijing ensnare TikTok and potential American buyers including Microsoft and Oracle, wedging them in the middle of a tussle between the United States and China over the future of global technology. 
+Beijing's displeasure alone could scare off TikTok's suitors, many of whom have operations in China. 
+TikTok is the most globally successful app ever produced by a Chinese company, and the conflict over its fate could further fracture the internet and plunge the world's two largest economies into a deeper standoff.
+''At a minimum they're flexing their muscles and saying, 'We get a say in this and we're not going to be bystanders,''' said Scott Kennedy, a senior adviser at the Washington-based Center for Strategic and International Studies who studies Chinese economic policy.
+''It could be an effort to outright block the sale, or just raise the price, or attach conditions to it to give China leverage down the road,'' he said. 
+He added that it showed a rare bit of consensus between China and the United States that both agreed ByteDance was a national security priority.
+If Beijing blocks the sale of TikTok, it would effectively be calling the Trump administration's bluff, forcing the U.S. government to actually go through with restricting the app and potentially incurring the wrath of its legions of influencers and fans. 
+Ordering companies like Apple and Google to take down TikTok in app stores globally could also prompt further anger against the Trump administration and even lawsuits.
+ByteDance and Oracle declined to comment on the rule changes and the Xinhua article. 
+Microsoft did not have immediate comment. 
+The U.S. 
+Department of Commerce did not respond to requests for comment. 
+The White House did not immediately respond to a request for comment. 
+But Beijing's move could risk empowering the more hawkish members of Mr. Trump's team and igniting an even more forceful response from the administration, which has said that it could take more measures to block tech companies like Alibaba and Baidu from doing business in the United States.
+China's changes to its export rules came just as ByteDance had signaled that it was close to reaching a resolution on the future of TikTok's business in the United States. 
+President Trump this month issued an executive order restricting Americans' dealings with TikTok beginning in mid-September. 
+He and other White House officials have said the app could be a Trojan Horse for data gathering by the Chinese Communist Party, an accusation that ByteDance has denied. 
+That set off the deal negotiations.
+Chinese officials have denounced the Trump administration's treatment of TikTok, characterizing it as ''bullying.''
+In Friday's update to the export control rules, China's Commerce Ministry and its Science and Technology Ministry restricted the export of ''technology based on data analysis for personalized information recommendation services.''
+TikTok plays up its ability to use technology to understand users' interests and fill their feeds with more of what they will enjoy watching.
+In the Saturday article published by Xinhua, a professor of international trade at China's University of International Business and Economics, Cui Fan, said that ByteDance's technologies would most likely be covered by the new export controls.
+''If ByteDance plans to export relevant technologies, it should go through the licensing procedures,'' the article cited Mr. Cui as saying. 
+Any sale of TikTok would most likely require the transfer overseas of code and technical services, the article said.
+''It is recommended that ByteDance seriously study the adjusted catalog, and carefully consider whether it is necessary to suspend the substantive negotiation of related transactions, perform the legal declaration procedures and then take further actions as appropriate,'' Mr. Cui was quoted as saying.
+Mr. Kennedy said that it was exceedingly rare for a professor to make comments about a specific, in-progress deal, and that it signaled that ByteDance would now have to consult the Chinese authorities about the controls.
+China has previously used bureaucratic procedure to block commercial deals without appearing to do so outright. 
+In 2018, Qualcomm called off a $44 billion deal to buy the Dutch chip maker NXP Semiconductors after Chinese regulators simply failed to either approve or reject the transaction. 
+Beijing's prolonged antitrust review was seen as a form of leverage over trade talks with the Trump administration, though China's Ministry of Commerce denied that the two matters were related.
+In other industries, too, foreign companies including Microsoft, Volkswagen and Chrysler have been investigated for what China says are anticompetitive practices. 
+Beijing has rejected the charge, made by American business groups, that it uses laws like antimonopoly rules to advance industrial policy.
+The use of export controls was novel, but it mirrors similar regulatory hurdles thrown at Chinese companies by the Trump administration. 
+The White House order that prompted TikTok's sale cited national security concerns, and the United States has repeatedly blocked Chinese bids for companies with sensitive technologies as well as data.
+Mr. Kennedy said China's ultimate motivation in holding up or thwarting the deal could be, at minimum, a ''kneejerk assertion of sovereignty.''
+Doug Jacobson, a partner at the Washington trade law firm Jacobson Burton Kelley, said the impact of China's new rules would hinge on how essential the technology in question was to TikTok's app and whether that technology was part of a sale.
+''It's going to depend on how the transaction is structured and also just how this technology is embedded or incorporated into the code itself,'' he said.

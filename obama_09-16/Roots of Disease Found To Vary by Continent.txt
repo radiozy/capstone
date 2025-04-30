@@ -1,0 +1,28 @@
+﻿
+A new survey of the human genome shows that common diseases are likely to have a different set of genetic roots in Africans, East Asians and Europeans.
+The finding may represent yet another serious complication in the post-genome quest for the roots of common disease, since it implies that each disease may need to be investigated separately in different populations.
+After the human genome was decoded in 2003, biologists completed a follow-up project called the HapMap that cataloged the genome's common variations, meaning the sites on the DNA where one unit often differs from the standard sequence. 
+They then scanned the genomes of patients with common diseases to look for statistical links between having a disease and having a particular variation.
+These expensive scans, called genomewide association studies, required recruiting hundreds of patients. 
+Many such scans have now been done for most of the common diseases, but the results have been disappointing. 
+With a few exceptions, common variations account for little of the genetic risk of common disease. 
+The basic premise of the HapMap -- that common diseases were caused by common variations -- turned out to be largely incorrect.
+Back at the drawing board, biologists decided that if the genetic roots of common disease did not lie in the common variants, they should lie in the rarer variants. 
+With partners in England and China, the National Institutes of Health in 2008 undertook a follow-up to the HapMap, the 1,000 Genomes Project, to catalog rare variants in the human population.
+The project is not yet complete, but a team led by Simon Gravel and Carlos D. Bustamante of Stanford University has analyzed the data so far available and predicts the rare variants will be found to be almost entirely different in the Chinese, European and African populations. 
+This means that almost all of the rare variants developed after the three populations had split apart.
+''Genomewide association studies aiming to correlate common disease susceptibility with rare variants may need extraordinarily large sample sizes,'' the scientists concluded in the journal PNAS.
+David B. Goldstein, a geneticist at Duke University, said that it had long been known that rare variants tend to be specific to particular populations, but that it was too early to tell how hard it will be to find those that cause disease. 
+Some rare variants can greatly increase the risk of disease and should be easier to detect than others.
+But the jury is still out on the catalog of rarer variants being developed by the 1,000 Genomes Project and how useful it will be, Dr. Goldstein said. 
+It may be more effective to decode the entire genomes of patients with a particular disease. 
+''We are more interested in the variants we see in patients than in a generic catalog,'' he said. 
+These variants are so rare that even 1,000 Genomes is unlikely to pick up many of them, he said.
+The Stanford study also sheds light on major aspects of human population history, like the time at which the first modern humans emigrated from Africa. 
+Archaeologists believe it was about 50,000 years ago, since no modern human remains older than this have yet been found outside of Africa, but geneticists have long favored much earlier dates. 
+Dr. Gravel and Dr. Bustamante now calculate that 51,000 years ago, give or take several thousand years, is the date best supported by genetic data, bringing the geneticists' date into alignment with the archaeologists' favored time for the exit from Africa.
+The common variations in the human genome were mostly present in the ancestral human population in Africa and have been inherited by all the descendant populations around the world. 
+The rare variants occurred more recently.
+''Most of the common variants hark back to pre-Out of Africa,'' Dr. Bustamante said. 
+''Most of the rare variants come after the Neolithic revolution.''
+This is the event that marked the beginning of agriculture about 10,000 years ago and led to significant increases in the size of human populations.

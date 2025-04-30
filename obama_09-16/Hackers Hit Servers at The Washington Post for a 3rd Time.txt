@@ -1,0 +1,15 @@
+﻿
+Hackers breached The Washington Post's computer servers for the third time in three years, the newspaper reported late Wednesday.
+This time hackers gained access to employee user names and passwords, The Post reported, but it said there was no evidence they obtained subscriber information, like credit cards or home addresses. 
+The paper also said there was no sign the hackers gained access to its publishing system, emails or other personal information of employees, such as their Social Security numbers.
+The company said it suspected that Chinese hackers were behind the current raid. 
+Post officials said that they were informed of the breach on Wednesday by Mandiant, its web security contractor, and that it lasted less than a week.
+''This is an ongoing investigation, but we believe it was a few days at most,'' said Kris Coratti, a Post spokeswoman.
+Ms. Coratti did not release a press statement or take questions about the hack, but instead referred reporters to an article in The Post for further information.
+The Post system was compromised previously last August, when the Syrian Electronic Army, a hacker collective that supports President Bashar al-Assad of Syria, briefly directed some readers of the paper's website to a site that lauded President Assad and condemned the country's rebels.
+In 2011, The Post, as well as The New York Times and The Wall Street Journal, were subject to sophisticated attacks thought to have originated in China. 
+It was believed then that Chinese hackers were looking for sources on stories about the country. 
+At the time, The Post declined to release details of how much information the intruders received, but that first breach was thought to be extensive.
+On Wednesday, the paper emphasized the brevity of the most recent attack. 
+But at the same time, it asked employees to change their user names and passwords.
+''Although company passwords are stored in encrypted form,'' said the newspaper's article on the episode, ''hackers in some cases have shown the ability to decode such information.''

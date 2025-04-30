@@ -1,0 +1,75 @@
+﻿
+UNABLE after a lengthy investigation to diagnose a malfunction in its $160,000 computer system, a Chinese institute in Shaanxi Province took the final, reluctant step of calling in a service engineer from Peking, 725 miles away. 
+The American engineer, an employee of the small United States company that made the computer, quickly discovered the source of the problem: a rat. 
+The animal had been foraying nightly into the computer room and chewing on a sensitive cable. 
+The cable was replaced, the rat's droppings swept away and a six-inch-high wooden plank nailed across the doorway.
+Then, because he was already there, the engineer was asked to take a look at one of the computer's terminals, which had not been acting just right. 
+He removed the terminal's casing, leaving the power on to perform some tests. 
+A cleaning woman responsible for keeping the equipment free of dirt was mortified to see dust clinging to the electronic circuit boards. 
+She hurried over with a wet rag to wipe it away. 
+The engineer recalls that he restrained her just in time to stop her from doing serious damage to herself and the terminal.
+Lack of routine maintenance of American-made computer equipment by Chinese has led to forecast that Chinese will waste between $20 million and $85 million by noting taking care of computers they bought in 1984 (L)
+This service call, made several months ago, was not all that bizarre by current Chinese standards. 
+China has embraced computers virtually overnight, but the Chinese face bewildering problems in maintaining and getting used to them. 
+''The average Chinese is simply not oriented to this technology,'' said a United States official here who monitors sales in this field. 
+''It's like taking someone who's worked on a bicycle all his life and suddenly handing him a six-cylinder engine to work on.''
+The Chinese and foreigners alike generally agree that technicians in China will ultimately be at least as good as anyone else at servicing computers. 
+But in the short term, the problems of poor maintenance and underutilization are critical, given China's plans to buy billions of dollars worth of new computers in the 1980's, mostly from American companies.
+China spent a conservatively estimated $425 million on foreign-made computers last year. 
+A United States official here calculated that within three years of delivery the Chinese typically pay between 5 and 10 percent of the equipment's price on service that would be unnecessary if proper maintenance were practiced. 
+The head of the China office for a large American computer manufacturer put the rate at 10 to 20 percent, by factoring in the costs of productivity loss suffered when a computer is down. 
+Both put the corresponding percentage in the United States at well under 5 percent.
+Put in their harshest terms, these estimates mean the Chinese are expected in the next three years to waste between $20 million and $85 million by not taking proper care of the computers they bought in 1984.
+Official policy is to blame the Cultural Revolution of 1966 to 1976 for the nation's current technology lag. 
+A recent Government book on modernization plans maintains that ''the 10-year turmoil stunted the intellectual growth of a whole generation.''
+Whatever the root cause, the problem is vastly compounded by Chinese insistence - born of both personal pride and Government policy - on maintaining by themselves the computers they import. 
+Then there are the other complications - outmoded but deeply ingrained work habits, training aimed at the wrong people, even China's climate.
+LI YUXIANG, director of the General Office of the Computer Industry Administration, a branch of the Ministry of the Electronics Industry, conceded that maintenance is a ''big problem'' for Chinese computer users. 
+To combat it, he said, the China Computer Technical Service Corporation (C.C.T.S.C.) - a Government agency with 3,000 employees - has set up 41 training centers across the country, with plans to build 10 more. 
+The C.C.T.S.C. has service branches in nearly every one of China's 29 provinces, notes Mr. Li. The People's Daily, a Peking newspaper, puts the number of computer maintenance people in all of China at a scarce 20,000. 
+For the most part, say foreign experts, their level of training is not yet high enough.
+Representatives of computer companies here say that China's goal - to service its computers with its own maintenance corps - is unrealistic. 
+They point out that relatively new buyers simply cannot be as efficient in diagnosing problems as the company that makes a particular model and regularly services it.
+Chinese technicians sometimes have difficulty figuring out what to work on. 
+''They will continue to take a minor problem and because they cannot diagnose it properly, they'll rip the whole machine apart,'' said a representative of an American computer company, who, like many officials interviewed for this story, asked not to be quoted by name. 
+''That brings about many more problems than they ever started with,'' he said.
+When they buy computers, and many other kinds of technology, the Chinese generally insist on receiving extensive service training from the manufacturer. 
+But their intention is to rely on the manufacturer for service only when absolutely necessary.
+The Chinese also tend to insist that any training they get from the manufacturer be conducted overseas because, in the words of David Fong, Hewlett-Packard's China sales manager, such travel is a ''lifetime opportunity'' for people who might otherwise never be able to visit a country like the United States or Japan. 
+We've had people telling us they won't buy our computer unless they can have maintenance training in the United States,'' said a representative of another American company.
+But this ultimate perk does not always go to the technicians who most logically should receive it. 
+''Sometimes people who have nothing to do with computers are the ones sent overseas,'' said Mr. Fong. And one C.C.T.S.C. engineer said all his training in the United States was on an American computer model that he ''hadn't touched since returning to China.''
+China's insistence on self-reliance even extends to a refusal, for the most part, to buy ''insurance contracts'' - special warranties that extend beyond a manufacturer's normal guarantees. 
+Chinese customers are willing to spend ''tons of money'' for repairs, Mr. Fong said, ''but they cannot understand insurance buying,'' costly warranties that, he said, the Chinese view as buying only a technician's visit ''for chit-chat once a month to look everything over.''
+Given the Chinese approach, many foreign sales representatives here say the best solution to the maintenance difficulties may be some sort of innovative contract that somehow combines instruction for the Chinese with warranty features that preserve a manufacturer's reputation.
+WITH all this, there are also maintenance problems that are simply a reflection of poor operating conditions in China. 
+Electricity here is subject to wide voltage surges and to blackouts, both of which can wreak havoc with computer systems. 
+And the country can be extremely hot in summer or, in the north, suffer fierce dust storms when sands blow down from the Gobi Desert each spring. 
+Chinese users are not always able to provide the special rooms and air-conditioning necessary to protect sensitive electronic equipment under such conditions.
+Foreign experts here also cite the problem of old habits dying hard. 
+For example, it is an article of faith, and the product of many long Government campaigns, that any machine should be turned off when not in use to save energy. 
+Just as cars are frequently turned off when idling for more than a few seconds at an intersection, personal computers tend to be switched on and off many times throughout a Chinese workday. 
+This wears down the equipment - and, according to most studies, does not save energy. 
+But the practice continues, although most foreign officials here say that the Chinese have come around a bit and are at least leaving on their mainframe computers.
+Apart from all these maintenance problems is the question of just how much use China is getting out of its computers. 
+The Chinese have criticized themselves openly on this score. 
+In an article last month, The People's Daily took up the issue, claiming: ''Many users buy their computers in a hurry without first making the necessary preparations and end up leaving their machines idle'' because they cannot find useful tasks for the machines. 
+The article concluded that ''there is a serious wastage problem. 
+. . Even according to optimistic estimates, only 50 percent of computers are in effective operation'' compared, the article maintained, with 98 percent in advanced nations.
+There are anecdotes to support the newspaper's contention. 
+An American salesman here recalls making a sales call to a Chinese institute and finding a $750,000 computer already on the premises - unused. 
+The maker had gone out of business and the institute had neither the knowledge nor the spare parts to solve a repair problem. 
+The institute bought a new computer from the salesman. 
+It hums along next to the idle machine.
+The Chinese have not, for the most part, been innovative with the machines they use, either. 
+''In most other places of the world you might buy a computer for one or two reasons. 
+Then two years later you are using it to do 16 other things,'' said David R. Keys, general sales manager of Control Data China Inc., a subsidiary of the Minnesota based Control Data Corporation. 
+''I haven't seen much of that here.''
+Mr. Keys and others say that the Chinese write very few of their own programs. 
+They purchase them abroad, but often, for lack of funds, do not purchase the software updates that manufacturers periodically issue to help customers get optimum use out of programs they have already bought.
+''Our level of application is comparatively low,'' acknowledged Mr. Li. He says that China is trying to solve this problem by distributing publications and organizing user associations.
+Quite apart from trying to solve the maintenance problem, the Chinese are seeking to design and build their own machines. 
+The Central Committee of the Chinese Communist Party urged exactly such self-reliance in March, and China is planning a ''massive push in scientific and technological research to quickly narrow its technology gap with developed nations,'' according to China Daily, the English-language newspaper published in Peking.
+Will they do it?
+''Right now the Chinese are studying very hard,'' said a Japanese official with one of the large Japanese companies selling computers and telecommunications equipment here. 
+But the consensus among foreign experts here is that for China - once the world's technological leader - self-reliance in computers is still decades away.

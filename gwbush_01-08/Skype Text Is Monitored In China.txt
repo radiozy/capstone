@@ -1,0 +1,56 @@
+﻿
+SAN FRANCISCO -- A group of Canadian human-rights activists and computer security researchers has discovered a huge surveillance system in China that monitors and archives certain Internet text conversations that include politically charged words.
+The system tracks text messages sent by customers of Tom-Skype, a joint venture between a Chinese wireless operator and eBay, the Web auctioneer that owns Skype, an online phone and text messaging service.
+The discovery draws more attention to the Chinese government's Internet monitoring and filtering efforts, which created controversy this summer during the Beijing Olympics. 
+Researchers in China have estimated that 30,000 or more ''Internet police'' monitor online traffic, Web sites and blogs for political and other offending content in what is called the Golden Shield Project or the Great Firewall of China.
+The activists, who are based at Citizen Lab, a research group that focuses on politics and the Internet at the University of Toronto, discovered the surveillance operation last month. 
+They said a cluster of eight message-logging computers in China contained more than a million censored messages. 
+They examined the text messages and reconstructed a list of restricted words.
+The list includes words related to the religious group Falun Gong, Taiwan independence and the Chinese Communist Party, according to the researchers. 
+It includes not only words like democracy, but also earthquake and milk powder. 
+(Chinese officials are facing criticism over the handling of earthquake relief and chemicals tainting milk powder.)
+The list also serves as a filter to restrict text conversations. 
+The encrypted list of words inside the Tom-Skype software blocks the transmission of those words and a copy of the message is sent to a server. 
+The Chinese servers retained personal information about the customers who sent the messages. 
+They also recorded chat conversations between Tom-Skype users and Skype users outside China. 
+The system recorded text messages and Skype caller identification, but did not record the content of Skype voice calls.
+In just two months, the servers archived more than 166,000 censored messages from 44,000 users, according to a report that was published on the Information Warfare Monitor Web site at the university.
+The researchers were able to download and analyze copies of the surveillance data because the Chinese computers were improperly configured, leaving them accessible. 
+The researchers said they did not know who was operating the surveillance system, but they said they suspected that it was the Chinese wireless firm, possibly with cooperation from Chinese police.
+Independent executives from the instant message industry say the discovery is an indication of a spiraling computer war that is tracking the introduction of new communications technologies.
+''I can see an arms race going on,'' said Pat Peterson, vice president for technology at Cisco's Ironport group, which provides messaging security systems. 
+''China is one of the more wired places of the world and they are fighting a war with their populace.''
+The Chinese government is not alone in its Internet surveillance efforts. 
+In 2005, The New York Times reported that the National Security Agency was monitoring large volumes of telephone and Internet communications flowing into and out of the United States as part of the eavesdropping program, intended to hunt for evidence of terrorist activity, that President Bush approved after the Sept. 
+11 attacks.
+The researchers said their discovery contradicted a public statement made by Skype executives in 2006 after the content filtering of the Skype conversations was reported. 
+At the time the company said that the conversations were protected and private.
+The Citizen Lab researchers issued a report on Wednesday, which details an analysis of data on the servers. 
+''We were able to download millions of messages that identify users,'' said Ronald J. Deibert, an associate professor of political science at the University of Toronto. 
+''This is the worst nightmares of the conspiracy theorists around surveillance coming true. 
+It's 'X-Files' without the aliens.''
+Jennifer Caukin, an eBay spokeswoman, said, ''The security and privacy of our users is very important to Skype.''
+But the company spoke to the accessibility of the messages, not their monitoring. 
+''The security breach does not affect Skype's core technology or functionality,'' she said. 
+''It exists within an administrative layer on Tom Online servers. 
+We have expressed our concern to Tom Online about the security issue and they have informed us that a fix to the problem will be completed within 24 hours.''
+EBay had no comment on the monitoring.
+Other American companies have been caught in controversy after cooperating with Chinese officials. 
+In 2005, Yahoo supplied information to the Chinese authorities, who then sentenced a reporter, Shi Tao, to 10 years in prison for leaking what the government considered state secrets. 
+The company said it was following Chinese law.
+EBay created the joint venture with the Tom Group, which holds the majority stake, in September 2005. 
+The Tom Group itself was founded in October 1999 as a joint venture among Hutchison Whampoa, Cheung Kong Holdings and other investors. 
+In its annual report this year, the Tom Group, based in Hong Kong, said that the number of Tom-Skype registered users had reached 69 million in the first half of 2008 and revenue had increased tenfold in the last year.
+The researchers stumbled upon the surveillance system when Nart Villeneuve, a senior research fellow at Citizen Lab, began using an analysis tool to monitor data that was generated by the Tom-Skype software, which is meant to permit voice and text conversations from a personal computer. 
+By observing the data generated by the program, he determined that each time he typed a particular swear word into the text messaging program an encrypted message was sent to an unidentified Internet address.
+To his surprise, the coded messages were being stored on Tom Online computers. 
+When he examined the machines over the Internet, he discovered that they had been misconfigured and that the computer directories were readable with a simple Web browser.
+One directory on each machine contained a series of files in which the messages, in encrypted form, were being deposited. 
+Hunting further, Mr. Villeneuve soon found a file that contained the numerical key that permitted him to decode the encrypted log files.
+What he uncovered were hundreds of files, each containing thousands of records of messages that had been captured and then stored by the filtering software. 
+The records revealed Internet addresses and user names as well as message content. 
+Also stored on the computers were calling records for Skype voice conversations containing names and in some cases phone numbers of the calling parties.
+Mr. Villeneuve downloaded the messages, decrypted them and used machine translation software to convert the Chinese messages to English. 
+He then used word frequency counts to identify the key words that were flagging the messages. 
+The exact criteria used by the filtering software is still unclear, he said, because some messages on the servers contained no known key word. 
+He said that in addition to capturing the Skype messages sent between Tom-Skype users, international conversations were recorded as well, meaning that users of standard Skype software outside China were also vulnerable to the surveillance system when they had text conversations with Chinese users.

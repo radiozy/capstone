@@ -1,0 +1,42 @@
+﻿
+SHANGHAI — President Trump has said that he will help save ZTE, a Chinese electronics maker. 
+The company was on the brink of collapse after United States officials punished it last month for breaking American sanctions against countries including Iran and North Korea.
+Here's a look at how a Chinese electronics maker with an awkward name came to be at the center of a geopolitical chess match between Beijing and Washington.
+What Is ZTE?
+Zhongxing Telecommunications Equipment isn't a household name in most places. 
+Known as ZTE, it is probably best known for making cheap smartphones that are mostly sold in developing countries, though it also sells them in the United States.
+But in the telecommunications world, the ZTE name carries significant weight. 
+It is one of two Chinese companies — Huawei is the other — that sells equipment for cellular networks. 
+It has about 75,000 employees and says it does business in more than 160 countries.
+That makes it an important geopolitical pawn for Beijing, both as an innovator and as a builder of state-funded projects overseas. 
+If China wants to improve ties with a government in the developing world, it often offers loans that can be used to set a ZTE-powered cellular network.
+Longer term, China hopes that companies like ZTE will become powerhouses that can help the country wean itself from a reliance on American tech firms, which Beijing views as security threats because of the possibility that they could help Washington spy.
+How Did It Break Sanctions?
+Tech supply chains are so intertwined these days that just about every product that ZTE makes has some American components or software in it — think microchips, modems and Google's Android operating system. 
+So if ZTE sells a smartphone to North Korea, it might also be selling a Qualcomm chip inside that phone. 
+That's illegal under American sanctions that prohibit the sale of United States tech to embargoed countries.
+When the Commerce Department released its findings against ZTE in 2016, it took the rare step of disclosing evidence of the company's guilt. 
+One document, signed by several senior ZTE executives, cautioned that American export laws were a risk because the company was selling to "all five major embargoed countries — Iran, Sudan, North Korea, Syria and Cuba."
+A second company document featured flow charts for best practices to circumvent American sanctions. 
+Last year, ZTE acknowledged its guilt and paid a $1.19 billion fine.
+How Did the U.S. 
+Hobble ZTE?
+The Commerce Department wasn't done with that hefty penalty.
+Last month, officials said ZTE had violated its agreement with the United States because it didn't punish senior management for having violated the sanctions. 
+Instead, the Commerce Department said, ZTE paid them bonuses and lied about it. 
+As punishment, the department forbade American technology companies from selling their products to ZTE for seven years.
+That means no Qualcomm chips or Android software for its phones, and no American chips or other components for its cellular gear. 
+Analysts estimate that four-fifths of ZTE's products have American companies. 
+ZTE went into a tailspin, saying last week that it had shut down major operations.
+Why is Trump Intervening?
+The American president hasn't explained his decision to try to help the company, other than to cite the potential for lots of Chinese workers to lose their jobs. 
+But ZTE's troubles come at a complicated moment.
+In normal times, the company's fate would be a legal matter for the Commerce Department. 
+But the Trump administration is pressuring China to make trade concessions. 
+It may also need Beijing's help to strike a deal with North Korea as Washington and Pyongyang plan a high-profile meeting next month in Singapore.
+By offering to intervene, Mr. Trump has effectively suggested that ZTE's punishment could be a bargaining chip in negotiations with China, rather than a matter of law enforcement. 
+It isn't clear whether he will follow through on his offer to help the company or whether he will get something in return if he does.
+A One-Off or Part of a Trend?
+The fight over ZTE is emblematic of deeper issues in the relationship between China and the United States, the world's two largest economies.
+Neither country trusts the equipment made by the other, particularly after Edward Snowden disclosed how United States intelligence officials turned to American companies to snoop.
+With a technological cold war already getting frosty, such squabbles over intertwined supply chains and diverging interests are likely to proliferate.

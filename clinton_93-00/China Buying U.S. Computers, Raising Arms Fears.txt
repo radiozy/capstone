@@ -1,0 +1,40 @@
+﻿
+Since President Clinton deregulated the export of computers in 1995, China has gone on a shopping spree, buying 46 American-made supercomputers and many more that are nearly as powerful, according to Government officials.
+The newly acquired computers could be used by the Chinese to design more efficient or lighter nuclear warheads that could be put on missiles capable of reaching the United States, American intelligence officials and nuclear experts said.
+Several officials said they have suspicions -- but no direct evidence -- that China is using the powerful computers for this purpose.
+Clinton Administration officials who defend the 1995 policy said they believe that the civilian purchasers in China are making sure the equipment is not diverted to military uses.
+Gary Samore, the senior director for nonproliferation and export control at the National Security Council, said, "We don't have any information that these computers are being used by the Chinese for military purposes, including nuclear weapons."
+At the same time, Mr. Samore said, there were no formal military or intelligence investigations of that question. 
+The Government's knowledge, he said, was drawn largely from the computer companies.
+There are disagreements among American officials about the importance of the Chinese purchases of supercomputers. 
+But Gary Milhollin, a nuclear expert in the private sector, said of the 46 supercomputers, "For the first time these give China access to a larger number of computers in this range, and that's a big jump for the Chinese."
+The supercomputers sold to China would allow the country to significantly improve its nuclear weapons by processing huge amounts of data from very small underground nuclear weapons tests. 
+The tests are currently banned by international treaty, but the high-performance computers would allow the Chinese to conduct weapons tests with explosions so small that they would be undetectable by outsiders, said American Government officials who requested anonymity.
+Under the 1995 policy, most supercomputers sold for civilian purposes do not need to be licensed for export by the Federal Government. 
+Exporters consequently cannot be required to track how they are used.
+The disclosure earlier this year that American companies had sold supercomputers to two Russian nuclear installations prompted Congress to ask for an accounting of how many had been sold to other countries.
+At the time, the Republican chairman and the ranking Democrat on the House National Security Committee asked the President to "refrain from further" deregulation of supercomputer exports and to reassess the national security risks of allowing exporters to decide whomay buy supercomputers.
+"We think many of the supercomputers sold to China are being integrated into the military weapons development area in a way that is going to make their weapons more sophisticated and lethal, and this could jeopardize our own national security interests," said Senator Thad Cochran, Republican of Mississippi, chairman of a Senate subcommittee overseeing the issue.
+Clinton Administration officials said today that they were satisfied with deregulation. 
+They argued that it would be nearly impossible for the United States to effectively prevent the Chinese from obtaining the computers from other sources.
+The Commerce Department has been investigating last year's sale by Silicon Graphics of a supercomputer that performs almost six billion operations per second, operating at 10 times the speed of the fastest personal computer, to a Chinese science academy. 
+The company says the buyer is a benign civilian institution, but according to nuclear experts, the academy has other functions, including helping China develop long-range missiles. 
+The Justice Department is also investigating another Silicon Graphics supercomputer sale in 1996, to a Russian research institute that also serves as a nuclear weapons laboratory, the officials also said.
+"One reason I ran for President was to tailor export controls to the realities of a post-cold-war world," President Clinton wrote in a September 1993 letter to Edward McCracken, the chief executive officer of Silicon Graphics.
+In his 1992 campaign, Mr. Clinton received important political support from executives of high-technology companies, including Mr. McCracken.
+Shortly after the President's 1993 letter, the Administration took its first steps toward decontrol. 
+In October 1995 President Clinton announced that he would relax export controls on all but the most powerful supercomputers to help American companies compete abroad, saying the system would "adjust to the global spread of technology while preserving our vital national security interests."
+But by eliminating the need for licenses on most computer exports, the President shifted some national security responsibilities -- avoiding the misuse of sensitive technology -- from the Government to the computer industry.
+The Under Secretary of Commerce for Export Administration, William A. Reinsch, said the department was investigating some cases of unlicensed export of supercomputers to China and Russia, which could uncover more information about how the computers are being used. 
+But he insisted that the relaxation of controls was a realistic solution since rapid changes in the flexibility and availability of computer technology make it easy for purchasers to circumvent controls.
+"Where do you draw the line to be absolutely certain that no one in China has a supercomputer?"
+Mr. Reinsch asked. 
+"The only way is to insist on validated licenses on all computers and then deny them."
+Another obstacle was thrown up when diplomatic and intelligence officials, wanting to protect their sources, refused to allow the Commerce Department to publish a list of buyers suspected of nuclear activity, according to Mr. Reinsch. Then earlier this year, 16 months after the White House promised that the Commerce Department would keep manufacturers informed of nuclear proliferation risks, the department publicly disclosed one name of a suspected nuclear installation -- an Israeli university.
+Mr. Reinsch says more names will be disclosed soon, a move industry officials say they favor.
+Robert Rarog, a spokesman for Digital Equipment Corporation, which has sold supercomputers to China, said his company feels that the deregulation "basically works" but that "the Government has to step up to the plate" and disclose questionable buyers "to level the playing field for U.S. companies" who compete with foreign manufacturers that may be less diligent.
+In early 1996, Government nuclear experts asked the Commerce Department to provide supercomputer manufacturers with a list of sensitive nuclear sites in Russia and China to prevent misuse of their technology, but the Administration turned down the request, according to Mr. Milhollin, the director of the Wisconsin Project on Nuclear Arms Control. 
+A Department of Energy spokesman confirmed Mr. Milhollin's account.
+In an interview, Mr. Milhollin compared the relaxation of export controls to the 1980's deregulation of the savings and loan industry.
+"The decision to decontrol supercomputers, without adequate safeguards was the equivalent to the deregulation of the savings and loans -- the industry benefited but the public welfare and security was sacrificed, he said."
+A Senate subcommittee headed by Mr. Cochran will hold a hearing on the deregulation issue on Wednesday.      

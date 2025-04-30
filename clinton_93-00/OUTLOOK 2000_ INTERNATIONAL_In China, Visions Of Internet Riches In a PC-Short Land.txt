@@ -1,0 +1,53 @@
+﻿
+When negotiators from China and the United States clinked their Champagne glasses here last month to celebrate a trade agreement between the two countries, nobody exulted more than China's Internet entrepreneurs. 
+The deal, which opens the door to China's entry into the World Trade Organization, will also allow foreign companies to own stakes of up to 50 percent in Chinese Internet companies by 2006.
+Even as China reaches outside itself to become a full-fledged member of the club of trading nations, the outside world is reaching deeper into China through the Internet. 
+While the market access promised by the trade deal could still be hindered by cumbersome regulations, China's cyberspace is officially open.
+That breakthrough, experts say, will accelerate a digital gold rush that began in New York last July, when a Hong Kong company with an auspicious name issued shares on the Nasdaq. 
+The offering, by China.com, raised $84 million and put a $1.5 billion value on the company, which is an Internet content provider and a portal.
+While China.com's stock has since had the bungee-jumping ride typical in high technology, it remains a potent symbol of how entrepreneurs here can make a fortune by putting together two alluring concepts: the world's most populous country and the world's most exciting new medium.
+Last year represented more than a coming-out party for a single Chinese cyber-venture. 
+With nearly seven million users across the country, 1999 was the year that the Internet in China crossed the threshold from being a heady concept to a market with genuine opportunities.
+"We hit a critical mass of users by the end of 1999," said Wang Yan, the general manager of Sina.com, an Internet provider that runs the most popular Web site in China. 
+"The coming year will mark the launch of e-commerce in China."
+Sina.com executives attribute their site's popularity to its good graphics and the fact that it is a home-grown service, not a Hong Kong import, like China.com, which also provides Web consulting services and advertising services.
+As in the United States, few of the major Chinese Internet companies are profitable. 
+Even so, foreign investors have poured tens of millions of dollars into companies like China.com, Sina.com and Sohu.com, another major Chinese player.
+The investors prefer to focus on the growth potential. 
+BDA China Ltd., an Internet consulting company based here, estimates that the number of online users in China will jump to 33.6 million in 2003 from 12 million in 2000, a compound annual growth rate of 57 percent.
+Electronic commerce, which generated a paltry $8 million in revenue here in 1998, could generate $3.8 billion by 2003, according to the International Data Corporation, an American market research concern.
+"All these grand numbers are based on the prospect of a mass market," said Duncan Clark, a partner in BDA China. 
+"The question is: How long is your time horizon?"
+For example, most Chinese now pay cash-on-delivery for goods, and full-fledged e-commerce will probably have to wait for more credit card users -- about 50 million cards are outstanding. 
+Still, the growth in card use is reasonably strong.
+The larger question for the future of the Internet is the role played by the Chinese government. 
+Beijing's top communications official stunned investors last September when he unexpectedly reaffirmed a longstanding ban on foreign investment in Internet service providers.
+Some American companies, including Intel, Dell Computer and Dow Jones & Company, had already financed Chinese start-ups, and are now uncertain about the status of their investments. 
+Most own stakes of less than 50 percent, so, theoretically, they should be allowed to retain their investments. 
+But Wu Jichuan, the information industry minister, has made ominous noises about Internet companies that are more than 50 percent foreign-owned.
+Thanks to the trade agreement between the United States and China that was signed in November, ownership restrictions are supposed to be lifted gradually. 
+By 2002, foreign companies will be allowed to own up to 50 percent of Internet content companies. 
+By 2006, they will be allowed to own up to 49 percent of Internet service providers.
+Many analysts here suggest that Beijing's real intent is not so much keeping foreign companies out as in regulating those that get in.
+"If they block foreign investment, how are they going to license the necessary technology for secured transactions to do e-commerce?"
+Mr. Clark of BDA China asked. 
+"If they stunt the Internet, where is the growth going to come from?"
+Jiang Zemin, the president of China, has said he favors growth in the Internet but has not specifically addressed those issues.
+Beyond foreign money, some analysts question whether the Chinese government will tolerate the flood of foreign information -- some of it culturally and politically sensitive -- that would become available with unbridled growth of the Internet. 
+At the moment, Beijing is pursuing potentially conflicting goals: nurturing a commercial, nonpolitical Internet while trying to curb its tendency toward anarchic growth.
+Last fall, the authorities warned Internet providers not to provide links to foreign news outlets, and they continue to block a handful of specific foreign Web sites, including those of The New York Times, The Washington Post and CNN. 
+Still, people can sign on to them by dialing into servers outside the Chinese mainland. 
+Normally, access to the Internet in China is provided by links to one of the two state-owned telephone companies, China Telecom and China Unicom.
+For all the talk about China erecting a wall around the Internet, the emergence of the Net as a tool that could be used by the Chinese people for domestic political purposes is perhaps a greater threat to Beijing than foreign news articles. 
+Last summer, members of a spiritual movement, Falun Gong, circulated updates about their group electronically, despite a sweeping crackdown and the arrest of hundreds of Falun Gong leaders by the government.
+"The exponential ability of Party A to speak with Party B, which is so exciting to people in Silicon Valley, is a major threat to the government," Mr. Clark said.
+In Beijing, the current crop of Internet entrepreneurs studiously avoids politics, while trying to help their country enter the digital mainstream.
+Since the lucrative initial public offering of China.com, major American investment banks have been swarming over China's most promising start-ups. 
+Sina.com and Sohu.com are both planning to sell shares, perhaps as soon as next month.
+Charles Zhang, the 35-year-old founder and chief executive of Sohu.com, who holds a doctorate in physics from the Massachusetts Institute of Technology, has become the most celebrated of China's Internet pioneers by creating a service that appeals exclusively to mainland Chinese users. 
+Yet even he professes admiration for Peter Yip, the chief executive of China.com, for having locked up the most valuable domain name in 1997 and for being the first to go public.
+Determined not to fall behind its rivals in other areas, Sohu recently started an e-commerce business that allows more than 100 merchants to sell books, compact discs and computer software over the Internet. 
+Electronic commerce, an even more nascent business in China than advertising-supported services, generated $42 million last year, International Data estimates.
+In every debate about the Internet here, the conversation inevitably drifts back to the numbers: Fewer than 2 percent of China's 1.3 billion people own personal computers. 
+Goldman Sachs estimates that 0.2 percent of China's people now have access to the Internet. 
+With growth prospects like that, the world's last Communist empire could create more than its share of 21st- century tycoons.

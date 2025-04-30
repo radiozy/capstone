@@ -1,0 +1,22 @@
+﻿
+Google, Microsoft and Yahoo and a group of human rights and public interest organizations plan to introduce Wednesday a global code of conduct that they say will better protect online free speech and privacy against government intrusion.
+The principles are the starting point for a new effort, called the Global Network Initiative, which commits the companies to ''avoid or minimize the impact of government restrictions on freedom of expression,'' according to a final draft of documents obtained by The New York Times.
+Stating that privacy is ''a human right and guarantor of human dignity,'' the initiative commits the companies to try to resist overly broad demands for restrictions on freedom of speech and overly broad demands that could compromise the privacy of their users.
+The initiative was begun after human rights groups and Congress criticized the Internet companies for cooperating with Chinese government censorship and demands for information on dissidents. 
+In addition to laying out the code of conduct, the initiative will provide a non-governmental forum for the companies and human rights groups to jointly resist demands for censorship. 
+It will also establish a system of independent auditors to rate the companies' conduct.
+''This is an important first step in providing standards for free expression and privacy that obligate companies to do more to challenge government restrictions,'' said Michael Posner, president of Human Rights First, who agreed to discuss the initiative after The Times obtained the documents. 
+''It sets up an accountability mechanism that will allow each of the companies to be evaluated over time.''
+In addition to the three American companies, two European telecommunications companies, France Telecom and Vodafone, are also considering participating. 
+And members of the initiative are hoping to recruit additional companies.
+So far, AT&T, Verizon Communications and Sprint Nextel, which were embarrassed in 2005 after it was discovered they were cooperating with the National Security Agency in a warrantless surveillance scheme by the Bush administration, have not signed on.
+The principles have the backing of prominent human rights organizations, including the Committee to Protect Journalists, Human Rights Watch and Human Rights in China. 
+Business for Social Responsibility and the Center for Democracy and Technology helped lead the two-year talks, and organizations like Harvard University's Berkman Center for Internet and Society and the Calvert Group, a socially responsible money manager, also participated.
+But the effort is already being criticized by some human rights activists.
+''After two years of effort, they have ended up with so little,'' said Morton Sklar, executive director of the World Organization for Human Rights USA. 
+''It is really very little more than a broad statement of support for a general principle without any concrete backup mechanism to ensure that the guidelines will be followed.''
+Currently Google, Microsoft's MSN division and Yahoo's Chinese affiliate are all cooperating with the Chinese government's demands that search results be filtered. 
+This month, Canadian researchers revealed that the Chinese version of the Skype Internet chat and telephony client had been modified to permit the logging of chat sessions and storage of the information on server computers belonging to Skype's Chinese partner, Tom, a wireless and Internet company.
+Yahoo has been harshly criticized for its decision in 2004 to help Chinese authorities identify Shi Tao, a Chinese business reporter, who had sent a brief of a government document calling for press censorship to his private Yahoo e-mail account. 
+Mr. Shi is now serving a 10-year prison sentence.
+Asked whether the principles would have made a difference in the Shi case, Mr. Sklar said, ''My guess is it wouldn't have had any effect at all.''

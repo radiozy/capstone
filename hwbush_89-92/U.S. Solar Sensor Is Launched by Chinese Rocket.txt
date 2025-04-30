@@ -1,0 +1,21 @@
+﻿
+A big Chinese rocket roared into orbit yesterday, carrying an advanced American-built sensor that is expected to help electric power producers around the world avert blackouts caused by storms on the Sun.
+The $1.2 million instrument, built at the Applied Physics Laboratory of Johns Hopkins University, was given a free ride into space on a Swedish satellite named Freja, which also carried instruments from Sweden, Canada, France and Germany. 
+Sweden offered Johns Hopkins space on its satellite in return for access to data the instrument collects. 
+The satellite was launched by a Long March 2-C rocket from Jiuquan in the Gobi Desert.
+Dr. Lawrence J. Zanetti, leader of the Johns Hopkins group that built the Magnetic Field Experiment, said in an earlier interview the instrument would trigger a warning the instant a major disturbance of the Earth's magnetosphere begins. 
+Timely warning will permit power companies to take steps to prevent blackouts like the one that knocked out electricity throughout Quebec on March 13, 1989, an incident that also caused $8 million in damage to the Salem nuclear power plant in New Jersey and damaged other plants across North America.
+Magnetic storms begin when the Sun blasts electrically charged nuclear particles into space toward the Earth. 
+A few of the speediest particles reach the Earth in about eight minutes, but most of the lower-energy particles, traveling at speeds up to 590 miles per second, take 2 to 12 days. 
+When they reach the Earth, they not only produce spectacular auroral displays but also deform the Earth's magnetic field.
+"It's as if a huge metal mallet were striking the Earth's magnetosphere," said Dr. Thomas Potemra, a lead designer of the project.
+The shifting of the magnetic field caused by this particle shower induces electrical current in the Earth's crust, and when this current interacts with electricity passing through power lines, it causes surges. 
+Such disruptions can make entire power distribution grids crash if operators do not respond quickly, and this can cause widespread blackouts and damage to equipment. 
+Among the many possible consequences is the disabling of control systems at nuclear power plants. 
+Magnetic storms also disrupt global radio and telephone communications.
+The Swedish satellite was carried into orbit along with a much larger Chinese military reconnaissance satellite. 
+After both satellites reached an orbit extending to 197 miles above the Earth, Freja's rockets were fired to boost the Swedish satellite to an elliptical orbit over the Earth's poles, ranging in altitude from 375 to 970 miles. 
+The satellite is being tracked by an arctic station near Kiruna, Sweden.
+The Chinese satellite is designed to return to Earth in about two weeks, but Johns Hopkins scientists expect the Freja satellite to operate for about two years, during which the Magnetic Field Experiment, similar in principle to the magnetometers used at airports to detect concealed weapons, will collect information about the effects of solar storms on the Earth's magnetic field.
+Although the experiment will offer only a few minutes' warning, it can help power operators make emergency decisions. 
+Ordinarily, automatic safety locks close down individual power plants when they detect surges, but when whole power networks are affected by solar storms, operators must override safety devices to keep power.

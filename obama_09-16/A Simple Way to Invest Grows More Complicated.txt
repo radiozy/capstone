@@ -1,0 +1,66 @@
+﻿
+THIS week was the 20th anniversary of the creation of the first exchange-traded fund, the Standard & Poor's Depositary Receipts E.T.F., which tracks the performance of the S.& P. 500 index and is bought and sold like a single stock. 
+Even now, what is known as the SPDR S.& P. 500 remains the largest, with nearly $130 billion in assets.
+Its selling point is its simplicity: the shares are liquid, the fees are low and the holdings are easy to see. 
+It and the many exchange-traded funds that followed were the foundation for the movement toward low-cost, passive investing that aims to increase returns by eliminating the inconsistent performance of many active investors: the fund will track whatever index it is following.
+At a lunch to observe the anniversary, Jim Ross, a senior managing director at State Street Global Advisors and one of the creators of the Standard & Poor's E.T.F., which trades as SPY, said that the funds would continue over the next 20 years to be vehicles that allow people to invest in increasingly sophisticated ways.
+The funds now represent a nearly $2 trillion industry, which promotes itself as easy for the average investor to understand but, as Mr. Ross indicated, is becoming ever more complex.
+HISTORY The genesis of SPY was a report on the causes of the 1987 stock market crash that said that a way to trade a marketbasket of stocks would have lessened the impact of the crash. 
+From that, an executive at the American Stock Exchange got the idea to bring together a group of commodity traders, index managers, accountants, economists and a specialist trading firm to work out the logistics of trading an entire index as if it were a single stock.
+After State Street created SPY, iShares followed three years later with a host of funds that tracked different indexes in large economies, like Britain, Japan and Australia. 
+State Street countered in 1998 with a series of funds that invested in sectors, like technology and energy, and the race was on.
+Today, there are over 1,200 exchange-traded funds in the United States alone, and another 1,700 in Europe, according to ETF Global, a data provider. 
+Many track indexes or baskets of stocks for a particular country or industry.
+The funds have allowed clients and advisers to easily take a broad position. 
+Pooneh Baghai, a senior partner at McKinsey & Company, said that simplicity had allowed advisers to act more like chief investment officers, focused on asset allocations, and not stock pickers in search of a couple of winning investments.
+Like most financial products, exchange-traded funds started out simple and have grown complex. 
+The newest innovations are funds that offer enhanced returns -- known as levered, or leveraged, funds -- and manage volatility. 
+The E.T.F. label gives the funds the veneer of simplicity, but they can produce outcomes that investors did not expect.
+One example is a fund that resets its leverage each day. 
+Greg Peterson, director of research at Ballentine Partners, said he showed clients how they could end up losing more money than they expected.
+Consider a regular S.& P. 500 E.T.F. and an S.& P. 500 E.T.F. that doubles the gains or losses. 
+Both have $100 on Day 1. 
+On the second day, the S.& P. index drops 25 percent. 
+The regular fund is down to $75; the levered one is down to $50. 
+The following day the S.& P. is up 50 percent. 
+The regular fund rises to $112.50, and the levered one is at $100. 
+On the fourth day, the S.& P. drops 10 percent. 
+The regular fund is down to $101.25, while the levered one is at $80.
+''You've got to know what you're buying,'' Mr. Peterson said. 
+''The E.T.F. will do what it says it will do. 
+But people don't know what to expect.''
+ADVANTAGES Low fees and no distribution of taxes are two of the selling points that distinguish exchange-traded funds from mutual funds. 
+But there are caveats.
+Exchange-traded funds that allow people to invest in securities that may be less liquid or more complex would be expected to charge higher fees, and they do. 
+The AdvisorShares Active Bear E.T.F., which focuses on betting against securities, charges 1.68 percent of the amount invested, while the average fee for most E.T.F.'s is 0.6 percent, according to ETF Global.
+But even funds doing simple things charge differently. 
+Vanguard's S.& P. 500 E.T.F. charges 0.05 percent. 
+The iShares version costs 0.07 percent. 
+But the State Street SPY, which is triple the size of the other two combined, charges the highest fee, 0.0945 percent. 
+(The fee 20 years ago was 0.2 percent.)
+''If you hold it for five years, that cheaper E.T.F. may make more sense,'' Mr. Ross said. 
+''But it's like going into the drugstore: the generics are always cheaper, but they may not be better.''
+The funds are also appealing because most of them do not make capital gains distributions the way a mutual fund investing in similar securities does, and so have lower taxes.
+A simple way to think about why this is, is that when you buy an exchange-traded fund, you're buying a share of one thing, like a stock, on an exchange. 
+When you buy mutual fund shares, you're buying a basket of other securities that are being bought and sold and thus generating capital gains and losses.
+Of course, if you eventually sell E.T.F. shares at a gain, you will pay a capital-gains tax on them. 
+And there are exceptions to the tax efficiencies, like certain fixed-income funds and more esoteric funds that invest in commodities and currencies through futures contracts.
+ADVANCES AND CAVEATS There are several trends in exchange-traded funds that could confuse average investors. 
+One is creating portfolios of the funds that are actively managed. 
+Whereas average investors think of the funds as a cheap way to invest in an index, active managers are using them to take positions just the same as any active manager.
+''If you have a view of how monetary easing in Japan is going to play out, you can work with a provider to express that view,'' said Pete Quinn, president and chief operating officer of the Riverfront Investment Group, which manages $3.4 billion in E.T.F. strategies.
+Another is using the funds to follow trends in the markets. 
+David Kreinces, founder and portfolio manager of ETF Portfolio Management, said his small fund used an algorithm to essentially make investments based on the direction of a market.
+Then, there is the complexity of the funds themselves. 
+ETF Global seeks to make sense of the relative merits of various exchange-traded funds, from fees and size to what a fund said it would do versus what it actually did. 
+The goal, said Dan Hickey, a member of the research policy committee at ETF Global, is to provide support to investors overwhelmed by the proliferation of choices.
+''For the average investor who wants to be in stocks, buying the SPDR is a great thing,'' he said. 
+''When you get into the more esoteric products, it requires more knowledge on the part of the person buying them. 
+There are a lot of E.T.F.'s that are troublesome.''
+Mr. Peterson at Ballentine said he recalled a social media fund that had only 10 stocks, five of them Chinese media companies. 
+But he said investors also needed to examine the holdings of big players. 
+The largest holding of the iShares MSCI Emerging Markets Index Fund, the fourth-largest exchange-traded fund by assets, is Samsung, the Korean electronics multinational. 
+While the moves in Samsung's stock price could help or hurt the index, Mr. Peterson said the reasons Samsung would go up or down might not be the same as the reasons that other companies in the index, which get more of their business from the growing middle class in the emerging markets, would move.
+''E.T.F.'s have been so successful that people have engineered E.T.F.'s that don't follow the same functions as the original ones,'' Mr. Peterson said. 
+''Those original E.T.F.'s were broad, stock-based index-traded funds that were really efficient ways to gain core exposure to core markets.''
+There is nothing wrong with these advances, of course, as long as investors know what they're getting.

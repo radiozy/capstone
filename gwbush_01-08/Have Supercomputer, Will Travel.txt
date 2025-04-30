@@ -1,0 +1,58 @@
+﻿
+Add Steve Chen to the growing list of America's high-technology exports.
+Mr. Chen, a Taiwanese-born American citizen who was considered one of the nation's most brilliant supercomputer designers while working in this country for the technology pioneer Seymour Cray in the 1980's, has moved to China -- where he is leading an effort to claim the world computing speed record.
+Supercomputing is being seized upon by the Chinese government to help speed the nation's transition from low-cost manufacturing to becoming a more powerful force in the world economy. 
+China's leaders know that high-speed computing is essential to global leadership in scientific fields and advanced design of a variety of sophisticated products.
+''Right now the Chinese have started to pay attention; they are catching up and they learn fast,'' said Mr. Chen, 60, who is splitting his time between China and San Jose, Calif., where his wife, Kate, and their four children live.
+Military intelligence experts in this country have long been concerned that supercomputing capabilities may aid China's weapons development. 
+But many technologists and economists say that blazing computing speeds alone do not represent a particularly new nuclear weapons threat. 
+Instead, they are more concerned that the Chinese may catch up more quickly with the United States in areas that have economic and scientific, rather than military, ramifications.
+Mr. Chen's decision to set up shop in China was driven in part by an unexpected twist: the opportunity to build a new company looked more promising to him there than in the United States, where he was unable to secure financing from American venture capitalists for his latest ideas. 
+Mr. Chen concluded that the fallout from the collapse of the Internet bubble had poisoned the investment climate.
+''I saw the crazy stuff going on,'' he said recently in a telephone interview from Shenzhen, near Hong Kong. 
+''A lot of people got hurt.''
+While Mr. Chen is not a native of mainland China, his decision has parallels to an increasingly common odyssey by foreign-born researchers, who once would have found the greatest openings to use their skills in the United States. 
+As the spread of capitalism creates opportunities elsewhere, many such talented people are returning to China, India and other developing countries to create or join advanced technology firms.
+In May, Mr. Chen joined Galactic Computing Shenzhen, which is backed by investment money from a Hong Kong company that supported an earlier Chen venture and with further backing from a group of Chinese universities. 
+His move reflects the fact that the market for high-performance computing is growing more rapidly in China than elsewhere in the world.
+The Chinese are not yet a major force in supercomputing, but according to American computing experts, that is changing rapidly.
+Today there are 14 Chinese supercomputers among the top 500, ranking the country fourth in the world, equal to Germany and behind only the United States, Japan and Britain. 
+In June, a supercomputer assembled at the Shanghai Supercomputer Center using more than 2,500 chips designed and manufactured by Advanced Micro Devices of Sunnyvale, Calif., became the world's 10th-fastest computer.
+''In terms of momentum they are the most rapidly ascending country in the world,'' said David Keyes, a professor of applied mathematics at Columbia University, who visited China last month to participate in a conference on high-performance computing.
+Galactic recently demonstrated a prototype of Mr. Chen's newest supercomputer at a biomedical research institute in Beijing. 
+The machine, he said, is capable of one trillion calculations a second, a performance level that would place it among the top half of the world's 500 fastest computers.
+Such computing now occupies a central role throughout the global economy, providing stark proof that decades-long American attempts to control the flow of advanced information-processing technologies are largely moot. 
+It is only a matter of time, experts say, before companies in places like China, India and Russia essentially match the capabilities of the American and Japanese leaders.
+''When they really get noticed,'' said Horst D. Simon, director of the computation center at the Lawrence Berkeley National Laboratory in California, ''will be when a country like Malaysia or Australia decides to buy a supercomputer from a Chinese company like Mr. Chen's rather than from I.B.M.''
+Now that computer chips openly available anywhere in the world have reached such high speeds, the expertise needed to build supercomputers has shifted to the software needed to hook hundreds or thousands of processors together. 
+Mr. Chen has long been recognized as one of the world's pioneers in that specialty.
+He arrived in the United States from Taiwan in 1975, at age 31, to pursue graduate studies in computer science. 
+During the 1980's, Mr. Chen was widely considered one the leading computer designers in the United States.
+As a computer architect at Cray Research from 1979 to 1987, he gained a reputation for machines that were both elegant and blindingly fast. 
+He also became known as a visionary who frequently needed assistance in finishing overambitious projects.
+''He's very charismatic,'' said David J. Kuck, a computer scientist and Intel researcher, who was Mr. Chen's professor in a Ph.D. program at the University of Illinois at Urbana-Champaign in the 1970's. 
+''His English wasn't the greatest, but everyone understood what he wanted to do.''
+As a graduate student, Mr. Chen designed one of the first software programs known as a parallel compiler, which was useful in restructuring programs so they could run on computers with multiple processors. 
+That pioneering work became the basis for much of today's commercial parallel computing software.
+At Cray Research, Mr. Chen had an intense rivalry with Mr. Cray, who was leading a team that pursued a competing design. 
+Ultimately, Cray's chief executive, John Rollwagen, canceled one of Mr. Chen's computer projects. 
+Soon afterward, in September 1987, Mr. Chen established his own supercomputing company, Supercomputing Systems, with backing from International Business Machines.
+That effort led to a partially completed prototype, but the company failed commercially in 1992 when I.B.M. canceled funding. 
+Because the Cold War was ending, military funding for high-performance computing slowed dramatically. 
+Later, Mr. Chen became the chief technology officer of Sequent Computer Systems, which was later acquired by I.B.M.
+Mr. Chen's decision to try his luck in China as an entrepreneur stands in contrast to an earlier example of technology transfer from the United States to China. 
+During the 1950's Tsien Hsue-shen, a leading aerospace designer with a Ph.D. from the California Institute of Technology, was deported from the United States as a presumed security threat during the Communist witch hunts of the McCarthy era. 
+After returning to China, he became the father of the country's intercontinental missile program.
+During the Clinton administration, Washington attempted to control the flow of high-performance computers to China because of fears they could be used to design nuclear weapons. 
+That policy, with modifications, has continued. 
+Indeed, just this month, State Department officials renewed calls for maintaining the arms sales embargo against China, which extends to restrictions on the fastest computers.
+But with the new type of supercomputer -- which blends thousands of freely available off-the-shelf microprocessors connected via high-speed fiber-optic cables that can stretch for hundreds of miles -- restrictions on the sale of so-called dual-use computers that have both military and civilian applications no longer stand in the way of developing systems able to compete with the fastest machines made by American and Japanese companies.
+American supercomputer experts said that Mr. Chen's move to China could have a major impact, similar to the shock felt among government technology insiders in 2002 when Japan developed the Earth Simulator, currently the world's fastest supercomputer.
+''There is no stronger form of technology transfer than to have a world-class expert go off with all his knowledge,'' said Seymour Goodman, a physicist at the Sam Nunn School of International Affairs at the Georgia Institute of Technology in Atlanta.
+Mr. Chen was an eager convert to American ways after he moved to the United States from Taiwan, even bringing members of his extended family to Eau Claire, Wis., where he established a stylish Chinese restaurant.
+Mr. Chen said he still viewed himself primarily as a scientist dedicated to contributing to supercomputer design in ways that would benefit not just China but the United States and the rest of the world, too. 
+He said he intended to pursue that goal with whoever offered him the greatest help.
+That reflects long-held views, which he expressed in an interview with The New York Times in the early 1990's.
+''I come from a very humble family and Confucian teachings are in my background,'' he said then. 
+''When I came to the United States and I observed this disciplined, businesslike, practical manner, I found a marriage of the two cultures. 
+I also saw the bad points of each.''

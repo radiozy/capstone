@@ -1,0 +1,63 @@
+﻿
+International finance has always been one of the more elusive areas of economics, in part because the channels through which capital moves around the world are so tortuous that the system looks as if it had been thought up by Rube Goldberg. 
+It's not surprising, therefore, that among all the various forces and factors to be blamed for the current global economic crisis -- deregulation, Alan Greenspan, credit-default swaps, the power of the financial lobby, excessive leverage, securitization, Wall Street greed -- the most difficult to get one's head around is the international monetary system.
+It has long been recognized that the global financial structure -- built as it is around the dollar as the world's reserve currency -- has a fundamental design flaw that makes it inherently unstable. 
+The problem was first identified back in the early 1960s by the Belgian-American economist Robert Triffin, in ''Gold and the Dollar Crisis.''
+Writing about Europe's accumulation of dollars, he argued that the system carried the seeds of its own destruction. 
+Foreigners could acquire dollars only if the United States ran current account deficits -- that is, spent more than it earned. 
+But lending money to someone who lives beyond his means has obvious dangers, and the same is true of countries. 
+Thus, the American deficits necessary to supply dollars to the world for international transactions simultaneously undermined confidence in the currency. 
+It was only a matter of time, Triffin predicted, before the system would be hit by a crisis -- which it duly was in the early 1970s.
+At the beginning of the current decade a group of commentators, the most articulate being the Financial Times columnist Martin Wolf, updated Triffin's critique and applied it to current arrangements. 
+Whereas Triffin had been primarily concerned about the European accumulation of dollars, the spotlight was now on Asia. 
+In the wake of the 1997 financial crisis there, countries in East Asia set out to build up war chests of dollars as insurance against domestic banking runs or downturns in the global economy. 
+At about the same time, China embarked on a program of export-led growth, engineered by keeping its currency artificially low.
+Interpretations of what happened next differ. 
+Some argue that to absorb these goods from abroad while avoiding unemployment at home, the United States very consciously stimulated consumer demand. 
+The country, in effect, was forced to live beyond its means. 
+Others believe that the Fed misread the fall in prices as a symptom of inadequate demand rather than for what it was -- an astounding, once-in-a-generation expansion in the supply of low-cost goods -- and kept interest rates low for an unusually long time, which provoked the real estate bubble.
+In either case, the result was an enormous accumulation of dollars in the hands of Asian central banks. 
+Those dollars, when invested in the American bond market, drove long-term interest rates even further down and made credit in the United States even more artificially cheap.
+The build-up of dollars abroad was also the catalyst for a remarkable transformation in the flow of money around the world. 
+The United States found itself literally operating as a gigantic bank, taking short-term liquid deposits from countries with surpluses and investing the money in long-term, risky assets at home and abroad. 
+The numbers involved were staggering. 
+In 1996, the United States had international assets and liabilities of around $5 trillion. 
+By 2007 the figure was more than $20 trillion. 
+Like any bank, it was vulnerable to a run. 
+The main fear was that the United States at some point would be faced with a modern-day replay of Triffin's dilemma and would have to deal with the consequences of a collapse in confidence in the dollar.
+Instead, what led to the current mess was a somewhat different strain of the same disease. 
+As Wolf traces out so well in his 2008 book ''Fixing Global Finance,'' the United States was able to absorb all the goods coming out of Asia only by letting its consumers go progressively deeper into debt -- a process that had its own limits. 
+Moreover, the flood of money simply overwhelmed the capacity of financial institutions to handle it. 
+A lot, for example, ended up in the most unregulated segments of the global banking system, like off-shore deposits on the books of non-American banks. 
+These banks, now awash with cash and desperate for places to put the money, became easy marks for American investment banks seeking to peddle securitized mortgages. 
+When a large percentage of these loans went bad, instead of a dollar panic we had a global banking crisis.
+Past economic cataclysms have led to dramatic changes in international financial arrangements. 
+The Great Depression knocked the world off the gold standard. 
+The economic turmoil of the late 1960s and early '70s led to the collapse of Bretton Woods. 
+Will the current crisis bring similar changes?
+So far we have avoided a repeat of the Great Depression. 
+Countries have collectively pursued the right macroeconomic policies -- protecting and recapitalizing their banking systems, cutting interest rates to the bone and letting budget deficits expand. 
+There are no signs as yet of the sort of protectionism that gave us the 1930 Smoot-Hawley tariff. 
+The biggest worry, however, is that in the recent economic downturn the two groups of countries worst hit were those most exposed to the forces of globalization -- the export-driven economies of Asia and countries, notably those of Eastern Europe, most heavily dependent on foreign capital.
+One scenario has the world adjusting smoothly to the new realities. 
+American consumers, tapped out by debt, tighten their belts. 
+The Asian economies reconsider the wisdom of relying so heavily on exports to drive their growth and focus more on domestic consumption. 
+And with less money to recycle, international banks, which had done such a poor job, are cut down to size.
+But two dangers could make the current bad situation worse. 
+One is that China finds it too difficult or politically costly to restructure its economy and, despite the changes in the global market, keeps its foot on the export accelerator. 
+Since the American consumer cannot afford to keep buying, this would set off a cycle of trade wars among Asian countries competing for ever smaller markets.
+The second is yet another version of Triffin's dilemma: if even a small fraction of foreign holders of dollars were to be spooked by our budgetary problems, we could have a spike in the cost of capital just when the economy is trying to recover. 
+The risk of such a situation is clearly on the minds of Chinese policy makers. 
+Zhou Xiaochuan, the governor of the People's Bank of China, explicitly referred to Triffin's dilemma in a speech this March on the need for reform of the international monetary system.
+Like our current crisis, the Great Depression was brought about by a malfunction of the international financial system. 
+The nations of the world lost confidence in the system's ability to reconcile their conflicting interests and ambitions. 
+The result, as Harold James documents in ''The End of Globalization: Lessons From the Great Depression,'' was a disastrous backlash against globalization. 
+The economies of the world hunkered down behind high tariff barriers, import controls and restrictions on capital flows.
+Even a liberal like John Maynard Keynes, once a committed proponent of free trade, lost faith in open markets. 
+In 1933, in the depths of the Depression, he wrote, ''I sympathize, therefore, with those who would minimize, rather than with those who would maximize, economic entanglement among nations. 
+Ideas, knowledge, science, hospitality, travel -- these are the things which should of their nature be international. 
+But let goods be homespun whenever it is reasonably and conveniently possible, and, above all, let finance be primarily national.''
+Until we can reconcile the export ambitions of the Asian countries, particularly China, with the import capabilities of the rest of the world, and make the volume and value of reserves less dependent on the vagaries of macroeconomic policy in one country, the risk of a similar loss of faith in today's international financial system remains.
+This is the sixth in a series of essays exploring dominant themes and currents of thought in particular areas of American life. 
+The next essay in the series, which will continue in this space over the coming months, is scheduled to appear Oct. 
+18. An archive can be found at nytimes.com/crossroads.

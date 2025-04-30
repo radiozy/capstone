@@ -1,0 +1,52 @@
+﻿
+LET'S play ''What if?''
+What if the Chinese authorities didn't simply force Google to exclude sites like hrw.org (the Human Rights Watch Web site) and lesbian.com from the Chinese version of its search engine results, or insist that Yahoo hop to whenever the government fancied the identity of one of its e-mail users, as the authorities have done?
+What if they also stipulated that the chief executive of any Internet company doing business in China had to have ''Mao Zedong -- Luv U 4 Eva'' tattooed across his back?
+Would the companies leave China?
+The scary thing is, one might reasonably chew on that question longer than this one: What if Chinese law required Internet companies to reveal the identities of all users who forwarded really bad e-mail jokes, lame chain letters or any messages containing the terms ''free speech,'' ''Tiananmen Square'' or ''Super Freak,'' because such activities carried a 10-year prison term?
+''With all due respect to the memory of Rick James, the king of funk,'' an executive might say, ''we must abide by the laws of the countries in which we operate.''
+And what if -- as a mark of good faith for being permitted to do business in what any rational observer has to admit is now the most tantalizing Internet and technology market on the planet -- an executive from each company were required to assist, mano a mano, in the beating of an imprisoned blogger?
+Nothing too strenuous, but you would have to make like you meant it.
+What if no one had to know?
+They never would, right?
+Yes, it's an all too easy and not entirely fair game to play. 
+The issues on the ground in China are complex, and there are plenty of people who believe that Bill Gates is right when he says, as he did last week when discussing the matter at a Microsoft-sponsored conference in Lisbon, that ''the ability to really withhold information no longer exists.''
+That is to say, Microsoft or Google may agree to censor this or filter that, but in the end, censorship is no match for human ingenuity and the endless ways for the Internet to provide workarounds. 
+''You may be able to take a very visible Web site and say that something shouldn't be there,'' Mr. Gates said, ''but if there is a desire by the population to know something, it is going to get out.''
+But even if that's true, Western technology companies have only themselves to blame if users in the free world quickly ask when Shi Tao, the journalist whose name Yahoo gave to Chinese authorities and who subsequently was sentenced to a 10-year prison term, will be released. 
+Or that people use what-ifs to ponder the moral limits of saying that local law is local law.
+That's partly because it is only recently that any of the players have made any genuine efforts at transparency in their dealings with China.
+Two weeks ago, Google took the bold step of plainly admitting that it was entering the Chinese market with a censored search product, tweaked according to government specifications. 
+Then last week, Microsoft announced new policies that would enable it to honor a government's demand to shut down a citizen's blog (as happened five weeks ago with a popular MSN blogger in Beijing) while still keeping the blog visible outside of China.
+But these are small victories, said Julien Pain of the group Reporters Without Borders, which tracks Internet censorship in China, not least because the companies ''seem now to accept censorship as a given, and have simply decided to be transparent about it.''
+Still, to many, it signaled progress.
+And yet all four American companies with P.R. baggage in China -- Cisco, Yahoo, Microsoft and now Google -- were no-shows at a hearing last Wednesday of the Congressional Human Rights Caucus. 
+At least three of the companies submitted written statements defending their activities in China, but their absence only added to their image problem, as headlines like ''Tech Firms Snub Feds'' and ''Google Stiffs Congressional Caucus'' bounced around the blogosphere.
+And thus, the months of what came off as appeasing Beijing and engaging in mealy-mouthed image management at home seem to have taken a toll -- most recently, and perhaps most pointedly, on Google.
+It is telling, to say the least, that the darling of so many technophiles -- which promised to ''do no evil'' -- is now on the receiving end of spontaneous boycotts, with disillusioned search-lovers looking for alternatives. 
+These signs of lost innocence also show that the race for China may soon offer a selling point to companies that don't cooperate with repressive regimes.
+''Today, I know you don't deserve me,'' wrote one visitor to NoLuv4Google.org, a site where users can ''break up'' with Google and officially boycott the search giant on Valentine's Day, Feb. 
+14. ''You betrayed my love and trust. 
+I have been with you for so many years. 
+Now, we are through!
+FOREVER. I am gonna hook up with IceRocket.''
+IceRocket is one of several search alternatives listed at NoLuv4Google.org, which is run by a group called Students for a Free Tibet. 
+Clusty.com, a search site developed by several Carnegie Mellon computer scientists, is another. 
+Clusty proudly states that it ''never censors search results'' or excludes material ''that would be objectionable to governments or would be unlawful in unelected, nondemocratic regimes.''
+In an e-mail message, Mark Cuban, IceRocket's founder, put it more bluntly: ''IceRocket doesn't and won't censor. 
+We index more than one million Chinese-language blogs. 
+No chance we censor or block anything in this lifetime.''
+Even David Pinto, who owns the popular -- and wholly apolitical -- site BaseballMusings.com, has ceased taking income from Google ads. 
+''I was no longer comfortable taking money from them,'' he said. 
+That's the sort of apple-pie protest that American companies can't ignore.
+On Feb. 
+15, the House subcommittee on Global Human Rights will hold hearings on the whole topic, and all four companies -- Cisco, Yahoo, Google and Microsoft -- are expected to attend, given that the committee, unlike the caucus, could muster subpoenas if it wanted. 
+The companies will presumably explain that they can't be dogmatic on censorship when doing business in China, and that if American Internet companies don't do business in China, change will never come there.
+These are hard arguments to dismiss, but so, too, are the what-ifs. 
+One that ought to be on the mind of the companies as they come before Congress might be this: What if, years from now, the Great Firewall of China comes tumbling down and the full extent of your arrangements with the Chinese regime becomes known?
+''One day, people in China may be able to see the records of conversations between multinational tech companies and the Chinese authorities,'' wrote Rebecca MacKinnon, a research fellow at the Berkman Center for Internet and Society at Harvard Law School, in her blog at Rconversation.com.
+''What were the exact terms of the deals?
+Who made them?
+In what context did these conversations take place?''
+Ms. MacKinnon wrote. 
+''I expect the revelations won't be too flattering for the companies concerned.''

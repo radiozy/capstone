@@ -1,0 +1,294 @@
+﻿
+Jeremy Bernstein is a professor of physics at the Stevens Institute of Technology and a staff writer for The New Yorker. 
+His forthcoming book is ''Science Observed.''
+By Jeremy Bernstein
+It's a long way from Princeton, N.J., to the center of the sun but, in a sense, that's the journey Harold P. Furth set out to take a year ago when he accepted the position of director of the Princeton Plasma Physics Laboratory. 
+The laboratory, along with others elsewhere in the United States and in Western Europe, the Soviet Union, Japan and China, is attempting to re-create on earth many of the conditions that exist at the center of the sun, attempting to produce energy the way the su n does -through nuclear fusion.
+ 
+Fusion is t he basic mechanism that causes the sun and the other stars to shin e. 
+The interior of the sun is 14 million degrees centigrade, a nd at such high temperatures, its nuclear particles fuse together with the release of tremendous energy.
+Profile of Princeton Plasma Physics Laboratory and its director, Harold P Furth
+Fusion is also the basic mechanism of the most powerful force man has yet created on earth: the hydrogen bomb. 
+And almost from the time the bomb was conceived, many of its creators, scientists both in America and abroad, began the incredibly difficult task of trying to control nuclear fusion for nonmilitary purposes - to learn to heat, confine and control nuclear particles at temperatures like the sun's so that the energy they produce can be used for peaceful pursuits.
+Now, more than 30 years after they began, it appears that these fusion scientists will, indeed, be successful. 
+Thanks in large measure to the research achievements of the past three years, particularly at Princeton, it seems clear that nuclear fusion could eventually solve a major world energy problem -the production of electricity - and it could do so with acceptable environmental hazard. 
+This does not mean that nuclear-fusion power plants of the future will be free of risk. 
+They will not. 
+But their dangers will be substantially smaller and easier to deal with than those that have developed with the nuclear power plants of the present. 
+These plants utilize nuclear fission, in which atomic nuclei are split rather than fused. 
+In the fission process, very substantial amounts of radioactive material are also produced. 
+Constructing and operating such plants so as to make them acceptably safe is proving to be extremely expensive, and storing the spent, radioactive materials they produce has been no less a problem. 
+As a result, no new fission plants, other than those already under construction, are currently being planned in the United States.
+Nuclear fusion, moreover, is free of some of the drawbacks of the various other alternative sources of energy. 
+Oil is running out. 
+Coal burned in too great a quantity can also be very hazardous -heating up the atmosphere by the so-called ''greenhouse'' effect, for example - and neither windmills nor solar collectors (which, among other things, don't work at night) are nearly adequate for the needs of the world. 
+Fusion plants, on the other hand, which will probably be fired in large part by hydrogen obtained from the plentiful water of the sea, will have the potential to produce the vast amounts of electrical energy needed for world consumption.
+While the attraction of controlled nuclear fusion has remained strong, the advances have come slowly and with difficulty. 
+So slowly and with so much difficulty that in 1980 Congress, passing what is known as the Magnetic Fusion Energy Engineering Act, called for an overall expenditure of $20 billion to enable ''the United States to aggressively pursue research and development'' to the point of practical success, which is not expected before the year 2000. 
+Two years before that legislation was passed, scientists, by 1978, had managed to create temperatures as high as 70 million degrees centigrade. 
+The temperatures were high enough for nuclear fusions to occur but not high enough to induce a sufficient number of fusions to produce the quantity needed for practical usage. 
+Within the past year, however, the researchers at Princeton have, in an elaborate and difficult series of experiments, managed to obtain a yield of fusion several times larger than had ever been produced before in a controlled experiment.
+The feat went unheralded, largely because there is still such a long way to go before the final goals are reached. 
+But it helped to reassure the physicists and engineers around the world who are working on the project that their hopes have been well founded; that, in a sense, we have arrived at the end of the beginning of the fusion era.
+''The irony is,'' says Furth in discussing the Princeton achievement, ''that if the Russians had done it, we would have never heard the end of it. 
+If the Russians had come through, it might have been worth at least another $100 million to the United States program. 
+We seem to need another Sputnik.''
+Furth is not complaining. 
+''We are very excited,'' he says, ''very pleased that what we are doing now seems clearly on the right track.''
+But his remark does reveal a serious concern about continued Federal support for science, despite the Magnetic Fusion Energy Engineering Act. 
+''The Reagan Administration had talked about a 12 percent cut across the board for American science. 
+They have been very supportive of fusion research, but if cuts like that really were to go through, we would be in trouble. 
+A successful research team takes a long time to build up. 
+We can't just lay off our scientists and engineers and expect to get back our momentum a few years from now.''
+Harold Furth was fully aware of the financial responsibility and the problems associated with his Princeton assignment when he took it on. 
+Before he began, the director of another large physics laboratory in the United States told him a story he thought might be useful: A newly appointed energy-lab director was given two sealed letters by his predecessor and informed that, if he got into trouble and saw that things were not working, he should open the letters, one at a time as needed. 
+After six months, the director did, indeed , see trouble ahead and opened the first letter: ''Blame the pre vious director,'' it said. 
+This worked for a while, but then he got into worse trouble and opened the remaining letter, which said: ''Prepare two letters.''
+So far, Furth, whose lab now employs more t han a 1,250people and has an annual budget of about $100 million (abo ut a third of the total budget of Princeton University), has not had to prepare any such documents.
+Dr. Furth's primary interest in physics during his graduate days at Harvard in the early 1950's was in the phenomenon of magnetism, especially in devices that produced powerful magnetic fields. 
+In 1956, he was hired by Edward Teller at the Lawrence Livermore Laboratory near San Francisco to bring his interests to bear on fusion. 
+The real problem has been to keep the extremely hot electrically charged gases confined long enough so that their atomic nuclei can collide. 
+The use of powerful magnetic fields has been the key but that too has proved difficult. 
+The particles tend to wiggle away, out of the magnetic fields. 
+Edward Teller once said that confining the charged gases was ''like trying to confine jelly with rubber bands,'' the ''jelly'' being the hot gases, and the ''rubber bands,'' the lines of magnetic force.
+Dr. Teller himself was once the subject of a bit of metaphorical description by plasma-physicist Furth, one of whose earliest published works was not a scientific paper but rather a poem in The New Yorker. 
+Furth's interests as an undergraduate were about evenly split between physics and creative writing; he had read an account of a speech Teller had given on antimatter and was inspired to write a poem entitled ''Perils of Modern Living.''
+The poem, appearing over the initials H.P.F., began:
+Well up beyond the tropostrata There is a region stark and stellar Where on a streak of antimatter Lived Dr. Edward Anti-Teller …
+It went on to describe a fatal encounter between Dr. Teller and Dr. Anti-Teller:
+Their right hands Clasped … and the rest was gamma rays.
+Teller bore no hard feelings over the somewhat irreverent tone of the poem; he has just published a text on controlled nuclear fusion, and Furth has written one of its chapters.
+At temperatures above 10,000 degrees, all matter is in what physicists call a plasma state: The electrons -light, negatively charged particles that surround the nucleus of an atom - are stripped from the nucleus, leaving a gas of free electrons along with a companion gas of positively charged nuclei.
+The basic idea of controlled fusion is today, as it was when it was conceived during World War II, to make use of the plasma state. 
+And since plasmas are composed of electrically charged particles, they can be guided by magnetic fields. 
+One takes light elements - such as deuterium and tritium gas - and heats them to at least 100 million degrees centigrade. 
+Far less dense than the plasma of the sun, these elements must be heated at temperatures considerably higher than the sun's 14 million degrees. 
+If these newly created plasmas are tightly confined, magnetically, at such temperatures, their atomic nuclei will smash into each other and fuse to make a new element, helium, along with a free neutron, which is released from one of the colliding nuclei. 
+(The nucleus of an atom of deuterium contains one positively charged proton and one neutron, which has no charge; tritium contains one proton and two neutrons. 
+When the two nuclei fuse, they become a single nucleus of helium, which has two protons and two neutrons. 
+In the process, one neutron is lost from the original group.)
+Vast quantities of energy are released, most of which is carried off by the neutron, according to Einstein's equation E=mc2 - meaning that energy equals mass times the square of the speed of light. 
+(Mass here actually stands for a loss of mass.) In this reaction, about O.4 percent of the original mass is lost when deuterium and tritium become helium. 
+The change seems small, but when multiplied by the square of the speed of light, the loss shows up as an enormous release of energy.
+If, for example, we could fuse all of the nuclei in one gram of deuterium -about .002 of a pound - the energy released would be the equivalent of that produced by burning two tons of oil. 
+A gallon of ordinary water contains so much deuterium - also known as heavy hydrogen - that, if it can be sucessfully used as fusion fuel, it will produce as much energy as 300 gallons of gasoline. 
+Unfortunately, fusion fuel will burn only under conditions like those at the center of the sun.
+The main high-temperature fusion device now operating at Princeton - the Poloidal Divertor Experiment, or P.D.X. 
+- is in a relatively unprepossessing building on the James Forrestal Campus, about five miles from the university's main campus. 
+Nearby is the next generation of fusion machine - the Tokamak Fusion Test Reactor, or T.F.T.R. 
+- which is under construction at a cost of about $314 mil lion and is scheduled to go into operation late this ye ar. 
+Almost within the shadow of the construction site and the P.D.X. plasma furnace on the Forrestal campus is another energy experime nt: In this, scientists are attempting to produce air-conditionin g by filling a great hole with a small mountain of ice during w inter and covering it with plastic insulation; the idea is that the ice would be allowed to melt in summer under controlled conditions t o produce long-lasting air-conditioning. 
+Both energy enterprises, re presenting the opposite ends of technical complexity, would ultimatel y use the same, essentially inexhaustible raw material - water - but in very different ways.
+To enter the Forrestal laboratories, one must be signed in and given a radiation-detection badge. 
+One walks along labyrinthine corridors (past a computer center outside which is posted a notice that reads: ''To err is human; to really foul up requires a computer'') to enter the control room of the P.D.X.
+About 75 research scientists and technicians work exclusively on the P.D.X., which is housed in a hangarlike experiment hall with large cranes overhead. 
+The device is surrounded by concrete walls 20 feet high and two feet thick to stop those energetic neutrons and block low-level X-rays that come from the machine when it is operating.
+As an experiment starts, a warning signal goes on in the control room, indicating that, behind the concrete walls, an electrical current is about to be passed through the coils of the machine, generating magnetic fields. 
+After the warning, humming and rattling sounds can heard in the control room. 
+They are occurring, Furth says, as a cold mixture of deuterium and hydrogen is injected, and the heating process begins.
+The researchers constantly move in and out of the P.D.X control room, checking a variety of monitoring devices. 
+The controls do not look much more complicated than those in the cockpit of a modern airliner - with a few additions, such as closed-circuit-television screens and computer displays. 
+But the equipment gives highly sophisticated readings. 
+With a laser-beam ''thermometer,'' for example, the scientists determine the temperature inside the P.D.X., shooting a laser light beam through its windows. 
+The beam bounces off the electrons in the plasma in such a way as to measure their speed, and the speed of particles is what determines their temperature. 
+(The device works in much the same way in which the speed of a passing train can be measured by the change in pitch of its whistle - that is, by the so-called Doppler effect.)
+The Princeton P.D.X. is a highly evolved example of a type of fusion reactor known as a tokamak (which is a Russian acronym standing for a toroidal chamber - that is, a doughnut-shaped chamber - containing a magnetic field).
+Until 1958, fusion projects in both the United States and the Soviet Union were classified; workers in each had no concrete idea of what the others were up to. 
+But that year, the Eisenhower Administration agreed to declassify the entire controlled-fusion program, which was done at the second of two international conferences on peaceful uses of atomic energy. 
+As it turned out, both the Russians and the Americans were on remarkably similar tracks.
+Among the documents that became available was a prescient and extraordinarily far-reaching paper written jointly in 1950 by Andrei D. Sakharov and Igor Tamm, both future Nobel Prize winners. 
+(Sakharov, under house arrest in Gorky because of human-rights activities, and his wife were recently hospitalized after they began a hunger strike to protest the Kremlin's refusal to allow the wife of Sakharov's stepson to join him in the United States. 
+It just so happened that Harold Furth and a group of other fusion scientists arrived in Moscow at that time to begin negotiations on the resumption of American-Soviet cooperation on fusion. 
+By an ironic coincidence, the situation was resolved immediately after they returned to the United States with an agreement.)
+Sakharov and Tamm had set forth the basic concept of the tokamak. 
+The design, as the acronym suggests, would confine heated plasma in a hollow, doughnut-shaped vessel. 
+Electric currents are passed through coils wrapped around the doughnut to produce magnetic lines of force, called a ''toroidal magnetic field,'' inside the vessel. 
+The gas tends to be confined within the magnetic field - but not for long. 
+The hot particles begin to cross the field lines and crash into the cold walls of the doughnut, losing their heat.
+Sakharov, in a part of the 1950 paper, proposed that researchers make use of the fact that a heated plasma is an excellent conductor of electricity. 
+At a temperature of 100 million degrees centigrade, it has a conductivity, in fact, about 30 times greater than copper. 
+So Sakharov suggested that an electric current be induced to flow around the doughnut and right through the plasma itself, creating a second magnetic field perpendicular to the first. 
+(If you were to lay a doughnut flat on a countertop and slice down through it, the lines of the second magnetic field - the so-called poloidal field - would lie in the plane of the vertical slice; whereas the t oroidal field lines go arou nd in a horizontal circle parallel to the countertop.) The combinati on of the two fields, the horizontal a nd the vertical, forces the plasma particles into so-called helical orbits - that is, into a spiral path around the hole in the doughnut, stayin g within the magnetic fields and not touching the cold walls.
+While Sakharov and Tamm were inventing the tokamak, a Princeton astrophysicist, Lyman Spitzer Jr., was grappling with the same problems and came up with a device known as the Model-A Stellarator, built at Princeton in 1952. 
+He produced the poloidal magnetic field externally by wrapping wires outside the doughnut, and passing an electric current through the wires. 
+In the tokamak, the plasma itself functions as the ''wire.''
+Spitzer, who is also a mountain climber and skier, thought of the Stellarator while riding up underneath the cables of a ski lift in Aspen.
+In 1961, the late Lev A. Artsimovich of the I.V. 
+Kurchatov Institute of Atomic Energy in Moscow headed a team which completed the T-3 Tokamak. 
+In 1968, the machine heated plasma electrons to more than 10 million degrees, nuclei to about half that, and these temperatures were sustained for a few hundredths of a second.
+For the first time, the dream of controlled fusion seemed capable of fulfillment, and a shock wave known as ''tokamania'' went through the international fusion community. 
+Since then, every major industrial country has been building tokamaks.
+Once the cold mixture of hydrogen and deuterium has been injected into the Princeton P.D.X., a bolt of lightning is shot through it - a current with a power level roughly equivalent to the electricity being used at that moment by the entire town of Princeton. 
+As lightning rapidly heats the atmosphere in a storm, the pulse quickly heats the gas in the tokamak, propelling its electrons around this incredibly fast nuclear racetrack. 
+The gas hits 10 million degrees in less than one-tenth of a second.
+With an earlier tokamak, the Princeton scientists had been able to achieve a temperature of 70 million degrees in 1978. 
+But high temperature alone is not enough to produce useful energy. 
+Temperature and heat content are not the same: Temperature is a reflection of the speed of particles; heat content is a reflection of both the speed and the number of particles. 
+If there are only a few particles, then even if they fuse, they will not release much energy. 
+In fact, until last year, the density of particles in the plasma used in the P.D.X. experiments was so low that, even at a temperature as high as that of the interior of the sun, its heat content was less than that in the warm air from a radiator. 
+(In the P.D.X., the density of plasma particles was somewhat greater than 10,000 billion, or 1013, particles per cubic inch as opposed to the atomic-particle density of the atmosphere, which is 1020 per cubic centimeter.) The main purpose of the P.D.X. machine was to raise the heat content of the plasma. 
+But the initial results were discouraging.
+The trouble was, says Furth, that after the researchers significantly increased the density of the plasma, they could no longer obtain the same temperatures. 
+''By last winter,'' he says, ''we had reached a temperature of only 30 million degrees with the P.D.X. and we began to worry whether fusion itself was feasible. 
+The inability to get the temperatures up had troublesome implications. 
+Were we leaking heat?
+Why?
+Was there something fundamentally wrong?''
+Dr. Kees Bol and the P.D.X. group he heads spent much of last winter playing the tokamak almost the way one plays a church organ. 
+''How you control the heat and density of the plasma is an art,'' Bol says. 
+''We added two large injectors of deuterium atoms and induced more current in the plasma. 
+Programming the current the right way turns out to make a big difference. 
+It seems impossible at first, but that doesn't mean it can't be done.''
+After weeks of experiments, the beam of deuterium atoms was injected into the doughnut with an energy of 50,000 volts, which is about 50 times the energy of the particles already whirling around inside. 
+The new ''hot'' neutral atoms acted like carnival bumper cars, crashing indiscriminately into the colder ones and greatly jacking up their speed, and hence their energy. 
+The faster they went, the hotter they got, and - still before a full tenth of a second had elapsed - they hit 70 million degrees.
+I cannot report that people were running around the control room shouting, ''Eureka!''
+On the contrary, everyone remained silently glued to the monitoring equipment. 
+But there was a collective sigh of relief.
+The plasma cooled off as quickly as it had heated, but before it did, it produced about 40 thousand billion fusions - with about twice as large an energy release as fusions had ever previously achieved.
+''There is a tremendous responsibility in building one of these expensive things,'' says Furth, ''and it would have been frightful to have built the wrong thing.''
+Remarkably, only a few minutes after the temporarily radioactive interior of the doughnut had been baked at temperatures hotter than the interior of the sun, it was possible to climb around its 10-foothigh e xterior and inspect it. 
+There was little to inspect - little eviden ce that som ething extraordinary had just take n place. 
+Almost no residual radioactivity was present. 
+The gas had cooled and had been pumped away.
+Operators of future power-producing fusion reactors will have to deal with a significant amount of radioactivity. 
+But for two principal reasons, it will be substantially less than that created by fission reactors. 
+First, a working fusion reactor will produce material very much less radioactive than, say, a fission breeder reactor. 
+Second, one can choose the type of material it produces, so that it will decay to biologically safe levels in hundreds of years, as opposed to many thousands.
+Inside the tokamak's copper-wound magnets there was also very little residual magnetism. 
+(During an inspection, I was reminded of the now-ancient cyclotron machine at Harvard on which Furth and I worked during our graduate-student days. 
+Particles were guided by an iron magnet. 
+It would not only magnetize your watch and thereby immobilize it, but it would also grab iron tools right out of your hand and slam them against the wall.)
+When nuclear fusions can be made to occur in a sufficiently dense plasma for long enough periods of time at high enough temperatures, they will supply enough energy to maintain those temperatures without requiring additional heating from any outside source. 
+At that point, what is called ''ignition'' occurs. 
+(The plasma ignites the way a log, for example, burns of its own accord once it is sufficiently heated; the ignited log produces much more energy than was required to heat it to ignition.) And while the plasma stays hot, fusions will keep occurring as long as small amounts of deuterium or a tritiumdeuterium mixture are added.
+With pure deuterium, the ignition temperature is about 500 million degrees centigrade. 
+And the confinement time must be about 100 times longer than the tenth of a second that has been achieved in the P.D.X.
+Fusion reactions in a mixture of deuterium and tritium occur 10 times faster than with pure deuterium and at a much lower temperature - about 60 million degrees is good enough for ignition. 
+But there are several drawbacks to deuterium-tritium. 
+Tritium is radioactive; it decays in about 12 years. 
+Because natural tritium has all decayed since it was first created millions of years ago, virtually none now exists. 
+Thus, tritium must be manufactured. 
+Nevertheless, deuteriumtritium is certainly what will be used in the first generation of fusion-power plants, because of its fast reaction time at a relatively lower temperature.
+How near is commercial fusion power?
+What will it look like?
+What will it cost?
+First, it should be said that, although the tokamak is, at present, the most advanced fusion device, it is not the only game in town. 
+As Furth says, ''There are lots of possibilities for magnetic bottles'' - the physicists' term for devices that confine plasmas with magnetic fields. 
+''The day of the inventor is not over by any means.''
+Among the possibilities are so-called ''mirror machines,'' in which plasma is guided along straight lines rather than around a closed orbit. 
+At the ends of the machine, magnetic fields block the motion of the particles and bounce them backward. 
+In principle, the particles should oscillate back and forth indefinitely between the magnetic ''mirrors.''
+In the experiments tried to date, the particles have tended to leak out at the ends. 
+But there is a powerful new idea called the ''tandem mirror,'' involving several mirrors, that may succeed in solving this problem. 
+Apart from these magnetic-bottle machines, there has been a substantial effort to make fusion power by heating and confining cold pellets of material by blasting them with an intense laser beam - what is known as ''inertial confinement.''
+This effort also is well behind the tokamaks.
+The next generation of large tokamaks - such as the Tokamak Fusion Test Reactor, scheduled to go into operation at Princeton late this year, and the Joint European Torus at Culham, England, to begin operations in 1983 - has been designed to produce more than 30 million watts. 
+In terms of the need for practical power generation, this is far from enough. 
+(By comparison, a typical modern nuclearfission plant produces something like a billion watts of power, in other words, enough power to light, say, 10 million 100-watt lightbulbs while the plant is running.) According to a plan developed by the Department of Energy, there would have been a national center by 1984 or soon thereafter at which private industries, the universities and the national laboratories would cooperate in asssessing engineering problems connected with an igniting plasma. 
+The center would use a tokamak, and, it was hoped, would be operational in the early 1990's. 
+At that time, alternate confinement schemes would get a chance to compete for a fusion demonstration plant, which would be the final prototype for an electricityproducing fusion power plant. 
+If all had gone well, such a plant should have begun to operate not long after the year 2000. 
+The total cost of all of this was estimated by the Energy Department at about $12 bil lion to $15 billion, though Congress has raised the estimate to $ 20 billion. 
+In the present climate of financial austerity, a much slower-paced fusion program seems more likely to befollowed, at least initially.
+If the fusion reactor in a power plant turned out to be a tokamak, th at large, fat doughnut might have a radius of about 25 feet. 
+St ainless steel or an alloy of titanium, zirconium and molybdenum mi ght be used to make it, and this alloy would constitute the inner wa ll of a shielding blanket which, in its entirety, might be about th ree feet thick. 
+This blanket would be subjected to an intense bo mbardment by energetic neutrons, comparable to what is found in a fi ssion reactor. 
+But the safety problems of the two machines would beto tally different. 
+In a fusion reactor there is no possibility of a ru naway accident. 
+If the plasma confinement fails, the fusion re action simply shuts itself off. 
+The plasma cools. 
+Fusions stop. 
+Ev en if all of the fuel in the fusion machine were to react at once, th ere is so little of it that the temperature at the blanket would ri se only about 100 degrees centigrade -negligible compared with whatha ppens when an accident in a fission reactor allows the fission pr oducts to heat up their containment structures. 
+At Three Mile Is land, for example, the residual radioactivity in the material pr oduced by the fission itself heated the reactor core to a te mperature of several thousand degrees.
+Neutron shielding is not a difficult engineering problem, since many common substances, such as boron, absorb neutrons like a sponge. 
+Tritium, while radioactive, has a low activity. 
+The electron emitted when tritium decays is a low-energy electron that cannot even penetrate the skin. 
+And only small amounts will be used - perhaps 20 pounds yearly per billion watts of electricity produced. 
+In some nuclear-weapons programs, tritium has been released accidentally, and it floats off into the atmosphere and disappears without a trace. 
+Nonetheless, tritium in the fusion reactors must be handled very carefully and not be allowed to get out of the reactor area.
+The blanket, however, will become radioactive, and it is estimated that, in a billion-watt fusion reactor, something like 150 cubic yards of radioactive material will have to be disposed of or recycled each year. 
+The volume is comparable to the high-level radioactive wastes from a fission plant. 
+But the advantage is that the shielding material can be selected to make the radioactivity weaker and more short-lived. 
+In a fission reactor one has no choice. 
+Nature has chosen the fission products, such as krypton or strontium, and some of these must be safely buried for thousands of years.
+The blanket will contain lithium. 
+When a neutron hits a lithium nucleus, it can react to become helium and tritium. 
+Hence tritium fuel can be manufactured in the blanket as the reactor works. 
+The machine produces its own fuel as it goes along. 
+The blanket must be kept ''cool'' - perhaps at a temperature of 400 to 500 degrees - so a coolant will be circulated through it. 
+In the process, the coolant itself will be heated and it is this heat that will be used to make steam - which in turn will run the generators that will produce electricity.
+Essentially all of the expense of fusion reactors will be in the construction of the machine. 
+Less than 10 percent is expected to go into fuel and operations. 
+To compete with conventional methods of electrical generation - if, indeed, these are even available in the next century or later - it has been estimated that construction costs must be no greater than $3,000 per kilowatt of electric-power generating capacity. 
+Thus a billion-watt fusion plant must not cost more than $3 billion to be competitive. 
+Trying to state now whether the fusion program can achieve this is a little like the Wright brothers' trying in 1903 to state what the cost of a Boeing 747 would be in 1982.
+Finally, one must deal with the question of whether such a vast sum of money as $20 billion should be spent to turn fusion power from a laboratory study into a practical power source. 
+While this is not an answer, it is worth pointing out that all of the industrial countries have decided, in varying degrees, that fusion power is enough of a realistic prospect to spend substantial resources on. 
+An interesting case is that of the Chinese. 
+Work on controlled fusion in China goes back as far as 1955, when Chairman Mao himself identified it as potentially profitable research. 
+Experimentation began on magnetic-mirror machines and, eventually, tokamaks with the endorsement of Zhou Enlai. 
+The program, halted by the Gang of Four as all scientific work was, has now resumed. 
+It is well behind those of the United States, the Soviet Union, Western Europe and Japan (whose program is in the process of becoming one of the strongest in the world). 
+However, large numbers of Chinese graduate students are now coming to the United States to study physics in American universities - under a program supervised by T.D. 
+Lee, the Chinese-born American Nobel Prize-winning physicist at Columbia University - and many are working on fusion.
+Of course, the fact that all of these countries are working on fusion does not mean it is the right thing to do. 
+Indeed, some critics of the fusion program claim that it is yet another example of a collective technological delusion. 
+On the basis of what I have been able to learn about the general energy question, I believe that these critics are wrong. 
+Abou t 30 percent of the United States' total energy consum ption goes into making electricity. 
+At the present time, this pe rcentage appears to be slightly declining, a reflection of conservati on, increased efficiency and industrial stagnation. 
+But almost every carefully considered scenario for the year 20 00 predictsthat the industrial nations will use substantially more el ectricity then than they do now; populations and their technology de mands are simply not going to stop expanding. 
+Recent figures on how electricityis presently generated - what energy sources are used - sh ow the following: coal, 52 percent; natural gas, 15; hydroelectri c, 12; nuclear, 11; oil 9.
+More than half the coal America mines - the total is about 800 million tons a year - goes into making electricity. 
+This percentage is increasing and will certainly increase worldwide in the near future. 
+There is plenty of coal, but it will not last forever, and it may well be that late in the next century it will be regarded in somewhat the same way we now regard our diminishing supply of oil and natural gas. 
+But apart from this, coal presents problems of pollution that appear to be essentially ineluctable. 
+The sulfur content of coal can very likely be dealt with by the use of expensive scrubber technology. 
+But the nitrogen oxides, which when combined with water produce the main component of the acid rain that threatens our water environment, seem all but immune to present technology, and no technology can cope with the increase in carbon dioxide in the atmosphere that accompanies the burning of any fossil fuel. 
+This is part of the burning reaction. 
+Coal is one of the worst sources of this pollution. 
+Synthetic fuels extracted from coal are even worse. 
+This carbon dioxide traps the heat which the earth reradiates each day, and thus heats the atmosphere -the greenhouse effect. 
+The amount of carbon dioxide in the atmosphere has been steadily increasing, and if it were doubled, which could well happen if we end up by burning all our coal, the average global temperature would increase by some three degrees centigrade. 
+This would change climates in a serious and unpredictable way. 
+It would probably be enough to melt the West Antarctic ice cap. 
+If that cap melted completely, the levels of the world's oceans would rise some 50 feet. 
+In other words, the good news on coal is that there is, indeed, a lot of it. 
+The bad news is that we may have to use it.
+Despite the current oil glut, no serious observer believes that this is anything but a rapidly diminishing resource. 
+To use it up to make electricity is like making coat hangers out of platinum. 
+Natural gas is more abundant; but, unless the unproved conjectures are right that deep in the earth there are vast amounts left over from the formation of the planet, this too will run out sometime in the next century. 
+Hence, our descendants will have to find a replacement for some 30 percent of the fuel now used to make electricity, a replacement for oil and for natural gas.
+Furthermore, where will the developing countries find the resources they need to make the electricity to bring them into the modern world?
+Few of them have coal or oil resources. 
+Hydroelectric power might be expanded somewhat by damming every stream in sight. 
+But is this something environmentally sensitive people really want to do?
+Wind power sounds nice, too - until one looks at the numbers. 
+Assuming an average wind speed of 20 miles an hour - a hefty wind - it would take some 50,000 large windmills to equal the output of a one-billion-watt power station -one prospective fusion plant. 
+It would take millions of windmills to make a real dent in our energy requirements. 
+(There has been some engineering of windmills with propellers the length of a football field. 
+If these could be used, the numbers needed would be somewhat fewer.)
+The dangers and difficulties of fission reactors are too well known and frequently debated to merit much discussion here. 
+I believe that they represent a safer and more environmentally attractive option than using vast amounts of additional coal. 
+But uranium, like oil and coal, is a finite resource, and it can be stretched in the future only by using breeder reactors to make new fuel. 
+Such reactors can also be used for making ammunition for atomic bombs and this, coupled with the other safety problems, may be enough to limit or even eliminate their future use. 
+Incidentally, one of the reasons that the nuclear-power program is in such difficulty is that the reactor design was essentially frozen before alternative approaches could get a full hearing. 
+The fusion program should not repeat that mistake.
+This leaves fusion and the sun. 
+Everyone agrees that solar energy will play a more substantial role. 
+The disagreements are quantitative: How much of a role and in what areas?
+There is no argument that wherever possible solar heating and architecture should be used. 
+This is an environmentally sound and economically attractive alternative. 
+Solar electricity is another matter. 
+This is a domain that appears to have become so emotional that rational discussion has become difficult. 
+But the notion that solar electricity is ''low technology'' or a relatively simple ''cottage industry'' is really nonsense. 
+There are two basic problems unresolved: how to improve the economics and efficiency of the solar cells, and how to develop an economical method of storing electricity when the sun is not shining. 
+Both involve high technology.
+Th e idea pu t forth by some that there is a conspiracy by the oil companies and others to block the development of solar energy is alsononsense, in my opinion: Anyone who could solve these problems would become rich b eyond avarice - a goal to which large industrial companies are hardly indifferent. 
+Most responsible people believe that in the y ear 2000 solar electri city will account for o nly about 2percent of the total consumed.
+Still, as Harold Furth points out, there is a parallel between the transition from traditional solar power to fusion and the transition from food gathering to agriculture. 
+At first, mankind was satisfied to collect roots and berries; then we gradually learned to grow them at will. 
+If, despite the obstacles, fusion power can be made practical, we will no longer be out trying to collect power when and where we can find it. 
+We will have learned, in effect, to grow it at will. 
+We will be capable of making limitless amounts of electricity from the waters of the earth's oceans. 
+And it is surely possible that this will be every bit as significant to the cultures of the world as farming and industrialization has been.

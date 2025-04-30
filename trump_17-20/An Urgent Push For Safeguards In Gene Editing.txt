@@ -1,0 +1,79 @@
+﻿
+A year ago, Dr. Matthew Porteus, a genetics researcher at Stanford, received an out-of-the-blue email from a young Chinese scientist, asking to meet.
+A few weeks later, the scientist, He Jiankui, arrived in his office and dropped a bombshell. 
+He said he had approval from a Chinese ethics board to create pregnancies using human embryos that he had genetically edited, a type of experiment that had never been carried out before and is illegal in many countries.
+''I spent probably 40 minutes or so telling him in no uncertain terms how wrong that was, how reckless,'' Dr. Porteus said in a recent interview.
+Dr. Porteus did not report Dr. He's intentions to anyone, because he thought he'd talked him out of it and it wasn't clear where to report the plans of a scientist in China. 
+Neither did two other American scientists Dr. He confided in.
+Now, nearly two months after Dr. He shook the scientific world by announcing he had created the first genetically edited babies -- twins, born in November -- the world's major science and medical institutions are urgently trying to come up with international safeguards to keep such rogue experiments from happening again.
+But while scientists around the world agree the nightmare scenario must be stopped, they disagree about how to do it. 
+Even inventors of Crispr, the gene-editing tool Dr. He used, differ on the best approach.
+[Like the Science Times page on Facebook. 
+| Sign up for the Science Times newsletter.]
+Some scientists want a yearslong moratorium on creating pregnancies with gene-edited human embryos. 
+Others say a moratorium would be too restrictive, or unenforceable. 
+Some think scientific journals should agree not to publish embryo-editing research. 
+Others consider that misguided or ineffective.
+But most agree major health and science institutions should act quickly. 
+The World Health Organization is assembling a panel to develop global standards for governments to follow. 
+Leaders of the National Academy of Medicine and the National Academy of Sciences in the United States, along with the Chinese Academy of Sciences, have jointly proposed a commission with academies in other countries to develop criteria so scientists can't ''seek out convenient locales for conducting dangerous and unethical experimentation.''
+The proposal included establishing ''an international mechanism that would enable scientists to raise concerns.''
+The World Economic Forum in Davos has scheduled a discussion of the issue on Thursday.
+Enforcement would need to be done by individual countries, many of which already have relevant laws and regulations. 
+But global standards set by scientists could give countries a big push.
+The fear isn't just that genetically-edited babies could develop unintended health problems that could be inherited by subsequent generations, or that there could be attempts to produce designer babies, genetically altered for physical features, intelligence or athletic prowess.
+Scientists also worry about a backlash against less-controversial gene editing that doesn't involve embryos and has more potential to treat or prevent disease.
+Not only did some American scientists know about Dr. He's intentions, one may have supported him. 
+His former doctoral adviser at Rice University, Michael Deem, told The Associated Press he was present in China during the informed consent process with couples participating in the embryo-editing project.
+Rice is investigating and declined to comment. 
+Lawyers for Dr. Deem, who also told the A.P. he had ''a small stake'' in Dr. He's genomics companies, said: ''Michael does not do human research and he did not do human research on this project.''
+Dr. He and Dr. Deem haven't responded to emails from The New York Times.
+Dr. He, who is in his mid-30s, went public about his work in a video announcement in November, after it was revealed by MIT Technology Review just before a conference on genome editing in Hong Kong.
+''I was just horrified; I felt kind of physically sick,'' said Jennifer Doudna, a Crispr inventor, who first learned what Dr. He had done when he emailed her on Thanksgiving with the subject line ''Babies Born."
+Dr. He said he had disabled a gene in the embryos that allows people to become infected with H.I.V., something medically unnecessary because simpler and safer ways exist for preventing H.I.V.
+Data he presented suggests the editing might have caused unintended genetic alterations with unknown health implications. 
+There are serious doubts that Dr. He, who said he also created a second pregnancy that Chinese authorities said is still underway, ensured the babies' parents understood the risks of the editing.
+Dr. Porteus says he now wishes he'd consulted with colleagues after he learned about Dr. He's plans and emailed a senior Chinese ethicist while Dr. He was in his office.
+Another American Dr. He spoke to, Dr. William Hurlbut, a Stanford ethics professor, said he expressed strong opposition to the work in discussions with Dr. He in 2017 and 2018, warning him that, among other things, '''This could hurt you, this could humiliate you.'''
+As of last October, Dr. Hurlbut said, ''I was personally convinced that he had either implanted or had live births.''
+He said he didn't notify anyone because ''I decided it wasn't like I knew somebody was going to murder somebody; it was a fait accompli. 
+I didn't feel like there was either any moral obligation or practical benefit to my raising it.''
+Mark DeWitt at University of California, Berkeley, declined to be interviewed, but has said he also tried to dissuade Dr. He.
+All three American scientists noted Dr. He spoke to them expecting confidentiality, which is how scientists commonly share preliminary research.
+If Dr. He had been working through American universities or funding institutions, scientists could have alerted those, said Dr. Francis Collins, director of the National Institutes of Health, which doesn't fund human embryo editing. 
+China's system is so complex that American scientists might not know ''exactly what kind of alarm bells they should be ringing and who they should be ringing them to,'' he said.
+Efforts to come up with a coordinated international response gained momentum this week when Chinese authorities, often perceived to be more laissez-faire about reining in unorthodox scientific experiments, indicated that an initial government investigation found that Dr. He ''seriously violated'' state regulations, according to Chinese state media.
+The findings -- that he forged ethics documents, used unsafe and ineffective gene-editing methods and intentionally evaded supervision -- suggest that he could face criminal charges. 
+Dr. He's academic home, Southern University of Science and Technology in Shenzhen, rescinded his contract.
+''It is clear that the Chinese government is taking this issue seriously,'' said Dr. Victor Dzau, president of the National Academy of Medicine in Washington.
+Initially it was unknown whether Dr. He would face consequences. 
+In recent years, China has invested millions aiming to become a scientific powerhouse, including money to lure back to China scientists like Dr. He, who did doctoral and postdoctoral work in the United States. 
+Eye-popping experiments, like a proposal to transplant a head to another body, have not been discouraged.
+''It was vital for this dangerous and unwarranted work to be officially acknowledged and deemed illegal,'' said Dr. Doudna, who is a biochemist at University of California, Berkeley, after the announcement of the preliminary findings. 
+''This announcement confirms an international 'red line' of ethical and scientific conduct to help ensure that this type of radical, medically unnecessary and negligent work does not happen again.''
+While under investigation, Dr. He has been in faculty housing, able to roam campus, go to the gym and communicate with some Western scientists. 
+Dr. Hurlbut communicated with him by phone and email before the preliminary Chinese investigation results and said Dr. He had sounded ''hopeful that he can have a contributory future.''
+Asked if Dr. He, who initially said he was ''proud'' of what he had done, had expressed regret, Dr. Hurlbut replied: ''He really regrets the way it was revealed to the world, the timing.''
+Dr. He also recently emailed a British geneticist, Robin Lovell-Badge, saying: ''I fully agree that 'scientists should draw up a clear set of dos and don'ts for those who want to perform human gene editing.''' He signed the email casually, using his nickname: ''Regards, JK.''
+At least one major journal decided against publishing Dr. He's research before the Hong Kong announcement, and scientists have debated whether it should be published.
+Dr. Porteus said he initially thought it should be posted on a forum that accepts early, not-yet-peer-reviewed research because ''we could go through it with a fine tooth comb so we understand every detail.''
+But now, he said, ''I don't even think that would be appropriate. 
+It's so out of bounds, it can't be given any stamp of approval.''
+Although Dr. He has said his motivation was protecting people from H.I.V., he also clearly wanted leading scientists' approval. 
+Several months before the twins' birth, he asked to visit Feng Zhang, another Crispr inventor. 
+At Dr. Zhang's Broad Institute lab in Boston, Dr. He showed data from his gene-editing of human embryos in laboratory dishes, which didn't alarm Dr. Zhang because it had already been done by several scientists. 
+But Dr. Zhang sharply criticized ''big problems'' with Dr. He's gene-editing results.
+Dr. He didn't say anything about implanting embryos. 
+''Maybe I shouldn't have been so critical and he would have revealed more,'' Dr. Zhang said.
+Some experts say the best way to block misguided uses of embryo editing is coordinated action by all public and private players involved in new scientific technologies, including regulatory agencies, patent offices, funding organizations and liability insurers. 
+In a recent New England Journal of Medicine article, R. Alta Charo, a bioethicist at University of Wisconsin-Madison, recommended a ''comprehensive ecosystem of public and private entities that can restrain the rogues among us.''
+The first step may be an international commission, led by the American academies of science and medicine, which many countries have now agreed to form, said Dr. Dzau, the academy of medicine president. 
+It would produce a report this year setting detailed guidelines.
+Current standards, reflected in a 2017 National Academies report, say edited embryos should only be used in human pregnancies to prevent or treat ''serious diseases or disabilities'' with no ''reasonable alternative'' treatment. 
+Dr. Dzau wants more specifics, like which diseases are dire enough to justify the risks, which risks are acceptable, and how much preliminary testing is required.
+He said the commission might recommend a moratorium on implanting edited human embryos until it issues its report. 
+Some leading scientists want a longer hiatus.
+Dr. Zhang said a five-year moratorium would allow for necessary public discussion.
+Dr. Doudna disagrees and instead supports developing ''very strict international criteria'' and getting journals ''to say they will not publish work like this.''
+She's been jousting over email with the N.I.H's Dr. Collins, who leans toward a moratorium.
+''If you use the m-word, it has a little more clout,'' Dr. Collins said, noting that international agreement would be required to lift it, discouraging individual countries from deciding, '''We think it's O.K. now.'''

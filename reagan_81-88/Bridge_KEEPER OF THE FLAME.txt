@@ -1,0 +1,48 @@
+﻿
+The most dedicated lover of the game to compete in the recent Fall Nationals in San Francisco was surely Dr. C.P. Chang of Shanghai, a physician of great professional distinction. 
+For almost half a century he has been the only resident of the Chinese mainland to be a member of the American Contract Bridge League. 
+He learned the game in 1924 as a student at the Peking Union Medical College. 
+His medical career took him to the United States in the 30's, where he played with success in Philadelphia and Chicago.
+He has been a principal force in keeping the game alive in Shanghai during the past 30 years, in the face of official discouragement. 
+As a result, the switch three years ago, which gave bridge not only tolerance but encouragement, left Shanghai in the lead, and their players are now by far the best in China.
+Bridge column diagrams plays by Dr C P Chang, of Shanghai (China), who is only resident of China to be member of American Contract Bridge League
+At the age of 76 this cheerful and indomitable man, brushing aside the handicap of two artificial legs, traveled from Shanghai to San Francisco to take part in the Nationals.
+The diagramed deal, played in Shanghai, is an example of his considerable ability. 
+He sat South and had a difficult rebid when his partner responded one spade; one d iamond would have been better and would not have created a problem. 
+The two-club rebid was not entirely sati sfactory, but neither was anything else.
+When North continued by bidding two diamonds, Dr. Chang took a shot at three no-trump, satisfied that he was well-armored in the unbid heart suit.
+Dummy's second suit is often the one for the defense to attack, and West decided to lead diamonds. 
+But instead of the three he selected the queen, a mild eccentricity that came close to luring South to defeat.
+The diamond queen was captured with the ace, and the club queen was led for a finesse. 
+West held up his king, and did so again when the ten was led around to him. 
+But he naturally took his king when a club was led to the jack. 
+Meanwhile, East discarded two hearts.
+A diamond was led to the jack, removing South's nine. 
+East was now on lead in this position:
+ 
+NORTH S A J 8 4 H 4 3 D 10 7 C -
+WEST EAST S K 7 3 S 10 9 6 5 H K 8 6 H 10 9 D 2 D K 8 C 9 C -
+ 
+SOUTH S Q 2 H A Q J 2 D - C A 8
+When East now shifted to the heart ten, it was very tempting to finesse. 
+If West had made a normal opening lead, this would be safe, for he would have no more diamonds to lead. 
+But Dr. Chang suspected that West had made a tricky lead. 
+Instead of finessing - and suffering immediate defeat after another diamond play -he put up the heart ace and cashed two club winners. 
+This put some pressure on East, who gave up one spade and, reluctantly, his remaining heart. 
+If he had thrown another spade, South could have made three tricks in that suit by force. 
+And if he had parted with a diamond, it would have been safe for the declarer to lead a heart honor. 
+As it was, the stage was now set. 
+The spade queen was led, and West was forced to cover. 
+The ace won, the jack was cashed, and another spade lead end-played East. 
+He was left with two diamonds, and the ten in dummy won the last trick to fulfill the game. 
+Instead of diamonds being South's downfall, they turned out to be his salvation. 
+This was a fine playing effort by a remarkable man. 
+And when at some future time, as is very likely, the Shanghai players make their mark in world bridge as representatives of the People's Republic, Dr. Chang will deserve at least some of the credit.
+ 
+NORTH S A J 8 4 H 4 3 D A 10 7 3 C Q 10 2
+WEST EAST S K 7 3 S 10 9 6 5 H K 8 6 H 10 9 7 5 D Q 5 2 D K J 8 4 C K 9 5 4 C 7
+SOUTH(D) S Q 2 H A Q J 2 D 9 6 C A J 8 6 3
+North and South were vulnerable. 
+The bidding: South West North East 1 C Pass 1 S Pass 2 C Pass 2 D Pass 3 N.T. 
+Pass Pass Pass
+West led the diamond queen.

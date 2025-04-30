@@ -1,0 +1,27 @@
+﻿
+DONGGUAN, China -- Huawei, the Chinese technology giant, on Friday unveiled its own mobile operating system, Harmony, in an effort to ensure that its fast-growing smartphone business can survive the United States government's clampdown on the firm.
+Huawei has been at the mercy of the Trump administration for the past three months, ever since the Commerce Department began requiring that American companies apply for special permission to sell parts and technology to the Chinese firm, which Washington officials accuse of being a potential conduit for cyberspying by Beijing.
+The move effectively choked off Huawei's access to Google's Android software and American-made microchips and other hardware components, and put a big question mark over Huawei's future.
+Although President Trump said in June that he would loosen some of the restrictions to allow American companies to continue working with Huawei, economic ties between the United States and China have grown more tense since then, and the prospect of immediate relief for Huawei seems more distant.
+Unveiling Harmony at a Huawei developer conference in the southern city of Dongguan on Friday, Richard Yu, the head of the company's consumer business, said that the new operating system was designed to work not only on mobile phones but on smart watches and other connected home devices as well.
+Indeed, the first Huawei products to run on Harmony will not be smartphones but ''smart screens'' that the company plans to release this year. 
+Mr. Yu said Harmony would gradually be incorporated into the company's other smart devices over the next three years. 
+But there is no immediate plan, he said, to release Harmony-based phones.
+Huawei's preference is to continue using Android on its handsets, Mr. Yu said. 
+But he added that there was no technical reason Harmony could not also be used to power a phone.
+''If we are not able to use the Android operating system, then we can activate Harmony anytime,'' he said.
+At Friday's developer conference, which was held in a basketball stadium, Mr. Yu described Harmony's technical features and capabilities, to occasional bursts of raucous applause. 
+But Huawei did not make any devices running the new operating system available for testing.
+Huawei is now the world's second-largest smartphone vendor, ahead of Apple but behind Samsung. 
+The company's handsets are big sellers in Europe and across the developing world, although political pressure from Washington has kept Huawei phones from becoming popular in the United States.
+Mr. Yu said he believed that were it not for the Trump administration's pressure on the firm, Huawei would have finished the year as the planet's No. 1 smartphone maker. 
+Uncertainty about whether Huawei devices would continue to support Google services caused the company's sales outside China to plummet after Washington's crackdown.
+Huawei began working on Harmony two years ago, Mr. Yu said, and executives at the Chinese firm, which is also a major supplier of equipment for wireless networks around the planet, have been speaking in vague terms about the project for months. 
+In an interview with the German newspaper Die Welt that was published in March, two months before the Commerce Department restricted Huawei's business, Mr. Yu said that Huawei had prepared an operating system as a ''Plan B'' in case it was cut off from American technology.
+More recently, Ren Zhengfei, Huawei's founder and chief executive, has said that the company's operating system was originally designed for telecommunications networks, not as an Android replacement.
+Like Android, which is far and away the world's most widely used smartphone operating system, Harmony will be released as open-source software. 
+That means it will be freely available for developers to study, enhance and redistribute.
+The new operating system's Chinese name is Hongmeng, a term from Chinese mythology that refers to the chaotic state of the universe before the creation of heaven and earth. 
+But Huawei decided that the name would be too hard for non-Chinese speakers to pronounce, Mr. Yu said on Friday.
+''We hope to bring greater harmony to this world,'' he said.
+Follow Raymond Zhong on Twitter: @zhonggg.

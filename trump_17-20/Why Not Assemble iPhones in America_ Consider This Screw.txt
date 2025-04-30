@@ -1,0 +1,70 @@
+﻿
+SAN FRANCISCO -- Despite a trade war between the United States and China and past admonishments from President Trump ''to start building their damn computers and things in this country,'' Apple is unlikely to bring its manufacturing closer to home.
+A tiny screw illustrates why.
+In 2012, Apple's chief executive, Timothy D. Cook, went on prime-time television to announce that Apple would make a Mac computer in the United States. 
+It would be the first Apple product in years to be manufactured by American workers, and the top-of-the-line Mac Pro would come with an unusual inscription: ''Assembled in USA.''
+But when Apple began making the $3,000 computer in Austin, Tex., it struggled to find enough screws, according to three people who worked on the project and spoke on the condition of anonymity because of confidentiality agreements.
+In China, Apple relied on factories that can produce vast quantities of custom screws on short notice. 
+In Texas, where they say everything is bigger, it turned out the screw suppliers were not.
+Tests of new versions of the computer were hamstrung because a 20-employee machine shop that Apple's manufacturing contractor was relying on could produce at most 1,000 screws a day.
+The screw shortage was one of several problems that postponed sales of the computer for months, the people who worked on the project said. 
+By the time the computer was ready for mass production, Apple had ordered screws from China.
+The challenges in Texas illustrate problems that Apple would face if it tried to move a significant amount of manufacturing out of China. 
+Apple has found that no country -- and certainly not the United States -- can match China's combination of scale, skills, infrastructure and cost.
+[Apple computers were once made in Silicon Valley. 
+It did not go well.]
+In China, you will also find one of Apple's most important markets, and over the last month the risks that come with that dependence have become apparent. 
+On Jan. 
+2, Apple said it would miss earnings expectations for the first time in 16 years, mostly because of slowing iPhone sales in China. 
+On Tuesday, the company is expected to reveal more details about its financial results for the most recent quarter and its forecast for the coming year.
+The company could face more financial pressure if the Trump administration places tariffs on phones made in China -- something the president has threatened to do.
+Apple has intensified a search for ways to diversify its supply chain, but that hunt has homed in on India and Vietnam, according to an Apple executive who asked not to be named because the executive was not authorized to speak publicly. 
+The company's executives are increasingly worried that its heavy dependence on China for manufacturing is risky amid the country's rising political tensions with the United States and unpredictability, this person said.
+''The skill here is just incredible,'' Mr. Cook said at a conference in China in late 2017. 
+Making Apple products requires state-of-the-art machines and lots of people who know how to run them, he said.
+''In the U.S., you could have a meeting of tooling engineers and I'm not sure we could fill the room,'' he said. 
+''In China, you could fill multiple football fields.''
+Kristin Huguet, an Apple spokeswoman, said the company was ''an engine of economic growth in the United States'' that spent $60 billion last year with 9,000 American suppliers, helping to support 450,000 jobs. 
+Apple's Texas manufacturer, Flextronics, did not respond to requests for comment.
+Mr. Cook helped lead Apple's shift to foreign manufacturing in 2004, a move that cut costs and provided the enormous scale necessary to produce some of history's best-selling tech products.
+Apple contracted much of the work to enormous factories in China, some stretching miles and employing hundreds of thousands of people who assemble, test and package Apple products. 
+That assembly includes parts made around the world -- from Norway to the Philippines to Pocatello, Idaho -- that are shipped to China.
+The final assembly is the most labor-intensive part of building the iPhone, and its location often determines a product's country of origin for tariffs.
+Mr. Cook often bristles at the notion that iPhones are Chinese-made. 
+Apple points out that Corning, at a factory in Kentucky, makes many iPhone screens and that a company in Allen, Tex., makes laser technology for the iPhones' facial-recognition system.
+Mr. Cook has also disputed that cheap labor is the reason Apple is still in China. 
+But it doesn't hurt. 
+The minimum wage in Zhengzhou, China, home of the world's biggest iPhone factory, is roughly $2.10 an hour, including benefits. 
+Apple said the starting pay for workers assembling its products there was about $3.15 an hour. 
+Compensation for similar jobs in the United States is significantly higher.
+While it was one of Apple's most powerful computers, the American-made Mac Pro also turned out to be one of its most expensive.
+Chinese suppliers shipped their components to Texas. 
+But in some cases, the Texas team needed new parts as designs changed, and engineers who were tasked with designing the computer found themselves calling machine shops in central Texas.
+That is how they found Stephen Melo, the owner and president of Caldwell Manufacturing in Lockhart. 
+Employees of Flextronics, the company hired by Apple to build the computers, in turn hired Caldwell to make 28,000 screws -- though they would have liked more.
+When Mr. Melo bought Caldwell in 2002, it was capable of the high-volume production Apple needed. 
+But demand for that had dried up as manufacturing moved to China. 
+He said he had replaced the old stamping presses that could mass-produce screws with machines designed for more precise, specialized jobs.
+Mr. Melo thought it was ironic that Apple, a leader in offshore manufacturing, had come calling with a big order. 
+''It's hard to invest for that in the U.S. because that stuff is purchased very cheaply overseas,'' he said.
+He made do with his new machines, although he could not make the exact screws Apple wanted. 
+His company delivered 28,000 screws over 22 trips. 
+Mr. Melo often made the one-hour drive himself in his Lexus sedan.
+A former Apple manager who spoke on the condition of anonymity said the Flextronics team had also been far smaller than what he typically found on similar Apple projects in China. 
+It was unclear exactly why the project was understaffed, the manager said, speculating that it was because American workers were more expensive.
+The manager said similar Apple jobs in China would include a roomful of people working to ensure that all materials were in place for production. 
+In Texas, it was one worker, who often seemed overwhelmed, the manager said. 
+As a result, materials were regularly out of place or late, contributing to delays.
+Another frustration with manufacturing in Texas: American workers won't work around the clock. 
+Chinese factories have shifts working at all hours, if necessary, and workers are sometimes even roused from their sleep to meet production goals. 
+That was not an option in Texas.
+''China is not just cheap. 
+It's a place where, because it's an authoritarian government, you can marshal 100,000 people to work all night for you,'' said Susan Helper, an economics professor at Case Western Reserve University in Cleveland and the former chief economist at the Commerce Department. 
+''That has become an essential part of the product-rollout strategy.''
+Ms. Helper said Apple could make more products in the United States if it invested significant time and money and relied more on robotics and specialized engineers instead of large numbers of low-wage line workers. 
+She said government and industry would also need to improve job training and promote the development of a supply-chain infrastructure.
+But, she added, there is a low chance of all that happening.
+Apple still assembles Mac Pros at the factory on the outskirts of Austin, in part because it has already invested in complicated and custom machines. 
+But the Mac Pro has been a slow seller, and Apple has not updated it since its introduction in 2013.
+In December, Apple announced that it would add up to 15,000 workers in Austin, just miles from the Mac Pro plant. 
+None of the new jobs are expected to be in manufacturing.

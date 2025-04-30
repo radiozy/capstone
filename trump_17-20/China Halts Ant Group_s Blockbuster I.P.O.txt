@@ -1,0 +1,45 @@
+﻿
+A dual listing in Shanghai and Hong Kong was postponed one day after Chinese regulators summoned Jack Ma and other executives of the financial technology giant.
+Ant Group challenged China's state-dominated banking system by bringing easy-to-use payments, borrowing and investing to hundreds of millions of smartphones across the country. 
+On Tuesday, Chinese officialdom reminded the company who was really in charge.
+In a late-evening announcement that stunned China, the Shanghai Stock Exchange slammed the brakes on Ant's initial public offering, which was set to be the biggest stock debut in history with investors on multiple continents and at least $34 billion in proceeds.
+The stock exchange's notice to Ant said that the company's proposed offering might no longer meet the requirements for listing after Chinese regulators had summoned company executives, including Jack Ma, the co-founder of the e-commerce titan Alibaba and Ant's controlling shareholder, for a meeting on Monday.
+Neither the regulators nor Ant has said in detail what was discussed at the meeting. 
+But the timing of the conversation, mere days before Ant's shares were expected to begin trading concurrently in Shanghai and Hong Kong, suggested discord with the company or with Mr. Ma, who spun Ant out of Alibaba in 2011.
+Though he is not part of Ant's management, Mr. Ma has been a spirited champion for the company's mission of bringing financial services to small businesses and others in China who he says have been ill served by stodgy, government-run institutions.
+Shortly after the Shanghai exchange's announcement, Ant said it was suspending the Hong Kong leg of its listing as well. 
+The company apologized to investors "for any inconvenience."
+"We will keep in close communications with the Shanghai Stock Exchange and relevant regulators," the company said, "and wait for their further notice with respect to further developments of our offering and listing process."
+Shares of Alibaba, a major Ant shareholder, fell 8 percent on the New York Stock Exchange on Tuesday.
+Over the past decade, Ant has transformed the way people in China interact with money. 
+The company's Alipay app has become an essential payment tool for more than 730 million users, as well as a platform for obtaining small loans and buying insurance and investment products.
+But competing against China's politically connected financial institutions always came with risks. 
+Regulators have looked warily upon Ant's fast growth in certain areas, fearful it might become too big to rescue in the event of a meltdown.
+Ant has pivoted in response. 
+Instead of using its own money to extend loans, the company now primarily acts as an agent for banks, introducing them to individual borrowers and small enterprises that they might not otherwise reach. 
+It describes itself as a technology partner to banks, not a competitor or a disrupter.
+This business model works just fine for many of Ant's investors, evidently. 
+The company's expected market valuation after the dual listing, more than $310 billion, would make it worth more than many global banks. 
+Mr. Ma, already China's richest man, would become even richer.
+Still, Ant's future remains at the mercy of Chinese regulators, whose views on the melding of tech and finance are still evolving.
+"The regulators have long been looking at the risks in this area and how it should be regulated, but it's all suddenly coming out at this specific time," said Yu Baicheng, head of the Zero One Research Institute, a think tank in Beijing focused on finance and tech. 
+"It's definitely a statement of the regulators' attitude."
+An article on the website of Economic Daily, an official Communist Party newspaper, praised the decision to suspend Ant's share sale, calling it in the best interest of investors.
+"Every market participant must respect and revere the rules — no exceptions," the article said.
+Besides Mr. Ma, the meeting on Monday with the regulatory agencies included Ant's executive chairman, Eric Jing, and its chief executive, Simon Hu. 
+"Views regarding the health and stabilityI of the financial sector were exchanged," Ant said in a statement.
+In another sign of the continuing scrutiny, the nation's banking regulator, the China Banking and Insurance Regulatory Commission, issued new draft rules on Monday for online microfinance businesses. 
+Among them were higher capital requirements for loans and tighter controls on lending across provincial lines.
+The Shanghai exchange's suspension of the Ant I.P.O. appeared to take note of the draft rules, saying that recent changes in the regulatory environment had affected Ant significantly. 
+Bai Chengyu, an executive at the China Association of Microfinance, said the new rules could cause the entire microfinance industry to shrink.
+The famously outspoken Mr. Ma did not ingratiate himself with the authorities when he said, in a recent speech in Shanghai, that financial regulators' excessive focus on containing risk could stifle innovation.
+"We cannot manage an airport the way we managed a train station," he said. 
+"We cannot use yesterday's methods to manage the future."
+The head of consumer protection at China's banking regulator, Guo Wuping, slapped back on Monday, calling out two popular features in Alipay by name in a sharply critical article in 21st Century Business Herald, a government-owned newspaper.
+Mr. Guo argued that online finance products were not fundamentally different from traditional ones, and that financial technology companies should therefore be regulated in the same way as established institutions.
+Huabei, a credit function in Alipay, is no different from a credit card issued by a bank, Mr. Guo wrote. 
+And Jiebei, an Alipay loan feature, is no different from a bank loan. 
+Ant has called Huabei and Jiebei the most widely used consumer credit products in China.
+Loose regulation has allowed financial technology companies to charge higher fees than banks, Mr. Guo wrote. 
+This, he said, "has caused some low-income people and young people to fall into debt traps, ultimately harming consumers' rights and interests and even endangering families and society."
+Ant declined to comment on Mr. Guo's article.

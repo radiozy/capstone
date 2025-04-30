@@ -1,0 +1,50 @@
+﻿
+Senate Republicans and others criticized the latest plan to allow TikTok to continue operating in the United States, citing national security concerns.
+WASHINGTON — Even as negotiations continued on Wednesday over a proposal that would allow the Chinese-owned social media app TikTok to continue operating in the United States, a backlash was forming in Washington to the deal.
+Over the weekend, TikTok had offered a proposal to the Treasury Department that aimed to address the Trump administration's concerns that the app could give the Chinese government access to sensitive data. 
+The proposal included bringing on Oracle, the Silicon Valley business software company, as a technology partner to TikTok. 
+But Oracle would not own TikTok outright and the app would not transfer ownership of its valuable recommendation algorithm to Oracle.
+That proposal is now under review by a secretive, multi-agency national security panel, the Committee on Foreign Investment in the United States, which is expected to submit its recommendation to President Trump for a final decision on Thursday.
+But while the proposal winds its way through the review process, some lawmakers are increasingly up in arms about it. 
+In a letter on Wednesday, Republican senators including Marco Rubio of Florida, Thom Tillis of North Carolina and John Cornyn of Texas criticized the proposal, saying that any deal that left a Chinese company — in this case, TikTok's parent company, ByteDance — in control of the code or algorithms that run the app would fail to address national security concerns.
+In their letter, the Senate Republicans said the prospective arrangement with Oracle raised "significant concerns," arguing that a partial sale or "trusted partnership deal" would be "insufficient in achieving the goals of protecting Americans and U.S. interests."
+The letter was just the latest sign of discontent about the Oracle-related proposal for TikTok. 
+On Monday, Senator Josh Hawley of Missouri, a Republican, said in a separate letter that the Trump administration should reject the proposal. 
+He said that "perhaps, given constraints imposed by Chinese law, the only feasible way to maintain Americans' security is to effectively ban the TikTok app in the United States altogether."
+The congressional objections raise the question of whether Mr. Trump could face criticism for the Oracle-TikTok proposal on the campaign trail. 
+Mr. Trump, who had made positive comments about a deal on Tuesday, appeared to be aware of the growing debate.
+"I'm not prepared to sign off on anything. 
+I have to see the deal," he said at a news conference on Wednesday. 
+"They're going to be reporting to me tomorrow morning." He added that he was "not going to be happy" if TikTok remained largely owned by a Chinese company.
+A day earlier, when asked about his thinking on an Oracle partnership with TikTok, Mr. Trump had said he would be making a decision "soon." He added that he had "high respect" for Larry Ellison, Oracle's founder.
+"He's somebody I know," Mr. Trump said. 
+"He's been, really, a terrific guy for a long time. 
+So we're going to take a look."
+The backlash from lawmakers adds another twist to the drama over TikTok, which is hugely popular among teenagers and influencers and has seeped into popular culture. 
+The app has been under scrutiny by the Trump administration for national security concerns for months, with critics saying it could provide a conduit for the Chinese government to gather data on American citizens. 
+Chinese law requires that Chinese citizens share data with their government if asked.
+Last month, Mr. Trump issued an executive order saying that TikTok essentially had to strike a deal to divest its U.S. operations by Sept. 
+20, or else halt commercial transactions in the United States. 
+That set off a race among multiple bidders, as well as various plans to restructure TikTok's ownership and address the app's data security. 
+The Chinese government also weighed in with new regulations that would have allowed it to block an outright sale of TikTok.
+Oracle, TikTok and the Treasury Department did not immediately respond to requests for comment. 
+A White House spokesman declined to comment.
+Some of the scrutiny of the Oracle-TikTok proposal relates to the close ties Oracle appears to have cultivated with the Trump administration. 
+Mr. Ellison hosted a fund-raiser for Mr. Trump this year, and the company's chief executive, Safra Catz, served on the president's transition team and has frequently visited the White House.
+The actions to get the Oracle-TikTok proposal through government approval have ramped up in recent days. 
+Some of Mr. Trump's advisers, including Treasury Secretary Steven Mnuchin and Commerce Secretary Wilbur Ross, have appeared inclined to accept the kind of deal that ByteDance has offered, people familiar with their thinking have said.
+But the idea has been met with skepticism by more hawkish members of the Trump administration, including Secretary of State Mike Pompeo, who has been doubtful that this deal could guarantee that American data would not end up in China, people familiar with his thinking said.
+On Wednesday, Ms. Catz, who has given more than $100,000 to Mr. Trump's re-election, spoke with Attorney General William P. Barr about the deal, said two people with knowledge of the matter, who were not authorized to speak publicly.
+The Justice Department did not immediately respond to a request for comment.
+Much about the proposal also remains fluid. 
+ByteDance, Oracle and the government are still discussing how any arrangement would protect TikTok's user data from China and who exactly would have corporate control of the service, said the people familiar with the discussions.
+To alleviate concerns, one person said, TikTok's board in the United States would include only government-approved members, including one independent member with expertise in data security. 
+Oracle would also be able to review the app's source code and subsequent updates for security vulnerabilities, the person said.
+Speaking to reporters on Wednesday afternoon, Larry Kudlow, the director of the National Economic Council, said the administration was in the midst of "a deep review process."
+"All that's being looked at. 
+I don't want to speak for anybody. 
+It's a very confidential process, but security is paramount, with respect to information leaking out to China, and ownership is important," Mr. Kudlow said.
+Others in Washington expressed concerns about the way the White House had pursued the company.
+Senator Mark Warner, a Democrat of Virginia who is a prominent skeptic of Chinese technology companies, said in a speech on Wednesday that scrutiny of technology companies that could pose a risk "must be done honestly." He said that the "haphazard actions on TikTok fail that test and will only invite retaliation against American companies."
+Ana Swanson and David McCabe reported from Washington, and Lauren Hirsch from New York. 
+Edward Wong contributed reporting from Washington.

@@ -1,0 +1,17 @@
+﻿
+BEIJING — Scientists have found a new culprit contributing to China's notorious wintertime smog, and controlling it could help sustain the significant improvements in air quality that Beijing and other northeastern cities experienced last winter, according to research published on Thursday.
+Scientists from Harvard and two Chinese universities reported that emissions of formaldehyde — principally from vehicles and chemical and oil refineries — played a larger role than previously understood in producing the thick, toxic pollution that chokes much of the country each winter.
+In a report published in the journal Geophysical Research Letters, the scientists argued that "a large portion" of the sulfur in the haze was the result of a chemical reaction between formaldehyde and sulfur dioxide released by burning coal.
+China's efforts to reduce the haze have focused lately on reducing sulfur dioxide emissions. 
+While those efforts have shown some success, with drastic declines in pollutants recorded last winter, the research suggests that China could improve air quality still more by directing efforts — and resources — toward reducing emissions of formaldehyde in vehicles and industrial refining.
+"Our research points toward ways that can more quickly clean up air pollution," said Jonathan M. Moch, a Harvard researcher and lead author of the study.
+The easiest fixes include improving ignition switches on cars and trucks and fitting nozzles at gas stations with rubber seals to prevent fumes from escaping, he said. 
+Reducing emissions from chemical and oil refineries, which are heavily concentrated in Tianjin, a coastal metropolis near Beijing, could also have a disproportionate impact, he said, but could prove more difficult to enforce.
+As with efforts to curb the industrial burning of coal, significant cuts in the output of refineries could clash with the government's economic and political imperatives, particularly at a time when the trade war with the United States has threatened China's growth.
+When the Chinese Ministry of Ecology and Environment issued its annual guidelines for 28 cities in the northeast last month, it eased requirements for new cuts in emissions somewhat and lifted restrictions imposed last winter that forced many steel mills, coking plants and other factories to shut down for several months. 
+That has led to worries that the coming winter could once again see choking haze many times the safe levels recommended by the World Health Organization.
+The country's pollution — measured by the concentration of PM 2.5, or particulate matter of a size deemed especially harmful — has been blamed for as many as one million premature deaths a year.
+The main particulate matter in pollution in China has long been thought to be sulfate, a product of sulfur dioxide released by burning coal. 
+But another sulfur molecule, hydroxymethane sulfonate, is also a significant contributor, according to the study, conducted with scientists from Tsinghua University in Beijing and the Harbin Institute of Technology in Harbin, the capital of China's northernmost province, Heilongjiang.
+The molecule is formed by a chemical reaction between formaldehyde and sulfur dioxide, and explains why "extreme air pollution events" have persisted despite the efforts to cut sulfur emissions, the researchers found.
+Claire Fu contributed research.

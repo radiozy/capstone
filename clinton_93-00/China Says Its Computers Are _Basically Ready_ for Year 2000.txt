@@ -1,0 +1,26 @@
+﻿
+After months of belated preparations and testing, China is "basically ready" to enter 2000 with only minimal disruptions from computer breakdowns, a senior official said today.
+Zhang Qi, the Information Ministry official in charge of the program to prevent Year 2000 computer problems, said elaborate tests and simulations had been run in 18 important industries and sectors that rely heavily on computers and microchips like telecommunications, aviation, power production, banking, water supply and transportation.
+Ms. Zhang said those "national lifeline" sectors should be free of major problems.
+But she also acknowledged that poorer provinces in the interior and some sectors like business, health care and public services "lag far behind" in testing and modifying computers, possibly causing local disruptions in commerce, the use of advanced medical machines or public utilities.
+She also noted that embedded microchips in systems or machines were often difficult to check and could possibly cause unexpected problems and that major industries were developing contingency plans to cope with emergencies.
+"China is a very big country, with more than 30 provinces," Ms. Zhang said at a news conference called to reassure the population and worried international businesses. 
+"We haven't checked every single place. 
+So I can't say that China is 100 percent ready. 
+But I can say we are basically ready."
+"There will be no big losses" in economic activity because of computer problems, Ms. Zhang added.
+China was stung this year when some international experts said that it was behind other major countries in efforts to prevent Year 2000 disasters.
+Ms. Zhang has led a crash effort to catch up, and today she claimed important successes while conceding that some regions and enterprises had still paid little attention to the problem.
+Computers and microchips can malfunction if their inner calendars do not recognize "00" as "2000."
+Problems can be prevented through painstaking testing and modification.
+As one sign of confidence in the airline industry, top executives of several Chinese lines promised to ride their planes on Jan. 
+1.
+More developed coastal regions, which are more heavily computerized, have generally done a good job of preparing, Ms. Zhang said. 
+Although poorer interior provinces are less ready, computers are less widely used there, she said, and "the impact won't be that great."
+Hospitals and medical systems have lagged, she said, in part because they are not electronically integrated like banking, so that inspectors have to visit hospitals one at a time to check vital equipment. 
+Ms. Zhang held out as a model Shanghai No. 1 Hospital, which has made enormous efforts to check machines with embedded chips and found that 7 to 8 percent required changes, she said.
+At the news conference, an official of the central bank, Chen Jing, said extensive tests had all but eliminated problems in banking and securities. 
+But banks have also made contingency plans, Mr. Chen said, including preparations for manual clearing of transactions, if necessary.
+Mr. Chen said the central bank planned to increase loans of cash to banks for the first three months of 2000 to head off public panic.
+"The public should rest assured," he said, "that no problem will occur in the supply of cash."
+      

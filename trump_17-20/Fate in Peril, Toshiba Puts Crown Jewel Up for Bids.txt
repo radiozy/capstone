@@ -1,0 +1,53 @@
+﻿
+TOKYO -- Toshiba, a pillar of the modern Japanese economy whose roots stretch back to the country's industrial stirrings in the 19th century, warned on Tuesday that a disastrous foray into nuclear power may have crippled its business beyond repair.
+In a stock-market filing in Japan, Toshiba said losses associated with Westinghouse Electric, its troubled American nuclear power subsidiary, had created ''substantial uncertainty'' over its ability to continue as a going concern. 
+The declaration lifts the stakes as Toshiba seeks outside investors for its coveted microchip business, a portion of which it is selling off to raise cash and stave off disaster.
+Toshiba's uncertain fate represents another blow for a country that has seen its dominance in a range of technologies eclipsed by rivals in South Korea and China.
+Few companies have embodied Japan's industrial might like Toshiba, whose products run the gamut from hair dryers to giant gas-fired electricity turbines, as well as nuclear reactors. 
+But it has faced a spate of recent stumbles in core businesses as well as a scandal over falsified profits that came to light in 2015.
+Toshiba said it hoped the planned sale of shares in its chip division, its crown jewel, would alleviate the uncertainty over its future. 
+While Toshiba has not said exactly how much of the business it will sell, even a minority stake is expected to be worth several billion dollars.
+Any stability, though, would come at a price. 
+Toshiba would be parting with parts of its most profitable asset and giving a competitor -- very likely a foreign one -- a foothold in the market for flash memory drives, where Japan has managed to retain some of its long-held edge.
+''We will do what we can to avoid being delisted from the stock exchange,'' Satoshi Tsunakawa, Toshiba's chief executive, said at a news conference after apologizing to shareholders for Toshiba's latest worrying turn. 
+The company reported financial details for the quarter that ended in December after multiple delays and disputes with its auditors.
+The financial problems are mounting.
+The auditors have refused to certify Toshiba's accounts -- a highly unusual signal of doubt about the company's ability to recover its financial health. 
+Toshiba still has the support of its banks, which would be saddled with huge losses if they were to push the company into bankruptcy by calling in loans. 
+But the auditors are, in effect, saying that Toshiba may need to undertake a more radical overhaul to ensure its survival.
+Toshiba has already admitted defeat in nuclear power.
+Westinghouse filed for Chapter 11 bankruptcy protection in the United States last month, and Toshiba took a loss of more than $6 billion as it wrote down the value of the subsidiary, which it acquired in 2006 to further ambitions to become a world-leading nuclear-energy provider. 
+Spiraling costs at American reactor projects, the upheaval caused by the 2011 Fukushima meltdown in Japan and competition from shale oil and gas output have hurt the company.
+The chip sale will, in some ways, be more painful.
+Pioneered by Toshiba nearly 40 years ago, so-called NAND flash memory has become one of the crucial building blocks of modern electronics, essential to storing data in smartphones and other gadgets. 
+And Toshiba has kept the business profitable while competitors outside Japan have elbowed into the market and competed for its customers.
+The identities of the bidders for shares of the chip business have not been made public. 
+But people with knowledge of the process say as many as a dozen companies from the United States, South Korea and Taiwan have approached Toshiba with proposals.
+Foxconn of Taiwan, the assembler of Apple iPhones and other electronics, which has big manufacturing operations in mainland China, is among the bidders, according to a person familiar with the matter who asked not to be identified because he was not authorized to discuss it.
+None of the early suitors are from Japan -- a remarkable turnabout for a country that controlled the majority of the market for many kinds of microchips a generation ago. 
+It is also noteworthy because Japanese companies have frequently banded together to rescue flailing domestic rivals rather than let them fold or be acquired by foreigners.
+The Japanese government may cobble together a Team Japan offer, consisting of small financial contributions from multiple companies and a larger investment by a state-controlled bank or investment fund, according to a person familiar with deliberations. 
+But the response from potential participants, who would have to explain the spending to shareholders, has been tepid.
+''It is fundamentally unthinkable that the Industry Ministry would intervene and take some kind of action,'' Hiroshige Seko, the industry minister, said at a news conference on Tuesday, further damping expectations.
+Other potential investors include the American microchip makers Western Digital and Broadcom and SK Hynix of South Korea.
+For Foxconn, an investment in Toshiba would be the second recent foray into the often politically fraught world of corporate Japan. 
+Last year Foxconn acquired control of Sharp, the maker of flat-screen television displays, for $3.5 billion. 
+In doing so, it overcame a rival bid from an investment fund backed by the Japanese government.
+Toshiba's microchip business is viewed as a more valuable asset than a business in TV screens. 
+Japan -- despite having pioneered LCD, or liquid crystal displays -- has lost most of its market share in TV screens to South Korea and China.
+Samsung of South Korea has overtaken Toshiba in NAND, but Toshiba remains the world's second-biggest producer, with a global share of just under 20 percent, according to market research groups. 
+Analysts say Toshiba's technology, commonly used in smartphones and USB drives, remains at the cutting edge.
+One analyst, Mark Newman of Sanford C. Bernstein, argued in a report that Toshiba's memory business remained valuable enough that selling it amounted to ''selling the crown jewels to pay next month's rent.''
+Toshiba sees little choice.
+Its Westinghouse-related write-off left its balance sheet perilously thin. 
+And though the business is profitable, staying competitive in microchips is notoriously expensive. 
+Toshiba spends $3 billion to $4 billion a year on research and development and capital investments in its chip division, costs it can no longer afford on its own.
+The choice of partners, though, may be a difficult process.
+Japanese politicians and industry leaders have fretted over Chinese investors' buying advanced chip production technology; semiconductors and memory are a major priority of China's industrial policy.
+It is not clear whether Foxconn's close relationship with China will undermine its bid. 
+Although Foxconn is based in Taiwan, it has experience in attracting subsidies from the Chinese government to build large-scale production operations in China.
+It would be easy for Foxconn to take technology from Toshiba and manufacture it more cheaply in China. 
+Such a move could drive down pricing for memory, a boon for Apple and low-cost Chinese smartphone makers. 
+But it would also propel China forward in its long push to become internationally competitive in semiconductors.
+The worry is that Foxconn ''would build huge fabs in China,'' said Mr. Newman, referring to semiconductor fabrication plants. 
+''The jobs would move to China from Japan, and furthermore China would go after market share at the expense of crushing industry economics, so the U.S., Taiwan, Korea, Japan all get hurt substantially by this arrangement.''

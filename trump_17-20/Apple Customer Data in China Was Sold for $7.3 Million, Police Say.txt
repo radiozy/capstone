@@ -1,0 +1,34 @@
+﻿
+To Apple's mounting problems in China, add official scrutiny over privacy.
+The Chinese police said this week that they had arrested 22 people suspected of selling the personal data of an unspecified number of Apple customers. 
+The police, in Cangnan County in the eastern province of Zhejiang, said the thieves had reaped 50 million renminbi, or about $7.3 million, over an unspecified period.
+Many of the details were unclear, including the identities of those involved and the severity of the breach.
+In a statement on Wednesday, the Cangnan police said they found that Apple employees had illegally acquired personal data, then later in the same statement said 20 of the 22 people worked for companies that sell Apple products or are Apple contractors. 
+The police did not disclose information about the other two people. 
+In China, Apple's products are sold broadly, in electronics chain stores and small booths in shopping malls in addition to the company's official Apple Stores.
+The Cangnan police also said the data included the names, Apple identification numbers and phone numbers of Apple users. 
+They did not say whether passwords or financial information like credit card numbers were involved, which would suggest the thieves had access to internal Apple data and would make the breach more serious.
+The arrests are part of a set of broader difficulties in China for Apple, which is based in Cupertino, Calif. 
+Sales of iPhones, still a sign of middle-class aspiration in China, have slowed, according to analysts, as the public waits for new models and as Chinese manufacturers of cheaper phones step up their quality and marketing.
+Apple has also faced new scrutiny from the government on other fronts. 
+Last year its movie and book services were shut down in China.
+Still, Apple may simply be caught up in a wider rising of concern over privacy in China.
+Few people in China expect the country's authoritarian central government to stay out of their business. 
+But outside of that, a growing number of Chinese people fear cybercrime and identity theft, particularly as millions of them turn to online shopping and using money electronically.
+Between widespread malware campaigns and a large number of new internet users, China has become a playground for internet fraudsters. 
+Last year, China tried 361 criminal cases involving violation of personal data, up from 176 in 2015, said Xie Yongjiang, associate director for the Institute of Internet Governance and Law at the Beijing University of Posts and Telecommunications.
+''It is very common. 
+Every one of us can feel it,'' Mr. Xie said. 
+''For example, after your child is born at a hospital, someone will phone you and ask if you need baby products. 
+When your child turns 3, someone will phone you and ask if your child would go to their nursery school. 
+When your child reaches primary school age, someone will phone you to ask if you need training services.''
+''You have no idea who exposed your personal data,'' he added.
+The problem is not new. 
+In one incident reported in the Chinese news media just this week, an employee of a Shanghai delivery company was recently arrested on suspicion of selling clients' personal data.
+Other examples abound. 
+An apparent trove of login information leaked onto the Chinese internet was used to hack more than 20 million accounts on Alibaba's e-commerce site Taobao, according to news reports. 
+Alibaba said that its security systems had not been breached and that it had worked with the police to quickly catch the perpetrators.
+In another example, China News Service, a state-run news agency, reported late last year that login information and other personal data from accounts associated with the Chinese e-commerce site JD.com were exposed in 2013 as part of a security problem. 
+JD.com said it had quickly fixed the issue.
+The problem is not even new to Apple. 
+Last year, 10 employees of an Apple contractor in China were also found with data from more than 80,000 users.

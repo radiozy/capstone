@@ -1,0 +1,31 @@
+﻿
+A few notes on trade and wages.
+Many people think that Economics 101 says that trade is good for everyone. 
+Alas, it isn’t so. 
+Way back in 1941 Paul Samuelson and Wolfgang Stolper pointed out that even the most conventional economic analysis suggests that some group within a country – and possibly a large group – actually loses from trade. 
+It’s even in Wikipedia.
+Intuitively, here’s the logic. 
+Imagine that America exports stuff that is produced mainly by college-educated workers, while those industries that compete with imports mainly employ less-educated workers. 
+Now suppose the price of imports falls. 
+Then in order for import-competing industries to cope, the wages of less-educated workers have to fall — in fact, they have to fall more than the price of imports, because other costs of import-competing production, namely the wages of highly educated workers, will actually rise. 
+So if import prices fall, say, 10 percent, wages of less-educated workers will fall, say, 15 percent.
+But don’t these workers gain from cheaper imports?
+Yes, but not enough. 
+Imports are only part of what people consume, so while wages fall more than import prices, the overall cost of living falls less than import prices — say, 15 percent fall in wages, only 5 percent fall in the cost of living. 
+Trade reduces the real wages of low-education workers.
+So why did people like me say in the ’90s that globalization wasn’t a big problem for U.S. workers?
+Because the numbers didn’t look big enough. 
+Bill Cline of the Institute for International Economics posted a pretty good overview of that discussion here.
+Since then (Cline’s numbers ran through 1993), however, the numbers have grown. 
+You can get a sense of the changes from the World Trade Organization data. 
+U.S. imports from China, Mexico and the “six Asian traders” went from about 3 percent of G.D.P. in 1995 to almost 5 percent in 2005. 
+What’s more, the center of gravity of those imports has shifted to the lower wage countries. 
+  Estimates of labor costs are calculated by the Bureau of Labor Statistics, Table 1 and p. 
+5 for China.
+The growth of China’s exports, in particular, has undermined one of the arguments I and others (including Cline) made for not worrying too much: we thought the low-wage manufacturing exporters would, as their own education levels increased, place less pressure on low-education workers here. 
+Well, the original group of exporters did move “upscale” — but along came China (and to a lesser extent Mexico), taking their place and then some. 
+The overall wage rate of U.S. trading partners relative to the U.S., calculated in that B.L.S. report, rose through 1990, but it has stagnated since then — and the index doesn’t include China. 
+Add that in, and our trade is increasingly with low-wage countries. 
+So the problem has gotten bigger.
+As I said in the article, however, the big problem is what to do about it. 
+And a return to protectionism would just have too many negative effects.

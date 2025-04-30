@@ -1,0 +1,8 @@
+﻿
+Last year, some 300,000 infants in China were sickened, and at least 6 died, after consuming infant formula that had been deliberately adulterated with the chemical melamine.
+The scandal, and previous contamination incidents involving pet food and other products, led the United States Food and Drug Administration to test food ingredients for the presence of melamine (which can make a food seem as if it has more protein than it does).
+The test the F.D.A. uses for infant formula, a liquid chromatography-mass spectrometry technique, is time-consuming. 
+So several research groups have been looking for quicker and less elaborate methods to detect melamine in powdered formula.
+A group at Purdue University is reporting in The Journal of Agricultural and Food Chemistry that they have successfully used infrared spectroscopy for the task. 
+Lisa J. Mauer and colleagues used several variations of the technique, which detects characteristic frequency-absorption patterns when light at infrared wavelengths is sent through a sample.
+All were able to detect melamine down to the threshold set by the F.D.A., one part per million, and quickly -- the tests require little sample preparation beyond putting some powder into a vial, and results are obtained within a few minutes.

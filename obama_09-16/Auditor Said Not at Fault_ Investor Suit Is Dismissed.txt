@@ -1,0 +1,32 @@
+﻿
+In 2010, Puda Coal, a Chinese company traded on the New York Stock Exchange, raised $116 million from American investors in two public offerings. 
+It presented audited financial statements showing that it had assets of $111 million and a net worth of $84 million at the end of 2009.
+That was a lie. 
+The managers of the company had transferred all the assets to themselves in 2009, and reported the transaction to the Chinese government. 
+But the auditor, Moore Stephens, a Hong Kong firm, failed to notice that public filing and certified the company's financial statements for both 2009 and 2010.
+This week, a federal judge in New York dismissed a shareholder class-action lawsuit against the audit firm, saying that the plaintiffs had failed to present sufficient evidence to show that Moore Stephens had acted recklessly and failed to follow auditing procedures required by the United States Public Company Accounting Oversight Board.
+The issue, Judge Katherine B. Forrest of Federal District Court in Manhattan stated in an opinion filed on Tuesday, was not whether the auditor could have done a better job, but whether ''a reasonable auditor would have'' checked the records that showed a fraud had been committed.
+''Could more have been done?
+Clearly yes,'' the judge wrote. 
+''Did more need to be done, and would auditors conducting a P.C.A.O.B.-compliant audit have done more?
+Neither the court nor any reasonable juror at a trial has any way to answer this question.''
+The judge summarized what had happened:
+''An accounting firm's worst nightmare might be to wake up one morning and discover that the company that one of its teams had audited for the past several years had, in fact, disappeared, and that what the team had been auditing had been merely a mirage. 
+A twist that could serve only to heighten this distress might be the discovery that the company had been stolen a few years prior -- its operations and related revenues transferred away -- but that the engagement team had not discovered this fact. 
+The team had issued a 'clean opinion.'
+The accounting error in such a case would be fundamental: All aspects of the financial position of the company would have been entirely misstated, because the operations on which it was based were long gone.''
+''This scenario is not the storyline for an auditor's version of a horror film; it is what happened here.''
+The judge said that the plaintiffs had failed to present an expert in the accounting oversight board's audit procedures, and that the expert they did present, a Hong Kong accountant, conceded she lacked expertise in American auditing rules.
+Laurence Rosen, a lawyer for the plaintiffs, said that legal precedents showed no expert was needed and that he would appeal the dismissal. 
+Brian J. Massengill, a partner at Mayer Brown who represented the accounting firm, said that the firm presented testimony ''from an experienced and highly qualified expert that its audits complied with professional standards,'' and that there was no evidence to dispute that.
+The expert pointed to evidence the auditors had reviewed that seemed to show that Puda still owned the assets. 
+That included, the judge said, ''an unsigned draft form of a legal opinion'' from Puda's lawyers in China.
+There is evidence that Moore Stephens failed to perform acceptable audits in the past. 
+An inspection report by the oversight board stated that neither of the firm's audits that the board reviewed showed that the auditors had obtained enough information to justify issuing an audit opinion. 
+The board cited, among other problems, ''the failure to perform sufficient audit procedures to identify and address risks of material misstatement due to fraud.''
+The board did not identify the audits it inspected, but it said it inspected the firm in December 2007, well before either of the audits at issue in the litigation.
+Shareholder suits against both the underwriters of the public offerings and Puda's outside auditors are still pending. 
+The Securities and Exchange Commission filed civil fraud charges against Ming Zhao, Puda's chairman, and Liping Zhu, its chief executive, but has so far been unable to serve the papers on them.
+Puda's stock collapsed in April 2011 after Internet reports by researchers hired by short sellers revealed the documents showing that the assets had been transferred out of Puda. 
+Three months later, Moore Stephens withdrew its audit opinions and resigned as the company's auditor.
+This is a more complete version of the story than the one that appeared in print.

@@ -1,0 +1,73 @@
+﻿
+Times Insider shares insights into how we work at The New York Times. 
+In this article, Craig S. Smith, a former Times Shanghai bureau chief and   China managing director who is now a staff writer-at-large, reflects on the ups and downs of delivering New York Times content to the Chinese world.
+If you look at the top of our home page, you'll see a tab with two Chinese characters, which mean "Chinese." Few people know the struggle and angst that put those characters there.
+In August 2001, I accompanied our publisher, Arthur O. Sulzberger Jr., and a group of New York Times writers and editors to see Jiang Zemin, then the president of China. 
+The meeting took place in a typical Chinese meeting room — doily-draped fauteuils underneath a monumental ink-and-brush painting of sea and mountains — at China's leadership compound in Beidaihe, an otherwise gritty seaside resort on the northeastern coast.
+The New York Times's English-language website was blocked in China, and after a long discussion on a range of topics Tom Friedman asked why. 
+President Jiang didn't appear to know, and agreed to look into it. 
+Within days, nytimes.com was accessible again in China. 
+For the next 10 years, The Times's website was reachable by mainland Chinese readers, with articles only occasionally blocked from view.
+I left The Times for a Chinese start-up that never started and in late 2010 wanted to bring what I had learned back to The Times. 
+I emailed Arthur and Bill Keller, the executive editor at the time, asking if they would be interested in a New York Times website in Chinese. 
+I had experience building digital products and was well connected to the Chinese news media industry. 
+The timing seemed right.
+I asked Phil Pan, now The New York Times's Asia editor — who had quit The Washington Post and was living in Hong Kong — to join me in hammering out a proposal. 
+We worked for a year before we had a business plan in which The Times was willing to invest. 
+Phil joined and I rejoined The Times in January 2012 and we got started.
+October 2012 would begin a once-in-a-decade leadership change, which made our timing tricky. 
+The government tightens its control of the news media during such times, but most people expected that period to pass. 
+The incoming administration was widely expected to advance reforms that had been stalled under the presidency of Hu Jintao.
+Despite squalls, I had watched China's news media climate steadily improve since I first arrived there in 1980. 
+I expected, and ultimately still expect, that trajectory to continue. 
+Besides, The New York Times's main website hadn't had a problem in China since that meeting with President Jiang in 2001. 
+That's how I responded to worries from senior management that the China project might founder amid stiff political headwinds. 
+None of us foresaw the authoritarian retrenchment that has since been enacted by the new president, Xi Jinping.
+Phil and I set off on a mad dash that January, renting office space and hiring editors and translators and a tech team that would build the site to carry New York Times content to the Chinese world. 
+It was fun and exciting. 
+On June 28, 2012, we huddled around a computer as our tech team turned the site on.
+The response from readers was heartening. 
+Traffic soared, and fans on Sina weibo, the dominant social media platform of the day, grew even faster. 
+But within hours we faced a harbinger of things to come: Suddenly the weibo account was blocked and soon it disappeared.
+Things took a turn for the worse four months later when David Barboza published his Pulitzer Prize-winning piece on the family finances of China's outgoing premier, Wen Jiabao. 
+The article, which came just ahead of the Communist Party Congress, infuriated the incoming administration as much as the outgoing one. 
+Access to both the Chinese-language and main English-language New York Times sites was immediately blocked in China.
+We embarked on a yearlong lobbying effort, hoping to get the block overturned. 
+We met repeatedly with the State Council information office and the Foreign Ministry; we worked with the head of Xinhua news agency (a ministerial-level position) and the head of People's Daily (another ministerial-level position); we spoke with Rupert Murdoch's former government relations director, who has family ties to the Central Propaganda Department; we even tried back-channel negotiations with a series of intermediaries who claimed influence with people around President Xi. 
+Of course, we tried at every opportunity to meet with President Xi himself, hoping for a repeat of the success with President Jiang.
+The effort wasn't without raised voices. 
+At one point a young Foreign Ministry official sat forward in agitation and shouted to me, "I love my Party!" Nor was it without sarcasm. 
+A State Council elder with bottle black hair asked if I was due a bonus if the sites were unblocked (I was not). 
+And there were many corny conversations filled with metaphors about bridges.
+None of it worked — and, as months turned to years, my initial, guarded optimism that we were witnessing a cautious new administration's short-term consolidation of power gave way to resignation that we had been an early victim of a larger policy of information control that extended well beyond China's borders.
+The Chinese Communist Party's efforts at shaping the world's view of its country, culture and government have grown into an aggressive transnational censorship program that seeks to quash critical voices globally. 
+The frustrating thing is that this strategy, while hurting China's image internationally, has been remarkably successful at home. 
+Relatively few Chinese, for example, know who the artist Ai Weiwei is, much less the democracy activist Liu Xiaobo, who won the Nobel Peace Prize even as he was languishing in a Chinese jail.
+The majority of Chinese, including highly educated Chinese, are satisfied for the most part with the news and information available to them. 
+Virtual private network software allows people to jump the "Great Firewall" and view the global internet; but most people are happy with the worldview that state-licensed broadcasts and publications afford.
+Despite our main websites being inaccessible in China, we continued to make progress in penetrating the mainland Chinese market. 
+We started a lifestyle site that was accessible and then blocked and then unblocked and is now blocked again. 
+We created unblocked mirror sites to feed social media accounts and started two newsletters that bring our stories directly to tens of thousands of readers each week. 
+We built apps that our tech team engineered so they could not be blocked at all. 
+We even started print publications, the most successful of which will soon be rebranded as 时 — The New York Times Chinese Magazine, a 48-page lifestyle quarterly. 
+Our audience, primarily from mainland China, kept growing.
+Our traffic has long since surpassed what it was when our troubles began, and it grew nearly 70 percent last year alone. 
+The New York Times brand now has a firm foothold in the country and among the global Chinese diaspora. 
+When news media restrictions relax, and I believe they eventually will, The Times's Chinese audience will most certainly take off.
+The harassment, however, still hasn't stopped.
+Our former landlords refused to renew our lease for office space overlooking the Foreign Ministry, claiming they were under pressure to make us move. 
+Mysterious technicians have attached monitoring devices to our telecommunication cables in both buildings where we have set up offices. 
+Some of our Chinese employees are occasionally invited "for tea" to be probed by state agents. 
+Despite paying for the highest level of service, our internet speed regularly slows to a crawl.
+Our Android app was never accepted in Chinese Android stores and recently Apple removed our iOS app from their Chinese app store, most certainly because of Chinese government pressure.
+The problem in China is that you never really know who is behind such decisions. 
+The local Public Security Bureau?
+The city government?
+A ministry?
+A central government official?
+State Security?
+President Xi?
+Chinese bureaucracy is like a series of Chinese boxes that are harder and harder to open as you move toward the center.
+We don't have answers now, and I expect we never will.
+Correction, April 2, 2017: An earlier version of this post misstated the timing of David Barboza's Pulitzer Prize-winning article on the finances of China's outgoing premier, Wen Jiabao. 
+The article was published two weeks before the Communist Party Congress, not in the midst of the congress.

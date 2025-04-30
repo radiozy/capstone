@@ -1,0 +1,60 @@
+﻿
+Maybe the markets were not overreacting.
+With the United States economy posting solid numbers last year, the alarming signals coming out of stock and bond markets seemed out of whack with the real world. 
+President Trump's bellicose trade actions were a concern, but hiring was strong and corporate earnings were surging.
+But this week, companies have issued warnings about the health of their businesses that suggest investors were right to be worried about growth. 
+On Wednesday, Apple reduced its revenue expectations for the first time in 16 years, citing weak iPhone sales in China. 
+On Thursday, Delta Air Lines said its fare revenue, while growing, would fall short of the company's earlier forecast. 
+And the American manufacturing sector slowed sharply last month, according to a closely watched index released Thursday.
+In the coming weeks, scores of companies will report their fourth-quarter results. 
+A senior White House economics official acknowledged that there could be a torrent of bad news from corporate America.
+''It's not going to be just Apple,'' Kevin Hassett, the chairman of the White House Council of Economic Advisers, told CNN on Thursday. 
+''There are a heck of a lot of U.S. companies that have a lot of sales in China that are basically going to be watching their earnings be downgraded next year until we get a deal with China.''
+He seemed to suggest that was not necessarily bad, because it could help the Trump administration achieve its goal of getting China to make trade concessions to the United States.
+Those comments did little to assuage the fears of investors. 
+The S&P 500 stock index closed down about 2.5 percent, leaving it more than 16 percent below the high it hit in September. 
+But perhaps the most notable move was in the market for government bonds, where investors park their money in times of stress or when they expect the economy to slow. 
+The yield on the 10-year Treasury note, which moves in the opposite direction of its price, fell to 2.56 percent, well below the level it reached in early November, when investors were more optimistic about the economy.
+''On days like today people say, 'Crud, I've got to buy tons of bonds,''' said Jim Vogel, a fixed income strategist at FTN Financial. 
+''That's driven by a large change in sentiment.''
+Important indicators still show the American economy is growing at a decent clip. 
+A measure of employment in the private sector in December, released Thursday, was higher than expected. 
+And ahead of the Labor Department's monthly jobs report on Friday, analysts estimated that employers added about 180,000 jobs in December.
+Despite this, companies and consumers are facing challenges that could make them more cautious about spending money. 
+If they pull back, the economy will suffer. 
+Apple's warning provides strong evidence that the trade tensions with China are taking a toll. 
+And if more indicators show the American economy stumbling, investors will become more convinced that the Federal Reserve's recent interest rate increases are dampening activity.
+Corporate profits -- and stock prices -- are highly sensitive to global economic weakness. 
+Foreign sales accounted for 45 percent of the revenues of companies in the S&P 500 stock index over the last five years.
+There are signs of Mr. Trump's policies beginning to weigh on domestic demand, too. 
+The Institute for Supply Management said Thursday that its index of manufacturing activity fell sharply in December, the largest one-month drop since the last recession.
+The manufacturing index fell to what is still considered a healthy level, consistent with other data generally showing that the economy remains in good shape. 
+But the downward trend contributed to a growing sense of unease on Wall Street about how soon the current expansion might end.
+''When it has seeped into the survey it probably means it's three to five weeks old,'' Mr. Vogel said.
+Indeed, investors are so convinced trouble is coming that they are betting the Federal Reserve will abandon its plans to raise interest rates in 2019.
+Fed officials predicted in mid-December that the central bank would raise its benchmark rate twice this year, moving the rate into a ''neutral'' range that neither stimulates nor discourages economic activity. 
+By the end of trading Thursday, the odds of an interest-rate cut in 2019 had climbed above 50 percent.
+Robert Kaplan, the president of the Federal Reserve Bank of Dallas, reinforced those expectations, telling Bloomberg Television that the Fed should wait at least a few months before considering any additional increases.
+''We shouldn't be taking any further action until some of these uncertainties resolve themselves, and I think that could take several months,'' he said on Thursday.
+Mr. Kaplan, however, is not a voting member of the Fed's policymaking committee this year. 
+The committee comprises the Fed's board of governors and a rotating selection of five of the 12 presidents of regional reserve banks.
+An indication of the Fed's views could come Friday morning, when the Fed's chairman, Jerome H. Powell, is scheduled to answer questions at a public appearance with his two immediate predecessors, Janet Yellen and Ben S. Bernanke.
+''There's a belief he's willing to back off, but we haven't seen that yet,'' Mark Haefele, global chief investment officer at UBS Wealth Management, said, referring to Mr. Powell. ''If the Fed hikes rates in March, it'll be a mess.''
+And on Thursday an ominous event occurred in the government bond market. 
+The yield on the 5-year Treasury note fell below that of the 3-month Treasury bill. 
+Yields are generally higher on longer-term debt. 
+An inversion of that pattern signals a loss of confidence in longer-term economic prospects and has often served as an early warning of a recession.
+Investors and corporate executives have experience with slowdowns in large overseas economies, but they have not had to simultaneously grapple with the effects of a trade war. 
+In explaining Apple's lowered sales forecast, the company's chief executive, Tim Cook, said, ''The economic environment in China has been further impacted by rising trade tensions with the United States.''
+Apple's stock plunged nearly 10 percent on Thursday, taking its market value down to around $675 billion, well below the $1.1 trillion it reached as recently as October.
+Mr. Trump's tariffs have raised prices on a wide range of Chinese components used by American manufacturers. 
+Roughly half of the companies in the I.S.M. survey said tariffs were weighing on profits, or raising costs.
+Linton Crystal Technologies, a firm based in Rochester, makes specialized furnaces used to grow silicon tubes, which are cut into wafers for semiconductors and solar panels that are sold to customers all over the world. 
+The work was once performed entirely in the United States. 
+But even though they are still designed, assembled and customized in the United States, the machines' components now are built in China.
+Mr. Trump has said the goal of his trade policies was to convince companies like Linton to bring back jobs from China. 
+Mr. Hassett emphasized on Thursday that the Trump administration expected the domestic economy to remain strong, and that companies focused on the United States would benefit.
+But Todd Barnum, Linton Crystal's chief operating officer, said the cost of making furnaces entirely in the United States was prohibitive. 
+And as a result of the tariffs, the company is also moving design work to China -- a move Mr. Barnum said would save hundreds of thousands of dollars in tariffs by reducing the need for prototypes to be shipped to the United States.
+''Our customers don't care if it was manufactured in the United States,'' Mr. Barnum said. 
+''They care about the highest quality at the lowest dollar.''

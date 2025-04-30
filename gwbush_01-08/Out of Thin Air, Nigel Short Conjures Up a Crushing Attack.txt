@@ -1,0 +1,31 @@
+﻿
+Nigel Short of England won the Sanjin Hotel Cup in Taiyuan, China, with a 6 1/2-2 1/2 score. 
+The tournament, played from July 17 to 26, featured an all-grandmaster invited field of 10. 
+Second place was captured by Ni Hua of China, who scored 5 1/2-3 1/2.
+Joel Lautier of France and Alexey Dreev of Russia shared third and fourth places with 5-4 each.
+Short showed his marvelous knack for attack in his eighth-round game with Ye Jiangchuan. 
+The latter did his best by choosing a conservative defense that squelches the sort of explosive tactics that Short is famous for. 
+Accordingly, the game started on a quiet track up to the 15th move, but then Ye could not keep Short from sacrificing a pawn to shake up the play and advance a mating attack.
+There were rook sacrifices in the offing, but the final blow was Short's queen sacrifice on the 27th move. 
+Ye gave up. 
+There were alternative modes of defense, but nothing that could withstand the Englishman's onslaught.
+One thing Short has going for him is the creation of attacks for what appear to be routine formations. 
+He produces threats from anywhere, and they often catch his adversaries napping.
+After 5 Qc7, the opening took the form of the Taimanov Variation of the Sicilian Defense. 
+Black holds back most of the development of his pieces so he can retain maximum mobility and deny his opponent a clear target for attack. 
+Moreover, White cannot gain anything by playing 6 Bg5 or 6 Bc4. 
+He can play 6 g3 and 7 Bg2, but this line does not lead to a promising attacking formation. 
+After 6 a6, the two squares for a knight invasion, b5 and d5, are covered, so White has nothing better to do than finish his mobilization.
+Short clarifies the central pawn situation with 10 Nc6 bc so that he can bring his queen to the king's wing with 11 Qd3 to be followed eventually by 15 Qh3. 
+His objective is the black king. 
+If Black had played 10 Qc6, then 11 Bf3 Qc7 12 a4 Nd7 13 a5, and White would have had a slight advantage in space on an open board and a lead in mobilization. 
+Overall, there would be a slight superiority for White.
+There is now a question as to how Ye should handle his future defensive problems. 
+After 14 Rae1, his 14 Rae8 is too committing. 
+Perhaps 14 Rad8 might have given him more flexibility.
+After 15 Qh3!?, Short sacrifices a pawn to open lines of attack to the black king. 
+It does not look as though Ye has any obvious weaknesses on his kingside, but Short can often see what others fail to see. 
+After 16 Nf6 17 Re3 g6 18 Nd1 c4 19 bxc4 Qc5, Short followed with 20 f5!, which is a tremendous breakthrough into the black king's defenses. 
+If Black had answered with 20 ef, then 21 Rf5! gf 22 Rg3 Kh8 23 Qh6, and Black will be mated.
+After 26 Nd5, Ye blundered with 26 Nd5? overlooking 27 Qh7!
+As soon as he observed that 27 Kh7 28 Rh3 Kg7 29 Bh6 Kh7 is followed by 30 Bf8 Bh4 31 Rh4mate, he gave up.

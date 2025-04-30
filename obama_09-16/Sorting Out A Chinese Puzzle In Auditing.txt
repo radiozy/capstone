@@ -1,0 +1,62 @@
+﻿
+Imagine for a moment that you were auditing a company whose principal asset was trees that it would eventually cut down to sell the timber. 
+Would you bother to verify whether the company actually owned the trees?
+Would you make sure that the trees the company showed to your auditors were the same trees it claimed to own?
+To the Canadian affiliate of Ernst & Young, the answer to both questions appears to be no.
+How, asked one Ernst staff member involved in the audit in an e-mail to a colleague, ''do we know that the trees'' the auditors were being shown ''are actually trees owned by the company?
+E.g. could they show us trees anywhere and we would not know the difference?''
+The answer was yes: ''I believe they could show us trees anywhere and we would not know the difference,'' replied the colleague.
+That did not lead Ernst to change its procedures. 
+Nor did it bother to look at documents that it knew were crucial to answering the questions about the Sino-Forest Corporation, which was based in Canada but had its operations in China.
+Until the summer of 2011, Sino-Forest appeared to be a real success story, backed by underwriters like Credit Suisse and Toronto Dominion and with shares worth billions of dollars. 
+Its bonds were rated as just under investment grade by Standard & Poor's and Moody's. 
+Then a short-selling operation known as Muddy Waters said it thought the assets were greatly exaggerated. 
+Sino-Forest appointed a group of its independent directors to investigate, and in due course they concluded they could not even be sure just what trees the company claimed to own, let alone whether it owned them.
+This week brought the Sino-Forest case close to a conclusion. 
+Ernst agreed to settle a shareholders' suit for 117 million Canadian dollars, or about $116 million, while denying it was liable. 
+The company agreed to come out of bankruptcy with its assets, whatever they might be, owned by the creditors. 
+The company had tried to find buyers, and a number looked at the documents, but nobody bid. 
+There still seems to be no certainty about how much, if any, timber the company owns.
+While Ernst settled the shareholder suit, it said it would fight new charges by the Ontario Securities Commission that the audit firm failed to follow proper audit procedures. 
+It was the commission suit, filed this week, that disclosed the e-mails exchanged by the auditors.
+''We are confident that Ernst & Young Canada's work was conducted in accordance with Generally Accepted Auditing Standards (GAAS) and met all professional standards,'' the firm said in a statement. 
+''The evidence we will present to the O.S.C. will show that Ernst & Young Canada did extensive audit work to verify ownership and existence of Sino-Forest's timber assets.''
+However extensive the work, the audit failed to uncover the essential truth: the assets were fake.
+Frauds, and audit failures, can happen in many countries. 
+But China is a special case because the authorities there seem to be completely uninterested in getting to the bottom of scandals whose victims are American or Canadian investors. 
+Even regulators in Hong Kong have voiced frustration with their mainland colleagues.
+Last week China sent another delegation to the United States to talk about these issues with American regulators, and a Chinese official was quoted by The Financial Times as telling a Hong Kong audience that audit working papers should be shared with other regulators -- something the Chinese supposedly agreed to a decade ago but had never actually done. 
+''I think we'll shortly be able to work out a way to deliver those papers,'' he said.
+The American regulators have heard those stories before. 
+In July, the chairman of the China Securities Regulatory Commission, Guo Shuqing, told Mary L. Schapiro, then the chairwoman of the United States Securities and Exchange Commission, that he thought an agreement could be reached. 
+It turned out that the Chinese insisted they would provide documents only if the S.E.C. promised not to use them in an enforcement proceeding without Chinese permission.
+The week the S.E.C. filed court papers, in connection with its pending case against a Chinese affiliate of Deloitte, laying out case after case in which American regulators asked for assistance through obtaining audit work papers or even something as simple as verifying that a Chinese company existed. 
+Repeatedly, the Chinese said something could be worked out, but somehow nothing ever was.
+Separately, the S.E.C. this week filed proceedings against five Chinese audit firms -- affiliates of the Big Four and of BDO -- saying the five firms had refused to comply with S.E.C. subpoenas for audit work papers related to nine separate investigations of Chinese companies.
+The firms maintain that they are caught in the middle between China and the United States, and that they cannot violate Chinese law by providing the documents. 
+That has led to a standoff.
+This might not matter so much if the auditors were doing decent jobs. 
+But in many cases they have not, as can be seen from the succession of frauds that went undetected until short-sellers investigated. 
+China has responded by throwing at least one such investigator in jail, which seems to have slowed the rate of such informal investigations. 
+Are the auditors deliberately certifying frauds?
+Maybe some are, but that is not really necessary.
+''It is the rare case when an auditor can be corrupted,'' James Doty, the chairman of the United States Public Company Accounting Oversight Board, which was established a decade ago to regulate the industry, told an auditing conference at Baruch College last week. 
+But, he added, ''An auditor need only look the other way, accept a well-annotated rationalization, focus on corroborating evidence. 
+An auditor need only say, 'I don't object.'
+'It's a matter of judgment.'
+'The literature is unclear.'
+''
+Greg Medcraft, the chairman of the Australian securities regulator, said this week that the quality of Australian audits, as shown by his agency's inspections, had been declining. 
+He said auditors were not getting sufficient evidence to support their conclusions and were not showing enough ''professional skepticism'' regarding what managements told them.
+Mr. Doty's board, like the S.E.C., has been doing a lot of talking to China. 
+Every so often there appears to be progress, but there is no indication that the board will be allowed to take part in joint inspections with Chinese authorities of Chinese audit firms that certify the statements of companies traded in this country, or that take part in worldwide audits of major American multinationals.
+When I talked to him this week, he sounded frustrated. 
+He said the board was still pursuing an agreement, ''recognizing that investors benefit from regulatory cooperation and that Chinese authorities want the credibility and respect of global investors that will come from conducting joint inspections and agreeing to an enforcement information sharing protocol.
+''We are at a crossroads, though, and absent a near-term agreement that gives us meaningful access, will not hesitate to consider all appropriate and necessary alternatives to protect U.S. investors.''
+Such tough talk may or may not be followed by real action if China keeps stalling, as seems likely. 
+Already word has spread that the change in Chinese leadership may slow things down as new officials settle into their jobs.
+The accounting oversight board could revoke the registrations of uncooperative Chinese firms, a move that would force their clients to stop trading in this country. 
+But it seems unlikely the board or the S.E.C. would take such a step without approval of the State and Treasury Departments, and ultimately of the White House. 
+Nor is it clear how that would help American investors who already own the securities.
+The volume of new Chinese frauds seems to have declined, and there are few new listings of such companies -- either because American investors have grown wary or because Chinese companies don't want to deal with regulators who think investor protection is important.
+One can only imagine the conversations of Chinese corporate officials as they discuss how gullible Americans turned out to be.

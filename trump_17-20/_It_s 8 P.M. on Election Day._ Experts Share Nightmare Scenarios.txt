@@ -1,0 +1,140 @@
+﻿
+We asked security experts to tell us what keeps them up at night -- and what to do about it.
+Election night, by now, has a well-established run of show: the state-by-state results, the declaration of a winner, the concession speech, and finally the president-elect's moment.
+There was a comforting ritual in all this -- the ritual of a functioning democracy.
+On Nov. 
+3, the networks will still blare the results, but don't expect any familiar, steady march toward declaring a winner. 
+Not with a pandemic that threatens to keep poll workers home, or a flood of mail-in ballots that may not be counted until well after Election Day. 
+Never mind the foreboding sense that foreign intrusion or malignant domestic actors could spread chaos.
+What's the worst that can happen?
+We've asked some election experts to share a nightmare scenario that keeps them up at night. 
+And what can be done about it, now, less than two months before Election Day.
+False Flags Everywhere
+By Chris Painter
+Nightmare Initial results indicate Joe Biden won the election, but the vote in several key swing states remains close. 
+An orchestrated social media campaign -- including what looked like posts by Chinese ''patriotic'' hackers -- claim that the Chinese government has hacked into the vote tabulation systems of key close precincts and altered the results in favor of Mr. Biden. After a few hours, the intelligence community determines that the posts are not from China but from Russia, which used a ''false flag'' operation to shift blame and create a fake narrative. 
+After a few days, the Department of Homeland Security determines that no claimed attempts to breach voting systems were successful. 
+But the damage is done. 
+With many Americans doubting the fairness of the election, and political attacks undermining the intelligence community, the election outcome is widely questioned. 
+Though no results were altered, chaos reigns.
+Solution In an ideal world, the United States would try to deter foreign intervention by warning that there would be significant and certain consequences -- like economic penalties, cyber operations and the exposure of corruption -- and then following through. 
+But in reality, the country's response has been inconsistent and undercut by President Trump's confusing denials that interference ever took place, virtually guaranteeing that Russia and perhaps other countries will act this time around.
+Faced with this reality, federal and state officials, as well as social media companies must publicly expose, as quickly as possible, any attempt at interference, regardless of candidate. 
+Not only must social media companies swiftly flag and delete false content, but their platforms also must minimize its spread and promote the truth. 
+Additional funding should go to state and local election authorities to bolster the security of voting systems and to enhance communication to voters. 
+Finally, while the government must try to deter any actual foreign interference, it should not undermine confidence in our voting systems. 
+If voters lose trust in the legitimacy of our elections, the Russians and other malicious actors will have won.
+Chris Painter was the top cybersecurity diplomat for the U.S. 
+State Department from 2011 to 2017.
+From Russia, With Love
+By Michael Chertoff
+Nightmare As key voter registration deadlines approach in different states, the staff at local election offices discover that ransomware has infected the registration databases. 
+The ransomware is a variant of the NotPetya malware that Russia launched against the Ukrainian economy in 2017; it had no decryption key and crippled businesses worldwide for months.
+Election officials work feverishly to find another way to process voter registrations and verify identities manually. 
+But Russians and Americans clog social networks to claim that the attack is a ''deep state'' conspiracy to rig the election.
+Solution Ransomware infects computers in different ways: Users can be tricked into downloading it, or the infection may be transmitted through remote access.
+Cybersecurity has always been about multiple defenses; no tool is foolproof. 
+The first line of defense for voting-related networks is maintaining ''cyberhygiene,'' including configuring and patching systems, limiting downloads, locking down access and monitoring for malware and suspicious behavior. 
+Testing is also critical. 
+The Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security can help election officials build their cyberdefenses.
+But defenses are not perfect, so we also need ways to recover in case of a breach. 
+Election officials should periodically download registration data to systems that are not connected to the internet and identify all the underlying infrastructure that needs to run for everything else to work. 
+Even better, election officials should frequently generate paper records of registration data, which can be used as a last resort. 
+While manual processing is slow, it is demonstrably reliable and available.
+Michael Chertoff was the Secretary of Homeland Security from 2005 to 2009 in the Bush administration.
+The Disinformation From Our Own Backyard
+By Alex Stamos and Renee DiResta
+Nightmare It's 8 p.m. on Election Day and, as the polls begin to close on the East Coast, Americans are glued to their TVs, laptops and phones. 
+The day has been a roller coaster of allegations: fake videos showing voting machines not responding to touch, Facebook Live streaming partisans yelling at confused poll volunteers and prominent influencers amplifying claims of voter suppression. 
+The noisiest claims drown out legitimate concerns about long lines and delayed mail. 
+Fake documents and mislabeled videos proliferate faster than anyone can fact check. 
+By election night, TV anchors are warning that mail-in ballots will take weeks to count, while also showing the real-time results of individual counties in swing states. 
+Candidates up and down the ballot declare victory using cherry-picked counts; others say they won't concede.
+Solution Do you remember the Iowa Democratic caucus?
+Technical and procedural failures meant that a contest with fewer than 200,000 participants took weeks to count. 
+Now imagine that a version of this delay is repeated nationally, as partisans seize upon a pandemic-addled, antiquated election system to blare out on social media that the outcome cannot be trusted. 
+While there are likely to be disinformation campaigns, originally from outside and inside the country, the far more destructive potential lies in false claims from domestic American voices that the voting process was rigged.
+These campaigns need to be identified as they emerge -- before they have a chance to go viral -- and defused quickly. 
+This requires significant collaboration: researchers detecting emerging false narratives, journalists reporting the truth from the ground, local government officials providing trustworthy information, and social media platforms applying detailed disinformation policies fairly and ensuring that the right communities see the corrections. 
+Citizens also need to verify claims of election interference before passing them along on social media.
+Alex Stamos and Renee DiResta are the director and the research manager of the Stanford Internet Observatory. 
+They are part of the Election Integrity Partnership, which will be searching for disinformation, taking tips and investigating and pushing for action from tech platforms.
+Voting Has Been Extended -- or Has It?
+By Beth George
+Nightmare Election Day 2020 arrives with record turnout. 
+By midday, there are long lines at polls in many battleground states. 
+A few social media accounts start promoting the lie that because of the high volume, Florida and Pennsylvania will extend in-person voting through Wednesday. 
+By late afternoon, several candidates and a few celebrities have shared that news. 
+Election officials issue statements correcting the lie, but they cannot spread the word, because they've been locked out of their social media accounts by hackers. 
+Although social media companies are helping the officials, the process of reinstating their accounts is slow -- and too late for people going to the polls.
+Solution Election officials -- and candidates -- need to prepare for the possibility that their social media accounts could be compromised. 
+To prepare, officials and campaigns should tell voters now how to differentiate between real and fake information. 
+For example, the secretaries of state should consider telling voters that their website will be the only source of official information; voters should also receive robocalls or text messages on the day of voting, reminding people that their website is the only source for accurate information.
+And then state officials must ensure the security of those communications tools.
+Beth George is a former deputy general counsel for the U.S. 
+Department of Defense and served in various national security roles in the Obama Administration, where she advised on the Edward Snowden leaks and the hack at the Office of Personnel Management.
+The Poll Worker Catastrophe
+By Sylvia Albert
+Nightmare The week before Election Day, state officials from all over the country put out a desperate call for poll workers. 
+Given the second wave of Covid-19, seasoned poll workers, many of whom are over 60 years old, are dropping out. 
+This effort draws a small number of new recruits, who are given election manuals and told to study them. 
+Nonetheless, officials announce closings and consolidations of polling places. 
+On Election Day, voters arrive to find doors locked and no signage. 
+At the open polling locations, long lines and confusion reign. 
+Ballot-marking devices are failing, scanning machines are jamming and e-poll books are running out of power -- and the new workers are out of their depth. 
+Instead of providing paper ballots, they instruct voters to come back later. 
+Lawsuits are filed in state after state, and courts order extensions of the voting hours. 
+Voters in some states wait 10 hours to vote. 
+Others can't wait, and leave, never to return.
+Solution Congress should pass a new coronavirus relief bill that includes $3.6 billion for states to administer elections. 
+With increased resources, states can begin to recruit, hire more workers at a higher wage and organize mass trainings. 
+Local governments should try to find new kinds of poll workers: Colleges could give their students credit, employers could provide paid time off and local governments could assign employees to the polls. 
+Companies could help, too. 
+Which sports team will award season tickets to a poll worker?
+Which restaurant will offer unlimited visits for a year?
+Which television show will offer a cameo?
+We need resources, innovative thinking, and commitment from lawmakers, election officials and every sector of the country.
+Sylvia Albert is the director of voting and elections at Common Cause.
+It's Bush v. Gore, but Worse
+By Betsy Cooper
+Nightmare It has been weeks since election officials in Mississippi, Illinois and Indiana discovered that the paper backups for counted votes do not match the tallies recorded by electronic voting machines. 
+Paper printouts indicate a Biden victory, but electronic votes show that Trump won. 
+The difference would decide the election.
+Has there been a mechanical error?
+A computing error?
+Were the voting machines hacked by Russia?
+No one knows -- just as they don't know who really won. 
+But election officials can't simply recount, because it's unclear which ballots to count. 
+And while states could coordinate a revote, since the same electronic machines would be used, why would those results be any more trusted?
+Lawsuits fly. 
+And it's Bush v. Gore all over again, except this time it's not even clear there are ballots to count.
+Solution To some degree the die is already cast; it's too late to get new electronic voting machines or to change state voting systems. 
+Election officials should instead focus on what they can control: keeping electronic voting machines off the internet to minimize the risk of hacking, using paper-based voting systems wherever possible and keeping the public informed about voting plans so that there are few surprises.
+Election officials should also develop contingency plans for inconsistent election results and publish -- in advance of the election -- clear procedures for how they will monitor results and respond to uncertainties. 
+Officials should identify the top five risks that would call into question the count and create operational plans for each. 
+How to evaluate impropriety, whether and how to initiate a recount, and so on. 
+It will be hard enough for the country to manage another contested presidential election. 
+The least we can do is have a plan for how to handle it.
+Betsy Cooper is the director of the Aspen Institute's Tech Policy Hub and a former legal and policy counselor at the Department of Homeland Security.
+Uncounted Votes, Anyone?
+By Matt Blaze
+Nightmare Dec. 
+14, 2020: The Electoral College officially meets to select the next president. 
+In the month since the election, social media has been inundated with stories of voters unable to cast their ballots, because of impossibly long lines and understaffed polling stations. 
+At the same time, mountains of absentee ballots sat unopened in county election offices, which lacked the staff or equipment to process them before the certification deadline -- to say nothing of ballots that never made it through the postal system. 
+Whoever the official winner is, many Americans are sure to regard the outcome as illegitimate.
+Solution I've spent much of my career focused on the fragile software used to register voters and tally votes. 
+But while these systems are indeed vulnerable, this year my nightmares are less about technical mischief and more about logistical breakdown. 
+Counties, already short of election workers, may be unable to conduct an effective in-person election while also scaling up vote-by-mail options.
+We can prevent this nightmare scenario. 
+Some of it can be solved with money -- to support additional mailings, ballot printing and overtime -- but many counties will require emergency funding from states or the federal government. 
+And voters must engage personally. 
+If you can, sign up to be a poll worker or election judge, roles that have become increasingly hard to fill during the pandemic. 
+These workers check in voters at polling stations, process and verify mail-in ballots and help ensure the integrity of vote tallies. 
+And don't forget to vote as early as you can.
+Matt Blaze, a professor of law and computer science at Georgetown University, researches voting system security.
+The Times is committed to publishing a diversity of letters to the editor. 
+We'd like to hear what you think about this or any of our articles. 
+Here are some tips. 
+And here's our email: letters@nytimes.com
+Follow The New York Times Opinion section on Facebook, Twitter (@NYTopinion) and Instagram.

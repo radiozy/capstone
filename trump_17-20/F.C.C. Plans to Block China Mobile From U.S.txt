@@ -1,0 +1,34 @@
+﻿
+WASHINGTON -- The chairman of the Federal Communications Commission said on Wednesday that he would oppose China Mobile's application to provide cell service to Americans because of security concerns, sinking the company's chances of entering the United States market.
+''It is clear that China Mobile's application to provide telecommunications services in our country raises substantial and serious national security and law enforcement risks,'' Ajit Pai, the chairman, said in a statement.
+He said the full commission would vote on the proposal in May. 
+The vote of Mr. Pai, a Republican, carries tremendous sway because his party holds three of the five commission seats.
+The rejection escalates the United States' battle against China's expanding influence in the technology and telecommunications industry. 
+The Trump administration has focused most intensely on Huawei, China's largest telecom equipment company. 
+The White House has accused Huawei of being an arm of the Chinese government that can be used for spying or to sabotage communications networks. 
+Huawei has vehemently denied the accusations.
+The American government has stopped Huawei from selling equipment for the next generation of cellular technology, known as 5G, in the United States. 
+But the administration's effort to persuade other countries to avoid Huawei's equipment has run into resistance in many places.
+China Mobile, one of the largest cellular providers in the world, applied for a license to connect calls between the United States and other nations in 2011. 
+The company was not seeking to provide domestic cell service and compete in the country with businesses like AT&T and Verizon.
+Still, China Mobile's ability to connect calls between Americans to locations abroad worried the F.C.C. 
+Those calls could be intercepted for surveillance and make the domestic network vulnerable to hacking and other risks, a senior official said in a call with reporters.
+Mr. Pai said he had rejected the application after an internal review, and upon a recommendation last year by the Commerce Department to reject China Mobile's plans because of the potential for espionage, hacking and other security risks. 
+The application was filed by China Mobile U.S.A., a Delaware corporation that is ultimately controlled by the Chinese government, the F.C.C. said.
+The application had sat for years with the commission with little public attention. 
+Under President Trump, officials at the Commerce Department reviewed the application and recommended in July that the F.C.C. reject it. 
+It was the first time, the commission said, that an administration had rejected a foreign telecommunications application.
+''After significant engagement with China Mobile, concerns about increased risks to U.S. law enforcement and national security interests were unable to be resolved,'' David J. Redl, an assistant secretary in the Commerce Department, wrote in a statement in July.
+Foreign telecommunications companies that operate in the United States include British Telecom; T-Mobile U.S.A., a unit of Deutsche Telekom of Germany; and Telekomunikasi Indonesia International (U.S.A.), which is majority-owned by the Indonesian government. 
+It often goes by Telin U.S.A.
+Mr. Pai's decision highlights increasingly similar agendas for the F.C.C., an independent agency, and the White House. 
+Last week, he joined Mr. Trump at a White House announcement to create a multibillion-dollar fund to get broadband to rural areas that lack good service.
+Mr. Trump has declared China's booming telecommunications and tech sector a threat to Americans security and global economic leadership. 
+The concern is focused on a global race to build 5G wireless networks that promise much faster speeds than current wireless services. 
+Mr. Trump has declared 5G a national priority because it could enable new technologies like driverless cars, smart transportation systems and industrial robots that will depend on fast connections between internet-enabled machines.
+Mr. Pai has proposed a ban on any Huawei networking equipment in the United States for broadband and telecommunications providers that receive government subsidies. 
+The ban would also apply to ZTE, another Chinese telecom equipment maker. 
+AT&T and Verizon are among the carriers that have raised concerns about the proposal, though it is still widely expected to be approved.
+Blair Levin, a policy adviser for New Street Research, said the action on Wednesday brought the F.C.C. closer to the administration's broader battles with China.
+''The interesting question, of course, is whether the decision is really about trade policy, security policy or communications policy,'' Mr. Levin said. 
+''It probably is all of those things.''

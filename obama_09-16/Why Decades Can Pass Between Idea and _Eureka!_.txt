@@ -1,0 +1,57 @@
+﻿
+WASHINGTON -- How will the world meet its rising demand for energy?
+Experience suggests the solutions might already be at hand, although it may be years before they are widely recognized because energy inventions have an exceptionally long gestation period.
+Take hydraulic fracturing, or fracking, as it is more commonly known. 
+In the last three years, this technique of horizontal drilling for gas in shale rock has shaken up the energy world by pushing natural gas prices so low that they have depressed the use of coal and the price of electricity, and even raised the prospect of creating a major new export commodity for the United States.
+The research began in the 1980s, at the Energy Department, which judged by the early 1990s that fracking was mature enough to be left to the private sector. 
+But the technique did not have an impact on the gas market until nearly 20 years after that. 
+Steven Chu, the secretary of energy, cited the example when he briefed reporters on the Obama administration's request for research money for next year.
+Call it the Reagan era's gift of energy to the 21st century. 
+A lag that long may not be unusual, though. 
+''We have to think long term, because in energy technologies, if you're trying to create a technology, it will take at least 10 to 15 to 20 years to make a big commercial impact,'' said Arun Majumdar, director of a new Energy Department office intended to finance high-risk, high-reward projects, the Advanced Research Projects Agency -- Energy. 
+He spoke in February before an audience of entrepreneurs who were hoping for a much faster payoff.
+Energy projects are capital-intensive and energy companies are conservative, especially about innovation in high-ticket hardware. 
+Jim Ferland, president and chief executive of Westinghouse Electric, pointed out that design work on the company's new AP1000 reactor, only now being built in China, had been done in the early 1990s.
+There are other promising ideas out there, in the labs, in the start-ups, in the heads of audacious engineers, that could well define the energy map of the 2030s. 
+But the big technologies of the 2030s are no more obvious today than fracking was in the late 1980s and early 1990s.
+An obvious prospect, though, is biofuel. 
+Dozens of companies and laboratories are toiling to find the secret of how to convert plants to liquid fuel, without doing it as Mother Nature does, putting them under heat and pressure for millions of years. 
+Wood chips, the leaves and cobs of the corn plant and many nonfood plants have large amounts of sugar, which might be converted to alcohol, and thus fuel, just as sugar from corn kernels is in ethanol factories. 
+The problem is, in nonfood sources, the sugar is chemically locked up.
+DuPont says it has developed a ''saccharification enzyme'' that frees those sugars so they can be digested by a bacterium that excretes alcohol, at a rate of 70 to 80 gallons per ton, using only mild temperatures, pressures and chemical conditions. 
+The company hopes to break ground on a small commercial plant in Nevada, Iowa, this year.
+Industrial giants are not the only ones involved in this work. 
+In Medford, Mass., a tiny start-up called Agrivida is trying another strategy to get an enzyme to digest the leaves and stalks. 
+It is inserting new genes into a variety of plants, looking for one that will, when exposed to high temperature and alkalinity, produce an enzyme that partly digests the cellulose to liberate the sugars, so they can be converted into alcohol or other useful chemicals.
+If either effort succeeds, it will break a string of disappointments and failures. 
+''Companies have underestimated the technology risks and the complexity of designing not only an enzyme to do this work, but also optimizing the hardware to do this work,'' said James C. Collins Jr., president of DuPont Industrial Biosciences.
+In fact, by law, refiners were supposed to use 250 million gallons of such fuels last year, and 500 million this year, but so far, there isn't any.
+Agrivida is partly financed by ARPA-E, the program led by Dr. Majumdar. DuPont is looking for some construction incentives from local governments, but is largely self-financed. 
+Both companies, though, illustrate the new landscape of research and development in a time of changed priorities. 
+Today, unlike in the recent past, there is no space program to catalyze new developments in computing, solar cells, fuel cells or batteries. 
+Nor is there a cold-war military buildup to stimulate prospecting for uranium and oil. 
+And recent failures like the solar company Solyndra have given a bad name to big investments by government in risky new ideas.
+At the Institute for the Future, in Palo Alto, Calif., Devin J. Fidler, a research manager, said the nature of research itself was changing. 
+Of the big research powerhouses of the past, ''if they exist at all, they're shadows of their former selves,'' he said.
+But energy may be transitioning as information technology did, he said, into innovation by small shops. 
+''It opens up the field to the same kind of garage approaches that took hold in I.T. when it stopped being I.B.M. that did every new advance,'' he said. 
+Smaller players will develop innovations in local power grids that run on small-scale sources like solar and small wind, he said. 
+This could be a technology that uses solar panels to collect both light and heat, both of which can be converted to current, he said, or a fuel cell technology that makes possible small-scale storage of energy from intermittent sources.
+Just as the most important electronic developments of the last few years are devices that fit in a briefcase or a pocket, he said, the future of energy innovation may be small scale. 
+''There will be less of the big bang, like, 'we're opening a whole nuclear power plant,' and more a lightweight innovation,'' he predicted.
+That is not to discount large-scale institutions like universities and the Energy Department's national laboratories.
+At the University of Wyoming, Mark A. Northam, director of the School of Energy Resources and a former scientist and researcher at Mobil and then Exxon Mobil, points to research into new hybrid energy systems. 
+Wyoming would like to convert its vast reserves of coal into something more valuable. 
+His university is working with the Idaho National Laboratory to develop a refinery that would turn coal into liquids, which could substitute for oil.
+In a few years, the system would add equipment to break up water molecules into hydrogen and oxygen, and add the hydrogen to the hydrocarbons from the coal to improve the value of the product. 
+The electricity needed to split the water molecules could come from a wind farm, making use of another abundant Wyoming resource. 
+Modular nuclear reactors could also be used to make electricity, and the heat they make, either before or after they have been used to make electricity, could be used to do various pieces of work around the refinery.
+The product could run automobiles, heat homes and provide feedstocks for chemical plants.
+''It's probably 50 years out,'' said Mr. Northam. But such innovation depends on consistent financing, he said, which has not been the pattern in recent years. 
+In energy, he said, ''the focus kept changing as administrations changed or the political will changed; one year, there's a large budget looking at carbon sequestration as a means to reduce the carbon footprint, and two years later, it's mostly gone.''
+Some experts find the shift disheartening. 
+''On the energy front, they typically say, go to the Department of Energy,'' said Dale E. Klein, the associate vice chancellor for research at the University of Texas. 
+But Dr. Klein, a former chairman of the Nuclear Regulatory Commission, added, ''I don't think the national labs are focused on forward-thinking research and development like they were in the past; they're more concerned with compliance and cleanup issues.''
+''And I don't see private industry stepping up to the plate,'' he said. 
+As in manufacturing, he and others worry that the country may be losing its edge to competitors. 
+''My concern, if you look downstream, is it's going to be China,'' he said.

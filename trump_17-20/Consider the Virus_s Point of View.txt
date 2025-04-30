@@ -1,0 +1,111 @@
+﻿
+The career of the coronavirus so far is, in Darwinian terms, a great success story.
+No sensible person can dispute that Covid-19 is a great tragedy for humanity -- a tragedy even in the ancient Greek sense, as defined by Aristotle, with the disastrous ending contingent on some prideful flaw in the protagonist. 
+This time it's not Oedipus or Agamemnon. 
+This time it's we who are that cocky protagonist, having brought disaster on ourselves. 
+The scope and the devastation of the pandemic reflect bad luck, yes, and a dangerous world, yes, but also catastrophic failures of human foresight, communal will and leadership.
+But look past that record of human failures for a moment, and consider this whole event from the point of view of the virus. 
+Measure it by the cold logic of evolution: The career of SARS-CoV-2 so far is, in Darwinian terms, a great success story.
+This now-notorious coronavirus was once an inconspicuous creature, lurking quietly in its natural host: some population of animals, possibly bats, in the caves and remnant forests of southern China. 
+The existence of such a living hide-out -- also known as a reservoir host -- is logically necessary when any new virus appears suddenly as a human infection.
+Why?
+Because everything comes from somewhere, and viruses come from cellular creatures, such as animals, plants or fungi. 
+(A viral particle isn't a cell; it's just a strip of genomic instructions enclosed in a protein capsule -- a message in a bottle.) A virus can only replicate itself, function as though it were alive and abide over time if it inhabits the cells of a more complex creature, like a sort of genetic parasite.
+Generally, the relationship between virus and reservoir host represents an ancient evolutionary accommodation. 
+The virus persists at a low profile, without causing trouble, without proliferating explosively, and in return it gets long-term security. 
+Its horizons are modest: relatively small population, limited geographical scope.
+But this guest-host arrangement is not imperturbably stable, or the end of the story. 
+If another sort of creature comes in close contact with the host -- by preying on it, by capturing it or maybe only by sharing the same cave -- the virus might be jostled from its comfort zone and into a new situation: a new potential host.
+Suddenly it's like a gaggle of rats that jump ashore from a ship onto a remote island. 
+The virus might thrive in this new habitat, or it might fail and die out. 
+If it happens to thrive, if by chance it finds the new situation hospitable, then it might establish itself not just in the first new individual but in the new population.
+It might discover itself capable of entering some of the new host's cells, replicating abundantly and getting itself transmitted from that individual to others. 
+That jump is called host-switching or, by a slightly more vivid term, spillover. 
+If the spillover results in disease among a dozen or two dozen people, you have an outbreak. 
+If it spreads countrywide, an epidemic. 
+If it spreads worldwide, a pandemic.
+Imagine again that gaggle of rats on a previously rat-free island. 
+To their delight, they find the island inhabited by several endemic species of birds, naïve and trusting, accustomed to laying their eggs on the ground. 
+The rats eat those eggs. 
+Soon the island has lost its terns and its rails and its dotterels, but it has an abundance of rats.
+Over time, the rats also acquire the ability to dig lizards out of their hiding places amid rocks and logs, and eat them. 
+They develop an improved agility at tree climbing, and eat eggs from birds' nests up there, too. 
+Now you might as well call the place Rat Island. 
+For the rats, this is a tale of evolutionary success.
+If the remote island of habitat is a human being newly colonized by a virus from a nonhuman animal, we call that virus a zoonosis. 
+The resulting infection is a zoonotic disease. 
+More than 60 percent of human infectious diseases, including Covid-19, fall into this category of zoonoses that have succeeded. 
+Some zoonotic diseases are caused by bacteria (such as the bacillus responsible for bubonic plague) or other kinds of pathogen, but most are viral.
+Viruses have no malice against us. 
+They have no purposes, no schemes. 
+They follow the same simple Darwinian imperatives as do rats or any other creature driven by a genome: to extend themselves as much as possible in abundance, in geographical space and in time. 
+Their primal instinct is to do just what God commanded to his newly created humans in Genesis 1:28: ''Be fruitful and multiply, and fill the earth, and subdue it.''
+For an obscure virus, abiding within its reservoir host -- a bat or a monkey in some remote region of Asia or Africa, or maybe a mouse in the American Southwest -- spilling over into humans offers the opportunity to comply. 
+Not every successful virus will ''subdue'' the planet, but some go a fair way toward subduing at least humans.
+This is how the AIDS pandemic happened. 
+A chimpanzee virus now known as SIVcpz passed from a single chimp into a single human, possibly by blood contact during mortal combat, and took hold in the human. 
+Molecular evidence developed by two teams of scientists, one led by Dr. Beatrice H. Hahn, the other by Michael Worobey, tells us that this most likely happened more than a century ago, in the southeastern corner of Cameroon, in Central Africa, and that the virus took decades to attain proficiency at human-to-human transmission.
+By 1960 that virus had traveled downriver to big cities such as Léopoldville (now Kinshasa, the capital of the Democratic Republic of Congo); then it spread to the Americas and burst into notice in the early 1980s. 
+Now we call it ''H.I.V.-1 group M'': It's the pandemic strain, accounting for most of the 71 million known human infections to date.
+Chimpanzees were a species in decline, alas, because of habitat loss and killing by humans; humans were a species in ascendance. 
+The SIVcpz virus reversed its own evolutionary prospects by getting into us and adapting well to the new host. 
+It jumped from a sinking lifeboat onto a luxury cruise ship.
+SARS-CoV-2 has done likewise, though its success has occurred much more quickly. 
+It has now infected more than 30 million people, just under half as many as the number of people infected by H.I.V., and in 10 months rather than 10 decades. 
+It's not the most successful human-infecting virus on the planet -- that distinction lies elsewhere, possibly with the Epstein-Barr virus, a very transmissible species of herpesvirus, which may reside within at least 90 percent of all humans, causing syndromes in some and lying latent in most. 
+But SARS-CoV-2 is off to a roaring start.
+Now, for purposes of illustration, imagine a different scenario, involving a different virus. 
+In the mountain forests of Rwanda lives a small, insectivorous bat known as Hill's horseshoe bat (Rhinolophus hilli). 
+This bat is real, but it has been glimpsed only rarely and is classified as critically endangered. 
+Posit a coronavirus, for which this bat serves as reservoir host. 
+Call the virus RhRW19 (a coded abbreviation of the sort biologists use), because it was detected within the species Rhinolophus hilli (Rh), in Rwanda (RW), in 2019 (19).
+The virus is hypothetical, but it's plausible, given that coronaviruses are known to occur in many kinds of horseshoe bats around the world. 
+RhRW19 is on the brink of extinction, because the rare bat is its sole refuge. 
+The lifeboat is leaking badly and nearly swamped.
+But then a single Rwandan farmer, needing fertilizer for his crops on a meager patch of dirt, enters a cave and shovels up some bat guano. 
+The guano has come from Hill's horseshoe bats and it contains the virus. 
+In the process of shoveling and breathing, the farmer becomes infected with RhRW19. 
+He passes it to his brother, and the brother carries it to a provincial clinic where he works as a nurse. 
+The virus circulates for weeks among employees of the clinic and their contacts, making some sick, killing one person, while natural selection improves its capacity to replicate within cells of the human respiratory tract and transmit between people.
+A visiting doctor becomes infected, and she carries the virus back to Kigali, the capital. 
+Soon it is at the airport, in the airways of people who don't yet feel symptoms and are boarding flights for Kinshasa, Doha and London. 
+Now you can give the improved virus a different name: SARS-CoV-3. 
+It's a success story that hasn't happened yet but very easily could.
+Coronaviruses are an exceptionally dangerous group. 
+The journal Cell recently published a paper on pandemic diseases and how Covid-19 has come upon us, by a scientist named Dr. David M. Morens and one co-author. 
+Dr. Morens, a prolific author and keen commentator, serves as senior scientific adviser to the director of the National Institute of Allergy and Infectious Diseases, Dr. Anthony Fauci. 
+His co-author on this paper is Dr. Fauci.
+The paper says, among other things, that coronaviruses harbored in various mammalian species ''may essentially be preadapted to human infectivity.''
+Not just bats but other mammals -- pangolins, palm civets, cats, ferrets, mink, who knows what -- contain cells that are susceptible to the same viral hooks that allow coronaviruses to catch hold of some human cells. 
+Existing within those reservoir hosts may prepare the viruses nicely for infecting us.
+The closest known relative of SARS-CoV-2 is a virus discovered seven years ago, in a bat captured at a mine shaft in Yunnan Province, China, by a team under the leadership of Dr. Zhengli Shi, of the Wuhan Institute of Virology. 
+This virus carries the moniker RaTG13. 
+It is about 96 percent similar to SARS-CoV-2, but that four percentage point difference represents decades of evolutionary divergence, possibly in a different population of bats. 
+In other words, RaTG13 and our nemesis bug are not the same virus; they are like cousins who have lived all their adult lives in separate towns.
+What happened, during those decades of evolutionary divergence, to bring a still-undiscovered bat coronavirus to the brink of spillover into humans and enable it to become SARS-CoV-2?
+We don't yet know. 
+Scientists in China will keep looking for that closer-match virus. 
+The evidence gathered so far is mixed and incomplete, complicated by the fact that coronaviruses are capable of a nifty evolutionary trick: recombination.
+That means that when two strains of coronavirus infect the same individual animal, they may swap sections and emerge as a composite, possibly (by sheer chance) encompassing the most aggressive, adaptive sections of the two. 
+SARS-CoV-2 may be such a composite, built by happenstance and natural selection from components known to exist among other viruses in the wild, and emerging from its nonhuman host with a fearsome capacity to grab, enter and replicate within certain human cells.
+Bad luck for us. 
+But evolution is not rigged to please Homo sapiens.
+SARS-CoV-2 has made a great career move, spilling over from its reservoir host into humans. 
+It already has achieved two of the three Darwinian imperatives: expanding its abundance and extending its geographical range. 
+Only the third imperative remains as a challenge: to perpetuate itself in time.
+Will we ever be rid of it entirely, now that it's a human virus?
+Probably not. 
+Will we ever get past the travails of this Covid-19 emergency?
+Yes.
+Dr. Morens has recently been a co-author of another paper examining how coronaviruses have come at us. 
+In it, he and his colleagues nod to the eminent molecular biologist Joshua Lederberg, a Nobel Prize laureate in 1958, at age 33, who later wrote: ''The future of humanity and microbes likely will unfold as episodes of a suspense thriller that could be titled 'Our Wits Versus Their Genes.'
+''
+Dr. Morens is on target, and Dr. Lederberg was right. 
+Viruses can evolve, quickly and efficaciously. 
+But we humans are smart, sometimes.
+David Quammen is an author and journalist whose books include ''Spillover: Animal Infections and the Next Human Pandemic.''
+The Times is committed to publishing a diversity of letters to the editor. 
+We'd like to hear what you think about this or any of our articles. 
+Here are some tips. 
+And here's our email: letters@nytimes.com
+Follow The New York Times Opinion section on Facebook, Twitter (@NYTopinion) and Instagram.

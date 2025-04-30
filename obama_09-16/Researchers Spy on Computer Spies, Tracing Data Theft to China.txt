@@ -1,0 +1,52 @@
+﻿
+TORONTO -- Turning the tables on a China-based computer espionage gang, Canadian and United States computer security researchers have monitored a spying operation for the past eight months, observing while the intruders pilfered classified and restricted documents from the highest levels of the Indian Defense Ministry.
+In a report issued Monday night, the researchers, based at the Munk School of Global Affairs at the University of Toronto, provide a detailed account of how a spy operation it called the Shadow Network systematically hacked into personal computers in government offices on several continents.
+The Toronto spy hunters not only learned what kinds of material had been stolen, but were able to see some of the documents, including classified assessments about security in several Indian states, and confidential embassy documents about India's relationships in West Africa, Russia and the Middle East. 
+The intruders breached the systems of independent analysts, taking reports on several Indian missile systems. 
+They also obtained a year's worth of the Dalai Lama's personal e-mail messages.
+The intruders even stole documents related to the travel of NATO forces in Afghanistan, illustrating that even though the Indian government was the primary target of the attacks, one chink in computer security can leave many nations exposed.
+''It's not only that you're only secure as the weakest link in your network,'' said Rafal Rohozinski, a member of the Toronto team. 
+''But in an interconnected world, you're only as secure as the weakest link in the global chain of information.''
+As recently as early March, the Indian communications minister, Sachin Pilot, told reporters that government networks had been attacked by China, but that ''not one attempt has been successful.''
+But on March 24, the Toronto researchers said, they contacted intelligence officials in India and told them of the spy ring they had been tracking. 
+They requested and were given instructions on how to dispose of the classified and restricted documents.
+On Monday, Sitanshu Kar, a spokesman for the Indian Defense Ministry, said officials were ''looking into'' the report, but had no official statement.
+The attacks look like the work of a criminal gang based in Sichuan Province, but as with all cyberattacks, it is easy to mask the true origin, the researchers said. 
+Given the sophistication of the intruders and the targets of the operation, the researchers said, it is possible that the Chinese government approved of the spying.
+When asked about the new report on Monday, a propaganda official in Sichuan's capital, Chengdu, said ''it's ridiculous'' to suggest that the Chinese government might have played a role. 
+''The Chinese government considers hacking a cancer to the whole society,'' said the official, Ye Lao. 
+Tensions have risen between China and the United States this year after a statement by Google in January that it and dozens of other companies had been the victims of computer intrusions coming from China.
+The spy operation appears to be different from the Internet intruders identified by Google and from a surveillance ring known as Ghostnet, also believed to be operating from China, which the Canadian researchers identified in March of last year. 
+Ghostnet used computer servers based largely on the island of Hainan to steal documents from the Dalai Lama, the exiled Tibetan spiritual leader, and governments and corporations in more than 103 countries.
+The Ghostnet investigation led the researchers to this second Internet spy operation, which is the subject of their new report, titled ''Shadows in the Cloud: An investigation Into Cyberespionage 2.0.''
+The new report shows that the India-focused spy ring made extensive use of Internet services like Twitter, Google Groups, Blogspot, blog.com, Baidu Blogs and Yahoo!
+Mail to automate the control of computers once they had been infected.
+The Canadian researchers cooperated in their investigation with a volunteer group of security experts in the United States at the Shadowserver Foundation, which focuses on Internet criminal activity.
+''This would definitely rank in the sophisticated range,'' said Steven Adair, a security research with the group. 
+''While we don't know exactly who's behind it, we know they selected their targets with great care.''
+By gaining access to the control servers used by the second cyber gang, the researchers observed the theft of a wide range of material, including classified documents from the Indian government and reports taken from Indian military analysts and corporations, as well as documents from agencies of the United Nations and other governments.
+''We snuck around behind the backs of the attackers and picked their pockets,'' said Ronald J. Deibert, a political scientist who is director of the Citizen Lab, a cybersecurity research group at the Munk School. 
+''I've not seen anything remotely close to the depth and the sensitivity of the documents that we've recovered.''
+The researchers said the second spy ring was more sophisticated and difficult to detect than the Ghostnet operation.
+By examining a series of e-mail addresses, the investigators traced the attacks to hackers who appeared to be based in Chengdu, which is home to a large population from neighboring Tibet. 
+Researchers believe that one hacker used the code name ''lost33'' and that he may have been affiliated with the city's prestigious University of Electronic Science and Technology. 
+The university publishes books on computer hacking and offers courses in ''network attack and defense technology'' and ''information conflict technology,'' according to its Web site.
+The People's Liberation Army also operates a technical reconnaissance bureau in the city, and helps finance the university's research on computer network defense. 
+A university spokesman could not be reached Monday because of a national holiday.
+The investigators linked the account of another hacker to a Chengdu resident whose name appeared to be Mr. Li. Reached by telephone on Monday, Mr. Li denied taking part in computer hacking. 
+Mr. Li, who declined to give his full name, said he must have been confused with someone else. 
+He said he knew little about hacking. 
+''That is not me,'' he said. 
+''I'm a wine seller.''
+The Canadian researchers stressed that while the new spy ring focused primarily on India, there were clear international ramifications. 
+Mr. Rohozinski noted that civilians working for NATO and the reconstruction mission in Afghanistan usually traveled through India and that Indian government computers that issued visas had been compromised in both Kandahar and Kabul in Afghanistan.
+''That is an operations security issue for both NATO and the International Security Assistance Force,'' said Mr. Rohozinski, who is also chief executive of the SecDev Group, a Canadian computer security consulting and research firm.
+The report notes that documents the researchers recovered were found with ''Secret,'' ''Restricted'' and ''Confidential'' notices. 
+''These documents,'' the report says, ''contain sensitive information taken from a member of the National Security Council Secretariat concerning secret assessments of India's security situation in the states of Assam, Manipur, Nagaland and Tripura, as well as concerning the Naxalites and Maoists,'' two opposition groups.
+Other documents included personal information about a member of the Indian Directorate General of Military Intelligence.
+The researchers also found evidence that Indian Embassy computers in Kabul, Moscow and Dubai, United Arab Emirates, and at the High Commission of India in Abuja, Nigeria had been compromised.
+Also compromised were computers used by the Indian Military Engineer Services in Bengdubi, Calcutta, Bangalore and Jalandhar; the 21 Mountain Artillery Brigade in Assam and three air force bases. 
+Computers at two Indian military colleges were also taken over by the spy ring.
+Even after eight months of watching the spy ring, the Toronto researchers said they could not determine exactly who was using the Chengdu computers to infiltrate the Indian government.
+''But an important question to be entertained is whether the P.R.C. will take action to shut the Shadow Network down,'' the report says, referring to the People's Republic of China. 
+''Doing so will help to address longstanding concerns that malware ecosystems are actively cultivated, or at the very least tolerated, by governments like the P.R.C. who stand to benefit from their exploits though the black and gray markets for information and data.''

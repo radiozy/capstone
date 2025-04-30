@@ -1,0 +1,56 @@
+﻿
+SHANGHAI -- Ever since Meng Wanzhou, the chief financial officer at the Chinese technology giant Huawei, was arrested in Canada nearly two months ago, Chinese officials have denounced the move as ''wrongful'' and ''arbitrary'' -- a political affair cloaked in a judicial one.
+Now that the United States has laid out its case against Ms. Meng in greater detail, neither Huawei nor the Chinese government has easy options for responding or retaliating.
+Huawei, the world's largest provider of the equipment that powers mobile phone and data networks, said on Tuesday that it was innocent of charges unveiled in Washington the day before that it had misled the United States government about its business in Iran, obstructed a criminal investigation and stolen American industrial secrets.
+China's Foreign Ministry called again for the United States and Canada to release Ms. Meng, who is a daughter of Huawei's founder and chief executive, Ren Zhengfei.
+But should Ms. Meng be extradited to the United States to face charges, as American officials say they plan to request before a deadline on Wednesday, Beijing will have few ways to force Washington's hand.
+China is in the middle of a trade war that it is eager to end as its vast economy slows. 
+Any effort to get tough on the United States -- such as by detaining American nationals, as it did to Canadians after Ms. Meng was arrested -- could scuttle the negotiations.
+Those talks are set to resume on Wednesday, and Steven Mnuchin, the Treasury secretary, said in a television interview on Tuesday that the case against Ms. Meng would not affect them.
+''Forced technology issues are part of trade discussions,'' Mr. Mnuchin said, while emphasizing that any issues related ''to violation of U.S. law or U.S. sanctions are going through a separate track, which is the Justice Department.''
+Huawei's Washington operations have undergone drastic turnover as it appears to rein in its sales ambitions in America and shift tactics in its relations with the government. 
+In the second shake-up of its American leadership in less than a year, the company is replacing Regent Zhang, its head of government affairs in Washington, with Joy Tan, currently its head of global communications.
+The broad language of the Justice Department's indictments suggests that other Huawei leaders, including Mr. Ren, a former officer in the People's Liberation Army, might wish to exercise caution while traveling to countries that have an extradition treaty with the United States.
+''If I was his lawyer, I would advise him to be careful,'' said Julian Ku, a professor of law at Hofstra University.
+But that kind of caution could make it harder still for Huawei to hold on to its business in places like Europe. 
+Already, the United States has been applying pressure on all sides against Huawei, fearing that the Chinese government could use the company's gear to sabotage other countries' communication networks.
+Previously, Canadian officials had said Ms. Meng was accused of tricking financial institutions into making transactions that violated United States sanctions on Iran. 
+One of the two indictments unsealed on Monday outlines a broader effort.
+The indictment says Huawei's misrepresentations to the United States government and four multinational financial institutions began in 2007. 
+It cites an interview between agents of the Federal Bureau of Investigation and Mr. Ren around July of that year, in which Mr. Ren said that his company complied with all American laws and that it had not dealt directly with any Iranian company.
+The indictment also cites 2012 testimony before the United States Congress in which a Huawei executive said the company's business in Iran had not violated sanctions. 
+That executive was Charles Ding, a corporate senior vice president. 
+Mr. Ding, who was not mentioned by name in Monday's indictment, could not be reached for comment.
+Also in the indictment is a reference to a file found on an electronic device that Ms. Meng was carrying when she arrived at Kennedy International Airport in New York in 2014. 
+Officials detained her for a couple of hours when she arrived, according to a person with knowledge of the events. 
+During that time, they briefly confiscated her electronic devices, said the person, who asked for anonymity because the events had not been made public.
+The file she was carrying, which the indictment said might have been deleted before being discovered, contained ''suggested talking points'' about Huawei's relationship with Skycom, the company that prosecutors accuse Huawei of using as an unofficial subsidiary to obtain American-sourced goods, technology and services for its Iranian business.
+The indictment also said Skycom employed at least one United States citizen in Iran, a violation of American law. 
+And it said that after Huawei found out that the United States was pursuing a criminal investigation in 2017, the company destroyed evidence and tried to move unspecified witnesses who knew about its Iranian business to China, beyond the reach of the American government.
+The other indictment, which concerns the theft of trade secrets from the American wireless provider T-Mobile, refers to internal emails describing a plot to steal testing equipment from T-Mobile's lab in Bellevue, Wash.
+Huawei has contended that its employees were acting on their own to learn more about a robot that T-Mobile used to test smartphones, nicknamed Tappy because it could rapidly tap a phone screen. 
+But the indictment cites multiple emails exchanged between Huawei engineers urging those with access to Tappy to take increasingly precise measurements.
+Eventually, the indictment says, a Huawei engineer sneaked into the Tappy laboratory with the help of other Huawei employees who had access. 
+He was caught and thrown out but returned, the indictment said.
+Later, after all but one Huawei employee had their access to the robot revoked, the employee took a Tappy robotic arm home for closer study, according to the indictment. 
+A Huawei investigation into the issue, which concluded there was minimal coordination among the engineers, contained false statements, the indictment said.
+The indictment also cites a Huawei program started in 2013 to reward employees for stealing confidential information from competitors. 
+They were directed to post such information to an internal Huawei website, or in special cases to an encrypted email address, the indictment said. 
+Bonuses were apportioned to those who stole the most valuable information, it said.
+The evidence presented in this week's indictments bolsters the American case for extraditing Ms. Meng, said Mr. Ku of Hofstra University.
+''The standard for extradition is whether a Canadian court would send her to trial,'' Mr. Ku said. 
+''Essentially, is there enough evidence to indict someone?
+I think this will help meet that standard.''
+Prosecutors redacted the identity of at least one of the defendants, most likely to leave open the option of arresting that person. 
+That person isn't likely to be Mr. Ren, said Mr. Ku, because he is mentioned later in the indictment. 
+But that doesn't guarantee prosectors won't target him later.
+Huawei has worked for a reset in Washington as relations with the American government have worsened. 
+Last year it cut staff in Washington after investigations into the company deepened and AT&T walked away from a deal to sell Huawei's phones. 
+Further personnel shifts in recent weeks appear to be focused on improving its image in America.
+Ms. Tan, Huawei's incoming head of government affairs in Washington, has for years played a key role in the company's media relations. 
+She will be tasked with engaging an American administration that has grown hawkish on China. 
+Her predecessor in Washington, Mr. Zhang, had previously been responsible for sales in Mexico.
+The mounting global skepticism toward Huawei and other Chinese tech suppliers is starting to have practical effects on the telecommunications industry.
+On Tuesday, TPG Telecom, an internet provider in Australia, said it had been forced to cancel the construction of its mobile network because of the Australian government's decision last year to forbid Huawei to supply next-generation, or 5G, equipment.
+In a stock-exchange filing, TPG said it had already spent around $70 million on its new network, largely on Huawei gear. 
+But the company said it did not make sense to invest further in a network that could not later be upgraded to 5G.

@@ -1,0 +1,32 @@
+﻿
+BERLIN -- Ericsson, the biggest maker of telecommunications networking equipment, said Friday that its profit plunged 42 percent in the third quarter as wireless carriers delayed building new, faster grids in large parts of Europe, China, Russia and South Korea.
+The company, based in Stockholm, said net profit in the three months through September fell to 2.2 billion Swedish kronor, or $328 million, from 3.8 billion kronor a year earlier, as sales fell 2 percent to 54.6 billion kronor.
+''We see a continued macroeconomic slowdown and political unrest in parts of the world, which has led to more cautious operator spending,'' Hans Vestberg, the Ericsson chief executive, said.
+Martin Nilsson, an analyst at Handelsbanken in Stockholm, said Ericsson's ongoing struggles were also the result of an industrywide oversupply of high-speed network equipment on the global market. 
+In the nine months through September, sales at Ericsson have fallen by 1.5 percent from a year earlier.
+Mr. Nilsson said Ericsson and its rivals, Huawei of China, Nokia Siemens Networks and Alcatel-Lucent, had continued to develop new, faster networks whose ability to handle data far outstripped current demand.
+As a result, wireless operators are managing phone grids with a lot of unused capacity and have no pressing need to buy and build newer networks, Mr. Nilsson said.
+''Ericsson is in a market that has been structurally flat and slightly declining for a decade,'' he said. 
+''Since the year 2000, the level of data traffic on wireless networks has increased about 200 times. 
+But total industry sales are still 5 to 10 percent lower.''
+Ericsson's earnings were also weighed down by continued losses at ST-Ericsson, its chip and handset components venture with the Swiss company STMicroelectronics. 
+Ericsson booked a loss of 600 million kronor at that venture, based in Geneva, after losing 700 million kronor a year earlier.
+In a conference call with analysts, Mr. Vestberg said that modest levels of global demand for networking gear had changed little over the past year, as many operators chose to upgrade existing networks rather than build new ones, which weighs on Ericsson's profit.
+The company, as is its practice, gave no forecast for future sales or profitability. 
+Over the long term, Mr. Vestberg said the market for wireless gear remained strong, as rising sales of smartphones encouraged operators to invest in new networks. 
+The number of global smartphone users, which topped one billion in the third quarter, is expected to triple to three billion by 2017, he said.
+''The introduction of new devices and applications put higher consumer demands on network performance and quality,'' Mr. Vestberg said. 
+''This drives demand for our technology, software and services capabilities.''
+Sales in Ericsson's networks division, which made up 49 percent of sales, fell 17 percent in the third quarter to 26.9 billion kronor from 32.5 billion kronor. 
+Sales of Ericsson's services business, which made up 45 percent of sales, rose 19 percent to 24.3 billion kronor.
+In an interview, Mr. Vestberg said it was possible that Ericsson could soon generate more sales on a quarterly basis from its growing business of servicing networks, which includes installing new equipment to managing networks for operators on an outsourcing basis, than from actually selling network gear, its traditional core activity.
+''It is nothing that we target, but of course it could happen,'' Mr. Vestberg said. 
+''We had extremely strong equipment sales earlier this year and now we are installing all of that.''
+''The market for services is far greater and much less penetrated than the network equipment market,'' he added.
+In China, Japan and South Korea, Ericsson's second-largest regional market after North America, sales fell 13 percent to 8.4 billion kronor. 
+Mr. Vestberg said Chinese operators were testing new, networks based on Long Term Evolution, or LTE, technology, but did not buy the gear because the Chinese government had yet to auction the necessary licenses and broadcast spectrum.
+Sales also fell 10 percent in Latin America, to 5.4 billion kronor, and sales fell by more than 20 percent in Scandinavia, Russia and the rest of Europe.
+In North America, Ericsson's largest geographic market with 26 percent of global sales, revenue rose 16 percent, to 14 billion kronor. 
+Purchases of LTE equipment by U.S. and Canadian operators offset a 50 percent decline in sales of gear that runs on an older standard, Code Division Multiple Access, or CDMA, technology, Mr. Vestberg said.
+Shares of Ericsson fell 4.6 percent in Stockholm trading to 56.5 kronor.
+This is a more complete version of the story than the one that appeared in print.

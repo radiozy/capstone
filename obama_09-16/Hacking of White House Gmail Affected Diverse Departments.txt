@@ -1,0 +1,26 @@
+﻿
+WASHINGTON -- The computer phishing attack that Google says originated in China was directed, somewhat indiscriminately, at an unknown number of White House staff officials, setting off the Federal Bureau of Investigation inquiry that began this week, according to several administration officials.
+It is unclear how many White House staff members -- or those of other departments in the executive branch -- might have been affected, according to two officials with knowledge of the investigation. 
+But the intended victims ranged across various functions in the White House, and were not limited to those working on national security, economic policy or trade areas that would be of particular interest to the Chinese government.
+Administration officials said they had no evidence any confidential information was breached, or even that many people fell for the attack by providing information that would allow a breach of their Gmail accounts.
+White House classified systems run on dedicated lines and information on those systems, the officials said, cannot be forwarded to Gmail accounts. 
+But investigators were trying to determine if the attackers believed that some staff members or other officials used their personal e-mail accounts for confidential government communications.
+''Right now,'' said one senior official, ''that's a theory, not a fact.''
+Google disclosed the attack this week and said that it was directed at not only American government officials, but also human right activists, journalists and South Korea's government. 
+Google tracked the attack to Jinan, China, which is the home to a Chinese military regional command center.
+But that does not necessarily mean the attackers were Chinese or related to the government. 
+The Chinese government denied any involvement.
+The attack used e-mails that appeared to be tailored to their victims, the better to fool them, a technique known as spear phishing. 
+Recipients were asked to click on a link to a phony Gmail login page that gave the hackers access to their personal accounts.
+The attacks come as the United States government considers expanding its use of Web-based software for e-mail, along with word processing, spreadsheets and other kinds of documents. 
+Google is one of the many companies vying for the business with its Apps product, as is Microsoft.
+Web based e-mail would be vulnerable to hackers who steal login information through phishing attacks. 
+But Web-based systems are not necessarily any easier to hack than traditional e-mail, which a government agency would usually manage using its own servers, said Larry Ponemon, chairman of the Ponemon Institute, a computer security firm in Traverse City, Mich.
+Jay Carney, the White House press secretary, said on Thursday that all White House-related electronic mail was supposed to be conducted on work e-mail accounts to comply with the Presidential Records Act, which governs how those communications are protected and archived. 
+Mr. Carney said there was no evidence that any White House accounts were compromised.
+White House employees are permitted to have private e-mail accounts, he said, but cannot use them for work purposes.
+Officials at the White House and other agencies often keep two computers in their offices, one for unclassified work and another for classified. 
+Senior officials sometimes have a ''secure facility'' in their homes, in which computers and telephones are on dedicated lines and communications are encrypted.
+Given its size, Google and its Gmail system will always make an attractive target.
+Other personal e-mail services, including Yahoo and Microsoft's Hotmail, have faced similar attacks, according to Trend Micro, a computer security company in Cupertino, Calif. 
+''The types of attacks that are happening against Web mail users aren't confined to Gmail alone and extend to other e-mail platforms,'' said Nart Villeneuve, a senior threat researcher for Trend Micro.

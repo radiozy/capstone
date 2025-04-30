@@ -1,0 +1,32 @@
+﻿
+A top Google executive on Wednesday called for rules to put pressure on governments that filter the Internet, saying the practice was hindering international trade.
+Alan Davidson, director of public policy for Google, told a joint Congressional panel that the United States should consider withholding development aid for countries that restrict certain Web sites. 
+He said censorship had become more than a human rights issue and was hurting profit for foreign companies that rely on the Internet to reach customers.
+''The growing problem for Internet censorship is not isolated to one country or one region,'' Mr. Davidson told the Congressional-Executive Commission on China. 
+''No single company and no single industry can tackle Internet censorship on its own.''
+The fallout from China's restrictive Internet policies widened on Wednesday when officials from Go Daddy Group, an Internet services company, told the commission that the company would halt registration of Chinese domain names.
+Christine Jones, general counsel of Go Daddy, said the company was concerned about privacy after Chinese officials requested photo identification and signatures of its customers. 
+For the first time, she said, Go Daddy had been asked to retroactively obtain documentation for individuals who had registered a domain name.
+''We're concerned about the chilling effect,'' Ms. Jones said. 
+''We made the decision that we didn't want to act as an agent of the Chinese government.''
+Ms. Jones described a chaotic scene for Internet companies in China. 
+She said attacks from hackers were rampant, fraudulent payments were common, and spammers worked without fear of punishment from the government.
+Representative David Wu, Democrat of Oregon, said he thought more companies would follow the example of Go Daddy and Google and cut back operations in China. 
+''Pretty soon you have a cascade going,'' Mr. Wu said. 
+''There is a difference between compliance and complicity.''
+More than 40 countries actively censor the Internet currently, Mr. Davidson said, and 25 governments have blocked Google over the last several years. 
+Mr. Davidson suggested asking countries to pledge to keep sites unfiltered in international trade agreements.
+On Monday, Google closed its Internet search service in China and began directing users in that country to its uncensored search engine in Hong Kong. 
+So far, Mr. Davidson said, the company had noticed ''intermittent'' censorship of the Hong Kong site. 
+Despite the restrictions, the company plans to maintain a sales team in mainland China, he said.
+Google's decision to leave China was prompted in part by a series of attacks by hackers last year, which raised broader concerns about the flow of information in the country. 
+The Chinese government has disputed that it was the source of the attacks, which focused on e-mail accounts of human rights advocates.
+Mr. Davidson said Google would consider returning to the Chinese market if the government there removed its restrictions. 
+But he acknowledged that there would likely be a ''hard road ahead'' because neither side is willing to cede ground.
+''It's going to take a lot of work to combat that censorship,'' he said.
+In a statement to the commission, Chinese officials defended their policies, saying, ''foreign companies need to abide by Chinese laws and regulations when they operate in China.''
+''The Chinese government encourages the development and popularization of the Internet and is committed to the opening up of the Internet,'' the statement said.
+The panel included members of the Senate and House and Obama administration officials. 
+It was chaired by Senator Byron L. Dorgan, Democrat of North Dakota, and Representative Sander M. Levin, Democrat of Michigan.
+''Information is not to be feared, and ideas are not enemies to be crushed,'' Mr. Dorgan said in opening remarks. 
+''The truth is China too often wants a one-way relationship with the world.''

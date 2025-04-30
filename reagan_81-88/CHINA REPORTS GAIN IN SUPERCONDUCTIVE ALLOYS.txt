@@ -1,0 +1,53 @@
+﻿
+Scientists in Beijing have reported producing an alloy that becomes superconducting, losing all resistance to electricity, at a temperature so high it would revolutionize the electrical industry. 
+If confirmed, it would be the second major superconductivity advance in a week.
+If the Beijing results can be duplicated, Dr. Robert J. Cava of A.T.&T. 
+Bell Laboratories said yesterday, ''the world is not going to be the same.''
+However, he added that it was not yet clear whether the Chinese had demonstrated total loss of electrical resistance.
+On Dec. 
+31 his group and one from the University of Houston both reported producing alloys that almost doubled the extremely low temperatures at which some materials become superconducting. 
+The Chinese claim would raise the temperature far higher, close to the level where liquid nitrogen could be used to achieve the effect.
+This would bring superconductivity within reach of numerous processes involving the transmission of electricity and the generation of strong magnetic fields. 
+Normally, substantial energy is lost as electricity passes through a wire or other conductor. 
+Such losses limit the intensity of magnetic fields that can be generated and increase energy costs. 
+Superconducting materials are already widely used in computers, in efforts to harness the fusion reactions of the sun, and in many other applications.
+ 
+Vital Import for Chinese
+However, they require far more costly refrigeration systems than those that would be made possible if the Chinese report proves valid. 
+If it does, it could rank as modern China's first major achievement in experimental physics.
+Superconductivity occurs when one among a variety of materials is cooled almost to absolute zero: the total absence of heat at minus 460 degrees Fahrenheit, or minus 273 degrees Celsius. 
+Electrical resistance occurs at all but very low temperatures because atoms in the conducting materials oscillate over wider and wider distances, thus interfering with the flow of an electrical current. 
+Extremely low temperatures are normally expressed in degrees Kelvin, with zero degrees equal to absolute zero.
+Degree increments in the Kelvin scale are the same as in the Celsius scale. 
+In the latter, however, the zero point is the freezing temperature of water; thus, 10 degrees Kelvin is minus 263 degrees Celsius.
+Last April the I.B.M. 
+Zurich Research Laboratory in Switzerland reported achieving superconductivity at 30 degrees Kelvin in a mixture of barium, lanthanum copper and oxygen. 
+It was the first substantial advance in more than a dozen years of worldwide research.
+ 
+Other Developments
+Since then the University of Tokyo, using the same combination of elements, has confirmed the I.B.M. finding. 
+Last week Bell Laboratories in New Jersey and the University of Houston, following up on this new line of attack, reported superconductivity at temperatures of 36 and 40 degrees Kelvin, respectively.
+The official New China News Agency has now reported that at the Institute of Physics of the Chinese Academy of Sciences in Beijing researchers have produced superconductivity at 70 degrees Kelvin (minus 203 degrees Celsius or minus 333 degrees Fahrenheit).
+As in the I.B.M. and Houston experiments, the material was a mixture of barium, lanthanum, copper and oxygen. 
+While Bell Labs has been following the same line of research, it has not provided details of its approach. 
+Its material became superconducting at normal atmospheric pressure whereas in Houston pressures of several hundred thousand pounds per square inch were required.
+China has produced a number of outstanding theoretical physicists, including two Nobel laureates, but has been handicapped in the experimental area. 
+Yesterday, Dr. Chien-Shiung Wu, professor of physics at Columbia University, who is former president of the American Physical Society, said that if the Beijing finding was confirmed, it could be China's first historic experimental achievement.
+She noted that China had extremely rich resources of rare earth elements, such as lanthanum, upon which fabrication of superconductors depends.
+ 
+Progress by Houston Group
+Yesterday in Houston, Ru-Ling Meng, a researcher working with the group there led by Dr. Paul C.W. 
+Chu, said they had produced fleeting elements of superconductivity at temperatures approaching 70 degrees but that the material proved unstable.
+Ms. Meng said she had formerly worked with those conducting the research in Beijing. 
+She has been trying to reach her former colleagues by telephone to learn details of their experiments. 
+Laboratories throughout the world are believed to be following up on the Chinese experiments and those that presumably inspired them at the I.B.M. laboratory in Switzerland.
+According to both the Bell Labs and Houston groups, the Chinese do not yet appear to have applied all the tests of superconductivity to their sample. 
+The transition to superconductivity, as temperature is lowered, can be gradual. 
+A variety of criteria are use to demonstrate the full transition.
+The one reportedly used by the Chinese depends on a sudden drop in electrical resistivity. 
+As pointed out yesterday by Dr. Cava, the results of such a test can be misleading. 
+Residual resistance being observed may be attributed to impurities in the sample, rather than an absence of true superconductivity.
+A more reliable test, he and Ms. Meng said, would be failure of a magnetic field to penetrate the sample in the manner typical of superconductivity.
+Dr. Cava noted that while no details of the experiments were yet available, confirmation of the report would be ''very exciting.''
+Referring to Chinese use of the I.B.M. mixture, he said, ''We are trying to find out what the Chinese did to it.''
+The answer could become available within days.

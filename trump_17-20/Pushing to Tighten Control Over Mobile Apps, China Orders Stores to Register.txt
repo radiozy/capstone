@@ -1,0 +1,21 @@
+﻿
+HONG KONG -- In the clearest sign yet that China's government has begun a new push to solidify control over mobile apps, a regulator has ordered the registration of app stores across the country.
+In a notice published on its website, the Cyberspace Administration of China said late Friday that its offices across China should ensure that records are kept on the country's many app stores, starting Monday.
+''Many apps have been found to spread illegal information, violate user rights or contain security risks,'' the post read. 
+It said the purpose of the registration was to ensure that it is clear who takes responsibility if apps, or app stores, are found to engage in illegal practices.
+Beijing has begun pushing harder to enforce a law passed last year that barred apps from engaging in activities deemed to endanger national security or disrupt social order, terms that are often broadly applied to discussion of politically sensitive topics.
+Just three weeks ago, Apple removed the English and Chinese-language news apps of The New York Times from its China app store. 
+Apple said the government had told it that the apps violated local regulations, but the company declined to specify which regulations.
+While the Chinese authorities have long maintained tight controls over the internet, smartphone apps have presented new challenges.
+Because Google's store for apps using its Android operating system is blocked in China, a large number of third-party stores have arisen to take its place. 
+Most of China's biggest app stores are controlled by its largest internet and smartphone companies, including Tencent, Baidu, Qihoo 360, Xiaomi and Alibaba.
+The profusion of third-party stores has led to multiple versions of apps and low security standards on the sites where they are commonly downloaded, according to analysts.
+Government monitoring of content and discussions can also be more difficult on mobile apps than on websites. 
+Content that would be strictly blocked on the internet can often be found on Chinese apps, though the authorities have occasionally banned apps that hosted such content.
+As with many Chinese laws and government orders, the notice posted Friday is vague, but it does appear to place some responsibility for policing apps' activity on the app stores themselves.
+It is also significant because it indicates that the regulator is taking concrete steps to follow up on the law passed last summer.
+Chinese laws are often intentionally broad and open-ended to allow regulators discretion in enforcing them. 
+For that reason, concrete steps like the registrations ordered Friday can provide the first indication of how laws will be carried out in practice.
+While the impact the order will have on China's mobile internet is not clear, it could ultimately lead to a culling of apps that store owners are uncomfortable with, including ones from foreign companies, which could be more difficult to identify or rein in.
+Still, it may take years for the government to exert control over all the app stores in the country. 
+Carrying out such edicts is often a slow process; for example, efforts to ensure that online profiles are linked to the user's real name have been continuing for more than a decade.

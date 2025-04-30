@@ -1,0 +1,63 @@
+﻿
+When the Microsoft Corporation unveiled its updated MS-DOS 5 software operating system last June, it was confident that it had devised a way to thwart the loss of $1 billion a year from software piracy. 
+Its packaging contains two one-of-a-kind holograms, one a circular image on the package box and the other a rectangular image pasted inside on the product manual, viewable through a window on the box. 
+The multidimensional images bear the company's name or the MS-DOS logo and tell consumers that the product is the real McCoy.
+Microsoft pamphlets said the holograms are "virtually impossible" to reproduce and "raise the counterfeiting barrier to a level previously unattempted in the software industry."
+Yet within two weeks of the introduction, a Taiwanese counterfeiter commissioned a holographer in China to copy and produce the holograms. 
+Over the next half-dozen months, Microsoft's counterattack took it to Taiwan, Japan, Hong Kong and Melbourne. 
+The idea was to track down the counterfeiters, mostly without the aid of foreign governments. 
+Ultimately, the company helped bust a major Asian couterfeiting ring that may have produced up to $150 million worth of the company's hottest products.
+But whether Microsoft can halt future clandestine activity there depends on talks this week with officials of the People's Republic of China. 
+Beijing has not yet kept its promise to give the company valuable molds seized in the March raids that produce nearly exact fakes.
+Alison Gilligan, one of Microsoft's antipiracy specialists, notes, "We're scared the molds will disappear out the back door and be sold to the highest bidder."
+In the meantime, the company is trying to get the fakes off the market, an endeavor made difficult "because we still don't know the extent of what is out there," said David Curtis, head of international law and corporate affairs at Microsoft. 
+So far, goods have been seized in the United States, Germany, Canada, Singapore, Hong Kong, Taiwan and enroute to Venezuela. 
+The company is attempting to get a search warrant to seize goods in Melbourne shipped from Taiwan.
+The software industry loses up to $14 billion a year to piracy, including illegal copying by dealers, corporations and individual users. 
+Fakes are so common in Taiwan that Microsoft estimates that only 20 percent of the software used there is legally obtained. 
+About 90 percent of all counterfeiting worldwide comes from Taiwan.
+Illegal competition for DOS projects is keen because nearly 80 percent of all personal computers worldwide are DOS based. 
+Ms. Gilligan said Microsoft commands "a big chunk" of this market.
+In this case, Microsoft caught wind of the operation last October when a salesman calling on a software store client in Taipai, Taiwan, saw an MS-DOS package that didn't look right. 
+The salesman purchased a copy and sent it to Alix Parlour, the company's piracy attorney based in Hong Kong, who in turn forwarded it to Microsoft's headquarters here. 
+Said Ms. Gilligan, "we were in shock. 
+No one could believe it happened."
+Ms. Parlour set up a corporate espionage team, using private eyes from the countries involved.. 
+She wanted to control the investigation, instead of turning it over to a foreign government that might not consider piracy a serious crime. 
+Microsoft also wanted to compile a list of suspects -- job shops, distributors, importers, exporters and buyers. 
+It then would have evidence to pursue in civil suits in each country if local authorites refused to prosecute.
+Investigators started checking out Taipei printers and binderies, asking if they had big orders or knew who did, hoping clues would lead to a "kingpin."
+Work would likely be done through 15 to 25 shops.
+A break came when trash found behind a bindery contained clipped-off edges of Microsoft manuals. 
+An investigator watching the shop noticed Microsoft materials visible on the seat of a white van parked nearby. 
+He followed the van as it visited several other contractors and discovered that it was registered to the brother of another suspect.
+The assembly plant was identified because all the contractors were delivering goods there. 
+An investigator concealed himself outside the plant and by watching which visitors were treated with the greatest respect, soon identified the ringleaders.
+By January, Ms. Parlour had enough information to ask government trademark police to raid five locations. 
+A prosecutor issued search warrants for three sites and the raids yielded 5,000 packages of products, thousands of holograms, 20,000 manuals and 13,000 diskettes, all fakes. 
+Documents gave the names of players and indicated 75,000 to 100,000 products, including MS-DOS 5 and the Windows operating system, had been shipped monthly since October.
+The fakes were produced in five languages -- English, French, German, Italian and Swedish. 
+Microsoft had thought the copies were limited to English.
+One of the storage sites was the home of the 80-year-old mother of a suspect. 
+Investigators said she was was unaware that the boxes stacked ceiling-high in her house contained illegal goods.
+But the prosecutor refused a warrant for the residence of the ringleader, saying he saw no grounds. 
+Ms. Parlour said that after the raids, "our surveillance team watched helplessly outside the leader's home as he removed records and cartons containing an estimated 10,000 to 12,000 products worth $750,000."
+The man remains outside of Microsoft's grasp although the company has sued Fong Shu Gwong, who they say is the No. 2 man. 
+Said Ms. Gilligan, "we believe he may serve as the fall guy and in return, his family will be well taken care of during his possible incarceration."
+To Ms. Parlour's frustration, the raids did not uncover the source of the holograms. 
+For a while, the team was sidetracked to Japan but the path eventually led to a broker in Hong Kong. 
+When Hong Kong investigators posed as businessmen attempting to buy Microsoft holograms, the broker said, "I think I know someone who can help you," and introduced them to the Shenzhen Reflective Materials Institute in China's most capitalistic, free-market province, Guangdong.
+The institute, just 10 miles from the Hong Kong border, legitimately produces holograms for Chinese documents. 
+It is affiliated with the Government-owned Shenzhen University.
+In March, simultaneous raids at the Shenzhen Institute and the broker's office resulted in the seizure of the hologram molds, 10,000 holograms and documents showing filled orders for 450,000 fake holograms. 
+An additional contract showed a standing order for 3 million more, a loss of $150 million to Microsoft if all have been produced and placed on illicit packages that may have been distributed worldwide.
+Mr. Curtis of Microsoft said the company is pleased "that we were able to conduct a raid in the P.R.C. with the cooperation of local authorities, with the grounds based on trademark violations."
+As he pointed out, "We've been talking about this for a long time."
+In her May 18 meeting with officials from the People's Republic, the Shenzhen Institute and the Shenzhen Administration of Industry, Ms. Parlour will attempt to negotiate release of the hologram molds or their destruction. 
+She'll have representatives from the Commerce Department with her.
+This spring, China agreed to strengthen its copyright laws rather than face United States trade sanctions. 
+In late April, Carla Hill, the United States Trade Representative, identified Taiwan, India and Thailand under the special 301 provisions of the Trade Act of 1974.
+The 301 provisions call for identifying trading partners that deny adequate and effective protection for intellectual property. 
+The Government can take action if disputes are not resolved. 
+China is one of 22 countries that have been placed on a special "priority watch" list.
+Ms. Parlour will be trying to bring those provisions to bear.

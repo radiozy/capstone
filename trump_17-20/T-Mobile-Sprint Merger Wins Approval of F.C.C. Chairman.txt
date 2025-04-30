@@ -1,0 +1,51 @@
+﻿
+T-Mobile and Sprint moved a step closer on Monday to completing their long-sought merger, securing the public support of the Federal Communications Commission's chairman for a deal that would reshape the country's wireless industry.
+The chairman, Ajit Pai, recommended that the agency approve the $26 billion deal based on what he called the companies' "significant commitments" to expand rural broadband service; build a robust 5G network, the wireless technology that is a top priority of the Trump administration; and sell off Boost Mobile, a Sprint-owned product that sells prepaid services popular with lower-income customers.
+Mr. Pai said the steps the companies had outlined in seeking the government's blessing were in line with the commission's goals.
+"Two of the F.C.C.'s top priorities are closing the digital divide in rural America and advancing United States leadership in 5G, the next generation of wireless connectivity," he said in a statement. 
+"The commitments made today by T-Mobile and Sprint would substantially advance each of these critical objectives."
+T-Mobile and Sprint are the third- and fourth-largest wireless providers in the United States. 
+Their promise to build out 5G technology, which brings faster-than-broadband speeds through the air, has been the centerpiece of their argument for why the merger should be approved. 
+The companies have said they would have a more difficult time doing so as separate businesses.
+Sprint, in particular, has been in a tough spot. 
+It has been losing customers and bleeding cash. 
+To make its case with the F.C.C., Sprint suggested in a filing outlining its many business deficiencies that it may not survive on its own.
+"Sprint's stand-alone competitive future is in peril," the company said. 
+"It does not have the network assets required to improve its coverage and consistency problems, and the move to 5G will only make these deficiencies more apparent."
+In addition to extending reliable internet access to poor, rural areas, 5G technology is expected to fuel the development of autonomous cars and other moonshot projects. 
+President Trump has argued that it is critical to national security, and has cited its importance in his administration's crackdown on the Chinese telecommunications giant Huawei.
+[Read out how 5G technology is at the heart of a growing technology feud between the United States and China.]
+By securing Mr. Pai's recommendation, the companies cleared a key hurdle toward creating a wireless carrier with more than 125 million customers that would immediately become a strong competitor to AT&T, which has 148 million, and Verizon, which has 118 million.
+John Legere, the colorful chief executive of T-Mobile and an active presence on Twitter, would become the leader of a combined company. 
+He has been the deal's pre-eminent pitchman, lobbying legislators and promoting the merger to his 6.2 million Twitter followers.
+"We took some action on those discussions, and we submitted a set of commitments to the F.C.C. around the New T-Mobile to address what we've heard," he said in a statement.
+A vote of the agency's five commissioners is expected in the coming weeks and could fall along party lines. 
+Mr. Pai, a staunch advocate of deregulation, leads the agency's Republican majority.
+Democrats and consumer advocates have previously criticized the proposed transaction, arguing that it would lead to higher prices. 
+Jessica Rosenworcel, a Democratic commissioner,   said after Mr. Pai's announcement that she had "serious doubts" about the deal, citing similar mergers in the airline and drug industries.
+"It hasn't worked out well for consumers," she added.
+The companies are also awaiting the approval of the Justice Department, which is expected to issue a decision on the matter in the coming weeks. 
+The agency's mandate — to focus on whether such deals harm competition — differs from the F.C.C.'s, potentially posing a greater regulatory obstacle.
+In 2011, the Justice Department blocked AT&T's proposed acquisition of T-Mobile. 
+In that instance, both the Justice Department and the F.C.C. concluded that reducing the number of major wireless carriers from four to three could destroy competition and hurt consumers.
+"That is as much of a concern as it always was," Craig Moffett, a founder of the research firm MoffettNathanson, said. 
+He added that it would be a mistake to assume that Mr. Pai's recommendation "suddenly makes the deal a slam dunk."
+The Justice Department's top antitrust regulator, Makan Delrahim, has had to review a flurry of mergers since moving into the job several years ago. 
+He sued AT&T, unsuccessfully, to block it from buying Time Warner. 
+Around the same time, he approved the Walt Disney Company's deal to acquire the bulk of Rupert Murdoch's 21st Century Fox, barely six months after the transaction was announced. 
+It was a relatively speedy turnaround for an acquisition that might normally take at least a year.
+The Justice Department would have to review the concessions offered to the F.C.C. and determine whether they were adequate to satisfy antitrust concerns. 
+Mr. Delrahim generally favors what are called structural remedies to such transactions, which typically involve divestitures. 
+The proposed Boost sale could be meant to address that issue.
+T-Mobile and Sprint announced their plans to merge in April 2018, and Mr. Legere and Marcelo Claure, Sprint's executive chairman, have been on a charm offensive since then in hopes of securing approval for the deal.
+Mr. Legere has made numerous visits to the F.C.C. and the Justice Department, documenting his activity on social media. 
+A month after the merger was announced, Mr. Claure was a host of a fund-raiser for Representative Marsha Blackburn, a Tennessee Republican who was running for Senate. 
+Ms. Blackburn, a longtime supporter of the telecommunications industry, was elected to the Senate in November.
+Lawmakers have expressed concern over Mr. Legere's Washington forays, including the dozens of stays by him and other T-Mobile executives at the Trump International Hotel in the city. 
+Some lawmakers have suggested that the companies were trying to buy the Trump administration's support.
+T-Mobile and Sprint have denied doing anything inappropriate to curry favor with administration officials, and Mr. Pai cited their pledges on 5G service, increasing access to broadband internet in rural areas and finding a buyer for Boost Mobile as the reasons he supported the merger.
+The companies also reiterated a commitment not to raise prices for consumers for three years after a deal is completed, and they agreed to pay penalties of up to $2.4 billion if they failed to meet any of their stated commitments.
+Investors saw more likelihood that a deal would be approved. 
+Sprint shares rose as much as 26 percent after Mr. Pai's announcement. 
+T-Mobile stock ended trading up about 4 percent.
+Michael J. de la Merced contributed reporting.

@@ -1,0 +1,51 @@
+﻿
+POLITICAL dissidents of all nationalities are discovering a homeland in the worldwide web of computer networks known as cyberspace.
+Five years ago today, Chinese dissidents used facsimile machines to call world attention to the Government's violent crackdown on pro-democracy demonstrators in Tiananmen Square. 
+Today, many human rights activists are exploring an even more powerful medium, the computer web called the Internet, as a way of defying censorship.
+Human-rights organizations have been embracing electronic mail as a means of communicating with their members around the world. 
+And just last week, Human Rights Watch, Amnesty International, the Lawyers Committee for Human Rights and the writers group PEN were among the groups that met in New York to explore the possibility of establishing a human rights communications system over the Internet.
+"As more and more people have access to the Internet, it will be practically impossible for governments to ban something," said Siobhan Dowd, who is the program director of the Freedom to Write committee of PEN.
+There are places on earth that the Internet cannot reach, and in countries where the flow of information is no problem, copyright laws sometimes are. 
+But already, the writings of dissidents and political prisoners are circulating on the Internet, which connects more than 20 million people worldwide.
+An unusual library opened its electronic doors two weeks ago with a catalogue that so far consists entirely of excerpts from two books banned in the authors' home countries. 
+"I was 16 when the Cultural Revolution broke out in 1966," one of them begins.
+These words from the autobiographical manuscript "Searching for the Truth," by the Chinese dissident Wei Jingsheng, along with excerpts from the book "This Earth of Mankind," by the Indonesian novelist and dissident Pramoedya Ananta Toer, are the first in what could become a global repository of banned and censored writing, distributed freely over the Internet. 
+Some of the work of Esmail Fassih, an Iranian diarist, is to go on line this week.
+None of the authors have access to the Internet, as far as anyone in cyberspace can tell. 
+There are no Internet host computers in Beijing, where Mr. Wei, having been imprisoned for years and finally released, was recently placed under house arrest after speaking to Western journalists about human rights in China. 
+Nor is Mr. Toer on line in Indonesia, where he has been barred from leaving the country and his activities are said to be closely monitored. 
+But the new electronic library, which is called the Digital Freedom Net, demonstrates the Internet's power in opening pathways around government censors.
+The Digital Freedom Net was established by Howard Jonas, whose company, International Discount Telecommunications of Hackensack, N.J., provides long-distance telephone and Internet service to businesses. 
+The excerpts on the network are accessible to anyone in the world with a personal computer, a modem, a telephone line and a way to tap into the Internet.
+Compared with the uncoordinated, small-scale use of facsimile machines by dissidents in China and the former Soviet Union, the rapidly growing Internet holds the promise of great speed and scope.
+Messages travel from one Internet site to another, even around the world, in seconds. 
+It is as easy to post messages to thousands, or even hundreds of thousands, of users as it is to send a single fax. 
+Once retrieved, it can be passed on to other computer networks or by more conventional means. 
+And because information travels in "packets" of data that are typically scattered and reassembled at the receiving site, it is much harder to intercept or trace messages.
+"The notion of using the Internet to transcend international boundaries that have been used to suppress information is a very visionary one," said Gara LaMarche, associate director of the Human Rights Watch, an international human rights monitoring organization based in New York.
+But Ms. Dowd of PEN, and others, have practical concerns about the Digital Freedom Net, including the mechanism for deciding which works would be included, and the fact that most censored publications require translation. 
+Not the least of Ms. Dowd's concerns is rights and royalties. 
+"Putting things up on the Internet without getting copyright permission wouldn't be right," she said. 
+"We are a writers group, after all."
+Ms. Dowd cited as an example Salman Rushdie's novel "Satanic Verses," which was banned in several Islamic countries but published commercially elsewhere. 
+"Putting it up freely on the Internet could take away the market," she said.
+Before posting the excerpts from "The Earth of Mankind," the Digital Freedom Net received permission from Mr. Toer's publisher, William Morrow in New York. 
+But Mr. Wei's manuscript, which was has never been formally published, was made available to the Hackensack computer by the Index on Censorship, a London-based group that had printed the excerpts in the organization's magazine -- without the writer's authorization but on the assumption that he had permitted the manuscript to be smuggled out of China in order to share it with the world.
+Still, skeptics wonder about the practical reach of Internet communication, since the computers capable of tapping into it are concentrated in North America and Europe.
+"If something is banned in Bangladesh, putting it on the Internet wouldn't help because most people in Bangladesh don't have computers," Ms. Dowd said.
+But Mr. Jonas, the network's founder, said: "It's the business leaders and intellectual groups in universities, where opinion is made, where people in those countries have access to the Internet. 
+The information will get through, unless a government is willing to close down every school and every business that has an Internet account."
+John S. Quarterman, an Internet consultant and author in Austin, Tex., said approximately 60 countries and territories have Internet connections capable of tapping directly into the Digital Freedom Net, which is known as a "gopher" site. 
+Gopher is a navigational tool for streamlining the search for information on the Internet.
+But dozens of other countries without such sophisticated Internet capabilities can gain indirect access to the information, which can be relayed by the less complicated system of electronic mail. 
+Mr. Quarterman says more than 40 million computer users worldwide can exchange E-mail. 
+Using his computer keyboard to explore the Internet's backwaters, Mr. Quarterman found only one site in Africa between Cairo and Cape Town, and no sites in Iran. 
+In all of China he has found only one, a commercial venture in Shanghai.
+"Networking is subversive, and that's why the Chinese don't want it," Mr. Quarterman said.
+But he added that there might be some electronic exchange across the Chinese border -- "given the changing political tide and economic conditions, especially Hong Kong."
+He also noted that Internet traffic into and out of Vietnam has surged since the United States lifted its trade embargo.
+The Digital Freedom Net goes beyond basic electronic mail by storing files that can be read, copied and printed. 
+(The Internet address is "gopher.iia.org" for those with the gopher tool.)
+There is no charge beyond the user's own Internet fees, and Mr. Jonas said all material posted to the library would be selected by reputable human rights groups.
+Mr. Jonas, who is 37 years old, said his company was donating the computer space and phone lines, and that many of his employees were volunteering their time, often well into the night, to maintain the library. 
+"We wanted to use technology to do something great," he said, "like eliminate censorship."

@@ -1,0 +1,46 @@
+﻿
+On March 4, 2014, the Chinese premier, Li Keqiang, told almost 3,000 delegates at the National People's Congress and many more watching live on state television, "We will resolutely declare war against pollution as we declared war against poverty."
+The statement broke from the country's longstanding policy of putting economic growth over environment, and many wondered whether China would really follow through.
+Four years after that declaration, the data is in: China is winning, at record pace. 
+In particular, cities have cut concentrations of fine particulates in the air by 32 percent on average, in just those four years.
+The speed of the anti-pollution drive has raised important questions about its human costs. 
+But if China sustains these reductions, recent research by my colleagues and me indicates that residents will see significant improvements to their health, extending their life spans by months or years.
+How did China get here?
+In the months before the premier's speech, the country released a national air quality action plan that required all urban areas to reduce concentrations of fine particulate matter pollution by at least 10 percent, more in some cities. 
+The Beijing area was required to reduce pollution by 25 percent, and the city set aside an astounding $120 billion for that purpose.
+To reach these targets, China prohibited new coal-fired power plants in the country's most polluted regions, including the Beijing area. 
+Existing plants were told to reduce their emissions. 
+If they didn't, the coal was replaced with natural gas. 
+Large cities, including Beijing, Shanghai and Guangzhou, restricted the number of cars on the road. 
+The country also reduced its iron- and steel-making capacity and shut down coal mines.
+Some of the actions went from aggressive to extraordinary. 
+For example, the ministry of environmental protection released a 143-page "battle plan" last summer that included removing the coal boilers many homes and businesses used for winter heating — even though replacements were not yet available everywhere. 
+This left some homeowners, businesses and even students without heat this winter.
+Over the past few months, news began to trickle in that the efforts were working. 
+So I decided to dig deeper. 
+Using data from almost 250 government monitors throughout the country, which closely matches monitors maintained by the United States Embassy in Beijing and consulates around the country, I found major improvements.
+Although most regions outpaced their targets, the most populated cities had some of the greatest declines. 
+Beijing's readings on concentrations of fine particulates declined by 35 percent; Hebei Province's capital city, Shijiazhuang, cut its concentration by 39 percent; and Baoding, called China's most polluted city in 2015, reduced its concentration by 38 percent.
+To investigate the effects on people's lives in China, I used two of my studies (more here and   here) to convert the fine particulate concentrations into their effect on life spans. 
+This is the same method that underlies the Air Quality-Life Index that can be explored   here. 
+These studies are based on data from China, so they don't require extrapolation from the United States or some other country with relatively low concentrations of pollution.
+The results suggest that China's fight against pollution has already laid the foundation for extraordinary gains in life expectancy. 
+Applying this method to the available data from 204 prefectures, residents nationally could expect to live 2.4 years longer on average if the declines in air pollution persisted.
+The roughly 20 million residents in Beijing would live an estimated 3.3 years longer, while those in Shijiazhuang would add 5.3 years, and those in Baoding 4.5 years. 
+Notably, my research suggests that these improvements in life expectancy would be experienced by people of all ages, not just the young and old.
+To put the astounding scale and speed of China's recent progress in context, it's useful to think back to the severe pollution levels in many American cities in the 1950s and 1960s, especially in the Rust Belt.
+The U.S. 
+Clean Air Act is widely regarded as having produced large reductions in air pollution. 
+In the four years after its 1970 enactment, American air pollution declined by 20 percent on average. 
+But it took about a dozen years and the 1981-1982 recession for the United States to achieve the 32 percent reduction China has achieved in just four years.
+Of course, air pollution levels still exceed China's own standards and far surpass World Health Organization recommendations for what is considered safe. 
+Bringing all of China into compliance with its own standards would increase average life expectancies by an additional 1.7 years (as measured in the areas where data is available). 
+Complying with the stricter World Health Organization standards instead would yield 4.1 years.
+Whether Chinese citizens can expect to capture these additional improvements — and even sustain the existing gains — comes back to the balance between economic growth and environmental quality. 
+China's early reductions in air pollution have been achieved through an engineering-style fiat that dictates specific actions, rather than relying on markets to find the least expensive methods to reduce pollution.
+It's an approach that has come with some real costs — as the many people left without heat this winter could attest. 
+Yet further improvements will also be much costlier than necessary if they too are pursued by fiat, particularly with many of the easier fixes having already been made.
+In the decades after enactment of the Clean Air Act, American policymakers have used many tools to reduce pollution, with market-based regulations having proved the most cost-effective. 
+Although China is experimenting with a cap-and-trade system for carbon dioxide, it has not yet turned to such policies to fight conventional pollution.
+It would be quite a twist if so-called Communist China ultimately wins the war against pollution by embracing market-based regulations, while the United States continues to use them only intermittently.
+Michael Greenstone runs the Energy Policy Institute at the University of Chicago and is the Milton Friedman professor of economics at the university.

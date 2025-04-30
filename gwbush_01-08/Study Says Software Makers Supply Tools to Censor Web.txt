@@ -1,0 +1,22 @@
+﻿
+It should come as no surprise that the Internet in Myanmar, the southeast Asian state once known as Burma and in the iron grip of a military cabal for decades, is heavily filtered and carefully monitored.
+But a new report from the OpenNet Initiative, a human rights project linking researchers from the University of Toronto, Harvard Law School and Cambridge University in Britain, once again raises tough questions about the use of filtering technologies -- often developed by Western companies -- by autocratic governments bent on controlling what their citizens see on the Web.
+Myanmar ''employs one of the most restrictive regimes of Internet filtering worldwide that we have studied,'' said Ronald J. Deibert, a principal investigator for the OpenNet Initiative and the director of the Citizen Lab at the Munk Center for International Studies at the University of Toronto.
+Myanmar now joins several nations, including China, Iran and Singapore, in relying on Western software and hardware to accomplish their goals, Mr. Deibert said.
+Microsoft, Cisco and Yahoo, for example, have all come under fire recently for providing technology or otherwise cooperating with the Chinese government to enable it to monitor and censor Internet use.
+In the case of Myanmar, the regulations and customs are quite clear. 
+The Digital Freedom Network, a human rights group based in New Jersey, notes that among things forbidden by Myanmar's Web regulations, introduced in January 2000, are the posting of ''any writings directly or indirectly detrimental to the current policies'' of the government. 
+The rules also forbid ''any writings detrimental to the interests of the Union of Myanmar.''
+As with their six previous reports, OpenNet researchers combined a variety of network interrogation tools and the cooperation of a volunteer in Myanmar ''who remains anonymous as a safety precaution,'' the report noted, to test the accessibility of various Web sites.
+Sites like Hotmail, which offer free e-mail services, were routinely blocked, forcing Myanmar citizens to use one of the two officially approved (and easily monitored) Internet service providers for their e-mail.
+And of 25 sites dealing with Burmese political information and content -- from freeburmacoalition.com to burmalibrary.org -- a full 84 percent were blocked.
+''There's a cat-and-mouse game going on between states that seek to control the information environment and citizens who seek to speak freely online,'' said John Palfrey, the director of Harvard Law School's Berkman Center for Internet and Society and a researcher with the OpenNet Initiative. 
+''Filtering technologies, and the way that they are implemented, are becoming more sophisticated.''
+Not surprisingly, repressive governments have been eager buyers of those technologies.
+The OpenNet study suggests that Myanmar, which has long been under American sanctions, including the 2003 Burmese Freedom and Democracy Act, has recently migrated from an open-source filtering technology to a proprietary system called Fortiguard, developed by Fortinet, in Sunnyvale, Calif.
+That upgrade, which appears to have taken place as the OpenNet researchers were conducting their analysis, may have made censorship even more efficient and widespread than reflected in the new survey.
+For its part, Fortinet says that it uses ''a two-tier distribution model,'' according to a company spokeswoman, Michelle Spolver, meaning that the company sells all of its products to resellers, who sell to end-users.
+''Our intent is to fully comply with the law, and Fortinet does not condone doing business with U.S.-embargoed or sanctioned countries,'' Ms. Spolver said.
+Yet the Fortinet system appears to be hard at work in Myanmar.
+''The Myanmar state has put out a Web page talking about it, we've procured a block page that has hallmarks of Fortinet's system, and have heard from people on the ground that it's being implemented,'' Mr. Palfrey said.
+''It's related to the problems that Yahoo and Microsoft and others are facing in China,'' Mr. Palfrey said, ''but here the issue is that these technology security companies are directly profiting from the censorship regime itself.''

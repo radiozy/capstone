@@ -1,0 +1,29 @@
+﻿
+China is clearly in economic trouble. 
+But how worried should we be about spillovers from China's woes to the rest of the world economy?
+I have in general been telling people "not very", although it's a bigger issue for Japan and Korea. 
+But Citi's Willem Buiter suggests that it could be a quite big deal, leading to a global recession. 
+And Willem is a very smart guy; read his "   Alice in Euroland", from 1998 (!), warning of the dangers of EMU's "lender of last resort vacuum."
+So could he be right?
+Let me start with the case for not worrying too much, which comes down to the fact that China's economy, while big, is still a small fraction of the global economy - about 15 percent at market exchange rates, which both Buiter and I consider the relevant number.
+Now, we have a very old but still useful way to think about the simple economics of interdependence: the foreign trade multiplier. 
+Imagine a world of two countries, A and B, in which A has a recession. 
+This will cause A's imports from B to fall, with a contractionary effect on B. B's contraction leads to a fall in imports from A, leading to a further slump in A's economy, leading to still lower imports from B, and so on.
+This may sound like an explosive process, but given realistic numbers it's actually convergent, and in fact the later-round effects should be trivial. 
+Chinese imports from the rest of the world are less than 3 percent of the ROW's GDP. 
+Suppose China experiences a 5 percent slump in its own GDP; given an income elasticity of 2, which is reasonable, this would mean a 10 percent fall in imports - but that's a shock to the rest of the world of just 0.3 percent of GDP. 
+Not nothing, but not that big a deal.
+My sense, however, from episodes like the 1997-98 Asian crisis, is that we often see a lot more contagion of economic crisis than this kind of model can explain. 
+So what else might go on?
+One possibility is to focus on prices as well as volumes: it's possible that a Chinese slump could, via its impact on commodity prices, do a lot more harm to some other emerging markets than the above analysis suggests. 
+I'm still working on this, although so far I don't seem to be finding much there.
+Another possibility is an international version of the financial accelerator. 
+As Buiter points out, many emerging markets seem to be vulnerable thanks to private-sector foreign currency debt (which was so deadly in 1997-98). 
+So you can imagine that a China-driven slump in exports leads to currency depreciation, which leads to financial troubles, which leads to much sharper declines in GDP than a direct export multiplier would have suggested.
+Maybe, also, we could see some version of the financial contagion so obvious in the 1990s. 
+Troubles in Brazil might make investors leery of other emerging markets, driving up interest spreads and forcing fiscal austerity that worsens the downturn. 
+Or for matter, to the extent that the same hedge funds have been buying assets in a number of emerging nations, losses in one place could force them to liquidate assets elsewhere, causing a sort of global debt deflation. 
+That was a popular story in the 1990s, and might apply again.
+Overall, I'm not convinced of the Buiter thesis; China still seems to me not big enough to bring down the rest of the world. 
+But I'm not rock-solid in that conviction, largely because we've seen so much contagion in the past. 
+Stay tuned.

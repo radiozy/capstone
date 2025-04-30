@@ -1,0 +1,92 @@
+﻿
+Good morning. 
+(Was this email forwarded to you?
+Sign up here.)
+Private companies step in to source protective gear
+Marc Benioff, the billionaire founder of Salesforce, is leading a group of companies buying piles of personal protective equipment for hospitals. 
+Within weeks of being asked for help in mid-March, he has spent more than $25 million to source more than 50 million pieces of equipment, David Gelles of The Times writes.
+A 25-person "Maskforce" team at Salesforce is coordinating the effort. 
+The company's partnership with the Chinese e-commerce giant Alibaba proved crucial — a call from Mr. Benioff to the Alibaba chief Daniel Zhang set the plan in motion.
+After vetting Chinese suppliers of masks, gowns, face shields and swabs, another call by Mr. Benioff, to the FedEx C.E.O. 
+Fred Smith, secured planes and trucks for distribution. 
+As David writes:
+The relative ease with which Salesforce acquired so much protective gear stands in sharp contrast to the often chaotic government efforts. 
+While states have had to compete against each other for scarce supplies and the strategic national stockpile of protective gear is depleted, Mr. Benioff and his team simply called up their business partners in China and started writing checks.
+Other Silicon Valley chiefs are tapping their connections. 
+Tim Cook of Apple sourced 20 million masks and Jack Dorsey of Twitter pledged $1 billion to coronavirus relief programs.
+A group of financiers has teamed up with scientists to create a "Manhattan Project for Covid-19," The Wall Street Journal reports, and their recommendations have gained traction at the White House.
+Wall Street quants are modeling the virus, Bloomberg reports, using statistical techniques to anticipate equipment shortages.
+Small-business rescue loans resume. 
+Sort of.
+The federal government's rescue-loan program reopened for business yesterday after Congress added $310 billion to the fund. 
+Things did not go smoothly.
+The online application portal crashed within minutes, and went down repeatedly all day. 
+The C.E.O. of a community lender in Alabama tweeted at federal officials: "Your failure to be ready is unacceptable!"
+The Small Business Administration had tried to fix some issues that dogged the first round of the program, by asking banks to submit requests in batches and limiting how many applications it would accept per hour.
+Criticism continues:
+Start-ups are taking out small-business loans "not for day-to-day survival but simply to buy useful time," Erin Griffith and David McCabe of The Times report. 
+"They view it as free money," the venture capitalist Chris Olsen said.
+Joe Biden assailed big banks for not prioritizing the smallest firms. 
+"We knew from the beginning that the big banks don't like lending to small businesses," he told Politico.
+The program's shortcomings were "extremely disappointing" but "entirely predictable," Neil Barofsky, who oversaw the 2008 bank bailouts, told NBC News.
+Join us today at 11 a.m. Eastern for the DealBook Helpline conference call, featuring the Times business reporter Stacy Cowley and the small business expert Gene Marks. 
+R.S.V.P. here for details.
+What companies say when they return rescue loans
+By Michelle Leder, the founder of the S.E.C. filing site footnoted*. 
+Follow her on Twitter at @footnoted.
+Since the beginning of the month, nearly 250 publicly traded companies have disclosed that they received more than $1 billion worth of forgivable loans under the Paycheck Protection Program, which was intended for small businesses with limited access to finance. 
+The backlash led the government to issue guidance last week spelling out the intended recipients.
+But over the past two days, another 93 listed companies have disclosed receiving an additional $240 million. 
+The numbers could be even higher, because the requirement to disclose these loans to investors is open to interpretation.
+It boils down to what a company — or its lawyers — consider necessary to disclose. 
+Lawyers describe it as a conflict between whether a loan is urgent, a requirement for applying, and whether it was materially significant, and therefore needs disclosure.
+Take AutoNation. 
+The Washington Post found that the nation's largest auto retailer borrowed some $77 million, which it never disclosed in public filings. 
+Over the weekend, AutoNation said it planned to return the money. 
+"We determined that the loans were not required to be disclosed currently," said Marc Cannon, an executive vice president at the company. 
+"Any loans would have been disclosed in our next periodic filing."
+It seems more common for listed firms to make their rescue loans public within a few days, despite the potential for negative publicity. 
+Late on Friday, the telecom group IDT disclosed that it had received $10 million. 
+But it had changed its mind by Monday, disclosing in an S.E.C. filing that it was returning the money "to make those funds available to other borrowers that may be in greater need."
+The Small Business Administration's chief, Jovita Carranza, said yesterday that more than $2 billion in loans had been "either declined or returned." Companies have until May 7 to pay back unneeded loans without penalty.
+Some listed companies that revealed loans now aren't sure whether they should keep the money. 
+The communications firm Aviat Networks disclosed yesterday that it received almost $6 million in a loan from Silicon Valley Bank, but is "evaluating new guidance" about whether to keep it.
+How expenses are changing
+It's fair to say that bankers are expensing fewer flights and hotel rooms than they were a few months ago. 
+AppZen, a company that uses A.I. to help companies manage employees' expenses, looked for pandemic-era patterns in a representative sample from longtime customers.
+Travel is down; disinfectants are up. 
+The largest classification for expenses filed by workers at banks and insurance companies is now "miscellaneous," which includes items like masks and cleaning supplies. 
+But airfares and hotel charges are still showing up, because the data tracks when reports are submitted, not when expenses were incurred. 
+(Homebound financiers must be sorting out their old receipts.)
+Inside your Zoom rooms
+As meetings and social gatherings have moved online, a popular pastime during video calls is to inspect — and, let's be honest, judge — friends' and co-workers' homes. 
+Last week, we asked readers what, if anything, they were doing to spruce up their videoconference locations.
+Michael and Vandita use Zoom's virtual background function to liven up their calls. 
+Michael goes with a Vancouver panorama, while Vandita cycles between a variety of photos of bridges, gardens and the inside of a subway car. 
+Anna makes custom backgrounds as part of her marketing business, and suggests calls could benefit from backdrops with "key points, bar graphs, animations or something more humorous."
+Katy, a former TV producer turned financial coach, says she makes the room where she takes calls look "dressed," and it has paid off with compliments from clients about "how my space looks so calming and beautiful."
+Probir keeps handy "a Zoom call uniform which can be donned in a few seconds." He also positions himself for "views which give depth and a serene backdrop of taste and chic, even if at the edge of the camera is a whole lot of washing to be done."
+The speed read
+Deals
+Saudi Arabia's sovereign wealth fund bought a 5.7 percent stake in Live Nation Entertainment for about $500 million. 
+(FT)
+The Hollywood agency Endeavor is reportedly seeking $250 million in new funding. 
+(N.Y. Post)
+Politics and policy
+Texas will let its lockdown expire this week, becoming the biggest state yet to test reopening its economy. 
+(NYT)
+Health insurers won a Supreme Court case against the federal government, resulting in a $12 billion payment to shield against losses in Obamacare insurance exchanges. 
+(NYT)
+Tech
+Europe's expansive privacy law isn't living up to its promises. 
+(NYT)
+The argument of the only analyst with a "sell" rating on Amazon stock: Lockdowns have boosted it, but a recession won't. 
+(Barron's)
+Best of the rest
+Something else that's selling out: sympathy cards. 
+(NYT)
+Feeling cabin fever?
+Sing out your frustrations with a playlist compiled by the investment strategist Ed Yardeni. 
+(LinkedIn)
+We'd love your feedback. 
+Please email thoughts and suggestions to dealbook@nytimes.com.

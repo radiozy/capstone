@@ -1,0 +1,44 @@
+﻿
+OTTAWA -- BlackBerry, the hobbled smartphone maker, reported more dire financial news on Friday, posting a $4.4 billion loss and a 56 percent drop in revenue in its latest quarter. 
+The company also outlined a sharp retreat from its once-core handset business by entering a partnership with the Asian contract manufacturer Foxconn.
+The loss, which follows one of nearly $1 billion in the previous quarter, again reflected the failure of the BlackBerry 10 line of phones, which were portrayed as a lifesaver for the company when introduced at the beginning of the year. 
+The latest loss included a $2.7 billion write-down mainly related to BlackBerry 10 phones, including the Q10 and the Z10.
+Of the 4.3 million BlackBerrys bought by consumers and businesses during the quarter, 3.2 million were models that use the obsolete BlackBerry 7 operating system. 
+The meager sales of the phone led revenue to plunge to $1.2 billion, compared with $2.7 billion in the same period a year ago.
+Last month, BlackBerry failed to find a buyer for the company and replaced Thorsten Heins, the chief executive, with John S. Chen, the former chairman of the software company Sybase. 
+Mr. Chen has since fired several high-level executives at the company.
+But the first real strategic change under Mr. Chen came on Friday, when he announced the company's arrangement with Foxconn. 
+BlackBerry, like many other hardware companies, including Apple, has long relied on Foxconn to manufacture phones. 
+The partnership appears to take the relationship to a new level.
+The arrangement also seems to be a way for BlackBerry to effectively hand over some of its handset business without running afoul of Canadian foreign investment laws. 
+The government of Canada has made it clear that, because of national security concerns, BlackBerry could not sell any significant portion of the company to a Chinese company or a business with extensive Chinese operations, as Taiwan-based Foxconn does.
+In a conference call with analysts, Mr. Chen said that BlackBerry would jointly develop and manufacture some phones with Foxconn in the future, including a new model already in prototype form that is aimed at the Indonesian market. 
+Because Foxconn will carry the inventory of those phones on its books, Mr. Chen said that BlackBerry would be shielded from large write-downs of unwanted handsets in the future.
+The financial implications of the arrangement are unclear. 
+Foxconn will work the cost of that inventory into the price it charges BlackBerry for building the phones and a fee for its hardware design and development service. 
+But Mr. Chen said that BlackBerry would receive the ''majority of the margin'' when the phones are sold. 
+That amount may be relatively little, as Mr. Chen suggested that the company aspired to simply break even on hardware.
+In what seemed to be an even further distancing from the company's past, Mr. Chen was remarkably open to the idea of joining the competition.
+''I would love to find a way to make our BlackBerry experience on the Android and the iOS,'' he said, referring to the two dominant mobile operating systems. 
+''It's not without difficulties, as you all know. 
+But it's something that we're very interested in trying.''
+Mr. Chen said negotiations with Foxconn were well underway when he joined the company.
+In a conference call with analysts, Mr. Chen was considerably more candid and relaxed than Mr. Heins had been in similar situations. 
+But Mr. Chen's message about how the company will be revived after the BlackBerry 10 disaster was not significantly different.
+BlackBerry, he said, will focus its attentions on its traditional business of serving businesses and governments, particularly groups that require high levels of security. 
+He repeated the company's promise to soon introduce ways to generate money from its BlackBerry Messenger instant-messaging service. 
+He said he hoped to expand the automotive business of the company's QNX Software Systems subsidiary, just as Mr. Heins had tried. 
+And he particularly emphasized the potential in software that allows companies and governments to manage and control BlackBerrys used by their employees and their Android-based phones and iPhones.
+''We're no longer worrying about whether we're going to be around,'' Mr. Chen said. 
+''Now we're ready to fight back.''
+Wall Street seemed happy with Mr. Chen's plans, lifting the company's shares 15.5 percent on Friday, to $7.22. 
+The stock is still down nearly 40 percent for the year.
+Brian Colello, an analyst with Morningstar, said that while the partnership with Foxconn is ''nice incremental positive,'' it does not address the company's fundamental problem.
+''We want to see some signs of growth in demand,'' Mr. Colello said. 
+''They're making some proper moves, but it's still demand that's the issue.''
+Maynard Um, an analyst with Wells Fargo, echoed that cautious assessment. 
+In a note to investors, he characterized the company's news on Friday as being ''baby steps to recovery.''
+Like many analysts, Mr. Um is particularly focused on BlackBerry's cash reserves. 
+While the company's cash reserves rose to $3.2 billion from $2.6 billion in the previous quarter, it received a $1 billion infusion of convertible debt from an invest group led by its largest shareholder, Fairfax Financial Holdings of Toronto. 
+That means that the company consumed $400 million in cash in the last three months, largely in the cost of layoffs and other restructuring moves.
+Mr. Chen said that he was confident that BlackBerry had enough cash to get it through to 2016 when, he said, it has ''a really good shot'' at becoming profitable again.

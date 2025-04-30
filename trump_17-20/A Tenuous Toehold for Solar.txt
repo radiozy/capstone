@@ -1,0 +1,67 @@
+﻿
+CATANIA, Italy -- The enormous glass building on the outskirts of this Sicilian city had been intended for making silicon wafers for flash memory chips. 
+That plan got crushed by the global financial crisis.
+Built in the early 2000s, it was overhauled in 2011 to churn out conventional panels used to build solar farms in Greece, Italy and South Africa. 
+Once again, the factory struggled, this time losing ground to Chinese rivals that trumped it on price, as well as on technology.
+Now, the facility's owner, the Italian utility Enel, is changing tack again, betting on an advanced, commercially untested system for solar panels. 
+This time, Enel hopes it finally has what it takes to challenge the industry behemoth -- China.
+A short distance beyond the toe of Italy's boot, Europe is making what may be its last-gasp bid to remain a player in the global solar sector.
+The region was an early backer of technology harnessing the sun's energy. 
+But manufacturing of solar panels here has fallen off in the years since, as Chinese companies have cut prices and ramped up production.
+Enel believes that by focusing on an esoteric technology, it can afford to make panels here and avoid a price war. 
+It hopes that its products, which can capture more energy from the sun's rays than those of rivals, will offer greater value than cheaper models.
+China is a tough challenger to beat. 
+The country's manufacturers have established giant factories, complex supply chains and global networks of suppliers. 
+Having driven prices relentlessly lower, they, too, are now innovating, rivaling the world's best in efficiency while scoring breakthroughs like building enormous floating solar farms or experimenting with installing solar panels in roads.
+''Making solar power is not rocket science,'' said Jenny Chase, a solar analyst at Bloomberg New Energy Finance, a research firm. 
+''It is something you can do more cheaply when you have a big manufacturing base.''
+At the foot of Mount Etna, Catania is known for its trove of ornate buildings fashioned from black and gray lava rock and decorated with winged cherubs. 
+The city has also long served as an industrial and agricultural hub for Sicily, thanks in part to a busy port, which is also an entry point for thousands of migrants from North Africa, across the Mediterranean.
+More recently, it has fallen on harder times. 
+And, like the city itself, the building housing the Enel factory has struggled to adapt to economic shifts. 
+Every time it charted a path, Chinese rivals were quick to crowd it out.
+In the latest such instance, as prices for solar power dropped sharply in recent years, the Italian utility came to a difficult conclusion: Its panels were already a third less efficient than those developed by Chinese manufacturers, and that gap is likely to widen over time.
+''We said to ourselves: 'We have bought the company. 
+What do we do?''' said Antonello Irace, the head of the Catania unit, known as EGP 3Sun.
+Mr. Irace eventually admitted defeat, shutting down the old production line last fall to retool the plant.
+Enel is spending 87.5 million euros, or about $101 million, on new equipment and other changes, of which the Italian government is chipping in ?14 million. 
+The European Union is adding an extra ?9 million to help cover operating expenses.
+The Catania plant is likely to begin producing state-of-the-art solar panels next year, after trial runs in the coming months. 
+It is embracing heterojunction technology, a system that has not been commercially proven. 
+It involves adding a new, microscopic layer of silicon to solar cells, increasing their ability to gather sunlight and convert it into electricity.
+These new panels will also be ''bifacial,'' meaning they will be able to gather light not only directly from the sun but also from stray beams that bounce off the ground.
+Enel expects that panels made in the first year will be able to convert around 20 percent of sunlight to energy, which is toward the higher end of industry averages. 
+It hopes to reach 25 percent in five years -- which would help offset their higher cost.
+That could make a big difference in winning projects. 
+Bids on giant solar farms worth hundreds of millions of dollars are increasingly price sensitive, and costs are falling fast.
+Mr. Irace said the new designs were especially promising for the sunny Middle East, where countries like Saudi Arabia and the United Arab Emirates have been ramping up solar programs.
+Those efforts may amount to little, however, if Enel cannot produce its panels on a larger scale, sufficient to compete with rivals from China.
+For now, Enel aims to produce around 500,000 panels a year, a drop in the bucket compared with its Chinese competitors. 
+In effect, it is ''shipping cartons and crates,'' said Chris Buckland, head of technology at Lightsource BP, a British solar developer. 
+By contrast, Chinese companies are filling ''40-foot containers.''
+The Italian utility's difficulties ramping up output point to the vastly changing fortunes of the solar sectors in Europe and China.
+Solar energy was largely commercialized in Europe around 20 years ago. 
+Governments stimulated demand with generous subsidies, encouraging homeowners to install panels on their roofs and utilities to invest in larger-scale solar farms.
+But its popularity was limited in those early years by the high cost of the electricity that was being generated. 
+Seeing little prospect of widespread sales, companies in the West built small factories, the largest of which had only a few hundred workers.
+Beijing changed that equation with an ambitious industrial policy. 
+It pushed state-owned banks to lend to renewable energy projects at low interest rates. 
+Factories employing thousands of workers were built, leading to hefty economies of scale. 
+By 2015, panel prices worldwide had dropped 90 percent from a decade earlier, opening up a wider range of customers able to afford them.
+China now makes about 65 percent of the world's solar panels, and Chinese companies build at least another 10 percent at factories in Southeast Asia, according to GTM Research, a unit of the consulting firm Wood Mackenzie.
+Europe, by contrast, has less than a tenth of the market. 
+Dozens of American and European companies have gone bankrupt or closed production. 
+Factories have shut down, and equipment makers have moved to Asia.
+A few companies, notably Tesla, are trying to establish production lines in the West, using new technologies that Chinese factories cannot easily emulate.
+That is the route Enel is trying to follow in Sicily. 
+Although heterojunction technology is not patented, Enel hopes that refinements it has made to the manufacturing process will give it a head start on rivals.
+''We have to manufacture modern, advanced, innovative products in their initial life cycle,'' said Antonio Cammisecra, the chief executive of Enel Green Power.
+If Enel succeeds, it will give a crucial lift to a region that has lost as much as a quarter of its industrial capacity since the financial crisis, said Armando Castronuovo, an expert on the area at the University of Catania. 
+The city's economic backbone -- agribusiness and tourism -- has held up relatively well, but youth unemployment remains around 40 percent.
+Enel has drawn on the local university to find the advanced science graduates necessary to ensure it can continue to come up with cutting-edge technology. 
+In all, it has preserved some 300 jobs at the plant and a nearby research center.
+Andrea Canino, 38, said science students like himself had benefited from close collaboration between the university and companies like Enel.
+Mr. Canino obtained his doctorate in physics from the University of Catania in 2008, at the depths of the downturn, but managed to get work at a research institute and, later, at a small semiconductor company. 
+Finally, in 2012, he landed his job with Enel.
+''Here in Sicily, it is not easy to find technology work,'' he said. 
+''I always prepared for other possibilities.''

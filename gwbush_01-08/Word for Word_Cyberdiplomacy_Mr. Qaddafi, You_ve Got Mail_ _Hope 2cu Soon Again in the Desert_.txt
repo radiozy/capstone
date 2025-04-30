@@ -1,0 +1,111 @@
+﻿
+IF you've sent an e-mail message to Saddam Hussein lately, you should know that his in-box is a little backed up and that it might take him a while to get back to you.
+This public service announcement comes by way of Brian McWilliams, a freelance reporter for the technology Web site Wired News. 
+Last month, Mr. McWilliams took advantage of some poor security measures and gained access to a trove of unread e-mail messages sent to the Iraqi leader by visitors to his official Web site.
+In an article about the break-in, Mr. McWilliams said he stumbled on messages of support, business proposals and obscene death threats, along with the usual load of spam.
+Mr. McWilliams's minor hacking job raises some obvious ethical issues. 
+But it also raises a question for these troubled times: how easy is it for the average Internet user to communicate with the world's least friendly regimes?
+A quick tour of government Web sites suggests that would-be desktop diplomats face some hurdles. 
+Even though the most technophobic nations have some kind of Internet presence nowadays, few seem interested in having a serious dialogue with Web surfers. 
+It's also clear that the more prickly countries tend not to be adept at online public relations. 
+A sampler follows. 
+DAVID F. GALLAGHER
+North Korea relies on a Spain-based group called the Korean Friendship Association to maintain its official Web site, www.Korea-DPR.com. 
+The site solicits e-mail feedback and posts contributions from visitors, but only if they celebrate the memory of Kim Il Sung, North Korea's founder and the father of the current ruler, Kim Jong Il. 
+One contribution is attributed only to "Internet guest":
+Kim Il Sung!
+Where would I be without your guidance?
+Kim Il Sung!
+Your picture adorns my every wall.
+Kim Il Sung!
+We are such good comrades.
+Kim Il Sung!
+Without you my world would fall.
+The Chinese government tries a little harder to engage the online masses. 
+At the China Internet Information Center (www.china.org.cn), editors answer questions from readers in the tone of a patient librarian. 
+In response to a request for fish recipes, they offer one in which the finished fish "beautifully resembles the shape of a squirrel."
+The site also includes letters from readers offering opinions on more contentious topics -- opinions that seem to line up perfectly with those of China's leaders. 
+This letter is said to be from a 14-year-old boy in Melbourne, Australia:
+One of the things I hope to see completed in my lifetime is for Taiwan to become part of China again. 
+Taiwan is truly inalienable from China, it shares the same culture, same history, and just as Hong Kong became just as prosperous under Chinese government, so would Taiwan be if China governed it. 
+It is only prolonging suffering of its people by having people of the same heritage "split" in different countries. 
+. . . I hope to work in China one day!
+Thank you for reading my mail, and please reply if you have time.
+Libya's official Web presence is limited to a simple site for its United Nations consulate. 
+But a chaotic London-based site called Mathaba.net has picked up the slack, providing a virtual shrine to Col. Muammar el-Qaddafi that invites visitors to send him an S.M.S., a short text message typically transmitted between cellphones. 
+The site's owner did not respond to a request for information on exactly how this works, and Colonel Qaddafi did not respond to a message. 
+But a few notes from other visitors are posted on the site. 
+Here are a few, with the senders' names omitted:
+I have followed your progress and I am proud of you. 
+I would like to have an office telephone number and fax number to make contact with you. 
+God bless you.
+-- United States
+Dear Mr. Qaddafi, Salam, we honor your independent stance in the world policy; let us always keep in view our COMMON ENEMIES: Israel and zionized America . . . Allah Akbar!
+-- Ukraine
+Glad to see recent statements by your gov. concerning Libya's desire to improve its human rights record, return to the community of nations and renounce terrorism as state policy.
+-- United States
+Dear Muammar. 
+Hope 2cu soon again in the desert.
+-- Austria
+Western "democracy" has changed into oppressive tyranny -- liberty lost. 
+No truth in press. 
+My eyes are opening. 
+Good Luck.
+-- Australia
+The gold star for online friendliness among axis-of-evil nations goes to Iran, whose elected president, Mohammad Khatami, is famous for embracing the Internet. 
+His site (www.president .ir) offers his e-mail address and a form that allows visitors to send him messages in Farsi. 
+The form actually lets users replace Mr. Khatami's address and write to anyone in the world, provided it's in Farsi, though it is not clear whether this is a bug or an added feature.
+Of course, Mr. Khatami is also famous for the way his reform agenda has been undermined by the harder-line clerics who hold ultimate power -- including the power to repress dissent -- in Iran. 
+Still, he soldiers on in the cause of openness, maintaining an English-language guest book, an apparently uncensored forum where visitors can leave their comments for all to read. 
+The postings are full of pro- and anti-Iranian sentiment, much of it from Americans, and include several incoherent rants. 
+Some excerpts:
+This Web site is one of the most despicable pieces of Orwellianism I've ever seen!
+You say you hate terrorism -- yet you are the biggest terrorist in the world. 
+. . . LONG LIVE DEMOCRACY!
+FREE SPEECH!
+RELIGIOUS FREEDOM!
+GO TEXAS RANGERS BASEBALL!
+-- United States
+Mr. President, allow me permission to travel from Spokane, Washington, to Tehran, Iran, to teach you how to get more imports/exports into your country. 
+Your people need the food and clean water. 
+I can show you how to do this and you will be the hero. 
+Think about it. 
+Thank you.
+-- United States
+India stands shoulder to shoulder with Iran. 
+I am very happy with the strategic relationship you have formed with the Russians. 
+Russia, Iran and India are a deadly combination that can end the American hegemony in the world. 
+. . . With some of their major companies collapsing like a pack of cards the American economy is all set for a thunderous fall.
+-- India
+We should all be very afraid of the tension with the U.S. 
+They have technology we can not even imagine. 
+I know, I've seen it in Iraq. 
+Please Mr. President, comply with their demands before they send us all to Allah.
+-- Iran
+Dear Mr. Khatami, I love Iran, I love its culture, I love its people and so do most Americans but in order to receive the fruits of that love you must meet us halfway and at least put forth an effort to help rid the world of terrorism. 
+Please help before your country, people and culture suffer the fate of all our enemies, complete destruction. 
+And that would be most unfortunate. 
+Thanks.
+-- United States
+Mr. Khatami: You are a shame for Iranians. 
+You are nothing but a coward, you have wasted the opportunity given by the people. 
+. . . If you had a shred of dignity, you would have long resigned by now. 
+. . . But you don't!
+-- Iran
+To call Iran part of a make-believe evil axis is to not represent the true thoughts of Americans. 
+We know most Iranian people are good, innocent, nonviolent people. 
+We know you love as Americans do and that a family is a family no matter what continent we live on. 
+. . . May Mr. Bush stop his words of hate and progress to words of encouragement toward the beautiful Iranian people.
+-- United States
+Iran is so great!!
+The freedom to be a true Muslim is cool. 
+The West is so so repressive and has caused all the world's problems. 
+. . . I hope Allah will punish those evil Americans. 
+Allah bless Iran.
+-- United States
+Of course, Web niceties do little good unless the leaders actually read their mail. 
+Questions about President Khatami's Internet habits, e-mailed to his address and that of his site staff, went unanswered last week. 
+A Pennsylvania man was shocked a year ago when his e-mail message to Saddam Hussein about the Sept. 
+11 terrorist attacks prompted a 10-page reply ostensibly from Mr. Hussein himself. 
+Yet Mr. McWilliams said that when he looked into Mr. Hussein's e-mail account last month it was filled completely with unread messages. 
+It seems the endless barrage of spam can wear down even the most hardened ruler.

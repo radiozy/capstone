@@ -1,0 +1,75 @@
+﻿
+Anyone contemplating business school wants to know whether to take the GMAT now or wait until next June, when the integrated reasoning section is introduced. 
+First, ask yourself this: Does an Excel file give you pause?
+The new section is what came of a 2009 survey of 740 faculty members, who were asked what the GMAT should measure that it didn't. 
+The section will replace one of two essays, and is heavy on data interpretation. 
+''As the business environment changes, the business curriculum changes,'' explains Ashok Sarathy, vice president for the Graduate Management Admission Council, which administers the test. 
+What doesn't change: total test time (at three and a half hours) and the verbal and quantitative sections. 
+Try your hand at this preview, which GMAC created for Education Life. 
+There are four new question types: multi-source reasoning, graphics interpretation, two-part analysis and sorting tables.
+MULTI-SOURCE REASONING
+Can you assimilate information from different sources?
+Exports to China
+In 2009, China was the biggest export market for several countries on many continents. 
+Among these countries, Australia sent 21.8 percent, Brazil sent 12.5 percent, Japan sent 18.9 percent and South Africa sent 10.3 percent of its exports to China. 
+Tables 1 and 2 provide another, perhaps more revealing measure of the impact of economic exports to China: the value of exports relative to the Gross Domestic Product (G.D.P.) for many of China's major trading partners, including the European Union (E.U.), in 2009.
+1. Based on the information provided, which one of the following quantities is closest to the total value, in 2009 U.S. dollars, of Australia's and Brazil's 2009 exports to China?
+a. $19 billion
+b. $31 billion
+c. $34 billion
+d. $53 billion
+e. $64 billion
+2. Based on the information provided, which one of the following quantities is closest to the total value, in 2009 U.S. dollars, of Japan's 2009 exports to all countries?
+a. $215 billion
+b. $320 billion
+c. $450 billion
+d. $590 billion
+e. $640 billion
+3. For each of the following countries or regions, determine whether its 2009 exports to China can be shown, based on the given information, to have exceeded $100 billion in 2009 U.S. dollars. 
+Indicate Yes if the exports can be shown to exceed that value. 
+Otherwise indicate No.
+-------- European Union
+-------- Japan
+-------- Nigeria
+-------- Taiwan
+4. Examine each of the following statements and indicate Yes if the statement can be inferred from the information provided. 
+Otherwise indicate No. All amounts are measured in 2009 U.S. dollars.
+-------- India's exports to China exceeded Russia's exports to China.
+-------- The amount of exports to China from all the countries of South America combined exceeded $10 billion.
+-------- Australia's exports to China accounted for more than one-fifth of Australia's total exports.
+-------- South Korea's exports to China exceeded Malaysia's exports to China.
+GRAPHICS INTERPRETATION
+Can you interpret and analyze visual representations of data?
+Graph 1 shows the year-over-year sales growth for 12 businesses. 
+For each blank, select the option that most accurately completes the statement based on the information provided.
+1. To the nearest 10th of a percent, ------ percent of businesses in the graph had positive growth in both years.
+a. 0
+b. 8.3
+c. 33.3
+d. 58.3
+2. If a company were plotted on the graph at 12 on the x axis and 13 on the y axis, it would indicate that that company had ------ net growth from December 2008 to December 2010.
+a. Zero
+b. Positive
+c. Negative
+3. The business in the graph that had the greatest net percent growth over the period of December 2008 to December 2010 had ------.
+a. positive growth in both years
+b. positive growth in one year only
+c. negative growth in both years
+TWO-PART ANALYSIS
+Can you solve two-part problems?
+Workers in an office are placed into three groups, each containing 20 workers. 
+All workers are in at least one group. 
+Any two groups have exactly 10 members in common.
+In the table below, identify two numbers from the list of possible answers that are jointly consistent with the given information: in the first column, mark the row that indicates the total number of workers in the office; in the second column, mark the row that indicates the number of workers who are members of all three groups. 
+Make only two selections, one in each column.
+Total Workers Workers in All Three Possible Answers
+----------------------------------------------------------------------------4 ------------------------------------------------------ ----------------8 ------------------------------------------------------ ----------------10 ------------------------------------------------------ ----------------18 ------------------------------------------------------ ----------------34 ------------------------------------------------------
+Multi-Source Reasoning: 1. d. 
+2. d. 
+3. Yes: E.U., Japan. 
+No: Nigeria, Taiwan 4. 
+No, yes, yes, no. 
+Graphics Interpretation: 1. c. 
+2. c. 
+3. a. 
+Two-Part Analysis: Total workers = 34 Workers in all three = 4

@@ -1,0 +1,37 @@
+﻿
+Nortel Networks is mired in an accounting scandal that has led to criminal and securities investigations, numerous lawsuits and a purge of top management. 
+But for its chief executive, William Owens, these may be the good days.
+As Mr. Owens struggles to restore the company's financial reputation while leading it through the latest round of staff and spending cuts, he is aware that another potential problem is lurking over the horizon: Aggressive and successful moves by Chinese companies into the telecommunications equipment market may soon force industry mergers and are likely to bring further corporate revamping.
+''It is almost certain there will be consolidation in the telecom-Internet equipment provider marketplace,'' said Mr. Owens, a former Nortel director who became chief executive after the unexpected firing of Frank A. Dunn in April. 
+''It's hard to see exactly where it will occur. 
+But if we are able to solve the basics of doing business, then we will participate effectively in the consolidating of the business.''
+Continued delays and restatements of Nortel's financial results make it hard for analysts and other outsiders to assess the company's ability to successfully withstand the long-anticipated revamping of the communications equipment business. 
+But some argue that the new competition from companies like Huawei Technologies is a much more significant threat to established equipment makers than messy accounting or depressed share prices.
+In the second quarter of this year, RHK, a telecommunications research firm in San Francisco, ranked Huawei, based in Shenzhen, China, second only to Alcatel in worldwide revenue from optical networking equipment. 
+Lucent Technologies placed fifth.
+''It's very analogous to what happened in the electronics industry in the 1950's and 60's with the competition from Japan,'' said Dennis Mendyk, managing director of Heavy Reading, a telecommunications market research firm in New York. 
+''It's not good news if you're an incumbent vendor in the West.''
+Mr. Owens acknowledged that Chinese companies had already moved beyond their home markets much faster than Nortel anticipated. 
+''We see them in the United States, we see them in British Telecom,'' he said, alluding to recent purchases of Chinese equipment by the BT Group. 
+''Their cost structures are low, they have smart people, they have more and more Ph.D.'s and they're very dedicated.''
+After the technology stock price collapse in the West, Nortel and competitors like Lucent, Cisco Systems and Alcatel saw China's large and fast-growing equipment market as a potential source of rescue. 
+To enter the Chinese market, Western suppliers had to show that their equipment was compatible with Chinese-made products.
+But, Mr. Mendyk said, those demonstrations were quickly used by the Chinese companies to show Western customers that their products could operate just fine alongside equipment from the incumbent producers.
+''They're getting some short-term advantage by competing in the China market,'' Mr. Mendyk said of the Western manufacturers. 
+''By opening the door to the marketing opportunities in China, they've also opened the door to competition.''
+Mr. Owens said Nortel's ability to compete would depend on getting its finances in order and further reducing its costs. 
+He also plans to hedge the company's bets. 
+To increase its sales to the United States government, Nortel, based in Brampton, Ontario, will start bidding directly for contracts to build and operate communications networks. 
+In the past it has been mostly a supplier of equipment and software to companies like EDS and Accenture. 
+Mr. Owens also plans to aggressively market technology Nortel is developing for weeding out computer viruses as they travel through networks.
+Initially, Chinese exporters concentrated on becoming low-cost suppliers of products like optical networking equipment. 
+But a study by Heavy Reading found they are increasingly moving into new product areas that Nortel and its competitors have marked for growth.
+According to Heavy Reading, Huawei, UTStarcom and ZTE have all sold voice-over-Internet equipment to telecommunications service providers in Europe and North America. 
+''Anyone who thinks these companies will just produce cheap garbage is mistaken,'' Mr. Mendyk said. 
+''They have a strategy of competing on price first and then following up by demonstrating quality and innovation.''
+He acknowledged that for now, Nortel and other Western manufacturers have a major advantage over their Chinese competition: They suffer less from language barriers that can create customer service difficulties.
+Some Western companies will fare better than others, said Shin Umeda, an analyst at the Dell'Oro Group. 
+Relative newcomers like Cisco, he said, are not burdened with older product lines that will see rapid revenue drops because of the heightened competition. 
+But Nortel and Lucent are again likely to be forced to re-evaluate their structures. 
+''They have to ask what is the direction of their company and if they can get there with the customers and technologies they have,'' he said. 
+''These are tough questions that haven't been answered.''

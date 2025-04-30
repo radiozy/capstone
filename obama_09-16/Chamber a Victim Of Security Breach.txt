@@ -1,0 +1,24 @@
+﻿
+The United States Chamber of Commerce has confirmed Chinese hackers last year broke into internal networks.
+The breach is, in some ways, a twist of fate for the Chamber. 
+It has been one of the more vocal critics of cybersecurity legislation. 
+In an internal draft document circulated earlier this year, the Chamber criticized the White House's legislative proposals on cybersecurity as ''regulatory overreach'' and cautioned that ''layering new regulations on critical infrastructure will harm public-private partnerships.''
+''This happens all the time,'' says Tom Kellermann, chief technology officer at AirPatrol Corp. and a member of President Barack Obama's commission on cyber security. 
+''This is essentially the modus operandi of China's economic espionage campaign. 
+Hackers use a trade group as a beachhead to compromise the constituency. 
+What intellectual property does the Chamber have?
+They don't. 
+But they're trusted.''
+The Federal Bureau of Investigation was the first to alert the business lobbying group that servers in China were accessing the Chamber's internal network early last year. 
+A subsequent internal investigation found the hackers had zeroed in on four of the lobbying group's Asia policy experts and that at least six week's worth of e-mails had been pilfered. 
+The Chamber shut down the operation in May 2010.
+J.P. Fielder, a Chamber spokesman, emphasized that the breach was ''limited in scope'' to the four employees, though an earlier report in the Wall Street Journal suggested that the breach had been going on for over a year before it was discovered and that more than 300 Internet addresses may have been compromised. 
+The F.B.I. did not return calls seeking comment.
+The Chamber represents businesses and trade groups in Washington and the breach may affect its trusted relationship with its three million members, which include some of the nation's largest corporations.
+''Businesses are already worried about the cyber theft of their internal trade secrets. 
+Now they have to worry that the sensitive information they've shared with the Chamber is compromised,'' says Jacob Olcott, a principal with Good Harbor Consulting's cybersecurity team.
+The Chamber says it has taken greater steps to secure itself in the wake of the breach. 
+Mr. Fielder, the Chamber spokesman, said the Chamber had installed more sophisticated detection equipment and updated its policies which now include ''barring employees from taking portable devices with them to certain countries,'' including China.
+Despite these measures, the Chamber still shows signs of infiltration. 
+The Journal reported that the Chamber recently discovered a thermostat in a Chamber-owned apartment was communicating with an Internet address in China and that last March, one of its printers randomly started printing documents containing Chinese characters.
+This is a more complete version of the story than the one that appeared in print.

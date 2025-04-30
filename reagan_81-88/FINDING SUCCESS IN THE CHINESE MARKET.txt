@@ -1,0 +1,77 @@
+﻿
+BY the end of its first year in business, Sun Associates Inc. in Elmsford, an international trading and consultant company, had one customer but nevertheless managed to gross $7.5 million. 
+Four years later, Sun Associates, still with the same single customer, has quadrupled sales to post figures of $28 million gross this year.
+''It helps when your customer is the People's Republic of China, with one-quarter of the world's population,'' said Robert C. Sun, the company's founder and president. 
+Mr. Sun, an electrical engineer, spent 16 years in International Business Machine's development laboratory in Poughkeepsie as a computer designer and engineer of future systems before starting Sun Associates in 1982.
+''The development lab was an exciting place to work,'' he recalled. 
+''We started working on the design of the I.B.M. model 3081, the big computer, in 1970 and it was not until 1980 that the first one was shipped. 
+All our projects were 5 or 10 years down the road. 
+I liked my job very much but when I saw that a new era was beginning for China, I felt strongly that I was in exactly the right spot to take advantage of it. 
+China wanted modernization, I knew they would need high-tech computers, my specialty, so I decided to start a business directed to the China market.''
+Mr. Sun, who is 51, was born in Zhejiang, China, but moved to Taiwan with his family in 1949 when the Communists came into power in China. 
+Two years after he graduated from Chengkung University in Taiwan, he won a scholarship for graduate study at the Steven's Institute of Technoloy in Hoboken and set out for New Jersey.
+''My father, who is also an engineer, encouraged me to come to the United States,'' he said. 
+''I found the teaching here very different from Taiwan. 
+The atmosphere was much more stimulating. 
+Professors encouraged creative, original thinking.''
+Before being recruited by I.B.M., Mr. Sun worked for Western Union, and later for CDS Communications. 
+''My wife and I liked it so much here that we became American citizens as soon as we could,'' he said.
+However, when Mr. Sun was invited to visit China in 1972 by Premier Zhou Enlai, he accepted with alacrity.
+''I was part of a group of 28 overseas Chinese who made the first return into Communist China,'' he said. 
+''I was very anxious to see my former home and my grandmothers, who were still living there. 
+We were all also very anxious to see what was going on in China first-hand.''
+Soon after he returned to the United States, he took part in a seminar at the State University of New York at New Paltz, on trade with China. 
+''I was very impressed with the predictions made concerning the increase of trade with China,'' he said. 
+''Here is a brand new opportunity, I thought. 
+It is my time to try it. 
+I have been very lucky in choosing the right field and the right time.''
+Capitalizing the company start-up himself, Mr. Sun, drawing on his knowledge of computer technology for the power industry, put together a sophisticated package including hardware, software, training and maintenance of equipment for Chinese power stations. 
+He won his first contract for 11 systems from the Ministry of Water Resources and Electric Power in the People's Republic of China.
+''Vast problems occur in China when the power fails,'' he said. 
+''If electicity is kept constant, productivity is increased; on the other hand, when it is disrupted, productivity dips considerably. 
+The Chinese Government's emerging power industry is anxious to expand its power networks throughout the country.''
+Mr. Sun strengthened the capabilities of his company with the addition of Robert S. Lin. Mr. Lin, who is 47 and Sun Associates vice president, comes from a background similar to Mr. Sun's.
+''I was born in Fujian, in the south of China,'' he said. 
+''My father was a businessman. 
+When I was 9 years old, the Communists took over. 
+We went to live in Taiwan, where I went to school and eventually studied engineering. 
+I had a scholarship for graduate work at McGill University in Canada and stayed there for one year before transferring to the University of West Virginia, where I finished my master's degree. 
+I became involved with nuclear power and it became my specialty.''
+For a decade, Mr. Lin worked on the design of the Clinch River nuclear power plant in Tennessee, only to see the project terminated by Congress.
+''One billion dollars and 10 years' work went down the drain,'' he recalled. 
+''It was very frustrating. 
+When friends introduced me to Mr. Sun and he described his company to me, I joined the company happily. 
+I wanted to have some control over my own destiny.''
+Using first-hand knowledge of current technology in the power industry, Sun Associates delivered 11 of what is known in the industry as SCADA/AGC systems based on a DEC Super-Mini processor to ten regional power stations in China in the fall of 1985.
+''We had to develop a special Chinese character set for the display-generation equipment,'' said Mr. Lin. ''It was an expensive project that we financed ourselves. 
+The Chinese character terminals and printers were integrated into the system to meet the requirements of the Chinese end-user. 
+It was a complex task.''
+The contract that sent the special VAX computer system to China also brought 50 Chinese engineers to the United States for training by Sun Associates.
+''Training the engineers in the use of the VAX computer system was part of the package deal we made with our customer, the Chinese Government,'' said Mr. Sun. ''In China, computers are installed in various regional power bureaus and will be operated by the people we train here. 
+We built classrooms and a computer laboratory here in Elmsford to give the engineers hands-on experience. 
+The courses are conducted in Mandarin by our in-house engineers, who are Mandarin-speaking specialists in communications, hardware maintenance, software programming and other areas of computer science. 
+It is not a simple business staffing such a school.''
+Sun's training program must also prepare students to perform substantial portions of the maintenance and troubleshootings on their machines in China; students must also have the ability to diagnose problems that demand the attention of Sun's maintenance staff.
+''We keep a maintenance staff and a huge inventory of spare parts in China,'' said Mr. Sun. ''As part of our agreement, we supply free maintenance service for all the systems for a full year.''
+Two groups of students have already completed the 12-week training course in Elmsford. 
+A third group has just begun the same intensive course.
+''The training program has received high praise from the top officials of the Ministry of Water Resources and Power,'' said Mr. Sun. ''I believe it is what gives us the edge over our competitors - training engineers on the spot. 
+We are competing with the Japanese, the French and the English for a share of the huge China market.''
+Sun also serves as China representative to Westinghouse Systems Ltd. of the United Kingdom. 
+''We helped Westinghouse win one of China's largest contractor awards for 1986-1987,'' said Mr. Sun. ''It calls for Westinghouse to supply energy management systems to four power centers and development systems to two energy research institutes in China. 
+We provided Westinghouse with a formal introduction to the Ministry of Water Resources and Electric Power and we negotiated on their behalf at numerous liaison meetings in Beijing, the United States and the United Kingdom.''
+Sun is supplying equipment, training and maintenance for the project and as the sub-contractor will supply a large portion of the hardware and integration for Westinghouse Energy Management Systems. 
+Wen Xinguang, one of the engineers now being trained for the Westinghouse project, will go to England for additional training before going back to China.
+''I find this course very interesting and very challenging,'' he said. 
+''In two or three years, China will be very different. 
+Since the People's Republic was founded, the Government has placed great importance on developing its power industry in the entire country.''
+Mr. Wen and his group are billeted at the Elmsford Motel, where arrangements have been made to allow them to cook their own meals. 
+Weekends are spent sightseeing. 
+''We work them very hard from Monday to Friday,'' said Mr. Sun. ''On the weekend, they need a change of pace. 
+We show them whatever we can of the United States. 
+We have been on numerous trips to places like Niagara Falls, to museums, to Washington, and we have even had a tour of a supermarket. 
+Local people have been very generous in inviting our students to dinner in American homes. 
+Cultural exchanges, we feel, are very important.''
+Mr. Sun, a charter member of President Reagan's Republican Presidential Task Force, has served as host to many official Chinese delegations visiting the United States.
+''I am very happy to be an American citizen,'' he said. 
+''But I have a very personal interest in the modernization of the land of my birth.''

@@ -1,0 +1,60 @@
+﻿
+Hector Ruiz was not yet working for Advanced Micro Devices, the Silicon Valley chip maker, when it announced plans in the mid-1990's to build a factory in this slumbering eastern German city. 
+But he remembers the catcalls aimed at Advanced Micro.
+"Why would you go to Europe?" the company was repeatedly asked. 
+"Why would you go to Germany?
+And on top of that, why would you go to East Germany?"
+On Thursday, Mr. Ruiz came here as Advanced Micro's chief executive to announce that the company -- which has long operated in the shadow of Intel, the largest semiconductor maker -- will build a second chip factory in Dresden, a $2.4 billion project that is by far the most significant foreign investment in Germany this year.
+There is a simple explanation why Dresden edged out other cities and towns, including East Fishkill, N.Y., and Austin, Tex. 
+The government here kicked in $1.5 billion worth of subsidies, financing and loan guarantees -- a dollop of largess that most American cities would not match.
+But there are other, perhaps more important reasons for Advanced Micro's decision, and they speak to the complex nature of the global battle for foreign investment. 
+Education, infrastructure, the lack of export restrictions on technology, even the Protestant work ethic in this old city -- all played a role in the company's choice.
+For nations like Germany, with high labor costs, promoting these less tangible qualities is the only way they can hope to compete for big projects against low-cost Asian countries, particularly China.
+"The money is good," said Martin Gillo, the minister of labor and economics for Saxony, the eastern German state where Dresden is the capital. 
+"But the money is good wherever you build a semiconductor factory, be it in Singapore or China or the south of France or East Fishkill."
+Ask people here how long Germany can keep new chip factories from migrating to China, and they shrug their shoulders. 
+"Their wages are much lower, they're just as smart as we are, and they're willing to work at least as hard as us," said Tillmann Blaschke, the managing director of a joint venture of A.M.D. and a rival chip maker, Infineon Technologies of Munich, that also makes photo masks for etching semiconductors.
+Local victories like the new Advanced Micro factory may help explain why the economic rise of China has not yet aroused the kind of emotions in Germany as in some areas of the United States, where the loss of manufacturing jobs to Asia and Latin America, and the fear that many white-collar jobs are to follow, has become a hot-button political issue.
+It is not that Germany has avoided job losses. 
+This week, for example, Epcos, a Munich-based maker of electronics components, said it would shift 500 jobs to China, Singapore and Portugal. 
+And unemployment figures are higher in Germany than in the United States.
+Still, the nature of German industry -- with its emphasis on highly engineered, capital-intensive products -- has made it less vulnerable to a wholesale transfer of factories to China. 
+Indeed, China has been a voracious consumer of German machines, helping to buoy exports.
+"If you're sitting in Germany, China is not that big a deal," said Daniel Gros, the director of the Center for European Policy Studies in Brussels. 
+"If you're in Italy, which has a textile industry, it is a big deal."
+The economic development of Saxony -- or, as local boosters like to call it, "Silicon Saxony" -- illustrates the advantages and limitations of industrialized regions in competing with Asia. 
+The center of the East German semiconductor industry during Communist times, Saxony aggressively courted chip producers after the fall of the Berlin Wall. 
+Infineon, a spinoff from Siemens, was the first company to set up in Dresden, opening a memory-chip plant in 1995.
+Much of Saxony's appeal was built on financial incentives. 
+But it also promoted its educational resources: 20 colleges, 4 universities and 38 research institutes. 
+Seventeen percent of the work force has a college education, an unusually high percentage in the former East Germany.
+Wages in Saxony, while higher than in Eastern Europe, are 15 percent lower than in western Germany. 
+And labor unions hold less sway here -- made clear by the inability of the large and militant union, IG Metall, to force a reduction in the workweek here to 35 hours from 38.
+Seventy-three American companies now have operations in Saxony, employing more than 10,000 people.
+In addition to chip makers, Saxony has attracted German automakers. 
+Porsche and Volkswagen have assembly plants here, while BMW is building a plant in Leipzig. 
+Volkswagen produces its new luxury sedan, the Phaeton, in a dazzling glass-and-steel factory that has become a Dresden landmark.
+Yet these brand-name investors have not been sufficient to rid Saxony of the large-scale unemployment that has afflicted eastern Germany since reunification in 1990. 
+The jobless rate here is 16.5 percent.
+Because of these hardships, the European Union has allowed Saxony and other eastern German states to offer foreign companies subsidies worth up to 35 percent of the value of their investment. 
+To attract Advanced Micro, Saxony and the German government offered $500 million in grants and allowances, guaranteed 80 percent of the company's $700 million in construction loans, and invested $320 million more.
+"A.M.D. can't afford to stump up $2.4 billion" for a chip factory, said Ben Lynch, an analyst at Deutsche Bank, adding, "They have a lousy balance sheet, and are one-tenth the size of Intel."
+The trouble is that under European rules, Saxony will not be able to offer such sweeteners after 2006. 
+Then, eastern Germany will find itself in a weaker position as it competes with Poland, Romania and other Eastern European countries, which will still be entitled to offer subsidies.
+For now, Germany still offers advantages to advanced semiconductor makers like A.M.D. 
+China requires investors to work with a local partner, which can amount to a transfer of the foreign company's innovative technology. 
+The United States also bans the export of the most sophisticated semiconductor technology to China for national security reasons.
+"The government restrictions are pretty tough," Mr. Ruiz said. 
+"We would not be allowed to install certain pieces of equipment. 
+For this kind of facility, China would have been very difficult."
+Advanced Micro's plant, expected to open in 2006, will produce chips on 300-millimeter wafers with the most intricate circuitry its researchers can devise. 
+With a width of 65 nanometers, they will be twice as fine as anything produced in existing plants (a nanometer is one-billionth of a meter; 100 nanometers are roughly 1/1000 the width of a human hair).
+In China, AMD operates a much simpler assembly and testing plant in the city of Suzhou. 
+Infineon, which has its most complex production in Dresden, has a research and development center in China. 
+But it licenses chip production to local Chinese partners.
+Matthias Poth, a senior vice president, said Infineon aimed to increase the number of employees in China to 3,000, from 800 now, within a few years. 
+"It's developing very fast," he said.
+Few experts doubt that in a decade, China will be able to compete in much more advanced segments of the semiconductor industry. 
+Spending on new chip factories in China, Malaysia and Singapore is likely to exceed that in Europe by 2005, according to the market research firm VLSI.
+Indeed, as Mr. Ruiz gazed out on the quiet, well-ordered grounds of his Dresden factory and reminisced excitedly about his first visit to China in the 1980's, the future of the chip industry seemed inescapable.
+"If I were building a factory 10 years from now," he said, "China would be a real consideration."

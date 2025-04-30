@@ -1,0 +1,57 @@
+﻿
+Last month in Paris, Ken Hu, the acting chief executive of Huawei, told a group of journalists that the fast-growing Chinese maker of telecommunications network equipment had not come to France to supplant Alcatel-Lucent in its home market.
+''Actually in France, this market is quite developed and Huawei and Alcatel can coexist, just like in China,'' Mr. Hu said at a hotel in the Trocadéro neighborhood. 
+''I don't want there to be a misunderstanding. 
+We are not here to replace Alcatel. 
+It would be like saying Alcatel is coming to China to replace Huawei.''
+A month later, on May 17, the European trade commissioner, Karel De Gucht, accused Huawei and another Chinese equipment maker, ZTE, of violating the antidumping and subsidies laws of the European Union. 
+Mr. De Gucht, a Belgian lawyer, called for negotiations between the European Union and China to avoid an investigation that could lead to punitive customs duties.
+Now the two sides appear set to meet in an attempt to work out their differences. 
+China has asked that Mr. De Gucht hold an informal meeting with its vice commerce minister, Zhong Shan, in Brussels on Monday, China's Ministry of Commerce and a European Union trade spokesman confirmed on Sunday.
+''It appears that the commission is using the telecom equipment situation as some kind of a stick and bargaining chip against China,'' said Stuart Newman, an antidumping expert at the Foreign Trade Association, a Brussels group that represents European trade associations.
+Mr. Newman said the Europe-China trade relationship had become more difficult over the last two years, driven by disputes over solar panels and now, telecom equipment.
+The 27-nation European Union is China's biggest trading partner, the destination for Chinese exports worth 289.7 billion euros, or about $377 billion, last year. 
+Last September, Mr. De Gucht opened an antidumping investigation of Chinese solar panel makers after receiving a complaint from a European industry association, EU ProSun. 
+That investigation is set to end this year.
+The stakes in the solar panel dispute dwarf those of the telecom equipment makers. 
+Last year, Chinese exports of solar panels and components to the European Union were roughly 21 billion euros, while shipments of telecom network gear were only about 1 billion euros, according to European Commission figures.
+China's commerce minister, Gao Hucheng, said in comments published on Sunday on the ministry's Web site that he hoped the disputes over photovoltaic and telecommunications products could be solved through talks.
+A meeting on Sunday between the Chinese premier, Li Keqiang, and the German chancellor, Angela Merkel, also touched on the trade tensions. 
+Both leaders emphasized their desire to resolve the dispute over solar tariffs, which Mr. Li said China considers dangerous to the global economy.
+''These are measures that will flood into the neighboring countries, and are not useful to anyone,'' Mr. Li said.
+A person close to the European negotiating team played down the Chinese push for dialogue, saying the country's trade officials were maneuvering ahead of June 5, when Mr. De Gucht is expected to reveal the level of punitive tariffs that the European Commission intends to impose on Chinese solar panel makers. 
+Serious negotiations with the Chinese will begin only after the commission publishes the customs duties, the person said.
+An important difference separates the telecom equipment and solar panel situations. 
+For the telecom sector, formal legal proceedings have not yet begun, and an agreement between governments could head them off.
+On the solar panel case, antidumping and antisubsidy cases are already well along, greatly limiting the statutory authority of European officials to negotiate. 
+Once the European Union announces the preliminary level of antidumping duties, then any deal would legally need to take the form of an offer by the Chinese industry, not the Chinese government.
+Hakan Wranne, an analyst at Swedbank in Stockholm, said Mr. De Gucht's accusations suggested that the commissioner believed he had a good case against Huawei and ZTE. 
+''I don't think he would be making these types of claims unless he felt he had solid evidence,'' Mr. Wranne said.
+But a prosecution of the Chinese telecom equipment makers could cost European rivals in terms of lost revenue in China, where the state-owned mobile operators are preparing for what may be multibillion-euro contracts to build the country's first fourth-generation high-speed networks.
+Mr. De Gucht said if talks with the Chinese did not bear fruit, he would pursue a case against Huawei and ZTE on the commission's own initiative, a rare ex officio proceeding, to protect European companies from potential retaliatory trade actions in China.
+Two of Europe's three big equipment makers, Ericsson and Nokia Siemens Networks, released statements saying that they opposed the European inquiries on free-trade grounds.
+''Ericsson does not support this move by the commission,'' the Stockholm-based company said in its statement. 
+''Ericsson is a strong supporter of free trade, and we don't believe in this type of unilateral measure. 
+Our policy is for open, free and unrestricted trade and global supply chains, benefiting users and societies.''
+Nokia Siemens, the Finnish-German venture, pointed out that it had also advised Mr. De Gucht in clear terms of its opposition. 
+''We absolutely oppose any efforts to restrict free trade and erect trade barriers of any kind and have urged the commission to refrain from taking such steps,'' Nokia Siemens said. 
+''We have made that position clear to the commission both verbally and in writing.''
+John Clancy, a spokesman for Mr. De Gucht, said the commissioner was not available for an interview and declined to comment on the statements of the telecom equipment makers.
+Unlike its peers, Alcatel-Lucent, a struggling French-American equipment maker that lost 339 million euros in the first quarter, released a statement urging the Europeans and Chinese to find a joint solution. 
+The Paris-based company has had a subsidiary in China, a joint venture with a government partner called Alcatel-Lucent Shanghai Bell, for three decades.
+''We maintain the strong hope that the parties find a solution to benefit both the E.U. and its trading relationship with China,'' Alcatel-Lucent said.
+In France, opposition to perceived Chinese dumping has sparked discussion -- but no concrete proposal -- in Parliament for government to begin ''certifying'' network gear for the French market. 
+During his visit to Paris, Mr. Hu, the Huawei executive, told a French reporter that such a proposal would only be fair if it applied to all companies, not just Huawei. 
+''It must be fair and equitable,'' he said.
+In China, a country that is on the verge of building one of the world's largest 4G networks, fair access to markets is also being pursued by Western equipment makers, whose shares of the Chinese market have declined with Huawei and ZTE's growth.
+China Mobile, the country's largest wireless operator, with 710 million customers, is considering whether to begin awarding the first 4G contracts this summer. 
+The operator said it planned to build more than 200,000 base stations this year. 
+China Mobile's domestic rivals, China Unicom and China Telecom, are also planning 4G networks.
+Mr. De Gucht has confronted Chinese telecom equipment makers before. 
+In June 2010, a Belgian maker of 3G USB modems, Option, filed a complaint that accused Chinese rivals of dumping dongles in Europe.
+Mr. De Gucht's staff began to investigate the claims.
+But the case was halted five months later when Option withdrew its complaint after agreeing to license some technology to Huawei and sell the Chinese company a semiconductor business in a partnership agreement valued at 35 million euros.
+One European industry executive, who declined to speak publicly given the delicate state of the trade negotiations, said Mr. De Gucht may have been disappointed by the abrupt end to the case, which he had considered legally solid.
+Mr. Wranne, the Swedbank analyst, said the European trade commissioner and the Chinese may find a last-minute solution to avoid trade penalties.
+''Huawei, ZTE and the commission have an interest in avoiding a broader trade dispute -- everyone does,'' Mr. Wranne said. 
+''But at this point, it could go either way.''

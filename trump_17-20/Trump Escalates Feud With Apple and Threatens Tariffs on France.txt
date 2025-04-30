@@ -1,0 +1,64 @@
+﻿
+WASHINGTON — President Trump said on Friday that his administration would deny a request by the electronics giant Apple to avoid stiff tariffs the United States had placed on Chinese imports and threatened to hit France with heavy tariffs in response to a new digital tax that will affect American tech companies.
+Mr. Trump's comments underscore the extent to which the president is wielding tariffs to punish not only trading partners, but also American companies that manufacture products overseas. 
+Mr. Trump has increasingly used tariffs to extract concessions over a range of issues, including those unrelated to traditional trade practices. 
+In June, he threatened to tax all Mexican imports to resolve an immigration dispute.
+Mr. Trump tweeted on Friday morning that Apple "will not be given Tariff waiver, or relief, for Mac Pro parts that are made in China" and that the company should "Make them in the USA, no Tariffs!"
+Mr. Trump has placed tariffs on $250 billion worth of Chinese goods, including semiconductors, televisions and ball bearings. 
+While the president insists the tariffs are being paid by China, American companies — which import both finished products and materials from China — are facing increased costs as a result of the trade war.
+To help cushion the blow, the administration established a process that allows companies to apply for an exemption from the tariffs. 
+Companies must demonstrate that the import cannot be obtained domestically. 
+Some of those requests have been approved and administration officials have insisted the process is apolitical.
+Apple products, which are largely assembled in China, have so far mostly evaded tariffs. 
+Last year, the Trump administration told Apple's chief, Tim Cook, that it would not place tariffs on iPhones, according to a person familiar with the talks who spoke on the condition of anonymity for fear of upsetting negotiations. 
+It is unclear if the president's thinking has changed.
+Last week, Apple filed 15 requests with the United States trade representative to exclude certain products it imports from China from the tariffs. 
+The requests covered a variety of imported components, like power cables and circuit boards, used in the Mac Pro desktop, a high-end computer that sells for around $6,000. 
+In the requests, the company asserts it cannot acquire the products in the United States or other countries outside China.
+"There are no other sources for this proprietary Apple-designed component," the company wrote.
+But Mr. Trump has shown little sympathy for American companies that insist they must manufacture or obtain their products abroad. 
+He has blasted companies like Harley-Davidson that have shifted some production outside the United States and suggested that he will use tariffs on trading partners to force more manufacturing back to the United States. 
+Last year, Mr. Trump placed tariffs on imports of steel and aluminum from Japan, Canada, Mexico and the European Union, saying that would lead to a resurgence of American metal manufacturing.
+On Friday, Mr. Trump threatened to punish France with tariffs, including taxing French wine, as retaliation for a new digital tax that President Emmanuel Macron of France signed into law on Thursday. 
+That provision falls heavily on American technology firms like Facebook, Google and Amazon.
+"France just put a digital tax on our great American technology companies," the president wrote on Twitter. 
+"If anybody taxes them, it should be their home Country, the USA."
+"We will announce a substantial reciprocal action on Macron's foolishness shortly," the president added. 
+"I've always said American wine is better than French wine!"
+Speaking at the White House later, Mr. Trump expanded on that threat, calling France's tax "wrong" and saying his administration was working on a possible wine tax.
+"I've always liked American wines better than French wines. 
+Even though I don't drink wine. 
+I just like the way they look," he told reporters.
+The Trump administration announced this month that it had started an investigation into whether the French measure, which places a 3 percent tax on the revenue some companies earn from providing digital services to French users, amounts to an unfair trade practice.
+If the administration determines that the tax is an unfair trade practice, it would have the go-ahead under American trade rules to slap retaliatory tariffs on France, though France could always challenge such a step at the World Trade Organization.
+In a statement on Friday, a White House spokesman said that the United States was "extremely disappointed" by France's decision to adopt the tax.
+"The Trump administration has consistently stated that it will not sit idly by and tolerate discrimination against U.S.-based firms," Judd Deere, a White House spokesman, said in a statement.
+If the president taxes French wine, he may face accusations of a conflict of interest. 
+The president's son Eric Trump oversees the Trump Winery outside Charlottesville, Va., and business entities associated with the winery were included in Mr. Trump's 2015 financial disclosure form.
+Mr. Trump's declaration that Apple's exemption request would be denied also runs afoul of the United States trade representative's posted rules for exclusions from the Section 301 tariffs on Chinese imports.
+Guidelines published by the agency say the trade representative "will evaluate each request on a case-by-case basis, taking into account the asserted rationale for the exclusion, whether the exclusion would undermine the objective of the Section 301 investigation and whether the request defines the product with sufficient precision." They allow 14 days after a request is posted online for anyone to submit comments in support or opposition of the request, and then give the original requester another seven days to respond.
+Apple's requests were posted last Thursday.
+Agency officials did not immediately respond to a request for comment on Friday.
+Apple declined to comment. 
+In the past, the company has called itself "an engine of economic growth in the United States." Last year, it spent $60 billion with 9,000 American suppliers, helping support 450,000 jobs.
+In the 1980s, Steve Jobs, the Apple co-founder, wanted to make Apple computers in the United States. 
+He was fascinated with manufacturing trailblazers like Ford and Sony, and wanted to pave new ground for American manufacturing with a California factory that churned out the new Macintosh computer. 
+Apple built the state-of-the-art plant in 1983.
+"It wasn't great for business," said Randy Battat, a former Apple engineer. 
+The factory closed in 1992, in part because sales of the Mac computer never met the company's expectations.
+Apple later discovered that outsourcing its manufacturers would be far cheaper and faster and provide it with more flexibility when sales fluctuated. 
+Mr. Cook, Mr. Jobs's deputy, helped build the company's sophisticated global supply chain, which sources parts from around the world, including the United States, mostly for final assembly in China. 
+The innovation was one of the keys to Apple's enormous growth, and it helped elevate Mr. Cook to succeed Mr. Jobs as the company's chief executive.
+But Apple's dependence on China has, at times, caused problems. 
+It has drawn scrutiny of Apple's use of low-wage labor and elicited criticism from some customers and politicians.
+So in 2012, Mr. Cook announced on prime-time television that Apple would make a Mac computer in the United States — the first Apple product in years to be manufactured by American workers. 
+The $3,000 Mac Pro would come with an unusual inscription: "Assembled in U.S.A."
+But manufacturing the Mac Pro near Austin, Tex., quickly turned out to be a headache. 
+Former employees who worked on the project said the plant was understaffed and materials were regularly out of place. 
+Most important, the team struggled to get the parts they needed on time, such as tiny screws. 
+While China has a huge manufacturing infrastructure that can produce enormous quantities of parts overnight, the Mac Pro team was relying on a 20-employee machine shop in Lockhart, Tex., that could produce at most 1,000 screws a day. 
+The computer was delayed and the screws eventually came from China.
+Last month, news broke that Apple would manufacture its new Mac Pro in China.
+The president has long pushed Apple to make more of its products domestically. 
+He and Mr. Cook met at the White House in March, in a meeting in which Mr. Trump famously called Mr. Cook "Tim Apple" as television cameras rolled.
+Jim Tankersley and Ana Swanson reported from Washington, and Jack Nicas from San Francisco.

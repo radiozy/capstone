@@ -1,0 +1,25 @@
+﻿
+In indictments against five Chinese nationals, the Justice Department described sophisticated attacks to hijack networks and extort universities, businesses and nonprofits.
+WASHINGTON — The Justice Department said on Wednesday that a group of hackers associated with China's main intelligence service had infiltrated more than 100 companies and organizations around the world to steal intelligence, hijack their networks and extort their victims.
+The United States government presented the allegations in a set of three indictments unsealed on Wednesday that showed the scope and sophistication of China's attempts to unlawfully advance its economy and to become the dominant global superpower through cyberattacks. 
+The indictments also said some of the hackers had worked with Malaysian nationals to steal and launder money through the video game industry.
+"The Chinese government has made a deliberate choice to allow its citizens to commit computer intrusions and attacks around the world because these actors will also help the P.R.C.," Deputy Attorney General Jeffrey A. Rosen said, referring to the People's Republic of China in a news conference where he announced the charges.
+The acting U.S. attorney for the District of Columbia, Michael R. Sherwin, said some of the perpetrators viewed their association with China as providing "free license to hack and steal across the globe."
+The hackers, Zhang Haoran, Tan Dailin, Jiang Lizhi, Qian Chuan and Fu Qiang, targeted social media and other technology companies, universities, government agencies and nonprofits, according to the indictments.
+They had such reach partly because they used a so-called supply chain attack that enabled them to break into software companies and embed malicious code in their products. 
+Once those products were installed in other systems, the hackers could use the code that they had planted to break in. 
+The attack described by Justice Department officials on Wednesday was among the first supply chain attacks publicly revealed in a U.S. indictment of Chinese nationals.
+Some of the Chinese hackers also worked with two Malaysian businessmen to use video game platforms to steal from the companies and launder illegal proceeds. 
+The businessmen, Wong Ong Hua and Ling Yang Ching, were arrested on Monday in Malaysia, officials said.
+The criminal computer activity and the hackers had been tracked by cyberresearchers under the group names Advanced Persistent Threat 41, Barium, Winnti, Wicked Panda and Panda Spider, officials said.
+"They compromised video game distributors to proliferate malware, which could then be used for follow-up operations," said John Hultquist, the senior director of threat intelligence at the cybersecurity company Mandiant.
+The group known initially as Wicked Spider to researchers at CrowdStrike, the California cybersecurity firm, seemed to be hacking for profit. 
+But starting in late 2015, there was a notable shift.
+The group, which had been predominantly targeting gaming companies, shifted to a long list of companies in the United States, Germany, Hong Kong, Japan, South Korea and Taiwan that operated in agriculture, hospitality, chemicals, manufacturing and technology whose intellectual property would assist China's official Five-Year Plan, the nation's top-level policy blueprint.
+Their techniques changed as well. 
+In the past, the group was known to use similar malware across attacks, but that year its hackers started pursuing a more sophisticated set of supply chain attacks.
+By late 2016, researchers concluded that the hackers they had known as Wicked Spider were operating at the behest of the Chinese state and changed their moniker to Wicked Panda. 
+Panda was CrowdStrike's moniker for hacking groups that acted on orders from the Chinese government.
+As the indictments were announced on Wednesday, researchers applauded the effort. 
+"The United States government is starting to turn the tide on Chinese intrusion operations on Western companies and targets," said Adam Meyers, CrowdStrike's head of threat intelligence.
+Verizon, Microsoft, Facebook and Alphabet, the parent company of Google, helped the government in its investigation.

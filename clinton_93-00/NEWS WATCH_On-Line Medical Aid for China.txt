@@ -1,0 +1,14 @@
+﻿
+Timed to coincide with President Clinton's visit to China this week, American and Chinese doctors plan to perform a live consultation over the Internet tonight to discuss two severely ill children in China. 
+It will be the first real-time medical consultation between China and the United States over the Internet.
+The event is less a practical medical move than a show of diplomacy. 
+Members of the Clinton Cabinet are expected to be on hand with doctors at the Medical University in Xian, a city in central China, as they consult pediatricians at the Lucile Packard Children's Hospital at Stanford University about a 12-year-old girl with inflammation of the heart and a newborn with brain damage.
+The consultation will take place using standard Internet tools for audio and video, as well as a "white board" feature that enables participants to share text, images and sketches. 
+"When there's direct interplay, you get more from it," said Dr. David Teitel, chief of pediatric cardiology at the University of California at San Francisco, who will be participating. 
+"They can respond, and you can respond more quickly."
+There have been other experiments with telemedicine in China, relying mainly on E-mail among doctors. 
+Several hospitals in China, including Peking Union Medical College Hospital, have acquired sophisticated video-based teleconferencing systems, but such systems are not available for the rest of China's population.
+"Everyone in the world has satellite links to Beijing, which is not a very real test of medicine to China," said John Reuling, director of information technologies at Stanford University's School of Medicine. 
+Mr. Reuling said the group had chosen to use widely available Internet tools rather than state-of-the-art video-conferencing systems because they wanted to focus on what was actually available to doctors in Chinese cities outside the capital.
+High-performance computers provided by Sun Microsystems will be left in Xian so further exchanges between doctors from both countries can take place. 
+The consultation was organized by Bridge to Asia, a nonprofit group.

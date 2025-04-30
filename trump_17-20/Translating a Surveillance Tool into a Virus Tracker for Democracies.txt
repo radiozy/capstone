@@ -1,0 +1,58 @@
+﻿
+Health officials in Britain are building an app that would alert the people who have come in contact with someone known to have the coronavirus. 
+The project aims to adapt China's tracking efforts for countries wary of government surveillance.
+Health officials and scientists in Britain hope to soon begin testing the first smartphone app that would alert people who had come in contact with someone infected with the coronavirus.
+The project is an urgent effort by the British authorities to translate a surveillance tool deployed to fight China's outbreak into something more palatable in Western democracies. 
+The app is being developed for use in Britain, but could be adapted for other countries, particularly those with similarly centralized health systems, officials said.
+Unlike the smartphone-tracking system used by the Chinese government, the British project would rely entirely on voluntary participation and would bank on people sharing information out of a sense of civic duty. 
+Such cooperation might have been unthinkable only a few weeks ago, but is expected to gain traction amid mounting deaths and economic disaster.
+The effort would involve an official app associated with the country's National Health System, said researchers at the University of Oxford who are working on it with the government. 
+People would sign up for the program and would agree to share their location data for the duration of the pandemic, or as long as they kept the app. 
+The researchers said the government could make assurances about deleting the data and would not make the movements of infected individuals fully public, as has been done in South Korea.
+The proposal represents the latest attempt by governments to harness the power of technology to fight the coronavirus, while avoiding concerns about enabling long-term government surveillance.
+As China grappled last month with the ravages of the coronavirus, it relied in part on a smartphone-tracking system to quarantine people who might have been near those who tested positive. 
+That system drew criticism for sending data to Chinese law enforcement and because it was not clear to the public how the algorithm worked.
+"In Europe and the U.S. we're not going to do this in a way that has been done in China," said Michael Parker, a bioethics professor at the University of Oxford who is working on the project. 
+"But there are ways of using these techniques. 
+Just because we live in a democracy doesn't mean we don't care about other people and we're not going to act responsibly."
+In the United States, discussions between technology companies and the White House have focused on using large amounts of anonymous, aggregated location data to conduct general public health surveillance, perhaps anticipating where more serious outbreaks are likely to occur. 
+But in Britain, where there is a centralized, trusted national health system and where data privacy protections are more robust, officials believe people would agree to assist with a technique known as contact tracing, which has been critical in combating past epidemics.
+Contact tracing has traditionally been done manually, by asking patients to recall their movements and tracking down people they may have infected. 
+But the coronavirus presents a different situation, said Christophe Fraser, an expert in infectious disease dynamics and control at Oxford's Big Data Institute who worked on the responses to earlier epidemics, including SARS. 
+"This virus goes a bit faster, and in particular it is transmitted before symptoms start," so it is difficult for typical interventions to "get ahead of the curve," said Professor Fraser, who is also working on the British project.
+The Oxford researchers modeled the use of phone tracking and alerts to affect the spread of the coronavirus and found that such a system could be helpful even if it was not universally adopted and the location data was not always precise. 
+A majority of people in an area would need to be using it, but not everyone. 
+In effect, it could instantaneously replicate a week's worth of contact tracing, the researchers said.
+The system could glean detailed location data from a variety of sources — including Bluetooth beacons, nearby Wi-Fi networks, GPS and cell towers. 
+If someone had a positive test result and had agreed to use the app, the result would be added to the system by the N.H.S. 
+Anyone within a certain radius in recent days might receive an alert, although many aspects of the app, including the exact method of notification, are still being worked out.
+It is unclear whether the app would work without the other surveillance and control measures used in China and Singapore, or whether the location technology is sufficiently accurate. 
+Although the Chinese app gathered location data, it is not known how it was used; China also keeps a national database of flights, trains and hotel stays, and it required people to have bar codes on their apps scanned at health checkpoints. 
+The country also looked into using location data from cell towers but found it was too imprecise to help with contact tracing. 
+Data from known checkpoints, Bluetooth and Wi-Fi is much more precise.
+Plans for the British app are moving "as rapidly as possible," said Matthew Gould, the chief executive of NHSX, a government unit that handles technology policy for the National Health System. 
+There is no official timeline for the pilot program or an eventual rollout.
+Scientists caution that an app cannot replace social distancing measures already underway around the world. 
+Instead, it may allow some people to come out of isolation after a first wave of the coronavirus subsides.
+The app would be different from potential tools being discussed in the United States, where technology companies have been speaking with the White House about using location data for public health surveillance, perhaps anticipating where serious outbreaks might occur. 
+The discussions were first reported by The Washington Post.
+Separately, at Facebook, scientists are analyzing location data about compliance with social distancing recommendations in various countries, according to a person familiar with the analysis. 
+The information comes from Facebook's private vault of location data collected by the company's apps, the person said.
+The analysis shows, for example, that visits to restaurants over the past month fell 80 percent in Italy and more than 70 percent in Spain. 
+The decrease in the United States over the same period was 31 percent. 
+One of the data scientists noted in an analysis dated March 15 that the United States, France and Britain had seen only "very modest" changes in habits, while Spain had embraced far more social distancing.
+Google, which gathers detailed location data from millions of Americans who use Android phones and some Google apps, is evaluating how it could use anonymous, aggregated information to help public health experts understand more about population trends related to the pandemic, a spokesman said.
+In such an effort, the same type of Google tool that shows you whether a business is crowded at a particular time could also show epidemiologists whether people were following rules about social distancing.
+Apple uses anonymous location data for things like traffic warnings on its maps, but its system wouldn't allow individual data, including whether someone had tested positive, to be associated with that. 
+A spokesman said that Apple had participated in the meetings with the White House, but that the company was focused on telehealth and e-learning projects.
+The British researchers said they had spoken with major technology companies about their app, but Apple and Google declined to comment on the effort.
+Many tech companies in the United States are wary of sharing large amounts of data with the government, in part because they are still smarting from revelations by Edward Snowden that the N.S.A. was gathering other types of information from them without their knowledge.
+Privacy and civil liberties experts expressed caution about an extension of surveillance that could eventually be exploited by governments for other purposes — an issue the developers behind the British app say they also wanted to avoid.
+"One of the things we have learned over time is that something that seems anonymous, more often than not, is not anonymous, even if it's designed with the best intentions," said Matt Blaze, a professor at Georgetown Law who specializes in computer science and privacy. 
+It is technologically difficult to ensure that data has been fully deleted from all computers that have been able to access it, he added.
+"It's not to say you should never collect or use data — only that you should be very humble about what assurances you offer about the privacy," he said.
+The British scientists acknowledged that their app, still in a feasibility assessment phase, might not work as hoped.
+"I don't want to give the irresponsible sense that this is a magic solution," Professor Fraser said. 
+"We are going to try, but we can't guarantee success."
+Gabriel J.X. 
+Dance and Paul Mozur contributed reporting.
