@@ -51,19 +51,7 @@ nltk.download('punkt_tab')
 
 - **Input Data**: Place `.txt` files of NYT articles in subfolders under the `BASE_DIR` directory, named according to the `ERAS` dictionary (e.g., `reagan_81-88`, `clinton_93-00`).
 
-- **Directory Structure**:
-  
-  BASE_DIR/
-  ├── reagan_81-88/
-  │   ├── article1.txt
-  │   ├── article2.txt
-  │   └── ...
-  ├── hwbush_89-92/
-  │   ├── article1.txt
-  │   └── ...
-  └── ...
-
-- Update `BASE_DIR` and `OUTPUT_DIR` in both scripts to match your local file paths.
+- Update `BASE_DIR` and `OUTPUT_DIR` in both scripts to match your file paths.
 
 ## Running the Analysis
 
